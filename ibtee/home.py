@@ -10,7 +10,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from ibtee import nav, store
+from ibtee import nav, store, users
 from ibtee import theme as T
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -34,7 +34,7 @@ def activity() -> list[dict]:
     """Both subjects' attempts in one shape: {subject, day, time, ts, label, score, total, correct}."""
     from maths import progress
     out = []
-    for a in _jsonl(CHEM_ATTEMPTS):
+    for a in _jsonl(users.scoped(CHEM_ATTEMPTS)):
         out.append({"subject": "chem_hl", "day": a.get("day", ""), "time": a.get("time", ""), "label": a.get("ref") or a.get("card_id") or "",
                     "detail": a.get("question_type", ""), "score": int(bool(a.get("correct"))), "total": 1, "id": a.get("ref") or ""})
     for r in progress.load():

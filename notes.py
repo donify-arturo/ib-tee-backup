@@ -14,11 +14,13 @@ import uuid
 from pathlib import Path
 
 from card_ui import remember_points
+from ibtee import users
 
 NOTES_FILE = Path(__file__).resolve().parent / "data" / "notes.json"
 
 
 def load(path: Path = NOTES_FILE) -> dict:
+    path = users.scoped(path)
     if not path.exists():
         return {"items": {}}
     return json.loads(path.read_text(encoding="utf-8"))
@@ -26,9 +28,12 @@ def load(path: Path = NOTES_FILE) -> dict:
 
 def save(data: dict, path: Path = NOTES_FILE) -> None:
     """Write to a temporary file first, so a crash mid-write can't damage existing notes."""
+    path = users.scoped(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def from_card(card: dict, sub_topic: str) -> dict | None:

@@ -18,6 +18,8 @@ import time
 from datetime import date, timedelta
 from pathlib import Path
 
+from ibtee import users
+
 DATA = Path(__file__).resolve().parent / "data"
 ATTEMPTS = DATA / "attempts.jsonl"
 PLAN = DATA / "study_plan.json"
@@ -50,6 +52,7 @@ _REAL_HELP = "3_novel_application"    # Disguise says what the question really i
 # the log
 # --------------------------------------------------------------------------- #
 def load_attempts(path: Path = ATTEMPTS) -> list[dict]:
+    path = users.scoped(path)
     if not path.exists():
         return []
     rows = []
@@ -63,6 +66,7 @@ def load_attempts(path: Path = ATTEMPTS) -> list[dict]:
 
 def log_attempt(value: dict, item: dict, path: Path = ATTEMPTS, now: float | None = None) -> bool:
     """Save a first attempt. The card repeats its value on every rerun, so a value already logged is ignored."""
+    path = users.scoped(path)
     if not value or not value.get("id") or any(a.get("id") == value["id"] for a in load_attempts(path)):
         return False
     stamp = time.localtime(now if now is not None else time.time())
@@ -70,20 +74,25 @@ def log_attempt(value: dict, item: dict, path: Path = ATTEMPTS, now: float | Non
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a", encoding="utf-8") as f:
         f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    users.saved(path)
     return True
 
 
 def load_plan(path: Path = PLAN) -> dict:
     plan = {"exam": None, "topics": ["R1.1", "R1.2"], "size": 10, "hidden": []}
+    path = users.scoped(path)
     if path.exists():
         plan.update(json.loads(path.read_text(encoding="utf-8")))
     return plan
 
 
 def save_plan(plan: dict, path: Path = PLAN) -> None:
+    path = users.scoped(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(plan, indent=2, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 # --------------------------------------------------------------------------- #

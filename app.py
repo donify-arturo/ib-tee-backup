@@ -14,7 +14,7 @@ from __future__ import annotations
 
 import streamlit as st
 
-from ibtee import home, nav, store
+from ibtee import home, login, nav, onboarding, store, users
 from ibtee import theme as T
 
 st.set_page_config(page_title="IB TEE", page_icon=":material/school:", layout="wide", initial_sidebar_state="expanded")
@@ -49,7 +49,7 @@ def resolve_route() -> dict:
     return r
 
 
-def sidebar(r: dict, prof: dict) -> None:
+def sidebar(r: dict, prof: dict, user: dict) -> None:
     from maths import ui_pages as M
     s, p = r.get("s"), r.get("p")
     with st.sidebar:
@@ -69,7 +69,10 @@ def sidebar(r: dict, prof: dict) -> None:
                     nav.link(label, key=f"nav_m_{key}", icon=icon, width="stretch", kind="primary" if active == key else "secondary", s=s, **target)
         elif s == "chem_hl":
             st.markdown(f'<div class="navhead"><span class="dot" style="--c:{T.SUBJECT_COLOURS[s]}"></span>Chemistry HL</div>', unsafe_allow_html=True)
+            import chem_app
             for key, label, icon in CHEM_NAV:
+                if key in chem_app.OWNER_PAGES and not users.is_owner():
+                    continue
                 if key in CHEM_GROUPS:
                     st.markdown(f'<div class="navsub">{CHEM_GROUPS[key]}</div>', unsafe_allow_html=True)
                 if st.button(label, key=f"nav_c_{key}", icon=icon, width="stretch", type="primary" if p == key else "secondary"):
@@ -92,10 +95,20 @@ def sidebar(r: dict, prof: dict) -> None:
             components.html("<script>window.parent.location.reload()</script>", height=0)
         initial = (prof["name"] or "?")[0].upper()
         st.markdown(f'<div class="userbox" style="margin-top:1rem"><div class="avatar">{initial}</div><div>{T.esc(prof["name"])}'
-                    f'<small>{T.esc(prof.get("email") or "Personal workspace")}</small></div></div>', unsafe_allow_html=True)
+                    f'<small>@{T.esc(user["username"])}</small></div></div>', unsafe_allow_html=True)
+        if st.button("Sign out", key="nav_sign_out", icon=":material/logout:", width="stretch", type="tertiary"):
+            login.sign_out()
 
 
 def main() -> None:
+    user = login.gate()                                                     # nothing below runs without an account
+    if not user["onboarded"]:
+        T.apply(store.profile().get("theme", "light"))
+        with st.sidebar:
+            if st.button("Sign out", key="ob_sign_out", icon=":material/logout:", width="stretch"):
+                login.sign_out()
+        onboarding.wizard(user)
+        return
     prof = store.profile()
     try:
         st._config.set_option("theme.base", prof.get("theme", "light"))     # Streamlit's own widgets follow the chosen theme
@@ -103,7 +116,7 @@ def main() -> None:
         pass
     T.apply(prof.get("theme", "light"))
     r = resolve_route()
-    sidebar(r, prof)
+    sidebar(r, prof, user)
     s, p = r.get("s"), r.get("p")
     if s == "maths_ai_hl":
         from maths import ui_pages

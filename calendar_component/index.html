@@ -101,7 +101,7 @@ function index() {
     (byDay[s.date] = byDay[s.date] || []).push(s);
   }
 }
-const cards = t => (byDay[t] || []).filter(s => SHOWN.includes(s.kind)).sort((a, b) => (a.minor - b.minor) || a.start.localeCompare(b.start));
+const cards = t => (byDay[t] || []).filter(s => SHOWN.includes(s.kind) || s.deadline).sort((a, b) => (a.minor - b.minor) || a.start.localeCompare(b.start));
 
 function badge(items) {
   const study = items.filter(s => s.kind !== 'busy');
@@ -123,7 +123,7 @@ function monthGrid() {
     const hidden = (byDay[t] || []).filter(s => s.kind !== 'break').length - Math.min(items.length, 3);
     let inner;
     if (D.compact) inner = '<div class="dots">' + items.map(s => '<i style="--k:' + s.colour + '"></i>').join('') + '</div>';
-    else inner = items.slice(0, 3).map(s => '<span class="ev' + (s.done ? ' done' : '') + '" style="--k:' + s.colour + '" title="' + esc(s.start + ' ' + s.title) + '">' + esc(s.start + ' ' + s.short) + '</span>').join('')
+    else inner = items.slice(0, 3).map(s => '<span class="ev' + (s.done ? ' done' : '') + '" style="--k:' + s.colour + '" title="' + esc((s.deadline ? '' : s.start + ' ') + s.title) + '">' + esc((s.deadline ? '' : s.start + ' ') + s.short) + '</span>').join('')
       + (hidden > 0 ? '<span class="more">+' + hidden + ' more</span>' : '');
     h += '<div class="' + cls(t, 'day') + '" data-day="' + t + '"><div class="top"><span class="num">' + d + '</span>' + badge(items) + '</div>' + inner + '</div>';
   }

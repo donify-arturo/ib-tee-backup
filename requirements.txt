@@ -1,7 +1,9 @@
-streamlit>=1.50        # the app (st.button shortcuts, st.pills, horizontal containers)
+streamlit>=1.66        # the app (st.button shortcuts, st.pills, horizontal containers, st.iframe for the sign-in cookie)
 anthropic>=0.70        # API backend + Claude classifier (optional on Pro: use --backend claude-cli)
 pdfplumber>=0.11       # PDF text: Chemistry pipeline and the Maths build steps (ingest/maths_*.py)
 pypdfium2>=4.30        # renders PDF pages: Maths questions, markschemes and calculator steps are shown as crops
+Authlib>=1.3.2         # "Continue with Google" (st.login)
+google-cloud-firestore>=2.16   # keeps students' work on the hosted app (ibtee/cloud.py)
 pandas>=2.2            # Maths analytics
 tzdata                 # Atlantic/Canary time zone for the revision calendar on Windows
 llama-cloud>=2.0       # only needed for LlamaParse parsing (optional)

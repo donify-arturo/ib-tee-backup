@@ -13,7 +13,7 @@ from datetime import date, datetime, timedelta
 import streamlit as st
 import streamlit.components.v1 as components
 
-from ibtee import nav, store
+from ibtee import nav, store, users
 from ibtee import theme as T
 from maths import data, exams, progress, schedule
 from maths import render as pdf
@@ -112,7 +112,8 @@ def rows() -> list[dict]:
 
 
 def _attempts_mtime() -> float:
-    return progress.ATTEMPTS.stat().st_mtime if progress.ATTEMPTS.exists() else 0.0
+    path = users.scoped(progress.ATTEMPTS)
+    return path.stat().st_mtime if path.exists() else 0.0
 
 
 def levels() -> dict[str, dict]:

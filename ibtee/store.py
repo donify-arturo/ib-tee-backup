@@ -11,6 +11,8 @@ import os
 import time
 from pathlib import Path
 
+from ibtee import users
+
 ROOT = Path(__file__).resolve().parents[1]
 PROFILE = ROOT / "data" / "profile.json"
 BOOKMARKS = ROOT / "data" / "bookmarks.json"
@@ -41,21 +43,22 @@ def _write(path: Path, value) -> None:
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(value, indent=1, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def profile(path: Path = PROFILE) -> dict:
     p = {"name": os.environ.get("USERNAME", "Student").title(), "email": "", "my_subjects": ["chem_hl", "maths_ai_hl"], "theme": "light"}
-    p.update(_read(path, {}))
+    p.update(_read(users.scoped(path), {}))
     p["my_subjects"] = [s for s in p["my_subjects"] if s in SUBJECTS]
     return p
 
 
 def save_profile(p: dict, path: Path = PROFILE) -> None:
-    _write(path, p)
+    _write(users.scoped(path), p)
 
 
 def bookmarks(path: Path = BOOKMARKS) -> list[dict]:
-    return _read(path, {"items": []})["items"]
+    return _read(users.scoped(path), {"items": []})["items"]
 
 
 def is_bookmarked(subject: str, item_id: str, path: Path = BOOKMARKS) -> bool:
@@ -64,6 +67,7 @@ def is_bookmarked(subject: str, item_id: str, path: Path = BOOKMARKS) -> bool:
 
 def toggle_bookmark(subject: str, item_id: str, label: str, detail: str = "", path: Path = BOOKMARKS) -> bool:
     """Add or remove; returns True when the item is now saved."""
+    path = users.scoped(path)
     items = bookmarks(path)
     if any(b["subject"] == subject and b["id"] == item_id for b in items):
         items = [b for b in items if not (b["subject"] == subject and b["id"] == item_id)]

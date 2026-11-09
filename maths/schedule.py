@@ -17,6 +17,7 @@ import uuid
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
+from ibtee import users
 from maths import data
 
 DIR = data.DIR
@@ -72,7 +73,7 @@ def round_up(dt: datetime, step: int = 15) -> datetime:
 
 
 def load(path: Path | None = None) -> dict:
-    path = path or CAL
+    path = users.scoped(path or CAL)
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except (FileNotFoundError, ValueError):
@@ -80,12 +81,13 @@ def load(path: Path | None = None) -> dict:
 
 
 def save(cal: dict, path: Path | None = None) -> None:
-    path = path or CAL
+    path = users.scoped(path or CAL)
     path.parent.mkdir(parents=True, exist_ok=True)
     cal["sessions"].sort(key=lambda s: (s["date"], s["start"]))
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(cal, indent=1, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def resources(codes: list[str], kind: str, n_questions: int = 4) -> tuple[list[str], list[str]]:
@@ -165,6 +167,10 @@ def ensure(now: datetime | None = None, path: Path | None = None) -> dict:
     if cal.get("sessions") is not None:
         return cal
     now = now or now_local()
+    if users.guest_id():                     # the first programme below is the owner's own weekend
+        cal = {"tz": TZ, "created": now.strftime("%Y-%m-%d %H:%M"), "programme": "", "sessions": []}
+        save(cal, path)
+        return cal
     blocks = []
     for day in sorted({b[0] for b in FIRST_PROGRAMME}):
         mine = [b for b in FIRST_PROGRAMME if b[0] == day]

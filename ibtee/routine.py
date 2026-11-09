@@ -18,6 +18,8 @@ import os
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
+from ibtee import users
+
 ROOT = Path(__file__).resolve().parents[1]
 ROUTINE = ROOT / "data" / "routine.json"
 PROGRAMME = "Weekly routine"
@@ -28,6 +30,9 @@ SUBJECTS = {
     "maths": ("Maths", "#5B6CF0"), "chemistry": ("Chemistry", "#E4572E"), "biology": ("Biology", "#2FA35F"),
     "english": ("English", "#C9A227"), "psychology": ("Psychology", "#9B59D0"), "spanish": ("Spanish (Lengua)", "#E0709B"),
     "ia": ("IA", "#0E9384"), "global_issue": ("Global Issue", "#3A8DB8"), "choir": ("Choir", "#7C6FB0"),
+    "physics": ("Physics", "#2563EB"), "history": ("History", "#A16207"), "economics": ("Economics", "#15803D"), "geography": ("Geography", "#0F766E"),
+    "business": ("Business", "#B45309"), "computer_science": ("Computer Science", "#4F46E5"), "french": ("French", "#DB2777"), "art": ("Visual Arts", "#C026D3"),
+    "tok": ("TOK", "#475569"), "ee": ("Extended Essay", "#0369A1"),
     "general": ("General", "#64748B"), "life": ("Life", "#94A3B8"), "school": ("School", "#CBD5E1"),
 }
 KINDS = ["study", "review", "mixed", "exam", "busy", "school", "routine", "break", "task"]
@@ -99,19 +104,20 @@ DEFAULT = {
 
 
 def load(path: Path | None = None) -> dict:
-    path = path or ROUTINE
+    path = users.scoped(path or ROUTINE)
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except (FileNotFoundError, ValueError):
-        return copy.deepcopy(DEFAULT)
+        return {"days": {}, "tasks": {}} if users.guest_id() else copy.deepcopy(DEFAULT)       # DEFAULT is the owner's own week
 
 
 def save(routine: dict, path: Path | None = None) -> None:
-    path = path or ROUTINE
+    path = users.scoped(path or ROUTINE)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(routine, indent=1, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def label(subject: str | None) -> str:

@@ -247,6 +247,7 @@ def test_page_loads(route, monkeypatch, tmp_path):
     monkeypatch.setattr(routine, "ROUTINE", tmp_path / "routine.json")
     monkeypatch.setattr(exams, "EXAMS", tmp_path / "exams.json")
     at = AppTest.from_file(str(ROOT / "app.py"), default_timeout=180)
+    at.session_state["auth_user"] = {"id": "owner", "username": "owner", "name": "Owner", "owner": True, "onboarded": True}
     for k, v in route.items():
         at.query_params[k] = v
     at.run()

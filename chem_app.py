@@ -27,7 +27,7 @@ import notes
 import reference
 import study_plan
 import web_tips
-from ibtee import store
+from ibtee import store, users
 from analysis import evidence
 import guide_ui
 from card_ui import card_data, remember_points, show_card, split_options, variant_data
@@ -148,13 +148,16 @@ def load_deck(code: str) -> dict | None:
 
 
 def load_progress() -> dict:
-    return load_json(PROGRESS, {})
+    return load_json(users.scoped(PROGRESS), {})
 
 
 def set_mastered(card_id: str, value: bool) -> None:
     prog = load_progress()
     prog[card_id] = {"mastered": value, "updated": time.strftime("%Y-%m-%d %H:%M")}
-    PROGRESS.write_text(json.dumps(prog, indent=2), encoding="utf-8")
+    path = users.scoped(PROGRESS)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(prog, indent=2), encoding="utf-8")
+    users.saved(path)
 
 
 @st.cache_data
@@ -174,7 +177,7 @@ def _statuses(stamp: tuple) -> dict:
 def statuses() -> dict:
     mtime = lambda p: p.stat().st_mtime if p.exists() else 0
     decks = max((mtime(p) for p in (DATA / "techniques").glob("*.json")), default=0)
-    return _statuses((mtime(study_plan.ATTEMPTS), mtime(study_plan.PLAN), decks, date.today().isoformat()))
+    return _statuses((users.guest_id(), mtime(users.scoped(study_plan.ATTEMPTS)), mtime(users.scoped(study_plan.PLAN)), decks, date.today().isoformat()))
 
 
 def card_status(card: dict) -> dict:
@@ -652,6 +655,9 @@ def grade_boundary_rows() -> list[dict]:
 
 def tips_page(syl, codes: list[str], titles: dict) -> None:
     breadcrumbs(SUBJECT, "Tips & my notes")
+    if not users.is_owner():                 # web research runs on the owner's plan, and accepted tips reach everyone's cards
+        notes_page(syl, codes, titles)
+        return
     mine, web = st.tabs(["My notes", "Web tips"])
     with mine:
         notes_page(syl, codes, titles)
@@ -847,6 +853,7 @@ def web_tips_page(codes: list[str]) -> None:
 
 PAGES = ["Progress", "Questionbank", "Study guide", "Tips & my notes", "Key definitions", "Data booklet", "Grade boundaries",
          "Missing markschemes", "Build decks"]
+OWNER_PAGES = {"Missing markschemes", "Build decks"}      # adding to the shared library, and spending the owner's Claude plan
 
 
 def render(page: str) -> None:
@@ -874,6 +881,8 @@ def render(page: str) -> None:
         boundaries_page()
     elif page == "Progress":
         overview(syl, macro, prog, gate)
+    elif page in OWNER_PAGES and not users.is_owner():
+        st.info("This page is only for the owner of this IB TEE.")
     elif page == "Missing markschemes":
         missing_page(syl, gate)
     else:

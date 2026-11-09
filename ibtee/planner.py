@@ -38,14 +38,18 @@ def page(view: str = "month", month_key: str | None = None, day: str | None = No
     T.crumbs("Calendar")
     T.header("Calendar", kicker="All subjects · your weekly routine + revision plan",
              sub=f"Times in Atlantic/Canary · now {now:%a %d %b, %H:%M}. Click a day to see its tasks; tick them off right there.")
-    current = "routine" if view == "routine" else "calendar"
-    labels = {"calendar": "Calendar", "routine": "Weekly routine"}
+    current = view if view in ("routine", "exams") else "calendar"
+    labels = {"calendar": "Calendar", "routine": "Weekly routine", "exams": "Exams & deadlines"}
     pick = st.segmented_control("View", list(labels), default=current, format_func=labels.get, key=f"vs_planner_{current}",
                                 label_visibility="collapsed")
     if pick and pick != current:
-        nav.go(p="calendar", v=pick if pick == "routine" else "month")
+        nav.go(p="calendar", v=pick if pick != "calendar" else "month")
     if current == "routine":
         routine_editor(cal, now)
+        return
+    if current == "exams":
+        from ibtee import onboarding
+        onboarding.exams_panel(cal, now)
         return
     first = day or (f"{month_key}-01" if month_key and month_key != now.strftime("%Y-%m") else now.date().isoformat())
     board_section("cal_board", view=view, day=first)
@@ -268,7 +272,8 @@ DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sun
 def routine_editor(cal: dict, now: datetime) -> None:
     schedule = _schedule()
     r = routine.load()
-    st.caption(f"From your plan ({routine.SOURCE.split('/')[-1]}). Change a day, then save: future routine sessions you haven't touched are "
+    source = r.get("source")
+    st.caption((f"From your plan ({source.split('/')[-1]}). " if source else "") + "Change a day, then save: future routine sessions you haven't touched are "
                "rebuilt from it. Sessions you edited, finished, or that carry moved Maths work stay as they are.")
     tabs = st.tabs(DAYS)
     new_days, new_tasks = {}, {}

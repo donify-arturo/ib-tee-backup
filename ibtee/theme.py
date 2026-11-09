@@ -91,9 +91,9 @@ section[data-testid="stSidebar"] [data-testid="stCheckbox"] p, section[data-test
 .stButton > button, .stDownloadButton > button, [data-testid="stPopover"] > div > button, .stFormSubmitButton > button {{
   border-radius:10px; border:1px solid var(--border); background:var(--surface); color:var(--ink); font-weight:500; box-shadow:none; }}
 .stButton > button:hover, .stFormSubmitButton > button:hover {{ border-color:var(--accent); color:var(--accent); background:var(--surface); }}
-.stButton > button[kind="primary"], .stFormSubmitButton > button[kind="primary"] {{ background:var(--btn); color:var(--btn-ink); border-color:var(--btn); }}
-.stButton > button[kind="primary"] p, .stFormSubmitButton > button[kind="primary"] p {{ color:var(--btn-ink) !important; }}
-.stButton > button[kind="primary"]:hover, .stFormSubmitButton > button[kind="primary"]:hover {{ background:var(--accent); border-color:var(--accent); }}
+.stButton > button[kind="primary"], .stFormSubmitButton > button[kind="primaryFormSubmit"] {{ background:var(--btn); color:var(--btn-ink); border-color:var(--btn); }}
+.stButton > button[kind="primary"] p, .stFormSubmitButton > button[kind="primaryFormSubmit"] p {{ color:var(--btn-ink) !important; }}
+.stButton > button[kind="primary"]:hover, .stFormSubmitButton > button[kind="primaryFormSubmit"]:hover {{ background:var(--accent); border-color:var(--accent); }}
 .stButton > button[kind="primary"]:hover p {{ color:var(--accent-ink) !important; }}
 .stButton > button[kind="tertiary"] {{ color:var(--muted); }}
 .stButton > button[kind="tertiary"]:hover {{ color:var(--accent); border:0; }}

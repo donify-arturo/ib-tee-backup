@@ -14,5 +14,9 @@ backups/
 
 # Private to this computer
 data/trusted_wifi.txt
+data/accounts.json
+.streamlit/secrets.toml
+.streamlit/secrets-for-streamlit-cloud.toml
+data/users/
 .env
 .env.*

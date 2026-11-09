@@ -37,7 +37,7 @@ def payload(cal: dict, now: datetime, mode: str = "light", view: str = "month", 
         rows.append({"id": s["id"], "date": s["date"], "start": s["start"], "minutes": int(s["minutes"]), "kind": s["kind"], "title": s["title"],
                      "short": short(s["title"]), "detail": s.get("note") or s.get("objective") or "", "done": bool(s.get("done")),
                      "colour": dot_colour(s), "label": routine.label(subject), "status": schedule.status(s, now) if study else "",
-                     "minor": int(s["kind"] == "review" or not s.get("rotation", True)),
+                     "minor": int(s["kind"] == "review" or not s.get("rotation", True)), "deadline": int(bool(s.get("deadline"))),
                      "can_open": study and subject in ("maths", "chemistry")})
     return {"sessions": rows, "palette": T.PALETTES[mode if mode in T.PALETTES else "light"], "today": now.date().isoformat(), "view": view,
             "day": day, "edit_day": edit_day, "compact": compact, "can_edit": can_edit}

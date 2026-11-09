@@ -19,6 +19,7 @@ import uuid
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
+from ibtee import users
 from maths import data
 
 DIR = data.DIR
@@ -37,6 +38,7 @@ CONFIDENT_RATE = 0.7
 
 # --------------------------------------------------------------------------- log
 def load(path: Path = ATTEMPTS) -> list[dict]:
+    path = users.scoped(path)
     if not path.exists():
         return []
     rows = []
@@ -52,9 +54,11 @@ def log(row: dict, path: Path = ATTEMPTS, now: float | None = None) -> dict:
     stamp = now if now is not None else time.time()
     lt = time.localtime(stamp)
     full = {"id": uuid.uuid4().hex[:12], "ts": round(stamp, 1), "day": time.strftime("%Y-%m-%d", lt), "time": time.strftime("%H:%M", lt), **row}
+    path = users.scoped(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a", encoding="utf-8") as f:
         f.write(json.dumps(full, ensure_ascii=False) + "\n")
+    users.saved(path)
     return full
 
 
@@ -72,16 +76,18 @@ def log_part(q: dict, part: dict, awarded: int, mode: str, answer: str = "", mis
 
 def load_notes(path: Path = NOTES) -> dict:
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        return json.loads(users.scoped(path).read_text(encoding="utf-8"))
     except (FileNotFoundError, ValueError):
         return {}
 
 
 def save_notes(notes: dict, path: Path = NOTES) -> None:
+    path = users.scoped(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(notes, indent=1, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def parts(rows: list[dict]) -> list[dict]:

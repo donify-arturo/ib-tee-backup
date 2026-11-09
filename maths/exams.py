@@ -16,6 +16,7 @@ import time
 import uuid
 from pathlib import Path
 
+from ibtee import users
 from maths import data, progress
 
 DIR = data.DIR
@@ -24,7 +25,7 @@ FORMATS = {"1": {"minutes": 120, "marks": 110}, "2": {"minutes": 120, "marks": 1
 
 
 def load(path: Path | None = None) -> dict:
-    path = path or EXAMS
+    path = users.scoped(path or EXAMS)
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except (FileNotFoundError, ValueError):
@@ -32,11 +33,12 @@ def load(path: Path | None = None) -> dict:
 
 
 def save(store: dict, path: Path | None = None) -> None:
-    path = path or EXAMS
+    path = users.scoped(path or EXAMS)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(store, indent=1, ensure_ascii=False), encoding="utf-8")
     os.replace(tmp, path)
+    users.saved(path)
 
 
 def build(paper: str, topics: list[int], rows: list[dict], seed: str | None = None, target: int | None = None) -> dict:

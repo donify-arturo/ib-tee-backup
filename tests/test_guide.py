@@ -36,6 +36,7 @@ def test_guide_check_flags_gaps():
 def test_study_guide_page_navigates_without_errors():
     from streamlit.testing.v1 import AppTest
     at = AppTest.from_file(str(Path(__file__).resolve().parents[1] / "app.py"), default_timeout=180)
+    at.session_state["auth_user"] = {"id": "owner", "username": "owner", "name": "Owner", "owner": True, "onboarded": True}
     at.session_state["page"] = "Study guide"
     at.session_state["sg_topic"] = "R1.1"
     at.run()
