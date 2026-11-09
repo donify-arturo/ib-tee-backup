@@ -85,19 +85,22 @@ def sidebar(r: dict, prof: dict, user: dict) -> None:
                 nav.link(store.SUBJECTS[sid]["name"], key=f"nav_my_{sid}", icon=":material/circle:", width="stretch", s=sid)
         if not prof["my_subjects"]:
             nav.link("+ Add your subjects", key="nav_add", kind="tertiary", p="subjects")
-        st.markdown('<div class="navhead">Appearance</div>', unsafe_allow_html=True)
-        dark = st.toggle("Dark mode", value=prof.get("theme") == "dark", key="theme_toggle")
+        st.markdown('<div class="navhead">Account</div>', unsafe_allow_html=True)
+        # a new key on each page, so the menu closes after taking the student somewhere
+        with st.popover(prof["name"] or "Profile", icon=":material/account_circle:", width="stretch", key=f"account_menu_{s}_{p}_{r.get('v')}"):
+            st.caption(f"Signed in as @{user['username']}")
+            nav.link("My profile", key="nav_profile", icon=":material/person:", width="stretch", p="profile")
+            nav.link("Exams & deadlines", key="nav_exams", icon=":material/event:", width="stretch", p="calendar", v="exams")
+            nav.link("Weekly routine", key="nav_routine", icon=":material/schedule:", width="stretch", p="calendar", v="routine")
+            dark = st.toggle("Dark mode", value=prof.get("theme") == "dark", key="theme_toggle")
+            if st.button("Sign out", key="nav_sign_out", icon=":material/logout:", width="stretch", type="tertiary"):
+                login.sign_out()
         if dark != (prof.get("theme") == "dark"):
             prof["theme"] = "dark" if dark else "light"
             store.save_profile(prof)
             # Streamlit sends its own theme only when a page loads, so reload once to switch the built-in widgets too
             import streamlit.components.v1 as components
             components.html("<script>window.parent.location.reload()</script>", height=0)
-        initial = (prof["name"] or "?")[0].upper()
-        st.markdown(f'<div class="userbox" style="margin-top:1rem"><div class="avatar">{initial}</div><div>{T.esc(prof["name"])}'
-                    f'<small>@{T.esc(user["username"])}</small></div></div>', unsafe_allow_html=True)
-        if st.button("Sign out", key="nav_sign_out", icon=":material/logout:", width="stretch", type="tertiary"):
-            login.sign_out()
 
 
 def main() -> None:
@@ -131,6 +134,9 @@ def main() -> None:
         home.subjects_page()
     elif p == "bookmarks":
         home.bookmarks_page()
+    elif p == "profile":
+        from ibtee import profile
+        profile.page(user)
     else:
         from maths.schedule import now_local
         home.home_page(now_local().date())

@@ -79,10 +79,10 @@ section[data-testid="stSidebar"] [data-testid="stCheckbox"] p, section[data-test
             margin:1.3rem 0 0.55rem 0.7rem; display:flex; align-items:center; gap:8px; line-height:1.8; padding:2px 0; }}
 .navsub {{ font-size:0.7rem; color:var(--side-muted); margin:0.7rem 0 0.1rem 0.75rem; letter-spacing:0.04em; opacity:0.8; }}
 .dot {{ display:inline-block; width:8px; height:8px; border-radius:50%; background:var(--c, var(--accent)); }}
-.userbox {{ display:flex; gap:10px; align-items:center; padding:10px 6px; border-top:1px solid var(--side-line); }}
-.avatar {{ width:34px; height:34px; border-radius:10px; background:var(--accent); color:#fff; display:flex; align-items:center;
-           justify-content:center; font-weight:600; font-family:'Space Grotesk', sans-serif; }}
-.userbox small {{ color:var(--side-muted); display:block; }}
+section[data-testid="stSidebar"] [data-testid="stPopover"] button {{ background:var(--side2) !important; border:1px solid var(--side-line) !important; justify-content:flex-start; }}
+section[data-testid="stSidebar"] [data-testid="stPopover"] button p, section[data-testid="stSidebar"] [data-testid="stPopover"] button span {{ color:var(--side-ink) !important; }}
+section[data-testid="stSidebar"] [data-testid="stPopover"] button:hover {{ border-color:var(--accent) !important; }}
+[data-testid="stPopoverBody"] {{ background:var(--surface) !important; border:1px solid var(--border); }}
 /* widgets */
 [data-baseweb="select"] > div, [data-baseweb="input"], [data-baseweb="textarea"], .stTextInput input, .stNumberInput input, .stDateInput input, textarea {{
   background:var(--surface) !important; color:var(--ink) !important; border-color:var(--border) !important; border-radius:10px !important; }}

@@ -179,11 +179,38 @@ def set_password(username: str, password: str) -> None:
         _save(db)
 
 
+def change_password(username: str, current: str, new: str) -> bool:
+    """False if the current password is wrong (it counts towards the lock, like a wrong sign-in). Signs the account out everywhere."""
+    _check_password(new)
+    if not verify(username, current):
+        return False
+    set_password(username, new)
+    return True
+
+
 def set_onboarded(username: str) -> None:
     with _lock:
         db = _load()
         db["users"][username]["onboarded"] = True
         _save(db)
+
+
+def rename(username: str, name: str) -> str:
+    """The name the student is called by; returns it as stored."""
+    name = (name or "").strip()[:60]
+    if not name:
+        raise AccountError("Write the name you'd like to be called.")
+    with _lock:
+        db = _load()
+        db["users"][clean_username(username)]["name"] = name
+        _save(db)
+    return name
+
+
+def details(username: str) -> dict:
+    """What the Profile page shows that the session doesn't hold. Never the hash."""
+    u = _load()["users"].get(clean_username(username)) or {}
+    return {"created": u.get("created", ""), "email": u.get("email", ""), "has_password": bool(u.get("hash"))}
 
 
 # --------------------------------------------------------------------------- staying signed in
@@ -216,6 +243,22 @@ def end_session(token: str) -> None:
         db = _load()
         if db["sessions"].pop(_token_key(token), None):
             _save(db)
+
+
+def other_sessions(username: str, token: str | None, now: float | None = None) -> int:
+    """How many other browsers are signed in to this account."""
+    now = now if now is not None else time.time()
+    keep = _token_key(token) if token else None
+    return sum(1 for k, v in _load()["sessions"].items() if v["user"] == username and v["expires"] > now and k != keep)
+
+
+def end_other_sessions(username: str, token: str | None) -> None:
+    """Sign this account out of every browser except the one holding token."""
+    keep = _token_key(token) if token else None
+    with _lock:
+        db = _load()
+        db["sessions"] = {k: v for k, v in db["sessions"].items() if v["user"] != username or k == keep}
+        _save(db)
 
 
 # --------------------------------------------------------------------------- whose files

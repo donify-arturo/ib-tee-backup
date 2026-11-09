@@ -153,6 +153,13 @@ def _enter(user: dict, new_account: bool = False) -> None:
     st.rerun()
 
 
+def renew_session(username: str) -> None:
+    """Keep this browser signed in after a new password has signed the account out everywhere."""
+    token = users.new_session(username)
+    st.session_state[TOKEN_KEY] = token
+    st.session_state[SET_COOKIE] = token
+
+
 def sign_out() -> None:
     token = st.session_state.get(TOKEN_KEY)
     if token:
