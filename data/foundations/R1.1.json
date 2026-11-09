@@ -1,0 +1,711 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "393",
+   "understanding": "R1.1.3",
+   "kind": "multiple_choice",
+   "question": "Solid Ba(OH)2 reacts with solid NH4Cl: Ba(OH)2(s) + 2NH4Cl(s) → BaCl2(aq) + 2NH3(g) + 2H2O(l), ΔH = +164 kJ mol⁻¹. Which row correctly gives the temperature change, the enthalpy comparison and the stability comparison?",
+   "options": [
+    "A. Temperature increases; products have lower enthalpy than reactants; products less stable",
+    "B. Temperature decreases; products have lower enthalpy than reactants; products more stable",
+    "C. Temperature decreases; products have higher enthalpy than reactants; products less stable",
+    "D. Temperature increases; products have higher enthalpy than reactants; products more stable"
+   ],
+   "answer": "C. Temperature decreases; products have higher enthalpy than reactants; products less stable",
+   "steps": [
+    "ΔH is positive, so the reaction is endothermic.",
+    "Heat is taken in from the surroundings, so the temperature falls.",
+    "The products end up at higher enthalpy, so they are less stable than the reactants."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "18N.1.HL.TZ0.15"
+  },
+  {
+   "source": "companion",
+   "page": "394",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "Using c(water) = 4.18 kJ kg⁻¹ K⁻¹, calculate the energy needed to raise the temperature of 1 kg of water by 1 K.",
+   "options": [],
+   "answer": "4.18 kJ",
+   "steps": [
+    "Q = mcΔT = 1 kg × 4.18 kJ kg⁻¹ K⁻¹ × 1 K = 4.18 kJ."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "394",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "Using c(copper) = 0.385 kJ kg⁻¹ K⁻¹, calculate the energy needed to raise the temperature of 1000 kg of copper by 1 K.",
+   "options": [],
+   "answer": "385 kJ",
+   "steps": [
+    "Q = mcΔT = 1000 kg × 0.385 kJ kg⁻¹ K⁻¹ × 1 K = 385 kJ."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "394",
+   "understanding": "R1.1.4",
+   "kind": "multiple_choice",
+   "question": "Equal masses of substances X and Y absorb the same amount of energy. The temperature of X rises by 5 °C and that of Y by 10 °C. Which statement is correct?",
+   "options": [
+    "A. The specific heat capacity of X is twice that of Y",
+    "B. The specific heat capacity of X is half that of Y",
+    "C. The specific heat capacity of X is one fifth that of Y",
+    "D. X and Y have the same specific heat capacity"
+   ],
+   "answer": "A. The specific heat capacity of X is twice that of Y",
+   "steps": [
+    "c = Q/(mΔT); Q and m are the same, so c is inversely proportional to ΔT.",
+    "X warms half as much as Y, so its c is twice as large."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "19M.1.HL.TZ1.14"
+  },
+  {
+   "source": "companion",
+   "page": "394",
+   "understanding": "R1.1.4",
+   "kind": "multiple_choice",
+   "question": "Using the specific heat capacities water 4.18 and ethanol 2.44 kJ kg⁻¹ K⁻¹, which statement is correct?",
+   "options": [
+    "A. Raising 50 g of water by 50 °C needs more heat than raising 50 g of ethanol by 50 °C",
+    "B. Given the same heat, equal masses of water and ethanol: the water warms more",
+    "C. Mixing equal masses of water at 20 °C and ethanol at 50 °C gives a final temperature of 35 °C",
+    "D. Equal masses of water and ethanol cooling from 50 °C to room temperature: ethanol releases more heat"
+   ],
+   "answer": "A. Raising 50 g of water by 50 °C needs more heat than raising 50 g of ethanol by 50 °C",
+   "steps": [
+    "Q = mcΔT with m and ΔT equal, so Q is proportional to c.",
+    "Water has the larger c, so it needs more heat (and releases more on cooling; it also warms less for the same heat).",
+    "The 35 °C mixture only works if the two c values were equal."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "396",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "Calculate the energy absorbed by 30 g of water when its temperature rises by 30 °C. Use c = 4.18 J g⁻¹ K⁻¹.",
+   "options": [],
+   "answer": "3762 J (about 3.8 × 10³ J to 2 s.f.)",
+   "steps": [
+    "ΔT = 30 K.",
+    "Q = 30 g × 4.18 J g⁻¹ K⁻¹ × 30 K = 3762 J."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "396",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "0.675 kJ of heat is transferred to 125 g of copper. Copper has c = 385 J kg⁻¹ K⁻¹. Calculate the temperature change of the copper.",
+   "options": [],
+   "answer": "14.0 K",
+   "steps": [
+    "Convert: 0.675 kJ = 675 J; 125 g = 0.125 kg.",
+    "Rearrange Q = mcΔT: ΔT = Q/(mc).",
+    "ΔT = 675 J / (0.125 kg × 385 J kg⁻¹ K⁻¹) = 14.0 K."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "402",
+   "understanding": "R1.1.2",
+   "kind": "short_answer",
+   "question": "What can be deduced from the temperature change that accompanies a chemical or physical change?",
+   "options": [],
+   "answer": "A temperature rise in the surroundings or solution shows an exothermic change (ΔH < 0); a fall shows an endothermic change (ΔH > 0). Energy is conserved, and the size of the change, with the mass and specific heat capacity, gives the heat transferred and hence ΔH.",
+   "steps": [
+    "Link the sign of ΔT to the direction of heat flow.",
+    "Link the direction of heat flow to the sign of ΔH.",
+    "Use Q = mcΔT and ΔH = −Q/n to quantify."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "402",
+   "understanding": "R1.1.3",
+   "kind": "multiple_choice",
+   "question": "For 2Al(s) + 6HCl(aq) → 2AlCl3(aq) + 3H2(g), ΔH = −1049 kJ mol⁻¹, which statement is correct?",
+   "options": [
+    "A. Reactants less stable than products; endothermic",
+    "B. Reactants more stable than products; endothermic",
+    "C. Reactants more stable than products; exothermic",
+    "D. Reactants less stable than products; exothermic"
+   ],
+   "answer": "D. Reactants less stable than products; exothermic",
+   "steps": [
+    "ΔH is negative, so the reaction is exothermic.",
+    "The system loses energy, so the products are lower in energy and more stable, and the reactants are less stable."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "402",
+   "understanding": "R1.1.3",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct?",
+   "options": [
+    "A. In an exothermic reaction the products have more energy than the reactants",
+    "B. In an exothermic reversible reaction the forward activation energy is larger than the reverse activation energy",
+    "C. In an endothermic reaction the products are more stable than the reactants",
+    "D. In an endothermic reversible reaction the forward activation energy is larger than the reverse activation energy"
+   ],
+   "answer": "D. In an endothermic reversible reaction the forward activation energy is larger than the reverse activation energy",
+   "steps": [
+    "In an endothermic profile the products sit higher than the reactants.",
+    "The climb from reactants to the peak is therefore taller than the climb from products, so forward Ea > reverse Ea."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "18M.1.HL.TZ1.15"
+  },
+  {
+   "source": "companion",
+   "page": "402",
+   "understanding": "R1.1.4",
+   "kind": "multiple_choice",
+   "question": "For Fe2O3(s) + 3CO(g) → 2Fe(s) + 3CO2(g), ΔH = −26.6 kJ mol⁻¹, which statement is correct?",
+   "options": [
+    "A. 13.3 kJ are released per mole of Fe produced",
+    "B. 26.6 kJ are absorbed per mole of Fe produced",
+    "C. 53.2 kJ are released per mole of Fe produced",
+    "D. 26.6 kJ are released per mole of Fe produced"
+   ],
+   "answer": "A. 13.3 kJ are released per mole of Fe produced",
+   "steps": [
+    "ΔH is negative, so heat is released.",
+    "The equation as written makes 2 mol Fe for 26.6 kJ, so 26.6 ÷ 2 = 13.3 kJ per mole of Fe."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "402",
+   "understanding": "R1.1.3",
+   "kind": "multiple_choice",
+   "question": "In which reaction do the reactants have lower energy than the products?",
+   "options": [
+    "A. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)",
+    "B. HBr(g) → H(g) + Br(g)",
+    "C. Na⁺(g) + Cl⁻(g) → NaCl(s)",
+    "D. NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)"
+   ],
+   "answer": "B. HBr(g) → H(g) + Br(g)",
+   "steps": [
+    "Lower-energy reactants means an endothermic reaction.",
+    "Breaking a bond absorbs energy; the others are combustion, ionic lattice formation and neutralization, all exothermic."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.3",
+   "kind": "calculation",
+   "question": "NO2(g) + CO(g) → NO(g) + CO2(g) has ΔH = −226 kJ mol⁻¹. Give the enthalpy change for the reverse reaction.",
+   "options": [],
+   "answer": "+226 kJ mol⁻¹",
+   "steps": [
+    "Reversing a reaction swaps the roles of reactants and products, so ΔH changes sign."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.1",
+   "kind": "short_answer",
+   "question": "Write an equation for the reaction of NO2 in the atmosphere that produces acid deposition.",
+   "options": [],
+   "answer": "2NO2(g) + H2O(l) → HNO3(aq) + HNO2(aq) (or 4NO2(g) + 2H2O(l) + O2(g) → 4HNO3(aq))",
+   "steps": [
+    "NO2 dissolves in water to give acids: nitric acid, with nitrous acid or with oxygen present only nitric acid."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.4",
+   "kind": "short_answer",
+   "question": "Powdered zinc is added to 25.00 cm³ of 1.000 mol dm⁻³ copper(II) sulfate in an insulated beaker. The experiment is repeated five times with the same volume and concentration of copper(II) sulfate but a different mass of zinc each time. Which reagent should be in excess in each trial? Give a reason.",
+   "options": [],
+   "answer": "Copper(II) sulfate should be in excess, because the mass of zinc is the independent variable being changed. (A reasoned case for zinc in excess, keeping the amount reacting constant, is also accepted.)",
+   "steps": [
+    "Think about which quantity is being varied deliberately.",
+    "If zinc were in excess every time, the same fixed amount of copper(II) sulfate would react and the trials would not differ."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.4",
+   "kind": "short_answer",
+   "question": "Q = mcΔT is applied with m = 25.00 g and c = 4.18 J g⁻¹ K⁻¹ for this zinc and copper(II) sulfate mixture. State one assumption behind these values.",
+   "options": [],
+   "answer": "The solution has the density of water (1.000 g cm⁻³), so 25.00 cm³ has mass 25.00 g; or the solution has the same specific heat capacity as water and the zinc, beaker and thermometer absorb no heat.",
+   "steps": [
+    "m comes from assuming the density equals that of water.",
+    "c comes from assuming the solution behaves like water and nothing else absorbs heat."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.4",
+   "kind": "short_answer",
+   "question": "The experimental ΔH for the zinc and copper(II) sulfate reaction is calculated using m = 25.00 g and c = 4.18 J g⁻¹ K⁻¹. Predict, with a reason, how it compares with the theoretical value.",
+   "options": [],
+   "answer": "It is less exothermic (less negative) than the theoretical value because some heat is lost to the surroundings and not accounted for.",
+   "steps": [
+    "Heat loss lowers the measured temperature rise.",
+    "A smaller ΔT gives a smaller Q and a smaller magnitude of ΔH."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "A potato chip is burned to heat 7.8 g of water in a test tube. The water temperature goes from 21.3 °C to 22.6 °C. Use c = 4.18 J g⁻¹ K⁻¹ to calculate the heat absorbed by the water, in kJ.",
+   "options": [],
+   "answer": "0.0424 kJ (42.4 J)",
+   "steps": [
+    "ΔT = 22.6 − 21.3 = 1.3 K.",
+    "Q = 7.8 g × 4.18 J g⁻¹ K⁻¹ × 1.3 K = 42.4 J = 0.0424 kJ. The book's answer is given in J."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "403",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "The heat absorbed by the water was 0.0424 kJ when a 1.2 g potato chip burned completely. Determine the enthalpy of combustion of the chip in kJ g⁻¹.",
+   "options": [],
+   "answer": "−0.035 kJ g⁻¹",
+   "steps": [
+    "Heat released per gram = 0.0424 kJ ÷ 1.2 g = 0.0353 kJ g⁻¹.",
+    "Combustion is exothermic, so the sign is negative."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "97",
+   "understanding": "R1.1.4",
+   "kind": "multiple_choice",
+   "question": "Equal masses of samples X and Y absorb the same heat. Their temperatures rise by 5 °C and 10 °C respectively. Which statement is correct?",
+   "options": [
+    "A. The specific heat capacity of X is twice that of Y",
+    "B. The specific heat capacity of X is half that of Y",
+    "C. The specific heat capacity of X is five times that of Y",
+    "D. The specific heat capacity of X is one-fifth that of Y"
+   ],
+   "answer": "A. The specific heat capacity of X is twice that of Y",
+   "steps": [
+    "With equal Q and m, c is inversely proportional to ΔT.",
+    "X rises half as much, so c(X) = 2 × c(Y)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "19M.1.HL.TZ1.14"
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.3",
+   "kind": "multiple_choice",
+   "question": "Which statements are correct? I: An endothermic reaction lowers the potential energy of the system. II: An exothermic reaction has a negative enthalpy change. III: The enthalpy change is positive when the products are less stable than the reactants.",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "C. II and III only",
+   "steps": [
+    "I is false: an endothermic reaction raises the potential energy of the system.",
+    "II is true: heat leaves the system, so ΔH < 0.",
+    "III is true: less stable products means higher energy, so ΔH > 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.3",
+   "kind": "short_answer",
+   "question": "Sketch and label an energy profile for an endothermic reaction. Describe what it must show.",
+   "options": [],
+   "answer": "Axes: reaction coordinate (x) and potential energy (y). Reactants start low and products finish higher, with a peak (transition state) between them. An upward arrow from reactants to products marks ΔH > 0, and an upward arrow from reactants to the peak marks the activation energy Ea.",
+   "steps": [
+    "Place reactants lower than products.",
+    "Draw a curve rising to a maximum and then settling at the products' level.",
+    "Add the ΔH arrow (upward) and the Ea arrow, and label both axes."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.4",
+   "kind": "short_answer",
+   "question": "50.0 cm³ of 1.00 mol dm⁻³ copper(II) sulfate is in a polystyrene cup and excess zinc powder is added. Q = mcΔT is used with c for water to find the heat produced. State two assumptions this makes.",
+   "options": [],
+   "answer": "Any two of: no heat is lost to the surroundings; the solution has the same specific heat capacity as pure water; the zinc, calorimeter and thermometer absorb negligible heat; the mass of the mixture does not change; the density of the mixture is 1.00 g cm⁻³.",
+   "steps": [
+    "Think about what Q = mcΔT needs for m and c.",
+    "Think about where else heat could go."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "10N.2.HL.TZ0.1"
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "Excess zinc is added at t = 100 s to 50.0 cm³ of 1.00 mol dm⁻³ CuSO4 at an initial temperature of 24.5 °C. The cooling section of the temperature–time graph follows the line T = −0.050t + 78.0 (t in s). Determine the temperature change ΔT that would occur if the reaction were instantaneous with no heat loss.",
+   "options": [],
+   "answer": "ΔT = 48.5 K",
+   "steps": [
+    "Extrapolate the cooling line back to the moment zinc was added: T = −0.050 × 100 + 78.0 = 73 °C.",
+    "ΔT = 73 − 24.5 = 48.5 °C = 48.5 K."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "10N.2.HL.TZ0.1"
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "The 50.0 cm³ of reaction mixture has density 1.00 g cm⁻³ and c = 4.18 J g⁻¹ K⁻¹, and its temperature change is 48.5 K. Calculate the heat produced in kJ.",
+   "options": [],
+   "answer": "10.1 kJ",
+   "steps": [
+    "m = 50.0 cm³ × 1.00 g cm⁻³ = 50.0 g.",
+    "Q = 50.0 g × 4.18 J g⁻¹ K⁻¹ × 48.5 K ≈ 10 100 J = 10.1 kJ."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "98",
+   "understanding": "R1.1.4",
+   "kind": "calculation",
+   "question": "The reaction Cu²⁺(aq) + Zn(s) → Cu(s) + Zn²⁺(aq) used 50.0 cm³ of 1.00 mol dm⁻³ Cu²⁺ with excess zinc, and released 10.1 kJ. Calculate ΔH in kJ mol⁻¹.",
+   "options": [],
+   "answer": "−202 kJ mol⁻¹ (−203 kJ mol⁻¹ is also acceptable if rounding is delayed)",
+   "steps": [
+    "Zinc is in excess, so Cu²⁺ is limiting: n = 0.0500 dm³ × 1.00 mol dm⁻³ = 0.0500 mol.",
+    "ΔH = −Q/n = −10.1 kJ / 0.0500 mol = −202 kJ mol⁻¹.",
+    "Unrounded Q (10.14 kJ) gives −203 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "395",
+   "understanding": "R1.1.4",
+   "title": "Enthalpy of dissolution of LiCl",
+   "problem": "1.15 g of anhydrous LiCl dissolves in 25.0 g of water in a coffee-cup calorimeter and the temperature rises by 3.80 K. Taking the heat capacity of LiCl itself as negligible, calculate the enthalpy change of dissolution per mole of LiCl (M = 42.39 g mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the heat absorbed by the water using Q = mcΔT, with mass in kg.",
+     "work": "Q = 0.0250 kg × 4.18 kJ kg⁻¹ K⁻¹ × 3.80 K = 0.397 kJ"
+    },
+    {
+     "hint": "Convert the mass of LiCl to moles.",
+     "work": "n = 1.15 g ÷ 42.39 g mol⁻¹ = 0.0271 mol"
+    },
+    {
+     "hint": "Apply ΔH = −Q/n to get the enthalpy change per mole.",
+     "work": "ΔH = −0.397 kJ ÷ 0.0271 mol = −14.6 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "395",
+   "understanding": "R1.1.4",
+   "title": "Specific heat capacity of iron",
+   "problem": "180.0 J of heat is transferred to 100.0 g of iron, raising its temperature from 22.0 °C to 26.0 °C. Calculate the specific heat capacity of iron.",
+   "steps": [
+    {
+     "hint": "Find the temperature change.",
+     "work": "ΔT = 26.0 − 22.0 = 4 K (same size in °C and K)"
+    },
+    {
+     "hint": "Convert the heat and mass to kJ and kg and substitute into Q = mcΔT.",
+     "work": "0.180 kJ = 0.100 kg × c × 4 K"
+    },
+    {
+     "hint": "Make c the subject and solve.",
+     "work": "c = 0.180 kJ ÷ (0.100 kg × 4 K) = 0.450 kJ kg⁻¹ K⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "397",
+   "understanding": "R1.1.4",
+   "title": "Zinc and copper(II) sulfate calorimetry",
+   "problem": "In a coffee-cup calorimeter, 1.37 g of zinc reacts with 28.8 g of 1.0 mol dm⁻³ copper(II) sulfate solution, giving ΔT = 39.0 °C. Find the heat released and the enthalpy change of the reaction (M(Zn) = 65.38 g mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Calculate the heat released with Q = mcΔT, using kg.",
+     "work": "Q = 0.0288 kg × 4.18 kJ kg⁻¹ K⁻¹ × 39.0 K = 4.69 kJ"
+    },
+    {
+     "hint": "Find the amount of zinc.",
+     "work": "n(Zn) = 1.37 g ÷ 65.38 g mol⁻¹ = 0.0210 mol"
+    },
+    {
+     "hint": "Find the amount of copper(II) sulfate from concentration and volume.",
+     "work": "n(CuSO4) = 1.00 mol dm⁻³ × 0.0288 dm³ = 0.0288 mol"
+    },
+    {
+     "hint": "Decide which reactant is limiting by comparing amounts (1:1 ratio).",
+     "work": "Zn is smaller (0.0210 mol), so Zn is limiting."
+    },
+    {
+     "hint": "Divide the heat by the limiting amount and give the sign.",
+     "work": "ΔH = −4.69 kJ ÷ 0.0210 mol = −223 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "399",
+   "understanding": "R1.1.4",
+   "title": "Enthalpy of combustion of methanol",
+   "problem": "A metal calorimeter holds 31.2 g of water. Burning methanol (mass lost 0.348 g) raises the water temperature by 30.0 °C. Determine the heat released and the enthalpy of combustion of methanol (M = 32.05 g mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the heat absorbed by the water.",
+     "work": "Q = 0.0312 kg × 4.18 kJ kg⁻¹ K⁻¹ × 30.0 K = 3.91 kJ"
+    },
+    {
+     "hint": "Convert the mass of methanol burned to moles; methanol is limiting.",
+     "work": "n = 0.348 g ÷ 32.05 g mol⁻¹ = 0.0109 mol"
+    },
+    {
+     "hint": "Apply ΔH = −Q/n.",
+     "work": "ΔH = −3.91 kJ ÷ 0.0109 mol = −359 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "94",
+   "understanding": "R1.1.4",
+   "title": "Final temperature of heated aluminium",
+   "problem": "A 34.5 g block of aluminium at 23.5 °C absorbs 650 J of heat. Using c(Al) = 0.903 J g⁻¹ K⁻¹, calculate its final temperature in °C.",
+   "steps": [
+    {
+     "hint": "Rearrange Q = mcΔT for ΔT.",
+     "work": "ΔT = Q ÷ (mc)"
+    },
+    {
+     "hint": "Substitute the values.",
+     "work": "ΔT = 650 J ÷ (34.5 g × 0.903 J g⁻¹ K⁻¹) = 20.9 K"
+    },
+    {
+     "hint": "Add the rise to the starting temperature, since K and °C steps are equal.",
+     "work": "T(final) = 23.5 + 20.9 = 44.4 °C"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "96",
+   "understanding": "R1.1.4",
+   "title": "Enthalpy of combustion of ethanol",
+   "problem": "A copper calorimeter holds 0.100 dm³ of water (density 1.00 g cm⁻³), heated from 18.0 °C to 81.4 °C by burning 1.19 g of ethanol. Calculate ΔH of combustion in kJ mol⁻¹, compare it with the accepted −1367 kJ mol⁻¹ and give two reasons for the difference.",
+   "steps": [
+    {
+     "hint": "Find the temperature change and the mass of water.",
+     "work": "ΔT = 81.4 − 18.0 = 63.4 K; m = 1.00 g cm⁻³ × 100 cm³ = 100 g"
+    },
+    {
+     "hint": "Calculate the heat absorbed by the water.",
+     "work": "Q = 100 g × 4.18 J g⁻¹ K⁻¹ × 63.4 K = 2.65 × 10⁴ J = 26.5 kJ"
+    },
+    {
+     "hint": "Convert the ethanol burned to moles.",
+     "work": "M = 46.08 g mol⁻¹; n = 1.19 g ÷ 46.08 g mol⁻¹ = 0.0258 mol"
+    },
+    {
+     "hint": "Divide heat by moles and give the sign for an exothermic reaction.",
+     "work": "ΔH = −26.5 kJ ÷ 0.0258 mol ≈ −1030 kJ mol⁻¹"
+    },
+    {
+     "hint": "Compare with the accepted value and explain the shortfall.",
+     "work": "−1030 is less negative than −1367. Reasons: heat lost to the surroundings; heat absorbed by the copper calorimeter; incomplete combustion; impurities in the ethanol. Each lowers the measured magnitude."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "390",
+   "understanding": "R1.1.1",
+   "tag": "Activity",
+   "prompt": "A glass of iced water sits in the summer sun. Is it an open, closed or isolated system, what are the system and surroundings, which way does heat flow, and what do you see on the outside of the glass and why?",
+   "model_answer": [
+    "It is an open system: matter and energy can both cross the boundary.",
+    "The system is the water and ice; the surroundings are everything outside the glass, with the glass acting as the boundary.",
+    "Heat moves from the warmer surroundings and water into the colder ice, which warms and melts.",
+    "Liquid water forms on the outside of the glass as water vapour in the air condenses.",
+    "Condensation releases energy to the surroundings."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "398",
+   "understanding": "R1.1.4",
+   "tag": "Skills question",
+   "prompt": "You burn five alcohols in turn under water and record the water's temperature rise and each burner's mass loss. How do you turn these readings into Q and ΔH for each alcohol?",
+   "model_answer": [
+    "The values depend on the student's own experimental data.",
+    "Follow the method of the methanol worked example: Q = mcΔT for the water, then moles of alcohol from the mass lost.",
+    "Then ΔH = −Q/n for each alcohol, and compare the results across the series."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "401",
+   "understanding": "R1.1.4",
+   "tag": "ATL Thinking skills",
+   "prompt": "Study the bomb calorimeter diagram. What does each labelled part do?",
+   "model_answer": [
+    "Ignition device: starts combustion of the sample.",
+    "Oxygen supply: ensures the sample burns completely.",
+    "Calorimeter bomb: holds the sample; temperature probe: measures the temperature.",
+    "Water bath absorbs the heat released, and the stirrer spreads it evenly.",
+    "Jacket: insulates to limit heat loss to the surroundings."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "401",
+   "understanding": "R1.1.4",
+   "tag": "ATL Thinking skills",
+   "prompt": "Why are bomb calorimeter measurements very accurate and precise, and which properties make water a good choice for calorimetry?",
+   "model_answer": [
+    "Good thermal insulation reduces heat loss.",
+    "Complete combustion in a closed environment means no product escapes.",
+    "Water has a high specific heat capacity.",
+    "Water is readily available.",
+    "Water is liquid over a wide temperature range."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R1.1.2",
+   "tag": "Tool 1, Inquiry 2",
+   "prompt": "What observations would you expect to make during an endothermic and an exothermic reaction?",
+   "model_answer": [
+    "Exothermic: the temperature of the mixture rises and the container feels warm; there may be a flame or glow in combustion.",
+    "Endothermic: the temperature of the mixture falls and the container feels cold, for example ammonium nitrate dissolving.",
+    "A thermometer or data-logging probe gives quantitative temperature–time data, not just feel.",
+    "Record qualitative observations too, such as bubbles, colour change or a solid dissolving.",
+    "Interpret the sign of ΔT: positive means exothermic (ΔH < 0), negative means endothermic (ΔH > 0)."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R1.1.4",
+   "tag": "Tool 1, Inquiry 1, 2, 3",
+   "prompt": "How can the enthalpy change of combustion of an alcohol or a food sample be investigated experimentally?",
+   "model_answer": [
+    "Burn a known mass of fuel under a metal can or beaker containing a measured mass of water, and record the initial and final water temperature.",
+    "Control variables: same water mass, same distance from the flame, stirring, and a draught shield.",
+    "Weigh the burner or food before and after to find the mass burned, then convert to moles.",
+    "Calculate Q = mcΔT for the water and ΔH = −Q/n; repeat for reliability.",
+    "Evaluate: heat loss, incomplete combustion and heat absorbed by the can make the result less exothermic than the accepted value; insulation helps."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R1.1.4",
+   "tag": "Tool 1, Inquiry 3",
+   "prompt": "Why do calorimetry experiments typically measure a smaller temperature change than theory predicts?",
+   "model_answer": [
+    "Some heat is always lost to the surroundings, such as air, the container or the stirrer.",
+    "Heat also warms the calorimeter, which is usually neglected in the calculation.",
+    "In combustion experiments the burning may be incomplete, so less energy is released.",
+    "These are systematic errors: they always push the result in the same direction, giving a smaller ΔT and a smaller magnitude of ΔH.",
+    "Improve with insulation, a lid, or extrapolating the cooling curve back to the time of mixing."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "R1.1",
+ "title": "Measuring enthalpy changes",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 8 (Course Companion p402): copies the book",
+  "practice 12 (Course Companion p402): copies the book",
+  "practice 19 (Course Companion p403): numbers not on the cited page: 0.0424",
+  "practice 20 (IB Prepared p97): copies the book",
+  "practice 21 (IB Prepared p98): copies the book"
+ ]
+}

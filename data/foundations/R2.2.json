@@ -1,0 +1,1399 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "482",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "Ammonia is oxidised: 4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g). Over 5 s the concentration of NO rises from 0 to 6.0 × 10⁻³ mol dm⁻³. Calculate the rate of reaction, in mol dm⁻³ s⁻¹, with respect to NO(g) and to O2(g).",
+   "options": [],
+   "answer": "ν(NO) = 1.2 × 10⁻³ mol dm⁻³ s⁻¹; ν(O2) = 1.5 × 10⁻³ mol dm⁻³ s⁻¹",
+   "steps": [
+    "ν(NO) = 6.0 × 10⁻³ ÷ 5 = 1.2 × 10⁻³ mol dm⁻³ s⁻¹.",
+    "O2 is consumed in the ratio 5 : 4 to NO, so Δ[O2] = 6.0 × 10⁻³ × 5/4 = 7.5 × 10⁻³ mol dm⁻³.",
+    "ν(O2) = 7.5 × 10⁻³ ÷ 5 = 1.5 × 10⁻³ mol dm⁻³ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "482",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "For 4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(g), the rate with respect to NO(g) is 1.2 × 10⁻³ mol dm⁻³ s⁻¹. Calculate the overall rate of reaction in the same units.",
+   "options": [],
+   "answer": "3.0 × 10⁻⁴ mol dm⁻³ s⁻¹",
+   "steps": [
+    "Divide the rate for a species by its stoichiometric coefficient.",
+    "Overall rate = 1.2 × 10⁻³ ÷ 4 = 3.0 × 10⁻⁴ mol dm⁻³ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "487",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "CaCO3(s) + 2HCl(aq) → CaCl2(aq) + CO2(g) + H2O(l). The reaction mixture has volume 50.0 cm³. A tangent to the mass-against-time curve at t = 0 shows the mixture losing mass (as CO2) at an initial rate of 6.25 × 10⁻³ g s⁻¹. Calculate the overall initial rate in mol dm⁻³ s⁻¹ (M(CO2) = 44.0 g mol⁻¹).",
+   "options": [],
+   "answer": "≈ 2.8 × 10⁻³ mol dm⁻³ s⁻¹",
+   "steps": [
+    "Convert mass rate to moles: 6.25 × 10⁻³ ÷ 44.0 = 1.42 × 10⁻⁴ mol s⁻¹ of CO2.",
+    "Divide by the volume 0.0500 dm³: 2.84 × 10⁻³ mol dm⁻³ s⁻¹.",
+    "CO2 has coefficient 1, so this is the overall rate."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "493",
+   "understanding": "R2.2.4",
+   "kind": "short_answer",
+   "question": "A + B → C + D occurs in one step, with ΔHr = −10 kJ mol⁻¹ and Ea = 20 kJ mol⁻¹. Describe the energy profile you would sketch.",
+   "options": [],
+   "answer": "A single hump: reactants start higher than products (a drop of 10 kJ mol⁻¹), and the peak (transition state) sits 20 kJ mol⁻¹ above the reactants, about twice the size of the enthalpy drop. Axes: energy vs reaction coordinate, with Ea and ΔHr marked.",
+   "steps": [
+    "Draw reactants at a higher level than products because the reaction is exothermic.",
+    "Draw one maximum 20 kJ mol⁻¹ above the reactants.",
+    "Label the transition state, Ea (up arrow) and ΔHr (down arrow)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "493",
+   "understanding": "R2.2.4",
+   "kind": "calculation",
+   "question": "A + B → C + D (one step) has ΔHr = −10 kJ mol⁻¹ and Ea = 20 kJ mol⁻¹. Find the activation energy, in kJ mol⁻¹, of the reverse reaction C + D → A + B, which has the same transition state.",
+   "options": [],
+   "answer": "30 kJ mol⁻¹",
+   "steps": [
+    "The reverse reaction starts from the lower-energy products, so it must climb the same peak from lower down.",
+    "Ea(reverse) = Ea(forward) − ΔHr = 20 − (−10) = 30 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "495",
+   "understanding": "R2.2.5",
+   "kind": "short_answer",
+   "question": "2SO2(g) + O2(g) → 2SO3(g) is speeded up by NO2 through two steps: SO2 + NO2 → SO3 + NO, then NO + ½O2 → NO2. State the roles of NO2 and NO, and explain how they affect the rate.",
+   "options": [],
+   "answer": "NO2 is a catalyst; NO is an intermediate. The two-step route has a lower activation energy than the uncatalysed route, so a bigger fraction of collisions succeed and the rate rises.",
+   "steps": [
+    "NO2 is used in step 1 and regenerated in step 2, so it is a catalyst.",
+    "NO is formed in step 1 and used up in step 2, so it is an intermediate.",
+    "The alternative pathway has lower Ea, so more collisions are successful."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "495",
+   "understanding": "R2.2.5",
+   "kind": "short_answer",
+   "question": "For 2SO2(g) + O2(g) → 2SO3(g) (ΔHr < 0), describe the energy profile showing the uncatalysed and catalysed paths, with labels.",
+   "options": [],
+   "answer": "Reactants 2SO2 + O2 sit above products 2SO3. The uncatalysed path has one high peak. The catalysed path has two lower peaks with a dip between them labelled NO (intermediate); both paths start and end at the same levels.",
+   "steps": [
+    "Draw reactants high, products lower.",
+    "Draw one tall hump for the uncatalysed route.",
+    "Draw a lower two-hump route with the intermediate NO in the dip.",
+    "Label axes, Ea and Ea′ (Ea′ < Ea)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "503",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "For A(g) + 2B(g) → C(g) at 298 K, initial rates are: [A] = 0.020, [B] = 0.015 mol dm⁻³ → 2.0 × 10⁻⁴ mol dm⁻³ s⁻¹; [A] = 0.020, [B] = 0.030 → 4.0 × 10⁻⁴; [A] = 0.030, [B] = 0.015 → 3.0 × 10⁻⁴. Deduce the order with respect to A and to B.",
+   "options": [],
+   "answer": "First order with respect to A and first order with respect to B",
+   "steps": [
+    "Doubling [B] with [A] fixed doubles the rate, so first order in B.",
+    "Raising [A] by 1.5 times raises the rate by 1.5 times, so first order in A."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "503",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "A reaction is first order with respect to A(g) and first order with respect to B(g). State the rate equation and the overall order.",
+   "options": [],
+   "answer": "ν = k[A][B]; overall second order",
+   "steps": [
+    "Write each concentration to the power of its order.",
+    "Add the orders: 1 + 1 = 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "503",
+   "understanding": "R2.2.11",
+   "kind": "calculation",
+   "question": "For ν = k[A][B], the first experiment gives [A] = 0.020 mol dm⁻³, [B] = 0.015 mol dm⁻³ and ν = 2.0 × 10⁻⁴ mol dm⁻³ s⁻¹ at 298 K. Calculate k and give its units.",
+   "options": [],
+   "answer": "k ≈ 0.67 dm³ mol⁻¹ s⁻¹",
+   "steps": [
+    "Rearrange: k = ν ÷ ([A][B]).",
+    "k = 2.0 × 10⁻⁴ ÷ (0.020 × 0.015) = 0.667.",
+    "Units: mol dm⁻³ s⁻¹ ÷ mol² dm⁻⁶ = dm³ mol⁻¹ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "506",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "For Mg + 2HCl in the earlier example, the initial rate is 0.0054 mol dm⁻³ s⁻¹ at [HCl] = 0.250 mol dm⁻³, and the instantaneous rate at 55 s is 4.4 × 10⁻⁴ mol dm⁻³ s⁻¹ when [HCl] ≈ 0.065 mol dm⁻³. Deduce the order with respect to HCl, rounded to an integer.",
+   "options": [],
+   "answer": "Second order",
+   "steps": [
+    "Rate ratio = 0.0054 ÷ 4.4 × 10⁻⁴ ≈ 12.",
+    "Concentration ratio = 0.250 ÷ 0.065 ≈ 3.8.",
+    "3.8¹ ≈ 3.8 is too small; 3.8² ≈ 14.6 is close to 12, so n = 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "506",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "Give one advantage and one disadvantage of finding reaction order by comparing two tangent-derived rates, compared with plotting ln[A] and 1/[A] against time.",
+   "options": [],
+   "answer": "Advantages: simpler and more intuitive, uses the data directly, needs no linear equations, fewer steps. Disadvantages: tangent positions and slopes rely on judgement, so precision is limited and the answer needs rounding.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "507",
+   "understanding": "R2.2.12",
+   "kind": "calculation",
+   "question": "At constant reactant concentrations, a reaction's rate rises 8.2 times when the temperature goes from 25 °C to 45 °C. Find the activation energy in kJ mol⁻¹ (R = 8.31 J K⁻¹ mol⁻¹).",
+   "options": [],
+   "answer": "≈ 83 kJ mol⁻¹",
+   "steps": [
+    "Rate ratio equals k ratio: ln 8.2 = 2.104.",
+    "1/T₁ − 1/T₂ = 1/298 − 1/318 = 2.11 × 10⁻⁴ K⁻¹.",
+    "Ea = 2.104 × 8.31 ÷ 2.11 × 10⁻⁴ ≈ 8.3 × 10⁴ J mol⁻¹ = 83 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.3",
+   "kind": "multiple_choice",
+   "question": "Excess Mg powder is added to dilute HCl in a beaker on a balance, and the beaker's mass is plotted against time (curve 1). Curve 2 falls more steeply and levels off at a lower final mass than curve 1. Which change could produce curve 2?",
+   "options": [
+    "A. Increasing the temperature",
+    "B. Using the same mass of Mg ribbon",
+    "C. Doubling the mass of powdered Mg",
+    "D. Using the same volume of concentrated HCl(aq)"
+   ],
+   "answer": "D. Using the same volume of concentrated HCl(aq)",
+   "steps": [
+    "Mg is in excess, so the acid limits how much H2 is made.",
+    "More H2 escaping (lower final mass) needs more acid, i.e. more concentrated acid.",
+    "Temperature, ribbon or extra Mg do not change the amount of acid, so the final mass would be unchanged."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.2",
+   "kind": "short_answer",
+   "question": "Excess Mg powder reacts with dilute HCl and the beaker's mass falls and then levels off. Using collision theory, explain the shape of this mass–time curve.",
+   "options": [],
+   "answer": "The curve starts steep and flattens: acid is used up, so H+ and Mg collide less often, fewer successful collisions occur per second and gas is released more slowly. When the acid is gone, release stops and the curve is flat.",
+   "steps": [
+    "Initially collisions are frequent, so mass is lost fast.",
+    "As [H+] falls, collision frequency falls and the curve becomes gentler.",
+    "Once HCl is used up the rate is zero."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "In the Mg + HCl mass–time experiment, sketch (describe) the curve if the experiment were run at a lower temperature.",
+   "options": [],
+   "answer": "A less steep curve that starts and ends at the same levels as the original, because the rate is lower but the amount of acid, and so the total H2 lost, is unchanged.",
+   "steps": [
+    "Lower temperature means a lower rate, so a gentler gradient.",
+    "HCl is the limiting reactant, so the final mass loss is the same."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "For the Mg + HCl experiment and a second experiment using more concentrated acid, describe the graph of [Mg²⁺(aq)] against time for both.",
+   "options": [],
+   "answer": "Both curves start at the origin (no Mg²⁺ at the start) and rise then flatten; the second, faster curve levels off at a higher value because more HCl reacts, giving more Mg²⁺.",
+   "steps": [
+    "No Mg²⁺ at t = 0, so both start at zero.",
+    "HCl is limiting, so the final [Mg²⁺] depends on the acid amount.",
+    "More concentrated acid gives a higher plateau."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "CO2(g) at 300 kPa fills a 1.00 dm³ vessel at 25.0 °C. Using pV = nRT, calculate its concentration in mol dm⁻³. (Later in the experiment, the pressure is 70 kPa at 20 min: also find that concentration.)",
+   "options": [],
+   "answer": "0.121 mol dm⁻³ at 0 min; 0.028 mol dm⁻³ at 20 min",
+   "steps": [
+    "c = n/V = p/(RT).",
+    "At 300 kPa: 300 ÷ (8.31 × 298) = 0.121 mol dm⁻³ (kPa with dm³ gives mol dm⁻³ directly).",
+    "At 70 kPa: 70 ÷ (8.31 × 298) = 0.028 mol dm⁻³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "510",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "The concentration of CO2(g) falls from 0.121 mol dm⁻³ at 0 min to 0.028 mol dm⁻³ at 20 min. Calculate the average rate of reaction in mol dm⁻³ min⁻¹ for this period.",
+   "options": [],
+   "answer": "≈ 4.7 × 10⁻³ mol dm⁻³ min⁻¹",
+   "steps": [
+    "Δc = 0.028 − 0.121 = −0.093 mol dm⁻³.",
+    "Take the absolute value and divide by 20 min: 0.093 ÷ 20 = 4.65 × 10⁻³ mol dm⁻³ min⁻¹."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "In 3I⁻(aq) + H2O2(aq) + 2H⁺(aq) → I3⁻(aq) + 2H2O(l), [I⁻] falls from 0.050 to 0.020 mol dm⁻³ in 2.0 min. Calculate the average rates, in mol dm⁻³ s⁻¹, with respect to I⁻ and H2O2.",
+   "options": [],
+   "answer": "ν(I⁻) = 2.50 × 10⁻⁴ mol dm⁻³ s⁻¹; ν(H2O2) ≈ 8.33 × 10⁻⁵ mol dm⁻³ s⁻¹",
+   "steps": [
+    "ν(I⁻) = 0.030 ÷ 120 s = 2.50 × 10⁻⁴.",
+    "H2O2 reacts at one third the rate of I⁻ (ratio 1 : 3).",
+    "ν(H2O2) = 2.50 × 10⁻⁴ ÷ 3 = 8.33 × 10⁻⁵."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "For 3I⁻(aq) + H2O2(aq) + 2H⁺(aq) → I3⁻(aq) + 2H2O(l), the rate with respect to I⁻ is 2.50 × 10⁻⁴ mol dm⁻³ s⁻¹. Give the overall average rate.",
+   "options": [],
+   "answer": "8.33 × 10⁻⁵ mol dm⁻³ s⁻¹",
+   "steps": [
+    "Divide ν(I⁻) by its coefficient 3.",
+    "Alternatively, H2O2 has coefficient 1, so its rate equals the overall rate."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.1",
+   "kind": "short_answer",
+   "question": "Describe a concentration–time graph for I⁻, H2O2 and I3⁻ in the reaction 3I⁻ + H2O2 + 2H⁺ → I3⁻ + 2H2O, if [I⁻] and [H2O2] start equal and I3⁻ starts at zero.",
+   "options": [],
+   "answer": "I⁻ and H2O2 fall, I3⁻ rises from zero. H2O2 is in excess, so I⁻ is used up completely, and its curve is three times as steep as the other two at any time.",
+   "steps": [
+    "Reactants decrease, product increases.",
+    "The 3 : 1 : 1 ratio means I⁻ changes three times faster.",
+    "I⁻ runs out first, so it reaches zero."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.1",
+   "kind": "short_answer",
+   "question": "Suggest how the change in concentration of iodine, I2(aq), could be followed in an aqueous reaction.",
+   "options": [],
+   "answer": "By colorimetry or spectrophotometry, since aqueous iodine is coloured.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "For the I⁻/H2O2 reaction, predict and justify the effect on rate of doubling the concentration of H2O2 at constant temperature.",
+   "options": [],
+   "answer": "The rate increases: higher concentration means more frequent collisions between reacting species.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "For the I⁻/H2O2 reaction in solution, predict and justify the effect on rate of carrying it out at 200 kPa instead of 100 kPa.",
+   "options": [],
+   "answer": "No noticeable effect: liquids are almost incompressible, so concentrations do not change.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "For the I⁻/H2O2 reaction, predict and justify the effect on rate of lowering the temperature by 5 °C.",
+   "options": [],
+   "answer": "The rate decreases: collisions are less frequent and particles have lower average kinetic energy, so fewer have Ek > Ea.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "For the iodide solution, predict and justify the effect on rate of making it from fine powdered NaI instead of large crystals.",
+   "options": [],
+   "answer": "No noticeable effect: the solid dissolves, so the solution has the same composition and surface area is irrelevant.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.4",
+   "kind": "short_answer",
+   "question": "CO(g) + Cl2(g) → COCl2(g) has ΔHr = −108 kJ mol⁻¹. Describe a potential energy profile showing ΔHr and Ea.",
+   "options": [],
+   "answer": "Reactants start higher than products; one hump (transition state) rises above the reactants, with Ea as an upward arrow and ΔHr (−108 kJ mol⁻¹) as a downward arrow from reactants to products.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.5",
+   "kind": "short_answer",
+   "question": "Describe how you would add a catalysed route to the phosgene energy profile.",
+   "options": [],
+   "answer": "Add a second curve labelled 'catalysed' with a lower peak (or lower peaks) with the same start and end levels, so Ea′ < Ea and ΔHr is unchanged.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.4",
+   "kind": "short_answer",
+   "question": "Describe the Maxwell–Boltzmann curve for gaseous reactants at one temperature.",
+   "options": [],
+   "answer": "Axes: proportion of particles against kinetic energy. The curve starts at the origin, rises to a peak and falls with a long tail that does not touch the x-axis; Ea is marked on the right, and the area beyond Ea is the reactive fraction.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.5",
+   "kind": "short_answer",
+   "question": "Using a Maxwell–Boltzmann curve, explain how a catalyst speeds up the phosgene reaction.",
+   "options": [],
+   "answer": "A catalyst lowers Ea, so more particles have enough energy to react. The collision frequency stays the same, but a larger fraction of collisions succeed, so the rate rises.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "For 2NO(g) + Cl2(g) → 2NOCl(g) at 260 K, initial rates (mol dm⁻³ min⁻¹) are: [NO] = 1.50 × 10⁻², [Cl2] = 1.50 × 10⁻² mol dm⁻³ → 5.30 × 10⁻³; [NO] = 1.50 × 10⁻², [Cl2] = 3.00 × 10⁻² → 1.06 × 10⁻²; [NO] = 3.00 × 10⁻², [Cl2] = 3.00 × 10⁻² → 4.24 × 10⁻². Deduce the orders with respect to Cl2 and NO.",
+   "options": [],
+   "answer": "First order in Cl2; second order in NO",
+   "steps": [
+    "Doubling [Cl2] (NO fixed) doubles the rate: order 1.",
+    "Doubling [NO] (Cl2 fixed) quadruples the rate: order 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "For 2NO + Cl2 → 2NOCl, which is first order in Cl2 and second order in NO, state the rate equation and overall order.",
+   "options": [],
+   "answer": "ν = k[Cl2][NO]²; overall order 3",
+   "steps": [
+    "Write [Cl2]¹[NO]².",
+    "Overall order = 1 + 2 = 3."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.11",
+   "kind": "calculation",
+   "question": "For ν = k[Cl2][NO]², use [NO] = [Cl2] = 1.50 × 10⁻² mol dm⁻³ and ν = 5.30 × 10⁻³ mol dm⁻³ min⁻¹ at 260 K to find k with units.",
+   "options": [],
+   "answer": "k ≈ 1.57 × 10³ dm⁶ mol⁻² min⁻¹",
+   "steps": [
+    "k = ν ÷ ([Cl2][NO]²).",
+    "k = 5.30 × 10⁻³ ÷ (1.50 × 10⁻²)³ = 1.57 × 10³.",
+    "Units: mol dm⁻³ min⁻¹ ÷ mol³ dm⁻⁹ = dm⁶ mol⁻² min⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.6",
+   "kind": "short_answer",
+   "question": "The rate equation for 2NO + Cl2 → 2NOCl is ν = k[Cl2][NO]². The proposed steps are: step 1, 2NO → N2O2; step 2, N2O2 + Cl2 → 2NOCl. Which step is rate-determining, and why?",
+   "options": [],
+   "answer": "Step 2 is the RDS: if step 1 were slow, the rate would not depend on [Cl2], but the rate equation is first order in Cl2.",
+   "steps": [
+    "Step 1 as RDS would give a rate with [NO] only.",
+    "The data show Cl2 affects the rate, so step 2 is slow."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.6",
+   "kind": "short_answer",
+   "question": "A mechanism is: step 1 (slow) N2O → N2 + O; step 2 (fast) N2O + O → N2 + O2. Write the overall equation.",
+   "options": [],
+   "answer": "2N2O(g) → 2N2(g) + O2(g)",
+   "steps": [
+    "Add the steps and cancel O, which appears on both sides."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.6",
+   "kind": "short_answer",
+   "question": "In the mechanism step 1 (slow) N2O → N2 + O; step 2 (fast) N2O + O → N2 + O2, state the role of N2O, O, N2 and O2.",
+   "options": [],
+   "answer": "N2O: reactant; O: intermediate; N2 and O2: products",
+   "steps": [
+    "O is made in step 1 and used in step 2, so it is an intermediate."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.8",
+   "kind": "short_answer",
+   "question": "In the mechanism step 1 (slow) N2O → N2 + O; step 2 (fast) N2O + O → N2 + O2, give the molecularity of the rate-determining step.",
+   "options": [],
+   "answer": "1 (unimolecular)",
+   "steps": [
+    "The slow step involves one N2O particle."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "For the mechanism step 1 (slow) N2O → N2 + O; step 2 (fast) N2O + O → N2 + O2, deduce the rate equation and overall order.",
+   "options": [],
+   "answer": "ν = k[N2O]; overall first order",
+   "steps": [
+    "The rate follows the slow step, which has one N2O particle."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.7",
+   "kind": "short_answer",
+   "question": "2N2O → 2N2 + O2 is exothermic with ΔHr = −164.1 kJ mol⁻¹ and goes through the mechanism step 1 (slow), step 2 (fast). Describe its energy profile.",
+   "options": [],
+   "answer": "Two humps with one dip (intermediate) between them. The first hump (slow step) is higher than the second. Products end lower than reactants by 164.1 kJ mol⁻¹. Label the transition states, the intermediate, Ea and ΔHr.",
+   "steps": [
+    "Two steps give two transition states and one intermediate.",
+    "The RDS has the highest Ea.",
+    "The intermediate is higher than both reactants and products."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.11",
+   "kind": "short_answer",
+   "question": "A reaction has rate constants 0.183 and 5.45 dm³ mol⁻¹ s⁻¹ at 30 and 60 °C. What is its overall order?",
+   "options": [],
+   "answer": "Second order",
+   "steps": [
+    "Units of k are dm³ mol⁻¹ s⁻¹, which fit a second-order rate equation."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.12",
+   "kind": "calculation",
+   "question": "A reaction has k = 0.183 dm³ mol⁻¹ s⁻¹ at 30 °C and 5.45 dm³ mol⁻¹ s⁻¹ at 60 °C. Calculate its activation energy in kJ mol⁻¹ (R = 8.31 J K⁻¹ mol⁻¹).",
+   "options": [],
+   "answer": "≈ 94.9 kJ mol⁻¹",
+   "steps": [
+    "ln(k₂/k₁) = ln(5.45/0.183) = 3.39.",
+    "1/303 − 1/333 = 2.97 × 10⁻⁴ K⁻¹.",
+    "Ea = 3.39 × 8.31 ÷ 2.97 × 10⁻⁴ ≈ 9.49 × 10⁴ J mol⁻¹ = 94.9 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.12",
+   "kind": "calculation",
+   "question": "A reaction has k = 0.183 dm³ mol⁻¹ s⁻¹ at 30 °C and Ea = 94.9 kJ mol⁻¹. Calculate k at 45 °C in dm³ mol⁻¹ s⁻¹.",
+   "options": [],
+   "answer": "≈ 1.08 dm³ mol⁻¹ s⁻¹",
+   "steps": [
+    "1/303 − 1/318 = 1.56 × 10⁻⁴ K⁻¹.",
+    "ln(k₃/k₁) = (94 900 ÷ 8.31) × 1.56 × 10⁻⁴ ≈ 1.78.",
+    "k₃ = 0.183 × e^1.78 ≈ 1.08."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.12",
+   "kind": "calculation",
+   "question": "An Arrhenius plot (ln k against 1/T) for 2ClO• → Cl2 + O2 passes through (0.00285 K⁻¹, 15.68) and (0.00385 K⁻¹, 14.10). Find Ea in kJ mol⁻¹.",
+   "options": [],
+   "answer": "≈ 13.1 kJ mol⁻¹",
+   "steps": [
+    "Slope = (14.10 − 15.68) ÷ (0.00385 − 0.00285) = −1580 K.",
+    "Slope = −Ea/R, so Ea = 1580 × 8.31 = 13 130 J mol⁻¹ = 13.1 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "511",
+   "understanding": "R2.2.13",
+   "kind": "calculation",
+   "question": "For a second-order reaction the Arrhenius plot has slope −1580 K and passes through (1/T = 0.00285 K⁻¹, ln k = 15.68). Find A and its units.",
+   "options": [],
+   "answer": "A ≈ 5.8 × 10⁸ dm³ mol⁻¹ s⁻¹",
+   "steps": [
+    "Use ln k = (−Ea/R)(1/T) + ln A.",
+    "ln A = 15.68 + 1580 × 0.00285 = 20.18.",
+    "A = e^20.18 ≈ 5.8 × 10⁸, with the units of a second-order k: dm³ mol⁻¹ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.3",
+   "kind": "multiple_choice",
+   "question": "Excess Mg powder is added to dilute HCl in a beaker on a balance and the beaker's mass is plotted against time (curve 1). Curve 2 falls more steeply and levels off at a lower final mass. Which change could produce curve 2?",
+   "options": [
+    "A. Increasing the temperature",
+    "B. Using the same mass of Mg ribbon",
+    "C. Doubling the mass of powdered Mg",
+    "D. Using the same volume of concentrated HCl(aq)"
+   ],
+   "answer": "D. Using the same volume of concentrated HCl(aq)",
+   "steps": [
+    "Excess Mg means the acid amount sets the total gas lost.",
+    "Only a larger amount of acid raises the total mass lost."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.2",
+   "kind": "short_answer",
+   "question": "In the Mg and HCl experiment, explain the shape of curve 1 (mass against time) using collision theory.",
+   "options": [],
+   "answer": "Gas escapes, so the mass drops at first quickly. As acid is consumed, collisions between H⁺ and Mg become less frequent, so the curve gets less steep. When the acid is gone (Mg in excess), the release stops and the curve is flat.",
+   "steps": [
+    "Mass loss reflects H2 released.",
+    "Falling [H+] lowers collision frequency.",
+    "No acid means no further reaction."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "Describe the third curve you would sketch if the Mg + HCl experiment were run at a lower temperature.",
+   "options": [],
+   "answer": "A curve less steep than curve 1 but flattening at the same final mass, since the final mass loss depends on the amount of HCl, not on temperature.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.3",
+   "kind": "short_answer",
+   "question": "On a separate graph, sketch [Mg²⁺(aq)] against time for the original and the faster experiment. What feature must both curves have at the start?",
+   "options": [],
+   "answer": "Both curves must start at the origin, because the initial solution contains no Mg²⁺. The faster one rises more steeply and reaches the higher plateau.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.1",
+   "kind": "short_answer",
+   "question": "IO3⁻(aq) + 5I⁻(aq) + 6H⁺(aq) → 3I2(aq) + 3H2O(l). How could the change of iodine concentration be monitored?",
+   "options": [],
+   "answer": "Iodine is coloured while the other species are colourless, so use a colorimeter. Alternatively use a pH meter, since H⁺ is consumed.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "In IO3⁻ + 5I⁻ + 6H⁺ → 3I2 + 3H2O, c(I2) is 0 at t = 0 and 1.55 mmol dm⁻³ at 30 s. Determine the average rate with respect to I2 over the first 30 s in mol dm⁻³ s⁻¹.",
+   "options": [],
+   "answer": "5.2 × 10⁻⁵ mol dm⁻³ s⁻¹",
+   "steps": [
+    "Δc = 1.55 mmol dm⁻³ = 1.55 × 10⁻³ mol dm⁻³.",
+    "Rate = 1.55 × 10⁻³ ÷ 30 = 5.2 × 10⁻⁵ mol dm⁻³ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "On the c(I2)–time graph, a tangent at t = 0 passes through (0, 0) and (16 s, 2.00 mmol dm⁻³). A tangent at t = 30 s passes through (0, 1.05) and (56 s, 2.00). Determine the initial rate and the instantaneous rate at 30 s with respect to I2 in mol dm⁻³ s⁻¹.",
+   "options": [],
+   "answer": "ν_init(I2) ≈ 1.3 × 10⁻⁴ mol dm⁻³ s⁻¹; ν_inst(30 s) ≈ 1.7 × 10⁻⁵ mol dm⁻³ s⁻¹",
+   "steps": [
+    "Initial: 2.00 ÷ 16 = 0.125 mmol dm⁻³ s⁻¹ = 1.3 × 10⁻⁴ mol dm⁻³ s⁻¹.",
+    "At 30 s: (2.00 − 1.05) ÷ 56 = 0.017 mmol dm⁻³ s⁻¹ = 1.7 × 10⁻⁵ mol dm⁻³ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "137",
+   "understanding": "R2.2.1",
+   "kind": "calculation",
+   "question": "In IO3⁻ + 5I⁻ + 6H⁺ → 3I2 + 3H2O, the initial rate with respect to I2 is 1.3 × 10⁻⁴ mol dm⁻³ s⁻¹ (0.125 mmol dm⁻³ s⁻¹). Calculate the overall initial rate.",
+   "options": [],
+   "answer": "≈ 4.2 × 10⁻⁵ mol dm⁻³ s⁻¹",
+   "steps": [
+    "The coefficient of I2 is 3.",
+    "Overall rate = 0.125 ÷ 3 mmol dm⁻³ s⁻¹ = 4.2 × 10⁻⁵ mol dm⁻³ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "F2(g) + 2ClO2(g) → 2FClO2(g). Initial rates (mol dm⁻³ min⁻¹): [F2] = 0.10, [ClO2] = 0.010 mol dm⁻³ → 1.2 × 10⁻³; [F2] = 0.10, [ClO2] = 0.030 → 3.6 × 10⁻³; [F2] = 0.15, [ClO2] = 0.010 → 1.8 × 10⁻³. Give the order with respect to ClO2 and the overall order.",
+   "options": [],
+   "answer": "First order with respect to ClO2; overall second order (option B)",
+   "steps": [
+    "Tripling [ClO2] triples the rate: first order.",
+    "Raising [F2] by 1.5 times raises the rate by 1.5 times: first order in F2.",
+    "Overall order = 1 + 1 = 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "NO2(g) + CO(g) → NO(g) + CO2(g) is second order with respect to NO2 and zero order with respect to CO. State the rate expression.",
+   "options": [],
+   "answer": "ν = k[NO2]²",
+   "steps": [
+    "The zero-order CO factor is 1 and is omitted."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.11",
+   "kind": "short_answer",
+   "question": "For ν = k[NO2]² with ν in mol dm⁻³ s⁻¹ and [NO2] in mol dm⁻³, deduce the units of k.",
+   "options": [],
+   "answer": "dm³ mol⁻¹ s⁻¹",
+   "steps": [
+    "mol dm⁻³ s⁻¹ = k × mol² dm⁻⁶.",
+    "k = mol dm⁻³ s⁻¹ ÷ (mol² dm⁻⁶) = dm³ mol⁻¹ s⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.6",
+   "kind": "short_answer",
+   "question": "A proposed mechanism is: step 1, NO2 + NO2 → NO + NO3; step 2, NO3 + CO → NO2 + CO2. The reaction is zero order in CO. Which step is the rate-determining step and why?",
+   "options": [],
+   "answer": "Step 1 is the RDS. If step 2 were slow, the rate would depend on [CO], which it does not.",
+   "steps": [
+    "Step 2 contains CO; step 1 does not.",
+    "Zero order in CO means CO is not in the slow step."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.10",
+   "kind": "short_answer",
+   "question": "Describe the sketch of rate against [NO2] for a reaction with ν = k[NO2]².",
+   "options": [],
+   "answer": "A curve (parabola) starting at the origin and rising ever more steeply, with axes labelled rate and concentration of NO2.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "138",
+   "understanding": "R2.2.5",
+   "kind": "short_answer",
+   "question": "Outline the effect of a catalyst on the mechanism and rate-determining step of this reaction.",
+   "options": [],
+   "answer": "A catalyst changes the mechanism and introduces a new RDS with a lower activation energy, so the reaction is faster.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "481",
+   "understanding": "R2.2.1",
+   "title": "Rates and overall rate from N2O",
+   "problem": "2N2O(g) → 2N2(g) + O2(g). In 10 s the concentration of N2O falls by 0.20 mol dm⁻³, while 0.20 mol dm⁻³ of N2 and 0.10 mol dm⁻³ of O2 form. Find the rate for each species and the overall rate.",
+   "steps": [
+    {
+     "hint": "Use ν = |Δc| ÷ Δt for N2O.",
+     "work": "ν(N2O) = 0.20 ÷ 10 = 0.020 mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Do the same for N2 and O2.",
+     "work": "ν(N2) = 0.020 mol dm⁻³ s⁻¹; ν(O2) = 0.10 ÷ 10 = 0.010 mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Divide each rate by its coefficient.",
+     "work": "0.020 ÷ 2 = 0.020 ÷ 2 = 0.010 ÷ 1 = 0.010 mol dm⁻³ s⁻¹ overall."
+    }
+   ],
+   "past_paper_ref": "17M.2.HL.TZ1.1"
+  },
+  {
+   "source": "companion",
+   "page": "483",
+   "understanding": "R2.2.1",
+   "title": "Rate from gas volume at SATP",
+   "problem": "0.100 dm³ of 0.250 mol dm⁻³ HCl reacts with Mg at SATP: Mg + 2HCl → MgCl2 + H2. 111 cm³ of H2 is collected in the first 10 s and 248 cm³ in total when the reaction finishes at 90 s. Find the rate in mol dm⁻³ s⁻¹ for 0–10 s and for the whole reaction, with respect to H2.",
+   "steps": [
+    {
+     "hint": "Find the molar volume at SATP from the STP value.",
+     "work": "Vm = 22.7 × 298.15 ÷ 273.15 = 24.8 dm³ mol⁻¹."
+    },
+    {
+     "hint": "Convert the first 111 cm³ to moles and then concentration change.",
+     "work": "n = 0.111 ÷ 24.8 = 0.00448 mol; Δc = 0.00448 ÷ 0.100 = 0.0448 mol dm⁻³."
+    },
+    {
+     "hint": "Divide by the time.",
+     "work": "ν = 0.0448 ÷ 10 = 4.48 × 10⁻³ mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Repeat for the full 248 cm³ over 90 s.",
+     "work": "n = 0.248 ÷ 24.8 = 0.0100 mol; Δc = 0.100 mol dm⁻³; ν = 0.100 ÷ 90 = 1.11 × 10⁻³ mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Divide by the coefficient of H2.",
+     "work": "The coefficient is 1, so the overall rate is also 1.11 × 10⁻³ mol dm⁻³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "485",
+   "understanding": "R2.2.1",
+   "title": "Initial and instantaneous rates from tangents",
+   "problem": "For Mg + 2HCl (0.100 dm³ of 0.250 mol dm⁻³ acid), [HCl] against time has a tangent at t = 0 through (0, 0.250) and (14 s, 0.100 mol dm⁻³), and a tangent at t = 55 s through (32 s, 0.085) and (78 s, 0.045). Find the overall initial rate and the overall instantaneous rate at 55 s.",
+   "steps": [
+    {
+     "hint": "Find the gradient of the first tangent.",
+     "work": "(0.100 − 0.250) ÷ 14 = −0.0107 mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Take the modulus and divide by the HCl coefficient.",
+     "work": "ν_init = 0.0107 ÷ 2 = 5.4 × 10⁻³ mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Find the gradient of the second tangent.",
+     "work": "(0.045 − 0.085) ÷ (78 − 32) = −8.7 × 10⁻⁴ mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Divide by the coefficient 2.",
+     "work": "ν_inst(55 s) = 8.7 × 10⁻⁴ ÷ 2 ≈ 4.4 × 10⁻⁴ mol dm⁻³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "486",
+   "understanding": "R2.2.1",
+   "title": "Rate expressed in cm³ per second",
+   "problem": "For Mg + HCl in 0.100 dm³ solution, the V(H2)–time tangent at t = 0 passes through (0, 0) and (12 s, 160 cm³). Find the initial rate in cm³ s⁻¹ and convert it to mol dm⁻³ s⁻¹ (Vm = 24.8 dm³ mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the gradient of the tangent.",
+     "work": "160 ÷ 12 ≈ 13.3 cm³ s⁻¹; coefficient of H2 is 1, so ν_init = 13.3 cm³ s⁻¹."
+    },
+    {
+     "hint": "Convert one second's gas volume to moles.",
+     "work": "0.0133 dm³ ÷ 24.8 = 5.4 × 10⁻⁴ mol."
+    },
+    {
+     "hint": "Divide by the solution volume and 1 s.",
+     "work": "0.00054 ÷ 0.100 = 5.4 × 10⁻³ mol dm⁻³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "498",
+   "understanding": "R2.2.6",
+   "title": "Rate-determining step of NO2 + CO",
+   "problem": "NO2 + CO → NO + CO2 (ΔHr = −126 kJ mol⁻¹) occurs at low temperature in two steps: (1) NO2 + NO2 → NO3 + NO; (2) NO3 + CO → NO2 + CO2. [CO] does not affect the rate. Identify the RDS and the intermediate, and describe the energy profile.",
+   "steps": [
+    {
+     "hint": "Decide which step involves CO.",
+     "work": "CO is only in step 2; if step 2 were slow, [CO] would change the rate, which it does not."
+    },
+    {
+     "hint": "State the RDS.",
+     "work": "Step 1 is the rate-determining (slow) step."
+    },
+    {
+     "hint": "Find the species made then used.",
+     "work": "NO3 is formed in step 1 and consumed in step 2: it is the intermediate."
+    },
+    {
+     "hint": "Build the profile from the rules.",
+     "work": "Two humps, one intermediate dip higher than reactants and products, products lower than reactants; step 1 hump higher (Ea1 > Ea2). At high temperature: one hump."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "501",
+   "understanding": "R2.2.10",
+   "title": "Rate equations from mechanisms",
+   "problem": "NO2 + CO → NO + CO2 has two low-temperature steps: (1) NO2 + NO2 → NO3 + NO (slow); (2) NO3 + CO → NO2 + CO2. At high temperature it goes in one step. Deduce the rate equation and orders in each case.",
+   "steps": [
+    {
+     "hint": "Use the slow step at low temperature.",
+     "work": "Step 1 has two NO2 particles: ν = k[NO2]²."
+    },
+    {
+     "hint": "Give the orders at low temperature.",
+     "work": "Second order in NO2, zero order in CO, overall second order."
+    },
+    {
+     "hint": "Use the single step at high temperature.",
+     "work": "One NO2 and one CO collide: ν = k[NO2][CO]."
+    },
+    {
+     "hint": "Give the orders at high temperature.",
+     "work": "First order in NO2, first order in CO, overall second order."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "502",
+   "understanding": "R2.2.10",
+   "title": "Orders and k for Fe³⁺ + I⁻",
+   "problem": "2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I2 at 298 K gives (initial [Fe³⁺], [I⁻] in mol dm⁻³; rate in mol dm⁻³ s⁻¹): (1.00 × 10⁻², 1.00 × 10⁻²) → 1.62 × 10⁻⁵; (2.00 × 10⁻², 1.00 × 10⁻²) → 3.24 × 10⁻⁵; (2.00 × 10⁻², 2.00 × 10⁻²) → 1.30 × 10⁻⁴. Find the orders, rate equation, k with units, and the rate at [Fe³⁺] = [I⁻] = 3.00 × 10⁻² mol dm⁻³.",
+   "steps": [
+    {
+     "hint": "Compare runs 1 and 2 (only Fe³⁺ changes).",
+     "work": "[Fe³⁺] ×2 gives rate ×2, so first order in Fe³⁺."
+    },
+    {
+     "hint": "Compare runs 2 and 3 (only I⁻ changes).",
+     "work": "[I⁻] ×2 gives rate ×4, so second order in I⁻."
+    },
+    {
+     "hint": "Write the rate equation and overall order.",
+     "work": "ν = k[Fe³⁺][I⁻]²; overall order 3."
+    },
+    {
+     "hint": "Solve for k with run 1.",
+     "work": "k = 1.62 × 10⁻⁵ ÷ (1.00 × 10⁻²)³ = 16.2 dm⁶ mol⁻² s⁻¹."
+    },
+    {
+     "hint": "Substitute the new concentrations.",
+     "work": "ν = 16.2 × 3.00 × 10⁻² × (3.00 × 10⁻²)² = 4.37 × 10⁻⁴ mol dm⁻³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "505",
+   "understanding": "R2.2.10",
+   "title": "Order from linear plots",
+   "problem": "The first six [HCl] values in the Mg + HCl reaction are 0.250, 0.160, 0.118, 0.095, 0.081, 0.070 mol dm⁻³ at 0, 10, 20, 30, 40, 50 s. Decide whether the reaction is first or second order in HCl.",
+   "steps": [
+    {
+     "hint": "Calculate ln[HCl] for each point.",
+     "work": "−1.39, −1.83, −2.14, −2.35, −2.51, −2.66."
+    },
+    {
+     "hint": "Calculate 1/[HCl] for each point.",
+     "work": "4.00, 6.25, 8.47, 10.5, 12.3, 14.3 dm³ mol⁻¹."
+    },
+    {
+     "hint": "Plot both against time and see which is straight.",
+     "work": "ln[HCl] against t is curved; 1/[HCl] against t is a straight line."
+    },
+    {
+     "hint": "State the order.",
+     "work": "A linear 1/[A] plot means second order in HCl; small deviations are random error."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "507",
+   "understanding": "R2.2.12",
+   "title": "Ea and A from an Arrhenius plot",
+   "problem": "For 2N2O5 → 2N2O4 + O2 (first order), the ln k against 1/T plot passes through (0.00302 K⁻¹, −6.8) and (0.00334 K⁻¹, −10.8) and through (0.00296 K⁻¹, −6.02). Find Ea in kJ mol⁻¹ and A with its units (R = 8.31 J K⁻¹ mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the gradient from the two far-apart points.",
+     "work": "(−6.8 + 10.8) ÷ (0.00302 − 0.00334) = −12 500 K."
+    },
+    {
+     "hint": "Use gradient = −Ea/R.",
+     "work": "Ea = 12 500 × 8.31 = 1.04 × 10⁵ J mol⁻¹ = 104 kJ mol⁻¹."
+    },
+    {
+     "hint": "Substitute a point into ln k = gradient × (1/T) + ln A.",
+     "work": "−6.02 = −12 500 × 0.00296 + ln A, so ln A = 30.98."
+    },
+    {
+     "hint": "Take the exponential.",
+     "work": "A = e^30.98 = 2.85 × 10¹³."
+    },
+    {
+     "hint": "Find the units from the rate equation.",
+     "work": "First order, ν = k[N2O5], so k and A are in s⁻¹: A = 2.85 × 10¹³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "128",
+   "understanding": "R2.2.3",
+   "title": "Why temperature raises reaction rate",
+   "problem": "Explain, using collision theory, why raising the temperature increases the rate of reaction.",
+   "steps": [
+    {
+     "hint": "Compare the Maxwell–Boltzmann curves.",
+     "work": "At higher T the area beyond Ea is larger, so a greater proportion of particles have Ek ≥ Ea."
+    },
+    {
+     "hint": "Say what that does to collisions.",
+     "work": "So a greater proportion of collisions are successful."
+    },
+    {
+     "hint": "Add the second factor.",
+     "work": "Particles also move faster and collide more frequently, further raising the rate."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "131",
+   "understanding": "R2.2.1",
+   "title": "Rates from HCl concentration data",
+   "problem": "CaCO3 reacts with excess HCl; [HCl] (mol dm⁻³) is 0.500, 0.320, 0.236, 0.190, 0.162, 0.140 at 0, 20, 40, 60, 80, 100 s. A tangent at t = 0 passes through (0, 0.500) and (20 s, 0.240); a tangent at 100 s passes through (56 s, 0.180) and (144 s, 0.100). Find the average rate 0–100 s, the initial rate, and the overall instantaneous rate at 100 s.",
+   "steps": [
+    {
+     "hint": "Use the table for the average rate.",
+     "work": "|0.140 − 0.500| ÷ 100 = 3.60 × 10⁻³ mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Use the first tangent.",
+     "work": "|0.240 − 0.500| ÷ 20 = 1.3 × 10⁻² mol dm⁻³ s⁻¹."
+    },
+    {
+     "hint": "Use the second tangent.",
+     "work": "|0.100 − 0.180| ÷ (144 − 56) = 9.1 × 10⁻⁴ mol dm⁻³ s⁻¹ (HCl)."
+    },
+    {
+     "hint": "Divide by the coefficient of HCl in the equation.",
+     "work": "CaCO3 + 2HCl → CaCl2 + H2O + CO2, so overall = 9.1 × 10⁻⁴ ÷ 2 ≈ 4.6 × 10⁻⁴ mol dm⁻³ s⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "132",
+   "understanding": "R2.2.10",
+   "title": "Rate law for NO + Cl2",
+   "problem": "For 2NO + Cl2 → 2NOCl at 260 K: [NO] = 0.15, [Cl2] = 0.15 mol dm⁻³ → 0.53 mol dm⁻³ min⁻¹; [NO] = 0.15, [Cl2] = 0.30 → 1.06; [NO] = 0.30, [Cl2] = 0.30 → 4.24. Find the orders, rate expression, overall order and k.",
+   "steps": [
+    {
+     "hint": "Double Cl2 with NO fixed.",
+     "work": "Rate doubles (0.53 → 1.06): first order in Cl2."
+    },
+    {
+     "hint": "Double NO with Cl2 fixed.",
+     "work": "Rate ×4 (1.06 → 4.24): second order in NO."
+    },
+    {
+     "hint": "Write the expression.",
+     "work": "ν = k[NO]²[Cl2]; overall order 3."
+    },
+    {
+     "hint": "Solve for k using row 1.",
+     "work": "k = 0.53 ÷ (0.15² × 0.15) ≈ 1.6 × 10² dm⁶ mol⁻² min⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "134",
+   "understanding": "R2.2.12",
+   "title": "Ea and A from peroxide data",
+   "problem": "The ln k against 1/T plot for decomposition of an organic peroxide passes through (1/T = 2.50 × 10⁻³ K⁻¹, ln k = −4.3) and (4.00 × 10⁻³ K⁻¹, −26.5). Find Ea in kJ mol⁻¹ and A (R = 8.31 J K⁻¹ mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the gradient.",
+     "work": "(−26.5 + 4.3) ÷ (1.50 × 10⁻³) = −1.48 × 10⁴ K."
+    },
+    {
+     "hint": "Multiply by R and change sign.",
+     "work": "Ea = 1.48 × 10⁴ × 8.31 = 1.23 × 10⁵ J mol⁻¹ = 123 kJ mol⁻¹."
+    },
+    {
+     "hint": "Substitute a point to find ln A.",
+     "work": "−4.3 = −1.48 × 10⁴ × 2.50 × 10⁻³ + ln A, so ln A = 32.7."
+    },
+    {
+     "hint": "Take the exponential.",
+     "work": "A = e^32.7 ≈ 1.6 × 10¹⁴ (same units as k)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "135",
+   "understanding": "R2.2.6",
+   "title": "Identifying the RDS for NO + Cl2",
+   "problem": "2NO + Cl2 → 2NOCl occurs as step 1: 2NO → N2O2; step 2: N2O2 + Cl2 → 2NOCl. The rate expression is ν = k[NO]²[Cl2]. Which step is rate-determining?",
+   "steps": [
+    {
+     "hint": "Test step 1 as the slow step.",
+     "work": "Rate would be k[NO]², independent of [Cl2]."
+    },
+    {
+     "hint": "Compare with data.",
+     "work": "This contradicts the experimental rate expression, so step 1 is not the RDS."
+    },
+    {
+     "hint": "Check step 2 as RDS.",
+     "work": "If step 1 is fast, [N2O2] ∝ [NO]², so ν = k[N2O2][Cl2] = k′[NO]²[Cl2], matching the data: step 2 is the RDS."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "484",
+   "understanding": "R2.2.1",
+   "tag": "Data-based question",
+   "prompt": "In the chalk + HCl experiment (50.0 cm³ of 0.500 mol dm⁻³ acid, mass loss recorded every 30 s: 0.161 g by 30 s and a constant 0.440 g from 270 s onward), what are the average rates (mol dm⁻³ s⁻¹) of reaction for 0–30 s and for the whole reaction?",
+   "model_answer": [
+    "The mass lost is CO2: 0.161 g ÷ 44.0 = 3.66 × 10⁻³ mol in the first 30 s.",
+    "CaCl2 forms in the same amount; divide by 0.0500 dm³ to get Δc = 0.0732 mol dm⁻³.",
+    "Rate for 0–30 s = 0.0732 ÷ 30 = 2.44 × 10⁻³ mol dm⁻³ s⁻¹.",
+    "The mass is constant from 270 s, so the reaction is complete then: 0.440 g gives 0.0100 mol, i.e. 0.200 mol dm⁻³.",
+    "Whole-reaction rate = 0.200 ÷ 270 = 7.41 × 10⁻⁴ mol dm⁻³ s⁻¹, lower than the early rate because the reaction slows."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "486",
+   "understanding": "R2.2.1",
+   "tag": "Activity",
+   "prompt": "Using the mass-loss table for chalk + HCl, how would you find the initial rate and the instantaneous rate at 150 s, and what values result?",
+   "model_answer": [
+    "Convert each mass loss to moles of CO2 (÷ 44.0), then to moles of CaCl2 formed, and divide by 0.0500 dm³ to get [CaCl2].",
+    "Plot [CaCl2] against time and draw tangents at t = 0 and t = 150 s.",
+    "The gradient of each tangent gives the rate (CaCl2 has coefficient 1).",
+    "Initial rate ≈ 2.8 × 10⁻³ mol dm⁻³ s⁻¹.",
+    "Instantaneous rate at 150 s ≈ 3.8 × 10⁻⁴ mol dm⁻³ s⁻¹, much lower, because acid has been consumed."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "491",
+   "understanding": "R2.2.3",
+   "tag": "Skills question",
+   "prompt": "A student reacts excess marble chips with five HCl concentrations and records the time to collect 50 cm³ of CO2 (three trials each; for 0.2 mol dm⁻³: 202 s, 498 s, 215 s). Identify the variables, the outlier and the main sources of error, and suggest improvements.",
+   "model_answer": [
+    "Independent variable: concentration of HCl; dependent variable: time to collect 50 cm³ of gas.",
+    "Controls: temperature (water bath), volume of acid, mass or size of marble chips.",
+    "Outlier: the 498 s trial at 0.2 mol dm⁻³, far above its two repeats.",
+    "Rate ∝ 1/t, so plot 1/t against concentration; a line that misses the origin suggests systematic error, while points off the error bars suggest random error.",
+    "Error sources: CO2 dissolves in water; gas lost when the bung is moved; difficulty reading the measuring cylinder; uneven acid concentration; the reaction's heat changes the rate.",
+    "Improvements: use a gas syringe or mass-loss method, keep temperature constant, stir, add acid through a thistle funnel."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "493",
+   "understanding": "R2.2.4",
+   "tag": "Activity",
+   "prompt": "Sketch a Maxwell–Boltzmann curve at T3 < T1. Where is its maximum and how does it compare in height? Will the proportion of reactive particles be higher or lower than at T1?",
+   "model_answer": [
+    "The peak at T3 is higher and further to the left than at T1.",
+    "The average kinetic energy is lower at T3.",
+    "On the right-hand side the T3 curve is lower and flatter than the T1 curve.",
+    "Fewer particles at T3 have Ek > Ea.",
+    "So the proportion of reactive particles at T3 is lower than at T1."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "496",
+   "understanding": "R2.2.3",
+   "tag": "Activity",
+   "prompt": "For each change, state whether collision frequency, average Ek, Ea and rate rise, fall or stay the same: lower reactant concentration, higher gas pressure, lower product pressure, larger gas volume, lower temperature, larger solid surface area, adding a catalyst.",
+   "model_answer": [
+    "Lower reactant concentration: collision frequency down, Ek and Ea unchanged, rate down.",
+    "Higher gas reactant pressure, or larger solid surface area: more frequent collisions, Ek and Ea unchanged, rate up.",
+    "Lower product pressure: no change in reactant collisions, Ek, Ea or rate.",
+    "Larger gas volume: collision frequency down, rate down, Ek and Ea unchanged.",
+    "Lower temperature: collision frequency down, average Ek down, Ea unchanged, rate down.",
+    "Catalyst: collision frequency and Ek unchanged, Ea down, rate up."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.2.1",
+   "tag": "Tool 1, 3, Inquiry 2",
+   "prompt": "Concentration changes are rarely measured directly in rate experiments. What methods give data for finding the rate?",
+   "model_answer": [
+    "Measure the volume of gas produced with a gas syringe or inverted measuring cylinder.",
+    "Measure mass loss on a balance when a gas escapes.",
+    "Monitor pressure (gases), pH (acid–base) or conductivity (electrolytes) with a data logger.",
+    "Use colorimetry or spectrophotometry for coloured species, or time how long a mark takes to be obscured.",
+    "Take samples at intervals and titrate.",
+    "Convert readings to concentration using stoichiometry, gas laws or a calibration curve, then use tangents for rates."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.2.1",
+   "tag": "Tool 1",
+   "prompt": "Which rate experiments use time as (i) a dependent variable and (ii) an independent variable?",
+   "model_answer": [
+    "Time as dependent variable: clock reactions (e.g. time for a mark to disappear or for a colour change), where you change a concentration or temperature and measure how long it takes.",
+    "Time as independent variable: monitoring volume, mass, pH or absorbance at set intervals during one run.",
+    "In the second case, the plot of property against time gives rates through gradients.",
+    "In the first case, 1/t is used as a measure of rate."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.2.3",
+   "tag": "Tool 1",
+   "prompt": "Which variables must be controlled when studying how one factor affects the rate of a reaction?",
+   "model_answer": [
+    "Change only the independent variable and keep all others constant.",
+    "Control temperature (e.g. a water bath), since it strongly affects the rate.",
+    "Keep the same volume and concentration of other reactants.",
+    "Keep the surface area or particle size of solids constant, and the same mass or amount of catalyst.",
+    "Use the same method of timing or measurement and the same stirring.",
+    "Repeat trials to check reliability."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.2.3",
+   "tag": "Tool 3, Inquiry 3",
+   "prompt": "How can graphs of rate data reveal systematic and random error?",
+   "model_answer": [
+    "Random error shows as scatter of points about the best-fit line, and points missing their error bars.",
+    "Systematic error shows as a consistent offset, such as a line that should pass through the origin but has a non-zero intercept.",
+    "Error bars (e.g. from the half-range method) show the size of random uncertainty.",
+    "Outliers stand out well away from the trend.",
+    "Repeats and plotting 1/t against concentration make these features easier to see."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.2.10",
+   "tag": "Tool 1, 3, Inquiry 2",
+   "prompt": "What measurements do you need to deduce the order of reaction with respect to a specific reactant?",
+   "model_answer": [
+    "Measure initial rates in several experiments, changing the concentration of only that reactant, with all else and temperature constant.",
+    "Or record concentration against time in one run and plot concentration, ln[A] and 1/[A] against time.",
+    "The order comes from how the rate changes: doubling concentration giving the same, double or four times the rate means order 0, 1 or 2.",
+    "With graphs, a straight line for [A], ln[A] or 1/[A] against time indicates order 0, 1 or 2.",
+    "Repeat to assess reliability and check for outliers."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "R2.2",
+ "title": "How fast? The rate of chemical change",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 3 (Course Companion p487): numbers not on the cited page: 50.0, 44.0",
+  "practice 11 (Course Companion p506): numbers not on the cited page: 0.0054, 0.065",
+  "practice 55 (IB Prepared p138): copies the book"
+ ]
+}

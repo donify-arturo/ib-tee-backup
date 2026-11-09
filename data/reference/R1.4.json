@@ -1,0 +1,135 @@
+{
+ "notes": [
+  {
+   "heading": "Entropy as dispersal of matter and energy",
+   "understanding": "R1.4.1",
+   "points": [
+    "Entropy, S, measures how widely matter and energy are spread out; more ways to share the energy means higher entropy.",
+    "Under the same conditions, entropy order is gas > liquid > solid, since particles gain freedom and energy-sharing options.",
+    "Total entropy change = ΔS(system) + ΔS(surroundings).",
+    "Standard entropy values S⦵ are in section 13 of the data booklet; units are J K⁻¹ mol⁻¹."
+   ]
+  },
+  {
+   "heading": "Predicting and calculating entropy change",
+   "understanding": "R1.4.1",
+   "points": [
+    "To predict the sign of ΔS, check states first, then compare moles of gas on each side.",
+    "More gas moles in the products means ΔS is positive; fewer gas moles means ΔS is negative.",
+    "Calculation: ΔS⦵ = ΣS⦵(products) − ΣS⦵(reactants), multiplying each value by its balancing coefficient.",
+    "Use the right state value: S⦵ of H2O(g) differs greatly from H2O(l). Check the answer against your prediction."
+   ]
+  },
+  {
+   "heading": "Gibbs energy equation and units",
+   "understanding": "R1.4.2",
+   "points": [
+    "ΔG⦵ = ΔH⦵ − TΔS⦵, with T the absolute temperature in kelvin (°C + 273.15).",
+    "ΔH and ΔG are in kJ mol⁻¹, but ΔS is in J K⁻¹ mol⁻¹. Divide ΔS by 1000 before substituting.",
+    "ΔH⦵ comes from bond enthalpies or enthalpies of formation, and ΔS⦵ from standard entropies; thermodynamic data are in the booklet.",
+    "ΔG is linked to the energy obtainable from a reaction."
+   ]
+  },
+  {
+   "heading": "Spontaneity and the sign of ΔG",
+   "understanding": "R1.4.3",
+   "points": [
+    "At constant pressure, a change is spontaneous when ΔG < 0.",
+    "ΔG includes the system's entropy change and the surroundings' entropy change caused by heat transfer.",
+    "ΔH negative with ΔS positive: always spontaneous. ΔH positive with ΔS negative: never spontaneous.",
+    "Both ΔH and ΔS positive: spontaneous only at high T. Both negative: spontaneous only at low T.",
+    "For ΔH and ΔS both positive, set ΔG = 0 to get T = ΔH/ΔS; above this T the reaction is spontaneous."
+   ]
+  },
+  {
+   "heading": "ΔG at equilibrium and link to K",
+   "understanding": "R1.4.4",
+   "points": [
+    "As a reaction nears equilibrium, ΔG becomes less negative; at equilibrium ΔG = 0, the minimum Gibbs energy.",
+    "ΔG = ΔG⦵ + RT lnQ; at equilibrium Q = K, which gives ΔG⦵ = −RT lnK.",
+    "Here R = 8.31 J K⁻¹ mol⁻¹, so ΔG⦵ must be in J mol⁻¹. Rearranged: K = e^(−ΔG⦵/RT).",
+    "K > 1 means ΔG⦵ < 0 (products favoured); K < 1 means ΔG⦵ > 0 (reactants favoured); K = 1 means ΔG⦵ = 0.",
+    "The book says these equations are in section 1 of the data booklet."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Entropy (S)",
+   "definition": "A measure of how dispersed or distributed matter and energy are in a system; the more ways the energy can be distributed, the higher the entropy.",
+   "must_say": [
+    "dispersal of matter",
+    "dispersal of energy",
+    "ways energy distributed"
+   ],
+   "trap": "Describing entropy only as disorder or randomness, which the book calls an oversimplification."
+  },
+  {
+   "term": "Standard entropy change (ΔS⦵)",
+   "definition": "The entropy change of a reaction under standard conditions, found by subtracting the total standard entropies of reactants from those of products.",
+   "must_say": [
+    "products minus reactants",
+    "standard conditions"
+   ],
+   "trap": "Forgetting to multiply by coefficients or mixing up H2O(l) and H2O(g) values."
+  },
+  {
+   "term": "Gibbs energy change (ΔG)",
+   "definition": "A state function linking enthalpy change, entropy change and absolute temperature, ΔG = ΔH − TΔS, showing the energy obtainable and whether a change is spontaneous.",
+   "must_say": [
+    "ΔH − TΔS",
+    "absolute temperature"
+   ],
+   "trap": "Using ΔS in J K⁻¹ mol⁻¹ with ΔH in kJ mol⁻¹ without converting."
+  },
+  {
+   "term": "Spontaneous change",
+   "definition": "At constant pressure, a change with a negative Gibbs energy change, ΔG < 0, which gives an overall increase in total entropy.",
+   "must_say": [
+    "ΔG negative",
+    "constant pressure",
+    "total entropy increases"
+   ],
+   "trap": "Assuming spontaneous means fast; high activation energy can make it kinetically unfavourable."
+  },
+  {
+   "term": "Second law of thermodynamics",
+   "definition": "Reactions are spontaneous if they cause an overall increase in total entropy of the system plus surroundings; ΔS total = 0 at equilibrium.",
+   "must_say": [
+    "total entropy increases",
+    "system and surroundings"
+   ],
+   "trap": "Looking only at the system's entropy and ignoring the surroundings."
+  },
+  {
+   "term": "Reaction quotient (Q)",
+   "definition": "The ratio of product concentrations to reactant concentrations at any chosen point in a reaction.",
+   "must_say": [
+    "products over reactants",
+    "any point in reaction"
+   ],
+   "trap": "Confusing Q with K, which applies only at equilibrium."
+  },
+  {
+   "term": "Equilibrium constant (K)",
+   "definition": "The ratio of product concentrations to reactant concentrations once a reversible reaction has reached equilibrium, when forward and backward rates are equal.",
+   "must_say": [
+    "products over reactants",
+    "at equilibrium"
+   ],
+   "trap": "Using non-equilibrium concentrations, which gives Q rather than K."
+  },
+  {
+   "term": "Surroundings",
+   "definition": "Everything outside the system.",
+   "must_say": [
+    "everything outside the system"
+   ],
+   "trap": ""
+  }
+ ],
+ "sub_topic": "R1.4",
+ "title": "Entropy and spontaneity",
+ "generated_by": "sonnet",
+ "issues": []
+}

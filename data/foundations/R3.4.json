@@ -1,0 +1,1144 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "629",
+   "understanding": "R3.4.1",
+   "kind": "multiple_choice",
+   "question": "What must a species have in order to act as a nucleophile?",
+   "options": [
+    "A. A negative charge",
+    "B. A lone pair of electrons",
+    "C. A positive charge",
+    "D. A symmetrical distribution of electrons"
+   ],
+   "answer": "B. A lone pair of electrons",
+   "steps": [
+    "A nucleophile donates an electron pair to form a bond.",
+    "So it needs a lone pair; it can be neutral (H2O, NH3) or negative (OH–)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "629",
+   "understanding": "R3.4.1",
+   "kind": "multiple_choice",
+   "question": "Which of these is NOT a nucleophile?",
+   "options": [
+    "A. CH3NH2",
+    "B. (CH3)2NH",
+    "C. (CH3)3N",
+    "D. (CH3)4N+"
+   ],
+   "answer": "D. (CH3)4N+",
+   "steps": [
+    "Check each species for a lone pair on nitrogen.",
+    "The first three amines each have a lone pair on N.",
+    "In (CH3)4N+ all four N valence pairs are bonding, so there is no lone pair to donate."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "630",
+   "understanding": "R3.4.2",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of 2-bromo-2-methylpropane with potassium hydroxide, and name the nucleophile and the leaving group.",
+   "options": [],
+   "answer": "(CH3)3CBr + KOH → (CH3)3COH + KBr; nucleophile OH–, leaving group Br–",
+   "steps": [
+    "OH– donates a lone pair to the electron-deficient carbon.",
+    "The C–Br bond breaks and Br– leaves.",
+    "Products: 2-methylpropan-2-ol and KBr."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "630",
+   "understanding": "R3.4.2",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of bromopentane (C5H11Br) with the cyanide ion, and name the nucleophile and the leaving group.",
+   "options": [],
+   "answer": "C5H11Br + CN– → C5H11CN + Br–; nucleophile CN–, leaving group Br–",
+   "steps": [
+    "CN– donates its lone pair to the carbon bonded to Br.",
+    "Br– is displaced as the leaving group."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "633",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Give the product of the reaction of propene gas, C3H6, with chlorine gas, Cl2, as a name and a formula.",
+   "options": [],
+   "answer": "1,2-dichloropropane, CH3CHClCH2Cl",
+   "steps": [
+    "Cl2 adds across the C=C bond (electrophilic addition).",
+    "One Cl goes on each carbon of the former double bond."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "633",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Iodine solutions are yellow, brown or purple. Explain how an iodine solution can detect unsaturated hydrocarbons.",
+   "options": [],
+   "answer": "With an alkene the iodine adds across the C=C bond, so the coloured solution becomes colourless.",
+   "steps": [
+    "Iodine adds across the double bond of an unsaturated compound.",
+    "Iodine is used up, so the colour disappears.",
+    "A saturated compound would leave the colour unchanged."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "634",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the addition of hydrogen fluoride to 2-methylbut-2-ene.",
+   "options": [],
+   "answer": "CH3C(CH3)=CHCH3 + HF → CH3CF(CH3)CH2CH3",
+   "steps": [
+    "HF adds across C=C.",
+    "F goes on the more substituted carbon (via the more stable tertiary carbocation)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "634",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of pent-2-ene with iodine, I2.",
+   "options": [],
+   "answer": "CH3CH=CHCH2CH3 + I2 → CH3CHICHICH2CH3",
+   "steps": [
+    "I2 adds across the C=C bond, one I on each carbon."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "634",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of ethene with water (acid catalyst).",
+   "options": [],
+   "answer": "CH2=CH2 + H2O → CH3CH2OH",
+   "steps": [
+    "Water adds across C=C (hydration), giving ethanol."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "634",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of cyclohexene with hydrogen chloride.",
+   "options": [],
+   "answer": "C6H10 + HCl → C6H11Cl",
+   "steps": [
+    "HCl adds across the ring C=C, giving chlorocyclohexane."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "634",
+   "understanding": "R3.4.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of methylpropene with hydrogen iodide.",
+   "options": [],
+   "answer": "CH3C(CH3)=CH2 + HI → CH3CI(CH3)CH3, i.e. (CH3)3CI",
+   "steps": [
+    "HI adds across C=C.",
+    "The product via the tertiary carbocation is 2-iodo-2-methylpropane."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "635",
+   "understanding": "R3.4.6",
+   "kind": "multiple_choice",
+   "question": "Which species is a Lewis acid but not a Brønsted–Lowry acid?",
+   "options": [
+    "A. Cu2+",
+    "B. NH4+",
+    "C. Cu",
+    "D. CH3COOH"
+   ],
+   "answer": "A. Cu2+",
+   "steps": [
+    "Cu2+ can accept electron pairs, so it is a Lewis acid.",
+    "It has no proton to donate, so it is not a Brønsted–Lowry acid.",
+    "NH4+ and CH3COOH donate H+; Cu has no empty-orbital pair-acceptor role like Cu2+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "637",
+   "understanding": "R3.4.7",
+   "kind": "multiple_choice",
+   "question": "Statements: I Lewis bases can act as nucleophiles. II Electrophiles are Lewis acids. III Lewis acids are electron-pair acceptors. Which are correct?",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "D. I, II and III",
+   "steps": [
+    "Nucleophiles are Lewis bases, electrophiles are Lewis acids.",
+    "Lewis acids accept electron pairs, so all three are true."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "18M.1.HL.TZ1.26"
+  },
+  {
+   "source": "companion",
+   "page": "637",
+   "understanding": "R3.4.7",
+   "kind": "multiple_choice",
+   "question": "What type of bond forms when a Lewis acid reacts with a Lewis base?",
+   "options": [
+    "A. Covalent",
+    "B. Dipole–dipole",
+    "C. Double",
+    "D. Hydrogen"
+   ],
+   "answer": "A. Covalent",
+   "steps": [
+    "The base donates a lone pair, forming a coordination (dative covalent) bond, which is a covalent bond."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "17M.1.HL.TZ2.26"
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the charge on the metal ion in [Cr(H2O)6]3+.",
+   "options": [],
+   "answer": "Cr3+ (chromium(III))",
+   "steps": [
+    "Water is neutral, so the metal charge equals the complex charge: 3+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the charge on the metal ion in [NiBr4]2–.",
+   "options": [],
+   "answer": "Ni2+ (nickel(II))",
+   "steps": [
+    "Metal charge = overall charge – (4 × –1) = –2 + 4 = 2+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the charge on the metal ion in [Pt(CN)6]2–.",
+   "options": [],
+   "answer": "Pt4+ (platinum(IV))",
+   "steps": [
+    "Metal charge = –2 – (6 × –1) = –2 + 6 = 4+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the charge on the metal ion in [Fe(H2O)2(NH3)4]3+.",
+   "options": [],
+   "answer": "Fe3+ (iron(III))",
+   "steps": [
+    "Both ligands are neutral, so the metal charge equals the complex charge: 3+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the charge on the metal ion in [Pd(CN)4(NH3)2]2–.",
+   "options": [],
+   "answer": "Pd2+ (palladium(II))",
+   "steps": [
+    "Metal charge = –2 – (4 × –1) = –2 + 4 = 2+. NH3 is neutral."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall charge n of [Cr(H2O)6]n, where chromium is Cr(III).",
+   "options": [],
+   "answer": "3+",
+   "steps": [
+    "Cr3+ plus six neutral ligands: n = +3."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall charge n of [Ni(OH)2Br2]n, where nickel is Ni(II).",
+   "options": [],
+   "answer": "2–",
+   "steps": [
+    "n = 2 + 2(–1) + 2(–1) = –2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall charge n of [Pt(CN)4(H2O)2]n, where platinum is Pt(IV).",
+   "options": [],
+   "answer": "0",
+   "steps": [
+    "n = 4 + 4(–1) + 2(0) = 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall charge n of [Fe(H2O)2(NH3)4]n, where iron is Fe(II).",
+   "options": [],
+   "answer": "2+",
+   "steps": [
+    "All ligands are neutral, so n = +2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall charge n of [PdCl6]n, where palladium is Pd(IV).",
+   "options": [],
+   "answer": "2–",
+   "steps": [
+    "n = 4 + 6(–1) = –2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "640",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "State an equation for the reaction of 1-chlorobutane, C4H9Cl, with aqueous potassium hydroxide, KOH.",
+   "options": [],
+   "answer": "C4H9Cl + KOH → C4H9OH + KCl",
+   "steps": [
+    "OH– replaces Cl in a nucleophilic substitution.",
+    "Products: butan-1-ol and KCl."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "641",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "State an equation for the reaction of 2-iodo-2-methylbutane, C5H11I, with NaOH.",
+   "options": [],
+   "answer": "C5H11I + NaOH → C5H11OH + NaI",
+   "steps": [
+    "OH– substitutes I, giving 2-methylbutan-2-ol and NaI."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "642",
+   "understanding": "R3.4.10",
+   "kind": "short_answer",
+   "question": "Samples of 2-iodopropane, 2-chloropropane and 2-bromopropane are added to aqueous NaOH. List them from highest to lowest reaction rate.",
+   "options": [],
+   "answer": "2-iodopropane > 2-bromopropane > 2-chloropropane",
+   "steps": [
+    "The rate depends on how easily the C–halogen bond breaks.",
+    "Bond enthalpies: C–I 228 < C–Br 285 < C–Cl 324 kJ mol⁻¹.",
+    "Weakest bond reacts fastest."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "646",
+   "understanding": "R3.4.11",
+   "kind": "multiple_choice",
+   "question": "Which reaction is an example of electrophilic addition?",
+   "options": [
+    "A. CH3CH2CH2Cl → CH3CH=CH2 + HCl",
+    "B. C3H7I + KCN → C3H7CN + KI",
+    "C. CH3CH2CH2CH=CH2 + Br2 → CH3CH2CH2CH(Br)CH2Br",
+    "D. CH4 + Cl2 → CH3Cl + HCl"
+   ],
+   "answer": "C. CH3CH2CH2CH=CH2 + Br2 → CH3CH2CH2CH(Br)CH2Br",
+   "steps": [
+    "A is elimination, B nucleophilic substitution, D radical substitution.",
+    "Only C adds an electrophile (Br2) across a C=C bond."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "649",
+   "understanding": "R3.4.13",
+   "kind": "short_answer",
+   "question": "State the typical reaction type that benzene undergoes with a charged electrophile and the one cyclohexene undergoes with bromine.",
+   "options": [],
+   "answer": "Benzene: electrophilic substitution; cyclohexene: electrophilic addition",
+   "steps": [
+    "Benzene's stable aromatic ring is kept, so H is substituted.",
+    "Cyclohexene's C=C adds the electrophile."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.5",
+   "kind": "multiple_choice",
+   "question": "Ethene reacts with steam in the presence of a strong acid: C2H4 + H2O → C2H5OH. Name the reaction type.",
+   "options": [
+    "A. Nucleophilic substitution",
+    "B. Neutralization",
+    "C. Condensation",
+    "D. Electrophilic addition"
+   ],
+   "answer": "D. Electrophilic addition",
+   "steps": [
+    "Water adds across the C=C bond, with H+ as the attacking electrophile."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.7",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct?",
+   "options": [
+    "A. Electrophiles are Brønsted–Lowry acids.",
+    "B. Nucleophiles are Brønsted–Lowry acids.",
+    "C. Electrophiles are Lewis acids.",
+    "D. Nucleophiles are Lewis acids."
+   ],
+   "answer": "C. Electrophiles are Lewis acids.",
+   "steps": [
+    "Electrophiles accept electron pairs, which defines a Lewis acid.",
+    "Nucleophiles are Lewis bases."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.7",
+   "kind": "multiple_choice",
+   "question": "Which is an example of a Lewis base?",
+   "options": [
+    "A. An electrophile",
+    "B. BF3",
+    "C. CH4",
+    "D. A nucleophile"
+   ],
+   "answer": "D. A nucleophile",
+   "steps": [
+    "A Lewis base donates an electron pair, as nucleophiles do.",
+    "BF3 is a Lewis acid; CH4 has no lone pair."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.13",
+   "kind": "multiple_choice",
+   "question": "Which attacking species is matched with its correct mechanism?",
+   "options": [
+    "A. OH– — electrophilic substitution",
+    "B. Cl+ — nucleophilic addition",
+    "C. NH4+ — nucleophilic addition",
+    "D. NO2+ — electrophilic substitution"
+   ],
+   "answer": "D. NO2+ — electrophilic substitution",
+   "steps": [
+    "Cations that accept electron pairs are electrophiles, so B and C are wrong.",
+    "OH– is a nucleophile, so A is wrong.",
+    "NO2+ attacks benzene by electrophilic substitution."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.9",
+   "kind": "multiple_choice",
+   "question": "Which bromoalkane is most likely to hydrolyse by an SN1 mechanism?",
+   "options": [
+    "A. CH3CHBrCH2CH3",
+    "B. (CH3)2CHBr",
+    "C. (CH3)3CBr",
+    "D. CH3CH2CH2CH2Br"
+   ],
+   "answer": "C. (CH3)3CBr",
+   "steps": [
+    "SN1 needs a stable carbocation.",
+    "(CH3)3CBr is tertiary and forms the most stable carbocation."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Explain why the major product of HBr adding to 2-methylbut-2-ene is 2-bromo-2-methylbutane and not 2-bromo-3-methylbutane.",
+   "options": [],
+   "answer": "The major product forms through the more stable tertiary carbocation; the other would need a less stable secondary carbocation.",
+   "steps": [
+    "Alkyl groups donate electron density (positive inductive effect), stabilising C+.",
+    "The extra methyl group makes the tertiary cation more stable than the secondary one."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "650",
+   "understanding": "R3.4.10",
+   "kind": "short_answer",
+   "question": "Predict, with a reason, whether ethane or chloroethane is more reactive (given C–Cl 324 kJ mol⁻¹, C–H 414 kJ mol⁻¹).",
+   "options": [],
+   "answer": "Chloroethane, because the C–Cl bond is weaker than the C–H bond and breaks more easily.",
+   "steps": [
+    "Compare bond enthalpies: 324 < 414 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.11",
+   "kind": "short_answer",
+   "question": "Propene is converted to a halogenoalkane C3H7Cl. State the type of reaction.",
+   "options": [],
+   "answer": "Electrophilic addition",
+   "steps": [
+    "HCl adds across the C=C bond; H+ is the electrophile."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Give the IUPAC name of the major product when propene reacts with HCl.",
+   "options": [],
+   "answer": "2-chloropropane",
+   "steps": [
+    "H adds to the CH2 carbon, giving the secondary carbocation.",
+    "Cl– then bonds to the middle carbon."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Outline why 2-chloropropane is the major product of propene with HCl.",
+   "options": [],
+   "answer": "It forms via a secondary carbocation, which is more stable than the primary one because two alkyl groups stabilise it.",
+   "steps": [
+    "Compare carbocations: secondary vs primary.",
+    "More alkyl groups give a larger positive inductive effect."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "Write an equation for 2-chloropropane reacting with aqueous sodium hydroxide to give C3H8O.",
+   "options": [],
+   "answer": "CH3CHClCH3(l) + OH–(aq) → CH3CH(OH)CH3(aq) + Cl–(aq) (or with NaOH and NaCl)",
+   "steps": [
+    "OH– replaces Cl, giving propan-2-ol."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "For the reaction of a halogenoalkane with aqueous NaOH, the rate is independent of [OH–]. Deduce whether the mechanism is SN1 or SN2 and explain.",
+   "options": [],
+   "answer": "SN1: the slow step involves only the halogenoalkane, so OH– does not appear in the rate equation.",
+   "steps": [
+    "If OH– were in the slow step, rate would depend on [OH–].",
+    "So the rate-determining step is unimolecular."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.13",
+   "kind": "short_answer",
+   "question": "Write equations showing the formation of the nitronium ion NO2+ from concentrated nitric and sulfuric acids.",
+   "options": [],
+   "answer": "HNO3 + H2SO4 ⇌ H2NO3+ + HSO4–; H2NO3+ ⇌ NO2+ + H2O",
+   "steps": [
+    "HNO3 is protonated by H2SO4.",
+    "The protonated acid then loses water."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Deduce the two possible products of the electrophilic addition of HI to but-1-ene.",
+   "options": [],
+   "answer": "1-iodobutane and 2-iodobutane",
+   "steps": [
+    "H can add to either carbon of the double bond.",
+    "H on C2 gives 1-iodobutane; H on C1 gives 2-iodobutane."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Explain which product is major when HI adds to but-1-ene.",
+   "options": [],
+   "answer": "2-iodobutane, formed via the more stable secondary carbocation.",
+   "steps": [
+    "The other route gives a less stable primary carbocation."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "651",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "2-iodobutane reacts with aqueous KOH. State the likely mechanism and what the rate depends on.",
+   "options": [],
+   "answer": "SN2: the rate depends on both [OH–] and [2-iodobutane] (SN1 is also possible depending on conditions).",
+   "steps": [
+    "Slow step involves both reactants in SN2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.11",
+   "kind": "multiple_choice",
+   "question": "Propan-2-ol is made from propene: step 1 CH3CH=CH2 + HBr → (CH3)2CHBr; step 2 (CH3)2CHBr + H2O → (CH3)2CHOH + HBr. What is the order of reaction types?",
+   "options": [
+    "A. Nucleophilic substitution, electrophilic addition",
+    "B. Electrophilic substitution, nucleophilic addition",
+    "C. Nucleophilic addition, electrophilic substitution",
+    "D. Electrophilic addition, nucleophilic substitution"
+   ],
+   "answer": "D. Electrophilic addition, nucleophilic substitution",
+   "steps": [
+    "Step 1: HBr adds across C=C of an alkene, so electrophilic addition.",
+    "Step 2: water replaces Br, so nucleophilic substitution."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.7",
+   "kind": "multiple_choice",
+   "question": "Statements: I nucleophiles donate an electron pair to form a new covalent bond; II nucleophiles are Lewis acids; III nucleophiles become leaving groups when the reaction is reversed. Which are correct?",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "II is false: nucleophiles are Lewis bases."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "Nickel forms the complex (NH4)2[NiCl4]. Describe, in terms of acid–base theory, the type of reaction between the metal ion and ligands forming the complex ion.",
+   "options": [],
+   "answer": "A Lewis acid–base (neutralization) reaction: Ni2+ accepts lone pairs from Cl– ligands, forming coordination bonds.",
+   "steps": [
+    "Ni2+ + 4Cl– ⇌ [NiCl4]2–.",
+    "Ni2+ is the electron-pair acceptor (Lewis acid); Cl– is the donor (Lewis base)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.8",
+   "kind": "short_answer",
+   "question": "For the complex ion in (NH4)2[NiCl4], deduce its charge and the oxidation state of nickel.",
+   "options": [],
+   "answer": "Charge 2–; oxidation state of nickel +2",
+   "steps": [
+    "Two NH4+ ions balance the complex, so it is 2–.",
+    "Ni = –2 – 4(–1) = +2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Hydration of but-1-ene gives two alcohols. Name them.",
+   "options": [],
+   "answer": "Butan-2-ol (CH3CH(OH)CH2CH3) and butan-1-ol (CH3CH2CH2CH2OH)",
+   "steps": [
+    "OH can end up on C2 or C1 depending on where the carbocation forms."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.12",
+   "kind": "short_answer",
+   "question": "Which is the major product of but-1-ene hydration, and why?",
+   "options": [],
+   "answer": "Butan-2-ol, because it forms via the more stable secondary carbocation rather than the primary one that gives butan-1-ol.",
+   "steps": [
+    "Compare carbocation stability: secondary > primary."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "A halogenoalkane C5H11Br reacts with water to give an alcohol that does not react with acidified potassium dichromate. Deduce its structure.",
+   "options": [],
+   "answer": "(CH3)2CBrCH2CH3 (2-bromo-2-methylbutane)",
+   "steps": [
+    "An alcohol not oxidised is tertiary.",
+    "So the halogenoalkane is tertiary."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "Write the equation for the reaction of (CH3)2CBrCH2CH3 with water.",
+   "options": [],
+   "answer": "(CH3)2CBrCH2CH3 + H2O → (CH3)2C(OH)CH2CH3 + HBr",
+   "steps": [
+    "OH from water replaces Br, giving 2-methylbutan-2-ol and HBr."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.9",
+   "kind": "short_answer",
+   "question": "Identify the most likely mechanism (SN1 or SN2) for this tertiary halogenoalkane reacting with water, with reasons.",
+   "options": [],
+   "answer": "SN1: the halogenoalkane is tertiary, water is a poor nucleophile and Br– is a good leaving group.",
+   "steps": [
+    "Tertiary carbocation is stable, so it forms in a slow first step."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.13",
+   "kind": "short_answer",
+   "question": "State the structural feature of benzene that makes it undergo electrophilic substitution but not addition.",
+   "options": [],
+   "answer": "Its aromatic ring: six delocalized electrons forming a ring of high electron density above and below the plane.",
+   "steps": [
+    "Substitution keeps the stable aromatic ring intact."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "186",
+   "understanding": "R3.4.13",
+   "kind": "short_answer",
+   "question": "Explain the roles of nitric and sulfuric acids in the nitration of benzene.",
+   "options": [],
+   "answer": "Nitric acid is the source of NO2+ electrophiles; sulfuric acid is a catalyst and dehydrating agent that helps form NO2+ and removes water as H3O+.",
+   "steps": [
+    "H2SO4 protonates HNO3, which then loses water to give NO2+.",
+    "Water by-product is taken up as H3O+."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "631",
+   "understanding": "R3.4.3",
+   "title": "Heterolytic fission of bromomethane",
+   "problem": "Show the heterolytic fission of bromomethane, CH3Br, and deduce the products.",
+   "steps": [
+    {
+     "hint": "Draw the molecule and mark the bond polarity.",
+     "work": "CH3–Br; Br is more electronegative, so C is δ+ and Br is δ–."
+    },
+    {
+     "hint": "Draw the curly arrow for the electron pair.",
+     "work": "Double-barbed arrow from the C–Br bond to the Br atom."
+    },
+    {
+     "hint": "Decide which fragment gets both electrons.",
+     "work": "Br keeps both bonding electrons; C has none."
+    },
+    {
+     "hint": "Write the products with charges.",
+     "work": "CH3+ (methyl carbocation) and Br– (bromide anion)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "638",
+   "understanding": "R3.4.8",
+   "title": "Charges on cobalt(II) complex ions",
+   "problem": "[Co(H2O)6]n+ and [CoCl4]m– are in equilibrium with Cl– ions; cobalt is 2+ in both. Deduce n and m.",
+   "steps": [
+    {
+     "hint": "Consider the neutral ligand first.",
+     "work": "Water is neutral, so charge = 2+ → [Co(H2O)6]2+."
+    },
+    {
+     "hint": "Apply the charge formula for the chloride complex.",
+     "work": "Overall = 2 + 4 × (–1)"
+    },
+    {
+     "hint": "Evaluate.",
+     "work": "= 2– → [CoCl4]2–."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "639",
+   "understanding": "R3.4.8",
+   "title": "Metal charge in complex ions",
+   "problem": "Deduce the charge on the transition element cation in (a) [Fe(OH)(H2O)5]2+ and (b) [TiF6]2–.",
+   "steps": [
+    {
+     "hint": "Use cation charge = overall – ligand contribution for (a).",
+     "work": "Overall 2+; one OH– (1–), five neutral H2O."
+    },
+    {
+     "hint": "Calculate (a).",
+     "work": "2 – (1 × –1) = 3+ → Fe3+."
+    },
+    {
+     "hint": "Set up (b) with six F–.",
+     "work": "Overall –2; six ligands of 1–."
+    },
+    {
+     "hint": "Calculate (b).",
+     "work": "–2 – (6 × –1) = 4+ → Ti4+."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "182",
+   "understanding": "R3.4.6",
+   "title": "Lewis acid or base: BeH2, CH4, H2O",
+   "problem": "Suggest, with reasons, whether beryllium dihydride, methane and water can act as Lewis acids and/or Lewis bases.",
+   "steps": [
+    {
+     "hint": "Look for empty orbitals on beryllium.",
+     "work": "BeH2 has empty 2p orbitals on Be that accept electron pairs → Lewis acid."
+    },
+    {
+     "hint": "Look for lone pairs on oxygen.",
+     "work": "H2O's oxygen has lone pairs to donate → Lewis base."
+    },
+    {
+     "hint": "Check carbon in methane for either feature.",
+     "work": "CH4 has no empty orbital and no lone pair → neither acid nor base."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "183",
+   "understanding": "R3.4.8",
+   "title": "Charges on nickel(II) complexes",
+   "problem": "Deduce the overall charge of nickel(II) complexes: (a) with four NH3; (b) with four NH3 and one Cl–… as in [Ni(NH3)nCl]; (c) with two oxalate (2–) and two water ligands.",
+   "steps": [
+    {
+     "hint": "Use Z = Z(metal) + Σ ligand charges.",
+     "work": "Ni is 2+; NH3 and H2O are 0, Cl– is –1, oxalate is –2."
+    },
+    {
+     "hint": "Complex (a): all ligands neutral.",
+     "work": "Z = 2+; the complex has charge 2+."
+    },
+    {
+     "hint": "Complex (b): one chloride.",
+     "work": "Z = 2 + 0 + (–1) = 1+."
+    },
+    {
+     "hint": "Complex (c): two oxalates, two waters.",
+     "work": "Z = 2 + 2(–2) + 2(0) = 2–."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "185",
+   "understanding": "R3.4.12",
+   "title": "Hex-1-ene plus HBr products",
+   "problem": "Explain, using carbocations, how the main and minor products form when hex-1-ene reacts with HBr.",
+   "steps": [
+    {
+     "hint": "Identify the two carbocations from proton attack.",
+     "work": "H+ adds to C1 → secondary cation at C2; H+ adds to C2 → primary cation at C1."
+    },
+    {
+     "hint": "Compare stability.",
+     "work": "Secondary is more stable than primary (more alkyl groups donate electrons)."
+    },
+    {
+     "hint": "Link cation to product.",
+     "work": "Secondary cation + Br– → 2-bromohexane (main); primary → 1-bromohexane (by-product)."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "635",
+   "understanding": "R3.4.6",
+   "tag": "Activity",
+   "prompt": "For H2O, Cu2+, CH3COOH, OH–, NH3 and HF, decide whether each is a Brønsted–Lowry acid, base, Lewis acid or Lewis base. How do you decide?",
+   "model_answer": [
+    "H2O: B-L acid and base; Lewis base.",
+    "Cu2+: not a B-L acid or base; Lewis acid.",
+    "CH3COOH: B-L acid only; no Lewis role.",
+    "OH– and NH3: B-L base and Lewis base.",
+    "HF: B-L acid only.",
+    "Lewis acid = accepts a pair; Lewis base = donates a pair."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.9",
+   "tag": "Data-based question 1",
+   "prompt": "Classify pentan-1-ol, pentan-2-ol, pentan-3-ol and 2-methylbutan-2-ol as primary, secondary or tertiary.",
+   "model_answer": [
+    "Pentan-1-ol: primary.",
+    "Pentan-2-ol: secondary.",
+    "Pentan-3-ol: secondary.",
+    "2-methylbutan-2-ol: tertiary."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.9",
+   "tag": "Data-based question 2",
+   "prompt": "Identify the independent and dependent variables in the alcohol/halide investigation.",
+   "model_answer": [
+    "Independent: the alcohol reactant.",
+    "Dependent: percentage of each halogenoalkane product formed."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.9",
+   "tag": "Data-based question 6",
+   "prompt": "Describe three patterns in the product percentages in table 3.",
+   "model_answer": [
+    "Bromoalkanes were always a higher percentage than chloroalkanes.",
+    "The difference was largest for primary pentan-1-ol.",
+    "Secondary alcohols gave mixtures of products.",
+    "Tertiary 2-methylbutan-2-ol gave bromo- and chloro- products close to 50:50."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.9",
+   "tag": "Data-based question 7",
+   "prompt": "Which results support the claim that bromide is a better nucleophile than chloride in water?",
+   "model_answer": [
+    "Reactions were done in aqueous solution with equal chloride and bromide.",
+    "In every case the bromoalkane product exceeded the chloroalkane product."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.9",
+   "tag": "Data-based question 8",
+   "prompt": "Which alcohols react mainly by SN2 and which by SN1, and why?",
+   "model_answer": [
+    "Primary alcohols such as pentan-1-ol react predominantly by SN2.",
+    "Tertiary alcohols such as 2-methylbutan-2-ol react predominantly by SN1."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "643",
+   "understanding": "R3.4.12",
+   "tag": "Data-based question 9",
+   "prompt": "Which results suggest that the carbocation rearranged?",
+   "model_answer": [
+    "Pentan-2-ol and pentan-3-ol gave products with halide on both C2 and C3.",
+    "The halide was not exclusively on the hydroxyl carbon, so the positive charge moved."
+   ],
+   "answer_from": "book"
+  }
+ ],
+ "sub_topic": "R3.4",
+ "title": "Electron-pair sharing reactions",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 5 (Course Companion p633): copies the book",
+  "practice 12 (Course Companion p635): copies the book",
+  "practice 13 (Course Companion p637): copies the book",
+  "practice 46 (IB Prepared p186): copies the book",
+  "practice 47 (IB Prepared p186): copies the book",
+  "practice 56 (IB Prepared p186): copies the book",
+  "worked 4 (IB Prepared p182): copies the book"
+ ]
+}

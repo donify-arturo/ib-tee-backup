@@ -1,0 +1,288 @@
+{
+ "notes": [
+  {
+   "heading": "Nucleophiles donate electron pairs",
+   "understanding": "R3.4.1",
+   "points": [
+    "A nucleophile is electron-rich and has at least one lone pair, which it donates to an electron-deficient species (the electrophile).",
+    "Nucleophiles may be neutral or negatively charged: H2O, NH3, CH3NH2 (neutral); OH-, CN-, Cl-, Br-, I-, HS- (anions).",
+    "Donating the pair forms a new covalent (coordination) bond between nucleophile and electrophile.",
+    "A species with a full positive charge and no lone pair, such as (CH3)4N+, cannot be a nucleophile."
+   ]
+  },
+  {
+   "heading": "Nucleophilic substitution and leaving groups",
+   "understanding": "R3.4.2",
+   "points": [
+    "The C-X bond in a halogenoalkane is polar, so carbon is delta+ and attacked by nucleophiles.",
+    "Nucleophile donates a pair to carbon while the C-X bonding pair moves onto X, which leaves.",
+    "Example: CH3CH2Cl + OH- → CH3CH2OH + Cl-. Nucleophile is OH-, leaving group is Cl-.",
+    "One bond forms and one breaks, so the nucleophile replaces the leaving group."
+   ]
+  },
+  {
+   "heading": "Heterolytic fission and curly arrows",
+   "understanding": "R3.4.3",
+   "points": [
+    "Heterolytic fission is uneven bond breaking: one atom takes both bonding electrons and becomes an anion, the other becomes a cation.",
+    "A double-barbed curly arrow shows an electron pair moving; it starts at the bond and ends where the electrons go.",
+    "Breaking C-Br in bromomethane gives a methyl carbocation (CH3+) and a bromide ion, Br-.",
+    "These ions are unstable and short-lived, so they usually appear as intermediates."
+   ]
+  },
+  {
+   "heading": "Electrophiles accept electron pairs",
+   "understanding": "R3.4.4",
+   "points": [
+    "An electrophile is electron-deficient and accepts a pair from a nucleophile to form a covalent bond.",
+    "Electrophiles are positive ions (such as CH3+) or neutral molecules with a delta+ atom (such as BF3).",
+    "Polar bonds from electronegative atoms create the delta+ site, e.g. carbonyl carbon in aldehydes, ketones and carboxylic acids.",
+    "Non-polar Br2 can act as an electrophile once it is polarized by an approaching alkene."
+   ]
+  },
+  {
+   "heading": "Alkenes and electrophilic addition",
+   "understanding": "R3.4.5",
+   "points": [
+    "The C=C bond is a region of high electron density, so alkenes are attacked by electrophiles.",
+    "This gives electrophilic addition: the reagent adds across the double bond.",
+    "Halogen X2 gives CnH2nX2; hydrogen halide HX gives CnH2n+1X; water (acid present) gives alcohol CnH2n+1OH.",
+    "Bromine water decolourizes (brown to colourless) with alkenes: a test for unsaturation."
+   ]
+  },
+  {
+   "heading": "Lewis acids and bases",
+   "understanding": "R3.4.6",
+   "points": [
+    "Lewis acid = electron-pair acceptor; Lewis base = electron-pair donor.",
+    "Lewis theory is broader than Brønsted–Lowry and covers reactions with no proton, such as BF3 + NH3.",
+    "In BF3 + NH3, NH3 donates a lone pair into boron's vacant orbital, giving F3B-NH3.",
+    "H+ is a Lewis acid; OH- and NH3 are both Brønsted–Lowry and Lewis bases.",
+    "AlCl3 can act as both a Lewis acid and a Lewis base (forms Al2Cl6 dimer)."
+   ]
+  },
+  {
+   "heading": "Lewis acid-base reactions form coordination bonds",
+   "understanding": "R3.4.7",
+   "points": [
+    "A Lewis base reacting with a Lewis acid forms a coordination bond, a covalent bond where one species supplies both electrons.",
+    "Nucleophiles are Lewis bases; electrophiles are Lewis acids.",
+    "A coordination bond can be drawn as a normal line or an arrow from the lone pair donor to the acceptor."
+   ]
+  },
+  {
+   "heading": "Ligands and complex ions",
+   "understanding": "R3.4.8",
+   "points": [
+    "Transition element cations are Lewis acids; ligands are Lewis bases that donate lone pairs to them by coordination bonds.",
+    "A transition element ion bonded to several ligands is a complex ion, e.g. [Cu(H2O)6]2+.",
+    "Ligands include H2O, NH3, CN-, Cl-, OH-.",
+    "Overall charge = cation charge + (number of charged ligands × ligand charge).",
+    "Cation charge = overall charge − (number of charged ligands × ligand charge)."
+   ]
+  },
+  {
+   "heading": "SN1 and SN2 in halogenoalkanes",
+   "understanding": "R3.4.9",
+   "points": [
+    "Primary halogenoalkanes react by SN2: one concerted step, a transition state, no intermediate, rate = k[halogenoalkane][nucleophile].",
+    "In SN2 the nucleophile attacks from the side opposite the leaving group, inverting the configuration; it is stereospecific.",
+    "Tertiary halogenoalkanes react by SN1: slow loss of X- forms a carbocation, then the nucleophile attacks; rate = k[halogenoalkane].",
+    "Alkyl groups stabilize carbocations by positive inductive effect, so tertiary > secondary > primary; secondary can use either mechanism.",
+    "A transition state is a highest-energy, partly bonded arrangement; an intermediate is a more stable species in a multistep path."
+   ]
+  },
+  {
+   "heading": "Leaving group and rate of substitution",
+   "understanding": "R3.4.10",
+   "points": [
+    "The rate-determining step involves heterolytic fission of C-X, so a weaker C-X bond means a faster reaction.",
+    "Bond enthalpies (kJ/mol): C-F 492, C-Cl 324, C-Br 285, C-I 228.",
+    "Rate order: iodoalkane > bromoalkane > chloroalkane > fluoroalkane (virtually inert).",
+    "Down group 17 the C-X bond weakens and halide ions become more stable, so I- leaves most easily."
+   ]
+  },
+  {
+   "heading": "Electrophilic addition mechanisms",
+   "understanding": "R3.4.11",
+   "points": [
+    "Br2 with an alkene: Br2 is polarized by the C=C, the delta+ Br is attacked, splits heterolytically to Br-, giving a carbocation, then Br- attacks.",
+    "HX is already polar: delta+ H is attacked by C=C, giving a carbocation plus X-, which then bonds to C+.",
+    "Water addition: H+ attacks C=C giving a carbocation, H2O attacks C+, the oxonium ion loses H+. H+ is regenerated, so it acts as a catalyst.",
+    "Curly arrows: from C=C to the electrophile; from the bond breaking to the leaving anion; from the anion to C+."
+   ]
+  },
+  {
+   "heading": "Carbocation stability and Markovnikov's rule",
+   "understanding": "R3.4.12",
+   "points": [
+    "With an unsymmetrical alkene, HX can add two ways, via different carbocations.",
+    "Alkyl groups donate electron density, so a more substituted carbocation is more stable.",
+    "The H adds to the carbon with fewer alkyl groups, so the positive charge forms on the more substituted carbon.",
+    "Propene + HBr: secondary carbocation is more stable, so 2-bromopropane is the major product and 1-bromopropane the minor."
+   ]
+  },
+  {
+   "heading": "Electrophilic substitution in benzene",
+   "understanding": "R3.4.13",
+   "points": [
+    "Benzene's stable aromatic ring resists addition, so it undergoes substitution with electrophiles.",
+    "Nitration uses conc. HNO3 with conc. H2SO4 (50 °C) to give the electrophile NO2+.",
+    "NO2+ is attracted to the delocalized pi electrons; the ring donates two electrons, forming a C-N bond and a carbocation intermediate.",
+    "Attack breaks aromaticity, which needs energy, so this is the rate-determining step.",
+    "Water removes H+ from the intermediate, restoring the aromatic ring and giving nitrobenzene."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Nucleophile",
+   "definition": "A reactant that forms a bond to its reaction partner (the electrophile) by donating both bonding electrons, from a lone pair; it may be neutral or negatively charged.",
+   "must_say": [
+    "donates",
+    "electron pair",
+    "lone pair"
+   ],
+   "trap": "Saying a nucleophile must be negative; neutral molecules like NH3 and H2O also count."
+  },
+  {
+   "term": "Electrophile",
+   "definition": "A reactant that forms a bond to its reaction partner (the nucleophile) by accepting both bonding electrons from it; it is positive or has a delta+ atom.",
+   "must_say": [
+    "accepts",
+    "electron pair",
+    "from nucleophile"
+   ],
+   "trap": "Calling it merely 'attracted to electrons' without stating it accepts an electron pair."
+  },
+  {
+   "term": "Nucleophilic substitution",
+   "definition": "A reaction in which a nucleophile donates an electron pair to form a new bond while another bond breaks, releasing a leaving group.",
+   "must_say": [
+    "nucleophile donates electron pair",
+    "bond breaks",
+    "leaving group"
+   ],
+   "trap": "Vague answers omit that one bond forms as another breaks and a leaving group departs."
+  },
+  {
+   "term": "Heterolytic fission",
+   "definition": "Breaking of a covalent bond in which both bonding electrons go to one of the two fragments, forming a cation and an anion.",
+   "must_say": [
+    "both bonding electrons",
+    "one fragment",
+    "ions"
+   ],
+   "trap": "Confusing it with homolytic fission, which gives radicals with one electron each."
+  },
+  {
+   "term": "Leaving group",
+   "definition": "The atom or group that departs with the bonding electron pair when the bond to the electrophilic carbon breaks in substitution.",
+   "must_say": [
+    "departs",
+    "takes bonding pair"
+   ],
+   "trap": "Forgetting that the leaving group takes the bonding electrons with it as an anion."
+  },
+  {
+   "term": "Electrophilic addition",
+   "definition": "A reaction in which an electrophile attacks the electron-rich C=C bond of an alkene and adds across it.",
+   "must_say": [
+    "electrophile attacks",
+    "C=C",
+    "adds across"
+   ],
+   "trap": "Mixing up with nucleophilic addition or substitution; alkenes are attacked by electrophiles."
+  },
+  {
+   "term": "Lewis acid",
+   "definition": "A species that accepts a pair of electrons from another species, forming a coordination bond.",
+   "must_say": [
+    "electron-pair acceptor"
+   ],
+   "trap": "Giving the Brønsted–Lowry proton-donor definition instead; BF3 has no proton."
+  },
+  {
+   "term": "Lewis base",
+   "definition": "A species that donates a pair of electrons to another species, forming a coordination bond.",
+   "must_say": [
+    "electron-pair donor"
+   ],
+   "trap": "Giving only proton acceptor; Lewis base needs a lone pair to donate."
+  },
+  {
+   "term": "Coordination bond",
+   "definition": "A covalent bond in which both shared electrons come from one species, a lone pair donated by a Lewis base to a Lewis acid.",
+   "must_say": [
+    "both electrons",
+    "from one species",
+    "lone pair"
+   ],
+   "trap": "Treating it as a different bond type; it is a covalent bond."
+  },
+  {
+   "term": "Ligand",
+   "definition": "A Lewis base that donates a lone pair to a transition element cation, forming a coordination bond in a complex ion.",
+   "must_say": [
+    "donates lone pair",
+    "to metal ion"
+   ],
+   "trap": "Thinking ligands must be neutral; anions such as CN-, Cl-, OH- are ligands too."
+  },
+  {
+   "term": "Complex ion",
+   "definition": "A transition element ion bonded by coordination bonds to several ligands.",
+   "must_say": [
+    "transition element ion",
+    "ligands",
+    "coordination bonds"
+   ],
+   "trap": "Forgetting overall charge is cation charge plus total ligand charges."
+  },
+  {
+   "term": "Carbocation",
+   "definition": "An alkyl cation with the positive charge on a carbon atom, usually formed by heterolytic fission and short-lived.",
+   "must_say": [
+    "positive charge on carbon"
+   ],
+   "trap": "Thinking primary carbocations are most stable; tertiary is most stable."
+  },
+  {
+   "term": "SN2 mechanism",
+   "definition": "A one-step nucleophilic substitution, typical of primary halogenoalkanes, where the nucleophile and halogenoalkane both feature in the rate-determining step, via a transition state.",
+   "must_say": [
+    "one step",
+    "transition state",
+    "second order"
+   ],
+   "trap": "Showing an intermediate; SN2 has only a transition state, and the product is inverted."
+  },
+  {
+   "term": "SN1 mechanism",
+   "definition": "A two-step nucleophilic substitution, typical of tertiary halogenoalkanes, where slow loss of the leaving group forms a carbocation intermediate; rate depends only on the halogenoalkane.",
+   "must_say": [
+    "two steps",
+    "carbocation intermediate",
+    "first order"
+   ],
+   "trap": "Including the nucleophile concentration in the rate equation."
+  },
+  {
+   "term": "Markovnikov's rule",
+   "definition": "In addition of HX to an unsymmetrical alkene, hydrogen bonds to the carbon with fewer alkyl groups, so the major product forms via the more stable carbocation.",
+   "must_say": [
+    "fewer alkyl substituents",
+    "more stable carbocation"
+   ],
+   "trap": "Stating the rule without linking to carbocation stability (inductive effect) when asked to explain."
+  }
+ ],
+ "sub_topic": "R3.4",
+ "title": "Electron-pair sharing reactions",
+ "generated_by": "sonnet",
+ "issues": [
+  "point copies the book: AlCl3 can act as both a Lewis acid and a Lewis bas",
+  "point copies the book: Bond enthalpies (kJ/mol): C-F 492, C-Cl 324, C-Br ",
+  "definition copies the book: Nucleophilic substitution"
+ ]
+}

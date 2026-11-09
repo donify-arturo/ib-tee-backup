@@ -1,0 +1,462 @@
+{
+ "notes": [
+  {
+   "heading": "Covalent bonds and the octet rule",
+   "understanding": "S2.2.1",
+   "points": [
+    "A covalent bond is the electrostatic attraction between a shared electron pair and the two positively charged nuclei.",
+    "Covalent bonding is likely when electronegativity difference is small (below about 1.8) and both atoms are non-metals.",
+    "Octet rule: atoms tend to reach 8 valence electrons. Exceptions: electron-deficient species (BF3, BeCl2, AlCl3), odd-electron species, expanded octets.",
+    "Lewis formula shows only valence electrons, in pairs: bonding pairs between atoms, lone pairs away from the bond region.",
+    "Steps: count valence electrons (add for negative charge, subtract for positive), halve to get pairs, single bonds, fill outer atoms, rest on centre, make multiple bonds if needed."
+   ]
+  },
+  {
+   "heading": "Single, double and triple bonds",
+   "understanding": "S2.2.2",
+   "points": [
+    "Single, double, triple bonds share one, two, three pairs; bond order is 1, 2, 3.",
+    "Greater bond order means a stronger bond (larger bond enthalpy) and a shorter bond length.",
+    "C–C: 346 kJ mol⁻¹, 154 pm; C=C: 614, 134 pm; C≡C: 839, 120 pm (units: 10⁻¹² m).",
+    "Bond length is the average distance between two bonded nuclei."
+   ]
+  },
+  {
+   "heading": "Coordination bonds",
+   "understanding": "S2.2.3",
+   "points": [
+    "In a coordination bond both bonding electrons come from one atom; the arrow points from donor to acceptor.",
+    "Examples: H₃O⁺ (H⁺ accepts a lone pair from water), NH₄⁺, CO, NH₃→BF₃.",
+    "Once formed, it is indistinguishable from any other covalent bond.",
+    "AHL: transition metal complexes such as [Cu(H₂O)₆]²⁺ have ligands donating lone pairs to the central metal cation."
+   ]
+  },
+  {
+   "heading": "VSEPR and molecular shapes",
+   "understanding": "S2.2.4",
+   "points": [
+    "Electron domains (lone pair, single bond, or a whole double/triple bond) repel and spread as far apart as possible.",
+    "Lone pairs repel more than bonding pairs, and multiple bonds more than single bonds, so bond angles shrink or deviate.",
+    "2 domains linear 180°; 3 domains trigonal planar 120° (bent <120° with 1 lone pair); 4 domains tetrahedral 109.5°.",
+    "With 4 domains: 1 lone pair gives trigonal pyramidal (NH₃ 107°); 2 lone pairs gives bent (H₂O 104.5°).",
+    "Method: count domains for the electron domain geometry, then count bonding and non-bonding domains for molecular geometry."
+   ]
+  },
+  {
+   "heading": "Bond polarity",
+   "understanding": "S2.2.5",
+   "points": [
+    "Bond polarity comes from the electronegativity difference; the shared pair shifts towards the more electronegative atom.",
+    "That atom gets δ–, the other δ+. A larger difference means a more polar bond.",
+    "A dipole can be drawn as a vector arrow pointing to the more electronegative atom, starting with a plus sign.",
+    "Identical atoms (F₂, Br₂) share equally: pure covalent, non-polar, no dipole."
+   ]
+  },
+  {
+   "heading": "Molecular polarity",
+   "understanding": "S2.2.6",
+   "points": [
+    "Molecular polarity depends on both bond polarity and molecular geometry; dipole moment unit is the debye, D.",
+    "Polar if bond dipoles do not cancel, giving a net dipole (H₂O, CHCl₃).",
+    "Non-polar if polar bond dipoles cancel by symmetry (BF₃, CO₂), or if bonds are non-polar or nearly so (hydrocarbons like ethane).",
+    "Always link the shape to the cancelling or non-cancelling of dipoles in an explanation."
+   ]
+  },
+  {
+   "heading": "Covalent network structures",
+   "understanding": "S2.2.7",
+   "points": [
+    "Network structures are continuous 3D lattices of covalent bonds (diamond, graphite, SiO₂, Si), unlike discrete molecules.",
+    "Diamond: each C bonded to 4, tetrahedral; very hard, no mobile charges so poor electrical conductor.",
+    "Graphite: each C bonded to 3, trigonal planar layers; delocalized electrons conduct; weak London forces between layers make it slippery.",
+    "Graphene is a single graphite layer; C₆₀ is molecular, with weak intermolecular forces and a low boiling point.",
+    "Allotropes differ in structure and so in properties. SiO₂ has Si:O 1:2, each Si bonded to four O; hard, high melting point."
+   ]
+  },
+  {
+   "heading": "Types of intermolecular forces",
+   "understanding": "S2.2.8",
+   "points": [
+    "Intermolecular forces are weak electrostatic attractions between molecules; they are overcome on melting or boiling, not the covalent bonds.",
+    "London (dispersion) forces: all molecules, from temporary induced dipoles; stronger with more electrons and a larger contact area.",
+    "Dipole–dipole between polar molecules; dipole–induced dipole between a polar and a non-polar molecule.",
+    "Hydrogen bond: H bonded to N, O or F attracts a lone pair on another N, O or F atom.",
+    "Van der Waals forces collectively: London, dipole–induced dipole and dipole–dipole."
+   ]
+  },
+  {
+   "heading": "Strength and properties of covalent substances",
+   "understanding": "S2.2.9",
+   "points": [
+    "With comparable molar mass: London < dipole–dipole < hydrogen bonding; dipole–induced dipole sits between London and dipole–dipole.",
+    "Typical enthalpies, kJ mol⁻¹: London 1–5, dipole–dipole 3–25, hydrogen bond 20–40; covalent bonds are 150–600.",
+    "Network solids: non-volatile, insoluble, poor conductors (except graphite/graphene). Molecular: volatile, poor conductors, varied solubility.",
+    "Like dissolves like: polar solutes in polar solvents; molecules able to hydrogen bond with water dissolve; long hydrocarbon chains do not."
+   ]
+  },
+  {
+   "heading": "Chromatography and RF values",
+   "understanding": "S2.2.10",
+   "points": [
+    "Chromatography separates by different attraction (intermolecular forces) to the mobile phase and the stationary phase.",
+    "Components with greater affinity for the mobile phase travel further.",
+    "RF = distance moved by spot ÷ distance moved by solvent front; no unit, always between 0 and 1.",
+    "Paper: polar water-rich cellulose stationary phase. TLC: polar silica/alumina; polar components move less, non-polar move further.",
+    "RF values identify substances only if conditions (solvent, temperature, etc.) are the same."
+   ]
+  },
+  {
+   "heading": "Resonance and delocalization",
+   "understanding": "S2.2.11",
+   "points": [
+    "Resonance structures are used when a double bond could be drawn in more than one position; shown with a double-headed arrow.",
+    "The real molecule is a hybrid, not flipping between structures.",
+    "Delocalization: electrons shared across more than two atoms, giving equal bonds of intermediate length, strength and order.",
+    "Ozone and NO₂⁻ have bond order 1.5; carbonate has 1.33."
+   ]
+  },
+  {
+   "heading": "Benzene",
+   "understanding": "S2.2.12",
+   "points": [
+    "Benzene C₆H₆: planar ring of six carbons with delocalized electrons, drawn as two resonance structures or a circle.",
+    "Physical evidence: all C–C bonds are 140 pm, between single (154) and double (134), with intermediate strength.",
+    "Chemical evidence: it undergoes substitution rather than addition, since addition would destroy the stabilizing delocalized ring.",
+    "Resonance energy is 152 kJ mol⁻¹: predicted cyclohexatriene hydrogenation 360 versus actual 208 kJ mol⁻¹.",
+    "Only one 1,2-dichlorobenzene isomer exists because all carbons are equivalent."
+   ]
+  },
+  {
+   "heading": "Expanded octets",
+   "understanding": "S2.2.13",
+   "points": [
+    "Larger central atoms can have 5 or 6 electron pairs (10 or 12 electrons), e.g. PF₅, SF₆, ICl₄⁻.",
+    "Draw as normal but skip the final check that the central atom has an octet.",
+    "5 domains trigonal bipyramidal: 0 lone pairs trigonal bipyramidal (PF₅), 1 seesaw (SF₄), 2 T-shaped (ClF₃), 3 linear (I₃⁻).",
+    "6 domains octahedral: 0 lone pairs octahedral (SF₆), 1 square pyramidal (BrF₅), 2 square planar (XeF₄).",
+    "Angles: 90° and 120° (trigonal bipyramidal), 90° (octahedral); lone pairs reduce them."
+   ]
+  },
+  {
+   "heading": "Formal charge",
+   "understanding": "S2.2.14",
+   "points": [
+    "FC = VE – (NBE + ½BE), where NBE is non-bonding electrons and BE is bonding electrons on the atom.",
+    "Formal charges must sum to the overall charge of the species.",
+    "Preferred Lewis formula: formal charges closest to zero, smallest differences, negative charge on the more electronegative atom.",
+    "Example: SO₄²⁻ with expanded octet sulfur (S 0, O 0 or –1) is preferred over all-octet (S +2, O –1)."
+   ]
+  },
+  {
+   "heading": "Sigma and pi bonds",
+   "understanding": "S2.2.15",
+   "points": [
+    "Sigma: head-on overlap, electron density along the bond axis. Pi: sideways overlap of p orbitals, density above and below the axis.",
+    "Single bond = one σ; double = one σ + one π; triple = one σ + two π.",
+    "Pi bonds are generally weaker than sigma, so C=C (614) is less than double C–C (346).",
+    "Count σ and π from the structure: every bond has one σ; each extra bond is a π."
+   ]
+  },
+  {
+   "heading": "Hybridization",
+   "understanding": "S2.2.16",
+   "points": [
+    "Hybridization is mixing atomic orbitals to form new hybrid orbitals for bonding; the number of hybrids equals the number mixed.",
+    "sp³: 4 domains, tetrahedral, 109.5°. sp²: 3 domains, trigonal planar, 120°. sp: 2 domains, linear, 180°.",
+    "Unhybridized p orbitals form pi bonds: one left in sp², two in sp.",
+    "Number of hybrid orbitals equals number of electron domains; multiple bonds count as one domain.",
+    "Examples: C in CH₄ sp³, ethene sp², ethyne sp; O in H₂O sp³; benzene carbons sp²."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Covalent bond",
+   "definition": "Electrostatic attraction between a shared pair of electrons and the positively charged nuclei of the two bonded atoms.",
+   "must_say": [
+    "electrostatic attraction",
+    "shared pair of electrons",
+    "nuclei"
+   ],
+   "trap": "Do not say it is attraction between atoms or only 'sharing electrons'."
+  },
+  {
+   "term": "Octet rule",
+   "definition": "The tendency of atoms to gain a valence shell containing a total of eight electrons, usually by bonding.",
+   "must_say": [
+    "8 valence electrons",
+    "valence shell"
+   ],
+   "trap": "It is a rule of thumb with exceptions, not a law."
+  },
+  {
+   "term": "Lewis formula",
+   "definition": "A diagram showing all valence electrons of a covalent species, bonding and non-bonding pairs, as dots, crosses or dashes.",
+   "must_say": [
+    "all valence electrons",
+    "bonding and non-bonding pairs"
+   ],
+   "trap": "Do not show inner-shell electrons."
+  },
+  {
+   "term": "Bond order",
+   "definition": "The number of bonded electron pairs between two atoms.",
+   "must_say": [
+    "number of bonded pairs",
+    "between two atoms"
+   ],
+   "trap": "Delocalized bonds have fractional order, e.g. 1.5 in ozone."
+  },
+  {
+   "term": "Coordination bond",
+   "definition": "A covalent bond in which both shared electrons come from the same atom.",
+   "must_say": [
+    "covalent bond",
+    "both electrons",
+    "same atom"
+   ],
+   "trap": "Not a different bond type once formed; it is identical to other covalent bonds."
+  },
+  {
+   "term": "Ligand",
+   "definition": "An atom or group with a lone pair of electrons that forms a coordination bond to a central metal ion.",
+   "must_say": [
+    "lone pair",
+    "coordination bond",
+    "metal ion"
+   ],
+   "trap": "A ligand donates the pair; the metal ion accepts it."
+  },
+  {
+   "term": "Electron domain",
+   "definition": "A region of high electron density around a central atom: a lone pair, a single bond, or a double or triple bond.",
+   "must_say": [
+    "region of electron density",
+    "lone pair or bond"
+   ],
+   "trap": "A double or triple bond counts as one domain, not two or three."
+  },
+  {
+   "term": "VSEPR model",
+   "definition": "Predicts molecular shape because electron domains around a central atom repel and arrange themselves as far apart as possible.",
+   "must_say": [
+    "electron domains repel",
+    "as far apart as possible"
+   ],
+   "trap": "Lone pairs repel more than bonding pairs, so angles shrink."
+  },
+  {
+   "term": "Bond angle",
+   "definition": "The angle between bonding pairs, that is between two bonds, at a central atom.",
+   "must_say": [
+    "angle between bonds",
+    "central atom"
+   ],
+   "trap": "Quote reduced values with lone pairs, e.g. 107° for NH₃, not 109.5°."
+  },
+  {
+   "term": "Electronegativity",
+   "definition": "The attraction of an atom for the bonding pair of electrons in a covalent bond.",
+   "must_say": [
+    "attraction of an atom",
+    "bonding pair",
+    "covalent bond"
+   ],
+   "trap": "Do not confuse with ionization energy or electron affinity, or mention gaseous atoms."
+  },
+  {
+   "term": "Bond polarity",
+   "definition": "Unequal sharing of the bonding pair, arising from the difference in electronegativity of the bonded atoms.",
+   "must_say": [
+    "difference in electronegativity",
+    "unequal sharing"
+   ],
+   "trap": "Identical atoms give a non-polar bond."
+  },
+  {
+   "term": "Dipole moment",
+   "definition": "The separation of charge between non-identical bonded atoms, or across a molecule, shown as a vector towards the more electronegative atom.",
+   "must_say": [
+    "separation of charge",
+    "vector"
+   ],
+   "trap": "Arrow points to the more electronegative atom, not the less."
+  },
+  {
+   "term": "Polar molecule",
+   "definition": "A molecule whose bond dipoles do not cancel, giving a net dipole with partial negative and positive ends.",
+   "must_say": [
+    "bond dipoles do not cancel",
+    "net dipole"
+   ],
+   "trap": "Polar bonds alone do not make a polar molecule (CO₂, BF₃)."
+  },
+  {
+   "term": "Covalent network structure",
+   "definition": "A giant continuous three-dimensional lattice of atoms joined by covalent bonds.",
+   "must_say": [
+    "continuous lattice",
+    "covalent bonds"
+   ],
+   "trap": "It is not made of molecules, so no intermolecular forces are broken on melting."
+  },
+  {
+   "term": "Allotropes",
+   "definition": "Different structural forms of the same element, with different chemical and physical properties.",
+   "must_say": [
+    "same element",
+    "different structures"
+   ],
+   "trap": "Say structural forms of an element, not different elements."
+  },
+  {
+   "term": "Intermolecular forces",
+   "definition": "Weak electrostatic forces of attraction between molecules, weaker than covalent bonds.",
+   "must_say": [
+    "electrostatic attraction",
+    "between molecules"
+   ],
+   "trap": "Breaking them on boiling does not break covalent bonds inside molecules."
+  },
+  {
+   "term": "London (dispersion) forces",
+   "definition": "Intermolecular forces from temporary instantaneous dipoles in one molecule inducing dipoles in neighbouring molecules.",
+   "must_say": [
+    "temporary dipoles",
+    "induced dipoles"
+   ],
+   "trap": "Present in all molecules; strength rises with more electrons, not just mass."
+  },
+  {
+   "term": "Dipole–dipole forces",
+   "definition": "Attractions between the permanent dipoles of neighbouring polar molecules.",
+   "must_say": [
+    "permanent dipoles",
+    "polar molecules"
+   ],
+   "trap": "Not present in non-polar molecules such as CO₂."
+  },
+  {
+   "term": "Hydrogen bond",
+   "definition": "Attraction between a hydrogen covalently bonded to F, O or N and a lone pair on another electronegative atom.",
+   "must_say": [
+    "hydrogen bonded to F, O or N",
+    "lone pair",
+    "neighbouring electronegative atom"
+   ],
+   "trap": "It is an intermolecular force, not a covalent bond; H must be bonded directly to N, O or F."
+  },
+  {
+   "term": "Van der Waals forces",
+   "definition": "Inclusive term for London (dispersion), dipole–induced dipole and dipole–dipole forces.",
+   "must_say": [
+    "London",
+    "dipole–dipole",
+    "dipole–induced dipole"
+   ],
+   "trap": "Do not include hydrogen bonding."
+  },
+  {
+   "term": "Chromatography",
+   "definition": "Technique separating mixture components by their different attractions, through intermolecular forces, to a mobile phase and a stationary phase.",
+   "must_say": [
+    "mobile phase",
+    "stationary phase",
+    "different attractions"
+   ],
+   "trap": "Separation is by relative affinity, not by mass alone."
+  },
+  {
+   "term": "Retardation factor (RF)",
+   "definition": "Distance travelled by the spot divided by the distance travelled by the solvent front.",
+   "must_say": [
+    "distance of spot",
+    "distance of solvent front"
+   ],
+   "trap": "Measure from the baseline; the value has no units and lies between 0 and 1."
+  },
+  {
+   "term": "Resonance structures",
+   "definition": "Alternative Lewis formulas differing in the position of double bonds, which together represent one molecule.",
+   "must_say": [
+    "more than one Lewis formula",
+    "position of double bond"
+   ],
+   "trap": "The molecule does not switch between them; it is a hybrid."
+  },
+  {
+   "term": "Delocalization",
+   "definition": "Sharing of electrons across more than two atoms, rather than being localized between one pair of atoms.",
+   "must_say": [
+    "more than two atoms",
+    "shared electrons"
+   ],
+   "trap": "Not just 'electrons moving freely'; they are spread over several bonds."
+  },
+  {
+   "term": "Expanded octet",
+   "definition": "A central atom with more than eight valence electrons, having five or six electron pairs around it.",
+   "must_say": [
+    "more than 8 electrons",
+    "five or six pairs"
+   ],
+   "trap": "Only applies to larger central atoms, not period 2 elements such as carbon or nitrogen."
+  },
+  {
+   "term": "Formal charge",
+   "definition": "The charge an atom would have if bonding electrons were shared equally and its non-bonding electrons were not shared at all.",
+   "must_say": [
+    "bonding electrons shared equally",
+    "non-bonding electrons"
+   ],
+   "trap": "Formula is VE – (NBE + ½BE); do not forget the half on bonding electrons."
+  },
+  {
+   "term": "Sigma bond (σ)",
+   "definition": "A bond formed by head-on overlap of atomic orbitals, with electron density concentrated along the bond axis.",
+   "must_say": [
+    "head-on overlap",
+    "along bond axis"
+   ],
+   "trap": "Single bonds are always sigma; do not call it sideways overlap."
+  },
+  {
+   "term": "Pi bond (π)",
+   "definition": "A bond formed by lateral overlap of p orbitals, with electron density on opposite sides of the bond axis.",
+   "must_say": [
+    "lateral (sideways) overlap",
+    "p orbitals",
+    "opposite sides of axis"
+   ],
+   "trap": "Pi bonds are only in multiple bonds, alongside a sigma bond."
+  },
+  {
+   "term": "Hybridization",
+   "definition": "The mixing of atomic orbitals to form new hybrid orbitals for bonding.",
+   "must_say": [
+    "mixing atomic orbitals",
+    "new hybrid orbitals"
+   ],
+   "trap": "It is not just promotion of electrons, nor simply overlapping of orbitals."
+  },
+  {
+   "term": "Bond length",
+   "definition": "The average distance between two bonded nuclei.",
+   "must_say": [
+    "average distance",
+    "bonded nuclei"
+   ],
+   "trap": "Say nuclei, not atoms' surfaces or electrons."
+  }
+ ],
+ "sub_topic": "S2.2",
+ "title": "The covalent model",
+ "generated_by": "sonnet",
+ "issues": [
+  "point copies the book: Molecular polarity depends on both bond polarity a",
+  "point copies the book: Hybridization is mixing atomic orbitals to form ne",
+  "definition copies the book: Bond order",
+  "definition copies the book: Formal charge",
+  "definition copies the book: Hybridization"
+ ]
+}

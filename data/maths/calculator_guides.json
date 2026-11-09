@@ -1,0 +1,1102 @@
+{
+"1-7": {
+"lv": 1,
+"ask": "Find a missing angle in a right-angled triangle using a value kept at full accuracy.",
+"what": "Evaluates trigonometric expressions and stores unrounded results for reuse.",
+"when": "Multi-step triangle questions, where an early rounded value would spoil the final answer.",
+"in": "The known sides and angles, and the trig ratio you have chosen.",
+"read": "The angle is about 34.9°, found from a stored full-accuracy value.",
+"trap": [
+"The angle is about 34.9 radians.",
+"Rounding the side first gives an equally accurate angle."
+],
+"check": "Degree mode. Reuse the stored answer instead of retyping a rounded one."
+},
+"1-9": {
+"lv": 1,
+"ask": "Find an angle in a non-right-angled triangle, knowing two sides and an angle opposite one of them.",
+"what": "Evaluates the sine rule rearranged for an angle.",
+"when": "You know a side and its opposite angle, plus one more side.",
+"in": "The two sides and the known angle, placed as in your rearranged sine rule.",
+"read": "The angle is about 37° to the nearest degree; check whether its obtuse partner is possible too.",
+"trap": [
+"The value on screen is the sine of the angle, so inverse sine is still needed.",
+"The only possible angle is always the acute one."
+],
+"check": "Degree mode. Use inverse sine. Consider the ambiguous case."
+},
+"1-13": {
+"lv": 1,
+"ask": "Find a distance across a lake, knowing two sides and the angle between them, and then find another angle.",
+"what": "Evaluates the cosine rule for a side and for an angle.",
+"when": "You know two sides and the included angle, or all three sides.",
+"in": "The side lengths and the included angle.",
+"read": "The calculation on the screen gives about 63.9°, which is the angle at B. The sheet labels it C; the angle at C is about 44.1°.",
+"trap": [
+"63.9 is a length in metres.",
+"The result is the cosine of the angle."
+],
+"check": "Degree mode. Brackets around the whole numerator and denominator. Check which angle your cosine rule finds: it is the one between the two sides that are added."
+},
+"2-2": {
+"lv": 1,
+"ask": "Find the mode, median and mean from a frequency table.",
+"what": "Calculates summary statistics from values and frequencies.",
+"when": "Any data set or frequency table where averages are needed.",
+"in": "Values in one list and their frequencies in another.",
+"read": "x̄ is the mean, Med the median; the mode is the value with the highest frequency.",
+"trap": [],
+"check": "Set the frequency to the list holding the frequencies, not 1."
+},
+"2-3": {
+"lv": 1,
+"ask": "Find the spread of a set of rainfall days and decide whether the largest value is an outlier.",
+"what": "Gives quartiles and standard deviation, which feed the outlier test.",
+"when": "Measures of dispersion and outlier checks.",
+"in": "The data in a list, then Q₁ and Q₃ for the outlier calculation.",
+"read": "The upper fence is 28.5, and since 30 is above it, 30 is an outlier.",
+"trap": [
+"30 is below the fence 28.5, so it is not an outlier.",
+"28.5 is the interquartile range."
+],
+"check": "Frequency set correctly. Use the stored Q₁ and Q₃ rather than retyping them."
+},
+"2-5": {
+"lv": 1,
+"ask": "Draw a frequency histogram for measured caterpillar lengths.",
+"what": "Draws a histogram from values and frequencies.",
+"when": "When a question asks you to draw or use a histogram.",
+"in": "Values, frequencies, the starting boundary and the class width.",
+"read": "Each bar's height is the frequency of that class.",
+"trap": [],
+"check": "Start at the lower boundary: lengths to the nearest cm start at 3.5, not 4."
+},
+"2-9": {
+"lv": 2,
+"ask": "Test whether Maths and Physics exam results are related.",
+"what": "Finds Pearson's r and the regression line.",
+"when": "Two-variable data where a linear link is being assessed.",
+"in": "The x-data in one list and the y-data in another.",
+"read": "r = 0.937 shows a strong positive linear correlation.",
+"trap": [
+"r = 0.937 proves that Maths causes the Physics result.",
+"93.7% of the points lie exactly on the line."
+],
+"check": "Put x and y in the right lists. Turn on diagnostics if r isn't displayed."
+},
+"3-1": {
+"lv": 1,
+"ask": "Find a line's y-intercept from its graph.",
+"what": "Draws a line and reads its intercepts.",
+"when": "To confirm a line's equation or read intercepts.",
+"in": "The equation in the form y = …",
+"read": "The y-intercept is 2.5, at the point (0, 2.5).",
+"trap": [
+"The gradient of the line is 2.5.",
+"The line crosses the x-axis at 2.5."
+],
+"check": "Use a window that includes both axes."
+},
+"3-2": {
+"lv": 1,
+"ask": "Find where two straight lines meet.",
+"what": "Solves two linear equations, by graph or by solver.",
+"when": "Intersections and simultaneous equations.",
+"in": "The coefficients of each equation, arranged in the form the solver asks for.",
+"read": "The solution x = 1.5, y = 1 is the point where both lines meet.",
+"trap": [
+"x = 1.5 and y = 1 are the two gradients.",
+"There are two separate solutions, 1.5 and 1."
+],
+"check": "Write each equation in the solver's standard form first; signs matter."
+},
+"3-4": {
+"lv": 2,
+"ask": "Find the point equally far from three coffee shops.",
+"what": "Solves two perpendicular bisector equations at once.",
+"when": "Voronoi vertices, new sites and largest-empty-point problems.",
+"in": "The two bisector equations, in the solver's form.",
+"read": "The point (4.39, 4.72) is a Voronoi vertex, equally far from the three shops.",
+"trap": [
+"4.39 and 4.72 are the distances from the shops.",
+"The point is closest to all the shops only if it lies on an existing site."
+],
+"check": "Derive each bisector carefully; the solver only solves what you enter."
+},
+"3-14c": {
+"lv": 3,
+"ask": "Find the smallest distance between two moving model boats.",
+"what": "Graphs distance against time and finds its minimum.",
+"when": "Closest approach and any minimum you can't find by hand.",
+"in": "The distance between the boats as a function of t.",
+"read": "The boats are closest at t = 1.67 s, when they are 0.332 m apart.",
+"trap": [
+"The smallest distance is 1.67 m.",
+"The boats collide after 0.332 s."
+],
+"check": "Set a window for t ≥ 0 only. The minimum has the time as x and the distance as y."
+},
+"4-2": {
+"lv": 1,
+"ask": "Find when a savings account reaches $2500.",
+"what": "Finds an intersection of a model with a target value.",
+"when": "When does a model reach a given value?",
+"in": "The model as Y1 and the target as Y2.",
+"read": "The value reaches $2500 about 24.8 years in, so during the year 2039.",
+"trap": [
+"The account holds $24.8 after 2500 years.",
+"Round 24.8 down: the value is reached after 24 full years."
+],
+"check": "The window must include the intersection. Convert time into the date asked."
+},
+"4-4": {
+"lv": 2,
+"ask": "Find the altitude at which air pressure is half its sea-level value.",
+"what": "Fits a line, then finds where it meets a target.",
+"when": "Prediction questions with a linear model.",
+"in": "Data in lists or the model, and the target value.",
+"read": "Air pressure is 50% of its sea-level value at an altitude of 4.67 km.",
+"trap": [
+"At 0.5 km the pressure is 4.67 atmospheres.",
+"The pressure falls by 4.67 atmospheres per km."
+],
+"check": "Target is 0.5, not 50. Check the units of each axis."
+},
+"4-7": {
+"lv": 1,
+"ask": "Find how many English and Biology pages were read in two hours.",
+"what": "Solves a linear system formed from a context.",
+"when": "Word problems with two unknowns.",
+"in": "Equations built from the words, in standard form.",
+"read": "x = 15 English pages and y = 30 Biology pages.",
+"trap": [
+"x = 15 is Biology and y = 30 is English.",
+"15 and 30 are the minutes spent on each subject."
+],
+"check": "Define which variable is which before entering them."
+},
+"4-8": {
+"lv": 2,
+"ask": "Find when a bath modelled by a two-part function empties.",
+"what": "Graphs a piecewise function and finds its zero.",
+"when": "Piecewise models and their domains.",
+"in": "Each piece with its own domain restriction.",
+"read": "A zero at t = 1050 s means the bath is empty after 17.5 minutes, so the domain ends there.",
+"trap": [
+"The bath is empty after 1050 minutes.",
+"The bath reaches its maximum depth at 1050 s."
+],
+"check": "Attach the domain to each piece, and convert units."
+},
+"4-13": {
+"lv": 1,
+"ask": "Find a term of an arithmetic sequence and test whether a given number is in it.",
+"what": "Lists the sequence as a table.",
+"when": "Finding terms and checking membership.",
+"in": "The nth-term formula as a function of the position.",
+"read": "u₁₀ = 143, and 49 lies between u₂₃ and u₂₄, so it isn't a term.",
+"trap": [
+"49 is a term, somewhere between positions 23 and 24.",
+"143 is the sum of the first 10 terms."
+],
+"check": "Table start 1, step 1: n must be a whole number."
+},
+"4-14": {
+"lv": 2,
+"ask": "Find the first strike at which a pole has been driven further than 38 m.",
+"what": "Finds the first term exceeding a target using a table.",
+"when": "Least n such that … in sequence models.",
+"in": "The sequence formula.",
+"read": "The first value above 38 is 38.08 at n = 205, so 205 strikes are needed.",
+"trap": [
+"204 strikes are enough.",
+"38.08 is the number of strikes."
+],
+"check": "Look for the first term above the target and answer with n."
+},
+"4-18": {
+"lv": 2,
+"ask": "Find the least number of terms needed for a series to exceed 100.",
+"what": "Finds where a sum function reaches a target.",
+"when": "Smallest n with Sₙ above a value.",
+"in": "Sₙ as a function of n, and the target.",
+"read": "The crossing is at n = 10.7, and n must be whole, so n = 11.",
+"trap": [
+"n = 10, rounding to the nearest integer.",
+"n = 10.7 is the final answer."
+],
+"check": "Round up in 'least n' questions, even if the decimal is small."
+},
+"4-20": {
+"lv": 2,
+"ask": "Decide how many bottles to stock for a maximum temperature of 19.5°C.",
+"what": "Finds the regression line and predicts y.",
+"when": "Prediction from a line of best fit.",
+"in": "Data lists and the x-value of interest.",
+"read": "The model predicts just over 132 bottles, so stock 133.",
+"trap": [
+"Stock 132, because you always round to nearest.",
+"19.5 bottles should be stocked."
+],
+"check": "x within the data range. Round in the direction that context requires."
+},
+"6-9": {
+"lv": 1,
+"ask": "Sketch a cubic and label its key points.",
+"what": "Graphs a polynomial and finds its key points.",
+"when": "Sketch questions with labelled features.",
+"in": "The function and its domain.",
+"read": "The local minimum is at about (4.36, −44.7); label it on the sketch.",
+"trap": [
+"4.36 is the y-coordinate of the minimum.",
+"The graph has no other features to label."
+],
+"check": "Set the window from the given domain. Use the correct function's minimum."
+},
+"6-10": {
+"lv": 3,
+"ask": "Build a two-part model for a ski jump from data.",
+"what": "Fits polynomial regressions to pieces of data and restricts each.",
+"when": "Piecewise modelling with regression.",
+"in": "Data lists for each section, and each section's domain.",
+"read": "Each curve applies only on its own interval, joining near x = 254.",
+"trap": [],
+"check": "Add the correct domain to each stored function."
+},
+"6-11": {
+"lv": 3,
+"ask": "Fit a quartic model to the outline of a bowl and judge the fit.",
+"what": "Fits a polynomial and reports R².",
+"when": "Choosing and judging non-linear models.",
+"in": "Data lists; the degree of the polynomial.",
+"read": "R² = 0.999… means the model explains nearly all of the variation.",
+"trap": [
+"R² = 0.999 means that the model is correct for any x.",
+"99.9% of the points lie exactly on the curve."
+],
+"check": "Check the graph too: a high R² doesn't guarantee sensible behaviour outside the data."
+},
+"7-2": {
+"lv": 1,
+"ask": "Find when a car losing 10% each year first falls below half its value.",
+"what": "Finds where a geometric model reaches a target.",
+"when": "When does an exponential sequence pass a value?",
+"in": "The model with ratio 0.9, and the target.",
+"read": "The crossing is at 6.58 years, so it first drops below half after 7 years.",
+"trap": [
+"After 6 years it has already dropped below half.",
+"6.58 is the value in thousands of euros."
+],
+"check": "Count whole years as the context requires."
+},
+"7-5": {
+"lv": 3,
+"ask": "Find the daily decrease needed so that ten days of fundraising reach €300.",
+"what": "Solves a sum equation for the unknown ratio.",
+"when": "A ratio that cannot be isolated by algebra.",
+"in": "Sₙ written as a function of r, and the target.",
+"read": "r = 0.879, so a daily decrease of 12.1%.",
+"trap": [
+"The daily decrease is 87.9%.",
+"The daily increase is 8.79%."
+],
+"check": "1 − r gives the percentage decrease. Take the root with 0 < r < 1."
+},
+"7-6": {
+"lv": 2,
+"ask": "Find the first test solution given less than 10 ml.",
+"what": "Finds where a geometric decay reaches a level.",
+"when": "Least n in decay questions.",
+"in": "The nth-term model and the target.",
+"read": "The crossing is at n = 10.8, so it first happens at n = 11.",
+"trap": [
+"n = 10, since 10.8 is cut down.",
+"It first happens at n = 10.8."
+],
+"check": "Answers in n are whole. Use the correct ratio 50/60."
+},
+"7-7": {
+"lv": 1,
+"ask": "Find the value of an investment and how long it takes to double.",
+"what": "Solves compound interest problems in the finance app.",
+"when": "Compound interest questions, including for time or rate.",
+"in": "N, I%, PV, PMT, FV, P/Y and C/Y.",
+"read": "The solved value is the unknown you asked for: the amount, or the time needed. A whole number of years may need rounding up.",
+"trap": [],
+"check": "PV and FV have opposite signs. Read the teacher's note on this sheet."
+},
+"7-8": {
+"lv": 2,
+"ask": "Find how long a deposit can pay a monthly rent.",
+"what": "Solves for the number of payments.",
+"when": "How long does an account last?",
+"in": "PV, payment, interest rate, FV = 0, P/Y and C/Y.",
+"read": "n = 43.5 months, so 43 complete months of rent can be paid.",
+"trap": [
+"44 complete months, rounding to the nearest.",
+"43.5 years of rent."
+],
+"check": "P/Y is 12 and C/Y is 4 here. Payments are negative when PV is positive."
+},
+"7-9": {
+"lv": 2,
+"ask": "Decide whether an investment will afford a house in five years, allowing for inflation.",
+"what": "Compares a future value with an inflated price.",
+"when": "Real value and inflation questions.",
+"in": "N, adjusted rate, PV, PMT = 0, P/Y and C/Y.",
+"read": "A future value of €122 045 is enough for the house.",
+"trap": [
+"€122 045 is the interest earned.",
+"The minus sign on FV means that she can't afford it."
+],
+"check": "The sign is about money direction. Use the rate asked for by the method."
+},
+"7-10": {
+"lv": 2,
+"ask": "Find the amount of a loan still owed after some repayments.",
+"what": "Finds the outstanding balance after n payments.",
+"when": "Amount owing partway through a loan.",
+"in": "N so far, I%, PV, PMT, P/Y and C/Y.",
+"read": "$4290.88 of the principal remains to be repaid.",
+"trap": [
+"$4290.88 has been paid so far.",
+"$4290.88 is the interest paid so far."
+],
+"check": "N is the number of payments made so far. Solve for FV."
+},
+"7-12": {
+"lv": 1,
+"ask": "Find the half-life of a radioactive material from its model.",
+"what": "Finds when an exponential reaches half its start.",
+"when": "Half-life and doubling time.",
+"in": "The model and half the initial value.",
+"read": "The mass is 42.85 g at t = 20.0, so the half-life is 20 years.",
+"trap": [
+"The half-life is 42.85 years.",
+"After 20 years there is none left."
+],
+"check": "Target is half of the initial amount, not half of a later one."
+},
+"7-14": {
+"lv": 3,
+"ask": "Decide when the weekly views of a video will fall to 1000.",
+"what": "Fits an exponential model, then finds a target.",
+"when": "Exponential regression and prediction.",
+"in": "Data lists; the target.",
+"read": "x = 10.98 weeks is 76.9 days, so advertising should restart after 77 days.",
+"trap": [
+"They should restart after 11 days.",
+"10.98 is the number of views."
+],
+"check": "Convert units carefully and interpret in context."
+},
+"8-2": {
+"lv": 2,
+"ask": "Find all values of x for which cos x = −0.2 in the interval −π ≤ x ≤ 2π.",
+"what": "Finds every solution of a trig equation in an interval.",
+"when": "Trig equations with a stated domain.",
+"in": "Both sides as functions, window equal to the domain.",
+"read": "There are three solutions: about −1.77, 1.77 and 4.51.",
+"trap": [
+"The only solution is 1.77.",
+"The solutions are in degrees."
+],
+"check": "Radian mode for this interval. Use the given interval as the window and find every crossing."
+},
+"8-4": {
+"lv": 2,
+"ask": "Fit a sine curve to points and compare with the given model.",
+"what": "Fits a sinusoidal regression.",
+"when": "Periodic data needing a sine model.",
+"in": "At least enough data points in lists.",
+"read": "The fit is 5 sin(0.785x + 0.785) − 3, and 0.785 is π/4.",
+"trap": [
+"The amplitude is −3 and the principal axis is y = 5.",
+"The period is 0.785."
+],
+"check": "Radian mode. Compare your form of the equation with the calculator's form."
+},
+"8-5a": {
+"lv": 1,
+"ask": "Calculate with two complex numbers and give answers in the form a + bi.",
+"what": "Performs arithmetic on complex numbers.",
+"when": "Checking or computing complex arithmetic.",
+"in": "Each complex number, stored or typed.",
+"read": "The output's two parts are the real part and the imaginary coefficient in a + bi.",
+"trap": [
+"The second number in the output is the argument.",
+"The result is in polar form."
+],
+"check": "Complex format set to a + bi. Use brackets around each number."
+},
+"8-8": {
+"lv": 1,
+"ask": "Convert a complex number between Cartesian and modulus–argument form.",
+"what": "Converts forms of complex numbers.",
+"when": "Whenever a question requests a specific form.",
+"in": "The number and the form you want.",
+"read": "3 cis 0.4 converts to about 2.76 + 1.17i.",
+"trap": [
+"The real part is 1.17 and the imaginary part is 2.76.",
+"0.4 is in degrees."
+],
+"check": "Angle mode set to match the argument."
+},
+"8-9": {
+"lv": 3,
+"ask": "Find the smallest n for which the imaginary part of a power of z is zero.",
+"what": "Raises a complex number to powers in exponential form.",
+"when": "Powers and De Moivre-style reasoning.",
+"in": "The modulus, argument and power.",
+"read": "The smallest n is 6, and the sixth power equals 64.",
+"trap": [
+"The smallest n is 64.",
+"The sixth power has an imaginary part of 64."
+],
+"check": "Argument of −√3 − i needs the correct quadrant; radian mode."
+},
+"8-10": {
+"lv": 3,
+"ask": "Add two alternating voltages using complex numbers and find the resulting phase.",
+"what": "Adds sinusoids as complex numbers, then reads the modulus and argument.",
+"when": "Phase-shift questions with voltages or currents.",
+"in": "Amplitudes and phases in exponential form.",
+"read": "The argument, converted from radians, is about 83.1°.",
+"trap": [
+"83.1 is the amplitude of the sum.",
+"The argument is 83.1 radians."
+],
+"check": "Match the angle mode, or convert by × 180/π."
+},
+"9-4": {
+"lv": 1,
+"ask": "Find the inverse of a 3 × 3 matrix and verify it.",
+"what": "Finds an inverse and verifies it.",
+"when": "Inverse questions; 3 × 3 always with technology.",
+"in": "The dimension and every entry of the matrix.",
+"read": "PP⁻¹ gives the identity, confirming the inverse is right.",
+"trap": [
+"The identity result means that P has no inverse.",
+"P⁻¹ is P with each entry inverted."
+],
+"check": "Dimensions first, then enter by rows."
+},
+"9-5": {
+"lv": 2,
+"ask": "Solve a system by writing it as a matrix equation.",
+"what": "Solves AX = B with the inverse.",
+"when": "Systems of equations in matrix form.",
+"in": "A as coefficients, B as the right-hand sides.",
+"read": "The solution is s = −1/3, t = 4/3, z = −8/3 in fractional form.",
+"trap": [
+"These are the entries of the inverse.",
+"Multiply as BA⁻¹ to get the same values."
+],
+"check": "Always A⁻¹B, in that order."
+},
+"9-10": {
+"lv": 2,
+"ask": "Find the chance that a bike from the central district is in the outer zone after three days.",
+"what": "Raises a transition matrix to a power.",
+"when": "Probability after n steps.",
+"in": "T, and the power n.",
+"read": "The relevant entry of T³ gives probability 0.441.",
+"trap": [
+"There is a 0.441 chance per day.",
+"44.1 bicycles will move at some point on day 3."
+],
+"check": "Columns sum to 1. Read column = start, row = end."
+},
+"9-11": {
+"lv": 2,
+"ask": "Find the long-term number of bikes in each zone.",
+"what": "Applies high powers of T to the initial vector.",
+"when": "Long-term or steady-state distributions.",
+"in": "T, s₀, and large powers.",
+"read": "Long term there are about 65, 76 and 99 bikes in the three zones.",
+"trap": [
+"These bike numbers are the initial distribution.",
+"The figures are probabilities."
+],
+"check": "Raise the power until the values stop changing."
+},
+"9-13": {
+"lv": 3,
+"ask": "Diagonalize a 2 × 2 matrix and use it to write A⁴.",
+"what": "Uses the matrix tools to calculate PD⁴P⁻¹.",
+"when": "Powers of matrices by diagonalization.",
+"in": "A, P and D.",
+"read": "D⁴ has 81 and 16 on its diagonal: eigenvalues 3 and −2 raised to the 4th power.",
+"trap": [
+"The eigenvalues of A are 81 and 16.",
+"A⁴ is the same matrix as D⁴."
+],
+"check": "Keep eigenvalues in the same order as eigenvectors."
+},
+"10-2": {
+"lv": 2,
+"ask": "Find where a function is increasing, using its derivative.",
+"what": "Graphs a function and its derivative together.",
+"when": "Linking f and f′.",
+"in": "f(x) and the derivative setting.",
+"read": "The turning points are at about x = ±1.41, and f is increasing for x < −1.41 and x > 1.41.",
+"trap": [
+"The function is increasing between −1.41 and 1.41.",
+"±1.41 are the y-values of the turning points."
+],
+"check": "Window must show both turning points; state intervals as inequalities."
+},
+"10-8": {
+"lv": 1,
+"ask": "Find the gradient of a curve at given x-values.",
+"what": "Finds a numerical gradient at a point.",
+"when": "Gradient at a specific x.",
+"in": "The function and the x-value.",
+"read": "At x = 3 the gradient is −0.75 (the point is (3, 2.5)). The sheet's sentence says x = 2, but its screen shows x = 3.",
+"trap": [
+"The y-coordinate at x = 3 is −0.75.",
+"The gradient is −0.75 at every point."
+],
+"check": "The derivative display must be switched on."
+},
+"10-9": {
+"lv": 2,
+"ask": "Use the derivative to find a turning point and its type.",
+"what": "Finds where the gradient function is zero.",
+"when": "Finding stationary points from f′.",
+"in": "dy/dx as a function.",
+"read": "A zero of dy/dx at x = 1 with the sign changing from − to + means a minimum.",
+"trap": [
+"It is a maximum as dy/dx = 0.",
+"The minimum value of y is 1."
+],
+"check": "Remember the graph is of the derivative, not the function."
+},
+"10-10": {
+"lv": 2,
+"ask": "Find the dimensions of a 500 cm³ can with the least surface area.",
+"what": "Finds a minimum of a one-variable function.",
+"when": "Optimisation in context.",
+"in": "The area written in terms of r only.",
+"read": "The minimum is at r = 4.30 cm with an area of 349 cm², and h = 8.60 cm.",
+"trap": [
+"The minimum area is 4.30 cm².",
+"The radius is 349 cm."
+],
+"check": "Use the correct window for r > 0. Find h from the volume."
+},
+"10-19": {
+"lv": 3,
+"ask": "Find the interval on which a curve is concave down.",
+"what": "Finds the extrema of f′, which are f's inflexion points.",
+"when": "Concavity and inflexion questions.",
+"in": "f(x) and its derivative.",
+"read": "Inflexions at x = ±0.707; the curve is concave down between them.",
+"trap": [
+"The curve is concave up between ±0.707.",
+"±0.707 are its turning points."
+],
+"check": "Concave down means f′ is decreasing there."
+},
+"10-21": {
+"lv": 2,
+"ask": "Find the second time at which a rocket has a certain speed.",
+"what": "Compares the speed function at different times.",
+"when": "Kinematics using a derivative.",
+"in": "Height function, and its derivative.",
+"read": "The graphs meet at t = 4.5 s, when the speed is 0.33 m/s.",
+"trap": [
+"The height at t = 4.5 is 0.33 m.",
+"The speed is 4.5 m/s after 0.33 s."
+],
+"check": "Speed is the size of velocity; compare |v|."
+},
+"11-2": {
+"lv": 1,
+"ask": "Find an area under a straight line by integration.",
+"what": "Evaluates a definite integral.",
+"when": "Definite integrals on the GDC.",
+"in": "Function, lower limit and upper limit.",
+"read": "The integral from 1 to 3 is 20, matching the trapezium area.",
+"trap": [
+"20 is the gradient of the line.",
+"The area is 20 only if the limits are reversed."
+],
+"check": "Check the limits are in the right order."
+},
+"11-3": {
+"lv": 1,
+"ask": "Find an area enclosed by a parabola and the x-axis.",
+"what": "Finds the zeros and integrates between them.",
+"when": "Limits must first be found from the curve.",
+"in": "The function; the zeros as limits.",
+"read": "The area between the zeros 0 and 3 is 4.5.",
+"trap": [
+"The area is 3.",
+"−4.5 would be the correct area if the curve were below the axis."
+],
+"check": "Select the correct zeros; areas are positive."
+},
+"11-4": {
+"lv": 3,
+"ask": "Find a limit a so that an area equals 12.",
+"what": "Graphs an area as a function of the limit.",
+"when": "Unknown limit of integration.",
+"in": "The integral as a function of x, and the target.",
+"read": "The intersection is at (2, 12), so a = 2.",
+"trap": [
+"a = 12.",
+"The area is 2."
+],
+"check": "Y1 is the integral, Y2 the target."
+},
+"11-12": {
+"lv": 1,
+"ask": "Find an area under a curve between given x-values.",
+"what": "Evaluates a definite integral.",
+"when": "Definite integrals with awkward functions.",
+"in": "Function, x = 1, x = 4.",
+"read": "The result is the area, about 67.",
+"trap": [
+"67 is the height at x = 4.",
+"67 is the antiderivative."
+],
+"check": "Check the fraction template contains only what it should."
+},
+"11-14": {
+"lv": 2,
+"ask": "Find the area between two curves up to x = 3.",
+"what": "Finds the region's limits, then integrates the difference.",
+"when": "Area between curves.",
+"in": "Both functions; intersection as lower limit, 3 as upper limit.",
+"read": "The value displayed is the area between the two curves.",
+"trap": [
+"The value is the x-coordinate of the intersection.",
+"The value is the area under the top curve only."
+],
+"check": "Check which function is on top in the region."
+},
+"11-15": {
+"lv": 2,
+"ask": "Find the total area between sin x and cos x from 0 to 2π.",
+"what": "Integrates the modulus of a difference.",
+"when": "Curves crossing inside the interval.",
+"in": "Both curves, limits 0 and 2π.",
+"read": "The total area is about 5.66 (the exact value is 4√2). The sheet's printed line says 6.08, but its screen shows 5.657.",
+"trap": [
+"The area is 0, as the regions above and below cancel.",
+"The area is 6.28, the width of the interval."
+],
+"check": "Radian mode. Curves cross within the interval: split it, or use modulus. Compare what your screen shows."
+},
+"11-16": {
+"lv": 2,
+"ask": "Find an area between a curve and the y-axis.",
+"what": "Integrates with respect to y.",
+"when": "Areas against the y-axis.",
+"in": "x as a function of y, limits in y.",
+"read": "The area is about 5.33, using y-limits 0 to 4.",
+"trap": [
+"The x-limits −2 and 0 should be used.",
+"The area is 4."
+],
+"check": "Rewrite the function and convert the limits to y-values."
+},
+"11-17": {
+"lv": 2,
+"ask": "Find a volume made by rotating a curve about an axis.",
+"what": "Evaluates π∫y² or π∫x² numerically.",
+"when": "Volumes of revolution.",
+"in": "The squared function with π, and the limits.",
+"read": "The volume about the y-axis is about 9.93.",
+"trap": [
+"9.93 is the area of the region.",
+"The limits should remain in x."
+],
+"check": "Include π. Square the whole function. Use limits for the correct variable."
+},
+"11-18": {
+"lv": 3,
+"ask": "Find the volume when the region between two curves is rotated.",
+"what": "Subtracts one volume from another.",
+"when": "Rotating the region between two curves.",
+"in": "Both functions, and the limits from their intersection.",
+"read": "The volume is 0.993.",
+"trap": [
+"Square the difference of the two functions.",
+"The answer is the limit, 1.293."
+],
+"check": "Outer squared minus inner squared; never (outer − inner)²."
+},
+"11-21": {
+"lv": 3,
+"ask": "Find the total water moved when flow changes direction during the day.",
+"what": "Integrates the modulus of a rate.",
+"when": "Total quantity when the rate changes sign.",
+"in": "Rate function, modulus, 0 and 24.",
+"read": "The total amount of water is 149 m³.",
+"trap": [
+"149 m³ is the net water left in the reservoir.",
+"The total is the signed integral."
+],
+"check": "Use Abs in the integrand."
+},
+"11-25": {
+"lv": 2,
+"ask": "Estimate y(2) with step 0.1, starting from y(1) = 1.",
+"what": "Runs Euler's method as recursive sequences.",
+"when": "Euler questions with many steps.",
+"in": "Recursion rules for x and y, start values.",
+"read": "The table gives y(2) ≈ 3.86.",
+"trap": [
+"3.86 is the exact solution.",
+"y at the 2nd step is 3.86."
+],
+"check": "Start values at the correct n. Find the row where x = 2."
+},
+"12-6": {
+"lv": 3,
+"ask": "Estimate x and y at t = 1 and t = 2 for a coupled system.",
+"what": "Runs Euler for a coupled system.",
+"when": "Coupled differential equations.",
+"in": "Rules for t, x and y; step size and starts.",
+"read": "At t = 1, x ≈ 48.1, y ≈ 11.0; at t = 2, x ≈ 306, y ≈ 76.2.",
+"trap": [
+"t = 1 is at n = 1.",
+"x and y at t = 2 are 48.1 and 11.0."
+],
+"check": "Check which n matches the time: with h = 0.1, t = 1 is 10 steps."
+},
+"13-4": {
+"lv": 1,
+"ask": "Decide if a situation is binomial and find an exact probability.",
+"what": "Computes a binomial probability for exactly x.",
+"when": "P(X = k) for binomial.",
+"in": "x, Numtrial, p.",
+"read": "The result 2.59 × 10⁻³ means a probability of 0.00259.",
+"trap": [
+"The probability is 2.59.",
+"The E means the calculator made an error."
+],
+"check": "Pick the point-probability option, not the cumulative one."
+},
+"13-5": {
+"lv": 3,
+"ask": "Find the least number of trials for a target probability.",
+"what": "Tabulates a probability as n varies.",
+"when": "Least n in a binomial question.",
+"in": "The probability as a function of n.",
+"read": "n = 102 is the first value that meets the condition.",
+"trap": [
+"n = 101 meets it.",
+"The probability is 102."
+],
+"check": "Check which side of the target you need."
+},
+"13-6": {
+"lv": 2,
+"ask": "Find Poisson probabilities for goals in a football match.",
+"what": "Calculates Poisson probabilities.",
+"when": "Events at a mean rate.",
+"in": "x and λ.",
+"read": "Each value in the list is the probability of the matching number of goals.",
+"trap": [],
+"check": "Scale the mean to the interval first."
+},
+"13-7": {
+"lv": 2,
+"ask": "Find the probability of exactly 3 days with a cancellation in 5 days.",
+"what": "Combines a Poisson probability with a binomial.",
+"when": "One distribution feeding another.",
+"in": "Trials 5; p = 0.203, found earlier.",
+"read": "The probability is 0.0531.",
+"trap": [
+"p for one day is 0.0531.",
+"There will be 0.0531 trains cancelled."
+],
+"check": "Use full accuracy for p."
+},
+"13-9": {
+"lv": 1,
+"ask": "Find P(X > 7) when X ~ N(10, 4).",
+"what": "Calculates normal probabilities.",
+"when": "Area under a normal curve.",
+"in": "Lower, upper, σ, μ.",
+"read": "P(X > 7) = 0.933.",
+"trap": [
+"σ should be entered as 4.",
+"P(X > 7) = 0.067."
+],
+"check": "Enter σ, not σ². For no upper limit, use a very large number."
+},
+"13-11": {
+"lv": 2,
+"ask": "Find the symmetric interval holding a given central probability.",
+"what": "Inverse normal: value from an area.",
+"when": "Finding x from a probability.",
+"in": "Tail, area, σ and μ.",
+"read": "a = 18.0 and b = 24.0 are the ends of the central region.",
+"trap": [
+"18.0 and 24.0 are probabilities.",
+"Enter the outside tail for the Central option."
+],
+"check": "Choose the correct tail: Left, Right or Central."
+},
+"13-12": {
+"lv": 2,
+"ask": "Find the weight above which cauliflowers are classified as oversized.",
+"what": "Applies inverse normal in context.",
+"when": "Cut-off values.",
+"in": "Area, μ = 821, σ = 40.",
+"read": "w = 877.2, so at least 877 g counts as oversized.",
+"trap": [
+"877.2 is the probability.",
+"The weight 877 g is the mean."
+],
+"check": "Choose the tail that matches the wording."
+},
+"13-18": {
+"lv": 3,
+"ask": "Use the central limit theorem to find a probability for a mean number of calls.",
+"what": "Normal approximation to a sample mean.",
+"when": "Questions about means of many observations.",
+"in": "Mean, standard error.",
+"read": "Your screen's value is the probability; the teacher's note on this sheet corrects the printed answer.",
+"trap": [
+"Use σ, not σ/√n.",
+"The probability is 5.4."
+],
+"check": "Standard deviation of the mean is σ/√n. See the teacher's note."
+},
+"13-8": {
+"lv": 3,
+"ask": "Find the variance of a Poisson variable when P(T > 3) = 0.53.",
+"what": "Solves for the Poisson mean by graph.",
+"when": "Unknown parameter.",
+"in": "The cumulative as a function of λ, and the target.",
+"read": "λ = 3.82, so the variance is 3.82.",
+"trap": [
+"The variance is 0.53.",
+"The variance is √3.82."
+],
+"check": "For Poisson, mean = variance. T > 3 means T ≥ 4."
+},
+"14-1": {
+"lv": 2,
+"ask": "Find Spearman's rank correlation for two sets of data.",
+"what": "Calculates Pearson's r on the ranks.",
+"when": "Spearman's rank.",
+"in": "The ranks (not the raw data), in two lists.",
+"read": "r = 0.975 on the ranks shows strong positive monotonic association.",
+"trap": [
+"0.975 is Pearson's r for the raw data.",
+"There is exact linear dependence."
+],
+"check": "Enter ranks; ties share the average rank."
+},
+"14-2": {
+"lv": 3,
+"ask": "Test a binomial proportion and find the critical region.",
+"what": "Finds critical region with a cumulative table.",
+"when": "Binomial hypothesis tests.",
+"in": "n, p under H₀, significance.",
+"read": "The p-value 0.000201 is below the significance level, and 18 is in the critical region, so reject H₀.",
+"trap": [
+"Accept H₀ as the p-value is small.",
+"0.000201 is the probability that H₀ is true."
+],
+"check": "Check the actual significance level; test the correct tail."
+},
+"14-3": {
+"lv": 2,
+"ask": "Test if the mean rate of cars has fallen after a change.",
+"what": "Tests a Poisson mean.",
+"when": "Poisson hypothesis tests.",
+"in": "Scaled mean; observed count.",
+"read": "P(X ≤ 140) = 0.0592 > 0.05, so not significant.",
+"trap": [
+"Reject H₀ since 0.0592 is small.",
+"There is a 5.92% chance H₀ is true."
+],
+"check": "Scale the mean to the observation period."
+},
+"14-5": {
+"lv": 2,
+"ask": "Find the critical region for a lower-tail test of a mean fill weight.",
+"what": "Uses inverse normal on the sample mean's distribution.",
+"when": "Critical regions for means.",
+"in": "Area 0.05, Left tail, σ/√n, μ.",
+"read": "Reject H₀ if the sample mean is at or below 994.8.",
+"trap": [
+"Reject H₀ if it is above 994.8.",
+"994.8 is the population mean."
+],
+"check": "Use the standard error, σ/√n."
+},
+"14-6": {
+"lv": 2,
+"ask": "Find a two-tailed critical region for a mean circuit time.",
+"what": "Central inverse normal on the sample mean.",
+"when": "Two-tailed tests.",
+"in": "Central area 0.95, σ/√n, μ.",
+"read": "The critical region is X̄ ≤ 14.86 or X̄ ≥ 15.94.",
+"trap": [
+"Reject H₀ if X̄ lies between them.",
+"5% in each tail."
+],
+"check": "For 5% two-tailed, the central area is 0.95."
+},
+"14-7": {
+"lv": 2,
+"ask": "Test a mean with a t-test from a list of data.",
+"what": "One-sample t-test.",
+"when": "σ unknown.",
+"in": "μ₀, direction, list or summary statistics.",
+"read": "p = 0.161 > 0.05: not significant, so there is insufficient evidence to reject H₀.",
+"trap": [
+"H₀ is proved true.",
+"Reject H₀, since 0.161 is more than 0.05."
+],
+"check": "Match the direction of H₁. Use sₙ₋₁ with summary data."
+},
+"14-8": {
+"lv": 1,
+"ask": "Find a 95% confidence interval for a mean.",
+"what": "Calculates a t-interval.",
+"when": "CI when σ is unknown.",
+"in": "C-Level and list.",
+"read": "The 95% confidence interval is (27.91, 37.29).",
+"trap": [
+"95% of the data lie in the interval.",
+"μ is certainly in this interval."
+],
+"check": "Choose z or t appropriately."
+},
+"14-9": {
+"lv": 2,
+"ask": "Test whether two chemistry groups have different mean results.",
+"what": "Two-sample t-test.",
+"when": "Two independent groups.",
+"in": "Two lists and the direction.",
+"read": "p = 0.816 > 0.05: no reason to reject the claim of no difference.",
+"trap": [
+"The groups are 81.6% different.",
+"Reject H₀, as p is large."
+],
+"check": "Pooled setting as the question or your teacher expects."
+},
+"14-10": {
+"lv": 2,
+"ask": "Test if a revision course improved grades, using before and after results.",
+"what": "Paired t-test on the differences.",
+"when": "Same subjects measured twice.",
+"in": "List of differences, μ₀ = 0, direction.",
+"read": "p = 0.0713 > 0.05: not significant.",
+"trap": [
+"Significant at the 5% level.",
+"7.13% of students improved."
+],
+"check": "Consistent subtraction order; the direction matches that."
+},
+"14-11": {
+"lv": 2,
+"ask": "Test whether favourite music genre is independent of gender.",
+"what": "χ² test for independence.",
+"when": "Contingency tables.",
+"in": "Observed matrix.",
+"read": "p = 0.559 > 0.10: not significant, so no evidence against independence.",
+"trap": [
+"The variables are proven independent.",
+"Reject H₀, since p is large."
+],
+"check": "Check expected values are at least 5. Keep the observed table as a matrix."
+},
+"14-12": {
+"lv": 2,
+"ask": "Carry out a χ² goodness-of-fit test.",
+"what": "χ² goodness of fit.",
+"when": "Data against a claimed distribution.",
+"in": "Observed list, expected list, df.",
+"read": "χ² = 1.28 and p = 0.864: not significant.",
+"trap": [
+"Reject H₀, since 1.28 < 9.488.",
+"The fit is 86.4% accurate."
+],
+"check": "Set the degrees of freedom yourself."
+},
+"14-13": {
+"lv": 3,
+"ask": "Test if flaws per metre follow a Poisson distribution.",
+"what": "Goodness of fit to a Poisson model.",
+"when": "Checking a Poisson model.",
+"in": "Observed, expected from Poisson, df.",
+"read": "The p-value is compared with the significance level; it differs slightly from a rounded expected value calculation.",
+"trap": [],
+"check": "Combine classes with expected below 5, and adjust df."
+},
+"14-14": {
+"lv": 2,
+"ask": "Test if the number of heads from tossing three coins fits a binomial model.",
+"what": "Goodness of fit to a binomial model.",
+"when": "Checking a binomial model.",
+"in": "Observed, expected, df.",
+"read": "χ² = 2.43 and p = 0.489: not significant.",
+"trap": [
+"Reject H₀, since 2.43 < 7.815.",
+"The coins are fair with 48.9% certainty."
+],
+"check": "Don't subtract for a parameter that wasn't estimated."
+},
+"14-15": {
+"lv": 3,
+"ask": "Test if fish lengths are normal, estimating the mean and variance from the data.",
+"what": "Goodness of fit using estimated parameters.",
+"when": "Parameters estimated from the sample.",
+"in": "Observed, expected, reduced df.",
+"read": "p > 0.05: insufficient evidence to reject normality.",
+"trap": [
+"Lengths are proved to be normal.",
+"Reject normality, as p is more than 0.05."
+],
+"check": "Lose one more df per estimated parameter."
+},
+"14-16": {
+"lv": 3,
+"ask": "Test if arrows hitting the bullseye fit a binomial model with an estimated p.",
+"what": "Goodness of fit with an estimated p.",
+"when": "Estimated binomial parameter.",
+"in": "Observed, expected, reduced df.",
+"read": "p = 0.0131 < 0.05: significant, so reject the binomial model.",
+"trap": [
+"Don't reject, as 0.0131 is small.",
+"The chance of a bullseye is 0.0131."
+],
+"check": "Lose an extra df for estimating p."
+},
+"14-18": {
+"lv": 3,
+"ask": "Find the probability of a Type II error for a test on faulty components.",
+"what": "Calculates a Type II error in binomial.",
+"when": "Power and Type II errors.",
+"in": "Region, true p, n.",
+"read": "P(X ≤ 3 | p = 0.04) = 0.861 is the Type II probability.",
+"trap": [
+"This is the Type I error.",
+"Use the H₀ value of p."
+],
+"check": "Use the true p, and the acceptance region."
+},
+"14-19": {
+"lv": 3,
+"ask": "Find the probability of a Type II error for a test on flaws in aluminium.",
+"what": "Calculates a Type II error in Poisson.",
+"when": "Power and Type II errors.",
+"in": "Region, true mean over 7 m.",
+"read": "P(X ≤ 8 | mean 5.04) = 0.929 is the Type II probability.",
+"trap": [
+"This is the Type I error.",
+"Use the H₀ mean."
+],
+"check": "Scale the mean to the 7 m length."
+}
+}

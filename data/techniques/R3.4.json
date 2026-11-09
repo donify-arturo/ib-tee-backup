@@ -1,0 +1,1574 @@
+{
+  "cards": [
+    {
+      "card_id": "R3.4-01",
+      "title": "SN2 mechanism: four marks for exact arrows, not just the idea",
+      "understandings": [
+        "R3.4.2",
+        "R3.4.3",
+        "R3.4.9"
+      ],
+      "priority": 1,
+      "walkthrough": {
+        "question_ref": "25M.2.HL.6221.4",
+        "question": "Bromoalkane X is CH3CHBrC(CH3)3. It reacts with sodium hydroxide, and the reaction depends on the concentrations of both reactants. Using curly arrows to show how the electrons move, explain the mechanism of this reaction. [4]",
+        "marks": 4,
+        "key_idea": "Rate depends on both reactants, so SN2: one step, two arrows, one charged transition state.",
+        "question_type": "Draw SN2 mechanism with curly arrows",
+        "careful": "Start the first arrow on oxygen's lone pair, never on H.",
+        "procedure": [
+          "Decide SN2 or SN1 from the rate clue.",
+          "Draw arrow from lone pair on O of OH⁻ to C.",
+          "Draw arrow from the C–Br bond to Br.",
+          "Draw the transition state: partial bonds, overall negative charge.",
+          "Write the products: the alcohol and Br⁻."
+        ],
+        "tricks": [
+          "Check charge: OH⁻ in, one minus in transition state, Br⁻ out.",
+          "Ignore Na⁺: start the arrow from OH⁻, not NaOH.",
+          "HO and Br need not sit at 180°; do not redraw."
+        ],
+        "if_lost": [
+          "Does the stem say the rate depends on one reactant or both?",
+          "Which atom in the hydroxide ion carries the lone pair?",
+          "Which carbon is slightly positive, and why?",
+          "Where do the electrons in the breaking bond end up?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Secondary bromide; the rate clue points to SN2.",
+            "why": "Secondary halogenoalkanes can react by both mechanisms, so structure alone cannot decide. The concentration clue does.",
+            "avoid": "Deciding from structure alone: secondary allows either mechanism, and an SN1 answer caps at 3 marks here.",
+            "seconds": 15,
+            "ao_level": "AO3",
+            "syllabus_hook": "R3.4.9: primary SN2, tertiary SN1, both for secondary; describe and explain the mechanisms.",
+            "textbook_gap": "Books show SN2 on a small primary molecule. This question uses a bulky secondary bromide and hides the choice in the stem."
+          },
+          "2_markscheme_logic": {
+            "short": "Four marks: two arrows, transition state, products.",
+            "why": "Each mark checks a separate feature of electron movement, so a correct name alone earns nothing and one slip costs only one mark.",
+            "avoid": "Arrow from the H of OH⁻, or from C instead of the C–Br bond, both reported repeatedly (11M.2.HL.TZ2.8, 17M.2.HL.TZ2.7).",
+            "seconds": 20,
+            "trigger_phrases": [
+              "arrow from lone pair/negative charge on O to C bonded to Br",
+              "arrow from C–Br bond to Br",
+              "negative charge AND partial bonds",
+              "Br⁻ AND CH3CH(OH)C(CH3)3"
+            ],
+            "trap_boundary": "An SN1 mechanism caps at 3 marks. NaBr as a product counts only if Na⁺ was shown at the start.",
+            "delta": "Full credit needs both transition-state features and both products. Partial bonds without the charge, or a missing Br⁻, loses that mark.",
+            "evidence_ref": "25M.2.HL.6221.4"
+          },
+          "3_novel_application": {
+            "short": "Bulky X looks odd, but only one carbon matters.",
+            "why": "The mechanism happens at the carbon holding Br, so the rest of the molecule is carried through unchanged as an R group.",
+            "avoid": "Miscopying the C(CH3)3 end; examiners saw wrong organic products on this question (25M.2.HL.6221.4).",
+            "seconds": 10,
+            "disguise": "A bulky C(CH3)3 group replaces the usual small primary bromide.",
+            "heuristic": "Circle C–Br, call the rest R, then draw OH⁻ attacking that carbon."
+          },
+          "4_command_terms": {
+            "short": "Explain here means draw the mechanism, not write sentences.",
+            "why": "The markscheme credits features of the drawing, so prose about collisions or rates earns no extra marks.",
+            "avoid": "Naming the mechanism only; 14N.3.HL.TZ0.10 reports candidates stating names instead of outlining mechanisms.",
+            "seconds": 5,
+            "command_term": "Explain",
+            "demands": "Show how electron pairs move through the reaction, using curly arrows on a drawn mechanism.",
+            "score_mechanics": "One mark per feature: first arrow, second arrow, transition state, products. Capped at 3 for SN1."
+          },
+          "5_time_efficiency": {
+            "short": "Four drawing moves, about two minutes.",
+            "why": "A fixed drawing order stops you missing the charge or Br⁻, parts examiners often report as missing (18N.2.HL.TZ0.9).",
+            "avoid": "Drawing the other mechanism as well; 03M.2.HL.TZ0.5 reports answers giving both.",
+            "seconds": 120,
+            "workflow": [
+              "Lone pair to carbon",
+              "Bond to bromine",
+              "Brackets, partial bonds, minus charge",
+              "Alcohol plus Br⁻"
+            ],
+            "fat_to_trim": "No explanation of rates, no 180° perfection, no drawing of Na⁺."
+          },
+          "6_data_booklet": {
+            "short": "Nothing here is in the booklet; memorise the drawing.",
+            "why": "Mechanism conventions are a skill, not data, so no table can replace drawing them.",
+            "avoid": "Hunting through the booklet for mechanisms during the paper.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Arrow start and end points and the transition state form are NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Rule out carbocations, H-started arrows and Na–O bonds at sight.",
+            "why": "Each contradicts the one-step electron-pair picture or ionic bonding in sodium compounds, so no analysis is needed.",
+            "avoid": "Drawing NaOH or NaBr with covalent bonds, which examiners reported here (25M.2.HL.6221.4).",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A carbocation intermediate",
+                "rule": "Rate depends on both reactants, so this is one step with no intermediate."
+              },
+              {
+                "target": "An arrow starting at H of OH⁻",
+                "rule": "The electron pair comes from O, not H."
+              },
+              {
+                "target": "A covalent Na–O or Na–Br bond",
+                "rule": "These sodium compounds are ionic."
+              }
+            ]
+          }
+        },
+        "answer": "SN2. Curly arrow from the lone pair or negative charge on O of OH⁻ to the C bonded to Br. Curly arrow from the C–Br bond to Br. Transition state with an overall negative charge and partial bonds to O and Br. Products: CH3CH(OH)C(CH3)3 and Br⁻.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "2"
+          ],
+          "syllabus_hook": "R3.4.9 mechanisms of halogenoalkanes; R3.4.2 electron-pair movement; R3.4.3 heterolytic fission shown by curly arrows.",
+          "textbook_gap": "Books show a tidy primary example. Exams use unfamiliar secondary molecules and mark every arrow's start and end."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "from lone pair/negative charge on O",
+            "from C–Br bond to Br",
+            "negative charge AND partial bonds",
+            "Br⁻ as a product"
+          ],
+          "trap_boundaries": [
+            "SN1 given instead of SN2: [3 max] (25M.2.HL.6221.4).",
+            "NaBr accepted only if Na⁺ was shown at the start (25M.2.HL.6221.4).",
+            "Not penalised: HO and Br away from 180°; arrows drawn in the transition state (25M.2.HL.6221.4).",
+            "Older schemes also ask for square brackets and warn against a bond drawn from H (18N.2.HL.TZ0.9, 22M.2.HL.TZ1.5).",
+            "Heterolytic fission: one atom receives both electrons, or ions form; descriptions reversed with homolytic: [1 max] (25M.2.HL.6221.4)."
+          ],
+          "delta": "Partial credit usually comes from the correct idea with loose arrows or an incomplete transition state. Full credit needs exact start and end points, charge, partial bonds and both products."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A bulky secondary bromide in place of a primary one.",
+            "Rate data first: deduce the rate expression, then SN2, then draw it (19N.2.HL.TZ0.3).",
+            "Iodide or chloride as the leaving group (22M.2.HL.TZ1.5, 19N.2.HL.TZ0.3).",
+            "A definition of heterolytic fission asked beside the mechanism: the C–Br arrow is that fission (25M.2.HL.6221.4)."
+          ],
+          "heuristic": "Whatever the molecule: lone pair to carbon, bond to halogen, charged transition state, two products."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain"
+          ],
+          "score_mechanics": "One mark per feature of the mechanism, with a cap if the wrong mechanism is drawn."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Lone pair to carbon",
+            "Bond to bromine",
+            "Brackets, partial bonds, minus charge",
+            "Alcohol plus Br⁻"
+          ],
+          "fat_to_trim": "Skip written description and redrawing for a perfect 180° line."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Mechanism conventions are NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "Rate depends on both reactants: no carbocation.",
+            "Arrows start at a lone pair, negative charge or bond, never at H of OH⁻.",
+            "Do not assume the mechanism from a secondary halogenoalkane alone: both occur, so look for a rate clue."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6221.4",
+          "kind": "markscheme",
+          "note": "Four marks: two arrows, transition state, products; SN1 capped at 3."
+        },
+        {
+          "ref": "25M.2.HL.6221.4",
+          "kind": "examiner",
+          "note": "Low scorers struggled with all parts of the mechanism; covalent NaOH and NaBr and wrong products seen."
+        },
+        {
+          "ref": "17M.2.HL.TZ2.7",
+          "kind": "examiner",
+          "note": "Arrows not from the lone pair or charge on O; Br arrow wrongly started from C."
+        },
+        {
+          "ref": "11M.2.HL.TZ2.8",
+          "kind": "examiner",
+          "note": "Arrow from H of hydroxide and missing charge or brackets in the transition state."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.9",
+          "kind": "markscheme",
+          "note": "Same mark pattern on a primary bromide, with square brackets and partial bonds."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.9",
+          "kind": "examiner",
+          "note": "Sloppy arrow ends, missing charge and missing Br⁻ reported."
+        },
+        {
+          "ref": "25M.1A.HL.6207.37",
+          "kind": "mcq",
+          "note": "Heterolytic fission tested directly in Paper 1A."
+        },
+        {
+          "ref": "25M.1A.SL.TZ1.29",
+          "kind": "examiner",
+          "note": "About 56% chose the correct heterolytic fission equation."
+        }
+      ],
+      "difficulty_signal": "Curly arrows are the most flagged error in this sub-topic. In 2025 the mechanism discriminated strongly, with low scorers struggling on every part (25M.2.HL.6221.4).",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-02",
+      "title": "Classify the carbon first: tertiary means SN1 and a one-term rate",
+      "understandings": [
+        "R3.4.9",
+        "R3.4.10"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "24N.1.HL.TZ0.36",
+        "question": "2-bromo-2-methylbutane, CH3CH2CBr(CH3)2, is warmed with sodium hydroxide solution and an alcohol forms. Which option gives the mechanism and the rate expression?\nA. SN2; rate = k[CH3CH2CBr(CH3)2][OH⁻]\nB. SN1; rate = k[CH3CH2CBr(CH3)2]\nC. SN1; rate = k[CH3CH2CBr(CH3)2][OH⁻]\nD. SN2; rate = k[CH3CH2CBr(CH3)2]",
+        "marks": 1,
+        "key_idea": "Tertiary halogenoalkane reacts by SN1, so only it appears in the rate expression.",
+        "question_type": "SN1 vs SN2: mechanism and rate",
+        "careful": "Count groups on the C–Br carbon, not total carbons.",
+        "procedure": [
+          "Find the carbon bonded to the halogen.",
+          "Count the alkyl groups on that carbon.",
+          "Three alkyl groups means tertiary, so SN1.",
+          "One alkyl group means primary, so SN2.",
+          "SN1: two steps, carbocation, rate uses halogenoalkane only.",
+          "SN2: one step, transition state, rate uses both reactants."
+        ],
+        "tricks": [
+          "Cross out mismatched pairs first: SN1 with two terms, SN2 with one.",
+          "Secondary allows both mechanisms: this rule cannot decide, so use rate or stereochemical clues."
+        ],
+        "if_lost": [
+          "How many carbon groups does the bromine-bearing carbon hold?",
+          "Would a carbocation on this carbon be relatively stable?",
+          "Which species take part in the slowest step?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Warm NaOH with a bromide: classify before reading options.",
+            "why": "The structure fixes the mechanism, and the mechanism fixes the rate expression, so one classification answers both columns.",
+            "avoid": "Using OH⁻ in the reaction as proof it appears in the rate; in SN1 it reacts after the slow step.",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "R3.4.9: primary SN2, tertiary SN1; distinguish the one-step and two-step routes.",
+            "textbook_gap": "Books teach the two mechanisms separately. The exam pairs mechanism with rate expression, so structure and kinetics must be linked in one move."
+          },
+          "2_markscheme_logic": {
+            "short": "Mechanism and rate must match: SN1, halogenoalkane only.",
+            "why": "Only the slow step sets the rate. In SN1 that step is C–Br breaking alone, so OH⁻ does not affect the rate.",
+            "avoid": "Adding OH⁻ to an SN1 rate; only about 32% were correct on a similar tertiary rate question (15M.1.HL.TZ1.36).",
+            "seconds": 15,
+            "trigger_phrases": [
+              "SN1",
+              "rate = k[halogenoalkane]"
+            ],
+            "trap_boundary": "The right mechanism with the wrong rate scores nothing: one option must fit both columns.",
+            "delta": "C has SN1 right but adds [OH⁻]; the correct option keeps only the halogenoalkane, as the SN1 slow step requires.",
+            "evidence_ref": "24N.1.HL.TZ0.36"
+          },
+          "3_novel_application": {
+            "short": "The long name hides a simple tertiary carbon.",
+            "why": "Only substitution at the C–Br carbon matters: two methyls and one ethyl make three alkyl groups, whatever the name suggests.",
+            "avoid": "Treating the ethyl as part of the main chain and calling the carbon secondary.",
+            "seconds": 10,
+            "disguise": "An ethyl group and a methyl in the name make the carbon look less substituted.",
+            "heuristic": "Ignore the name: count carbons directly bonded to the C–Br carbon."
+          },
+          "4_command_terms": {
+            "short": "MCQ: no command term, one pairing to identify.",
+            "why": "One mark depends on one correct pairing, so speed comes from classifying, not writing.",
+            "avoid": "Writing out the whole mechanism; the option needs only its type.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Choose the option where mechanism and rate expression are both right.",
+            "score_mechanics": "One mark, all or nothing; both columns must be correct."
+          },
+          "5_time_efficiency": {
+            "short": "Classify, then cross out mismatches: under a minute.",
+            "why": "Checking the pairs removes two options at once, leaving one structural decision.",
+            "avoid": "Looking for rate data; none is given, so no calculation is possible.",
+            "seconds": 30,
+            "workflow": [
+              "Count alkyls on C–Br carbon",
+              "Tertiary goes SN1",
+              "Cross out mismatched pairs"
+            ],
+            "fat_to_trim": "Skip drawing the carbocation or the product."
+          },
+          "6_data_booklet": {
+            "short": "Not in the booklet; memorise the class-to-mechanism link.",
+            "why": "The link comes from carbocation stability and crowding, which is reasoning rather than data.",
+            "avoid": "Searching the booklet for rate expressions.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Primary SN2, tertiary SN1, secondary both; SN1 and SN2 rate expressions. All NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Three options go without calculating: only one pair fits.",
+            "why": "C and D pair a mechanism with the wrong rate, and A gives SN2 to a tertiary carbon.",
+            "avoid": "Treating C as safe because it says SN1; check its rate too.",
+            "seconds": 8,
+            "definitely_wrong": [
+              {
+                "target": "C",
+                "rule": "An SN1 rate cannot include [OH⁻]; OH⁻ joins after the slow step."
+              },
+              {
+                "target": "D",
+                "rule": "An SN2 rate must include both reactants."
+              },
+              {
+                "target": "A",
+                "rule": "A tertiary carbon reacts by SN1, not SN2."
+              }
+            ]
+          }
+        },
+        "answer": "B. SN1; rate = k[CH3CH2CBr(CH3)2].",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1",
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R3.4.9 SN1 and SN2 by halogenoalkane class; R3.4.10 leaving group effect on rate.",
+          "textbook_gap": "Books describe each mechanism alone. Exams ask which features belong together: steps, intermediate, rate and class."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "two molecules in the rate-determining step (SN2)",
+            "first order in halogenoalkane (SN1)",
+            "C–I weaker than C–Br",
+            "I⁻ better leaving group"
+          ],
+          "trap_boundaries": [
+            "SN2 has no intermediate carbocation and one step (25N.1A.HL.6207.40).",
+            "SN2 does not replace a nucleophile with an electrophile: a nucleophile replaces the leaving group (25N.1A.HL.6207.40).",
+            "Leaving group answers need bond strength or leaving ability; electronegativity was an irrelevant answer (25M.2.HL.6221.4).",
+            "Comparison of SN1 and SN2 was hard when similarities were asked: both break a bond heterolytically (18M.2.HL.TZ1.7)."
+          ],
+          "delta": "Partial knowledge names the mechanism. Full credit links the class to steps, intermediate and rate expression."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A long name hiding a tertiary carbon.",
+            "Rate data with no named mechanism (19N.2.HL.TZ0.3).",
+            "Comparing iodo and bromo compounds for rate (16N.2.HL.TZ0.6, 21N.2.SL.TZ0.4).",
+            "Factors affecting SN1 rate such as branching and leaving group (24M.1.HL.TZ1.35)."
+          ],
+          "heuristic": "Slow step decides everything: one species in it means SN1, two means SN2."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Explain",
+            "Deduce"
+          ],
+          "score_mechanics": "MCQ is all or nothing; written parts give marks per feature named or linked."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Count alkyls on C–Br carbon",
+            "Tertiary goes SN1",
+            "Cross out mismatched pairs"
+          ],
+          "fat_to_trim": "Do not draw the mechanism for an MCQ."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Class-to-mechanism link and rate expressions are NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "SN1 with [OH⁻] in the rate is wrong for one mechanism alone.",
+            "SN2 with a one-term rate is wrong.",
+            "Tertiary rules out SN2 at this level. Exception: secondary halogenoalkanes use both, so this rule cannot decide them."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.1.HL.TZ0.36",
+          "kind": "mcq",
+          "note": "Answer B; tertiary bromide, SN1, one-term rate."
+        },
+        {
+          "ref": "24N.1.HL.TZ0.36",
+          "kind": "examiner",
+          "note": "Just over 60% correct."
+        },
+        {
+          "ref": "15M.1.HL.TZ1.36",
+          "kind": "examiner",
+          "note": "About 32% correct; tertiary SN1 rate depends only on the halogenoalkane."
+        },
+        {
+          "ref": "25N.1A.HL.6207.40",
+          "kind": "mcq",
+          "note": "Answer A; SN2 features tested as statements."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.7",
+          "kind": "markscheme",
+          "note": "Primary and tertiary compared by order, rate dependence, steps and intermediate; C–Br weaker than C–Cl."
+        },
+        {
+          "ref": "19N.2.HL.TZ0.3",
+          "kind": "markscheme",
+          "note": "Rate expression deduced, then SN2 stated."
+        },
+        {
+          "ref": "24M.1.HL.TZ1.35",
+          "kind": "examiner",
+          "note": "Trouble with leaving group and branching effects on SN1 rate."
+        },
+        {
+          "ref": "25M.2.HL.6221.4",
+          "kind": "markscheme",
+          "note": "C–I weaker than C–Br or I a better leaving group accepted."
+        }
+      ],
+      "difficulty_signal": "60% correct in November 2024 and about 32% in May 2015 on tertiary rate questions.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-03",
+      "title": "Name the role from the electrons: a pair donor is nucleophile and Lewis base",
+      "understandings": [
+        "R3.4.1",
+        "R3.4.6",
+        "R3.4.7"
+      ],
+      "priority": 4,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6207.38",
+        "question": "1-chloropropane is treated with excess potassium cyanide in ethanol: C3H7Cl + KCN → C3H7CN + KCl. What role does the cyanide ion play?\nA. Electrophile and Lewis base\nB. Nucleophile and Lewis acid\nC. Electrophile and Lewis acid\nD. Nucleophile and Lewis base",
+        "marks": 1,
+        "key_idea": "A lone-pair donor is both a nucleophile and a Lewis base.",
+        "question_type": "Identify role: nucleophile, electrophile, Lewis acid or base",
+        "careful": "Donates a pair, not one electron.",
+        "procedure": [
+          "Find the new bond in the product.",
+          "Decide which species supplies both bonding electrons.",
+          "Electron-pair donor: call it nucleophile and Lewis base.",
+          "Electron-pair acceptor: call it electrophile and Lewis acid."
+        ],
+        "tricks": [
+          "Nucleophile always pairs with Lewis base; electrophile always with Lewis acid.",
+          "Anion attacking carbon: expect a nucleophile. Neutral lone-pair species also qualify."
+        ],
+        "if_lost": [
+          "Which bond is new in C3H7CN?",
+          "Which species brought the electrons for that new bond?",
+          "Does that species give or receive an electron pair?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "CN⁻ attacks the C–Cl carbon and forms the new bond.",
+            "why": "The carbon in C–Cl is electron-poor, so the anion's lone pair forms the new C–C bond as chloride leaves.",
+            "avoid": "Thinking K⁺ takes part; it is a spectator ion.",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "R3.4.7: nucleophiles are Lewis bases and electrophiles are Lewis acids.",
+            "textbook_gap": "Books often teach nucleophiles and Lewis bases in separate places. The exam tests both labels at once on one species."
+          },
+          "2_markscheme_logic": {
+            "short": "Two labels, one fact: donating an electron pair.",
+            "why": "Both labels describe the same act, so a correct option must use matching labels.",
+            "avoid": "Saying donates an electron; 18N.2.HL.TZ0.9 reports this as the typical slip.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "electron pair donor",
+              "nucleophile/Lewis base",
+              "provides lone pair"
+            ],
+            "trap_boundary": "One electron is not enough: the definition needs a pair.",
+            "delta": "B has nucleophile right but Lewis acid wrong; the correct option keeps both labels on the donor side.",
+            "evidence_ref": "25M.1A.HL.6207.38"
+          },
+          "3_novel_application": {
+            "short": "An organic equation hides a Lewis acid–base question.",
+            "why": "The definition concerns only electron pairs, so it applies to organic substitution as well as inorganic reactions.",
+            "avoid": "Reading base as Brønsted–Lowry; that is assumed only when Lewis is not specified (16M.1.HL.TZ0.35).",
+            "seconds": 10,
+            "disguise": "A substitution equation with KCN replaces the usual inorganic Lewis example.",
+            "heuristic": "Ignore context: ask who donates the electron pair to form the new bond."
+          },
+          "4_command_terms": {
+            "short": "MCQ: both labels must be right.",
+            "why": "One mark covers both labels, so half-correct options earn nothing.",
+            "avoid": "Stopping at nucleophile and picking the first option containing it.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Choose the option with both labels correct for CN⁻.",
+            "score_mechanics": "One mark, all or nothing."
+          },
+          "5_time_efficiency": {
+            "short": "Spot the donor, pair the labels: twenty seconds.",
+            "why": "Because the labels must pair, identifying one settles the other.",
+            "avoid": "Working through the reaction mechanism; it is not needed.",
+            "seconds": 20,
+            "workflow": [
+              "Who donates the pair?",
+              "Donor: nucleophile, Lewis base",
+              "Cross out mixed labels"
+            ],
+            "fat_to_trim": "Skip the mechanism, solvent and excess KCN details."
+          },
+          "6_data_booklet": {
+            "short": "Definitions are not in the booklet; memorise the pairing.",
+            "why": "These are definitions, not data, so no table can replace them.",
+            "avoid": "Looking in the booklet for acid–base definitions.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Lewis acid accepts a pair; Lewis base donates a pair; nucleophile = Lewis base. All NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Mixed labels and electrophile options can be cut immediately.",
+            "why": "Electrophile with Lewis base, or nucleophile with Lewis acid, are contradictions. An anion donating a lone pair cannot be the acceptor here.",
+            "avoid": "Placing the donating lone pair on N; drawn arrows must start at carbon of CN⁻ (14M.3.SL.TZ1.22, 15N.3.HL.TZ0.33).",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "An electrophile accepts a pair, so it cannot be a Lewis base."
+              },
+              {
+                "target": "B",
+                "rule": "A nucleophile donates a pair, so it cannot be a Lewis acid."
+              },
+              {
+                "target": "C",
+                "rule": "CN⁻ donates its lone pair here; it does not accept one."
+              }
+            ]
+          }
+        },
+        "answer": "D. Nucleophile and Lewis base.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R3.4.1 nucleophiles; R3.4.6 Lewis acid and base; R3.4.7 nucleophiles are Lewis bases.",
+          "textbook_gap": "Books separate organic and acid–base language. Exams merge them on one species."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "donates a pair of electrons",
+            "electron pair donor/nucleophile",
+            "provides lone pair"
+          ],
+          "trap_boundaries": [
+            "Base means Brønsted–Lowry unless Lewis is specified (16M.1.HL.TZ0.35).",
+            "Typical error: donating an electron rather than a pair (18N.2.HL.TZ0.9).",
+            "Explaining the role can be scored by naming the nucleophile, the lone pair or attack on the partially positive carbon (21N.2.SL.TZ0.4)."
+          ],
+          "delta": "Partial answers say donates electrons. Full answers say an electron pair and name the matching role."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Substitution equations with KCN.",
+            "Water in a Brønsted–Lowry and Lewis comparison (21N.2.HL.TZ0.5).",
+            "A short role question beside a mechanism (18N.2.HL.TZ0.9)."
+          ],
+          "heuristic": "Follow the new bond back to the species that supplied both electrons."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "State",
+            "Outline"
+          ],
+          "score_mechanics": "MCQ is all or nothing; written definitions earn one mark for the electron-pair statement."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Who donates the pair?",
+            "Donor: nucleophile, Lewis base",
+            "Cross out mixed labels"
+          ],
+          "fat_to_trim": "No mechanism and no equation balancing."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Definitions are NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "Electrophile with Lewis base is a contradiction.",
+            "Nucleophile with Lewis acid is a contradiction.",
+            "Anions are donors, but do not assume all donors are anions: neutral species can be nucleophiles (R3.4.1)."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6207.38",
+          "kind": "mcq",
+          "note": "Answer D for CN⁻."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.9",
+          "kind": "markscheme",
+          "note": "Lewis base donates a pair of electrons."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.9",
+          "kind": "examiner",
+          "note": "Typical error was donating an electron."
+        },
+        {
+          "ref": "21N.2.SL.TZ0.4",
+          "kind": "markscheme",
+          "note": "Nucleophile/Lewis base and lone pair credited."
+        },
+        {
+          "ref": "21N.2.HL.TZ0.5",
+          "kind": "markscheme",
+          "note": "Lewis base role given as electron pair donor/nucleophile."
+        },
+        {
+          "ref": "16M.1.HL.TZ0.35",
+          "kind": "examiner",
+          "note": "Base read as Brønsted–Lowry unless Lewis is specified."
+        },
+        {
+          "ref": "14M.3.SL.TZ1.22",
+          "kind": "examiner",
+          "note": "Arrow wrongly drawn from N of the nitrile group instead of C."
+        },
+        {
+          "ref": "15N.3.HL.TZ0.33",
+          "kind": "examiner",
+          "note": "Arrow wrongly from N of CN⁻ instead of C."
+        }
+      ],
+      "difficulty_signal": "Examiners report this as generally done well (November 2018), but the 'electron not pair' slip recurs. No 2025 percentage in the pack.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-04",
+      "title": "Benzene's electron-rich ring needs an electron-poor cation, not an anion",
+      "understandings": [
+        "R3.4.4",
+        "R3.4.13"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6219.40",
+        "question": "Benzene undergoes a substitution reaction with an ion. Which ion could act as the attacking species?\nA. NO2⁻\nB. NH4⁺\nC. NO2⁺\nD. Br⁻",
+        "marks": 1,
+        "key_idea": "Benzene's delocalized electrons attack an electron-poor cation, the electrophile.",
+        "question_type": "Benzene: identify the attacking electrophile",
+        "careful": "A positive charge alone is not enough; check for room.",
+        "procedure": [
+          "Recall benzene's ring has high electron density.",
+          "So it reacts with electrophiles, not nucleophiles.",
+          "Rule out anions; electrophiles accept electron pairs.",
+          "Among cations, check the centre can accept a pair."
+        ],
+        "tricks": [
+          "Pick the cation that can accept a pair. Fails for NH4⁺: N has no room.",
+          "Reaction name tells you the partner: electrophilic substitution needs an electrophile."
+        ],
+        "if_lost": [
+          "Is the benzene ring rich or poor in electrons?",
+          "So would it attract positive or negative species?",
+          "Which ions here have a centre able to accept an electron pair?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Benzene reacts by electrophilic substitution, so it needs an electrophile.",
+            "why": "The delocalized pi cloud is electron-rich, so it attracts an electron-poor partner and repels anions.",
+            "avoid": "Thinking any ion suits benzene; only about 36% found the right species (25M.1A.HL.6219.40).",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "R3.4.13: benzene reacts with a charged electrophile, E⁺, by electrophilic substitution.",
+            "textbook_gap": "Books teach nitration with mixed acids and a long mechanism. This question asks only which ion is the electrophile, with no reagents given."
+          },
+          "2_markscheme_logic": {
+            "short": "The mark goes to recognising NO2⁺ as the electrophile.",
+            "why": "Only NO2⁺ has a positive nitrogen able to accept a pair from the ring, which starts the mechanism.",
+            "avoid": "Confusing NO2⁺ with NO2⁻; one charge changes the answer.",
+            "seconds": 15,
+            "trigger_phrases": [
+              "NO2⁺",
+              "electrophile",
+              "attack a benzene ring"
+            ],
+            "trap_boundary": "The charge sign decides it: NO2⁻ and NO2⁺ share atoms but not the role.",
+            "delta": "A has the same atoms as the correct option, but its negative charge means the ring repels it.",
+            "evidence_ref": "25M.1A.HL.6219.40"
+          },
+          "3_novel_application": {
+            "short": "Four ions test one idea: who accepts electrons.",
+            "why": "Whatever the ion, the ring donates the pair, so the partner must be able to accept it.",
+            "avoid": "Treating NH4⁺ as suitable just because it is a cation.",
+            "seconds": 10,
+            "disguise": "No mention of electrophile or nitration; only the word substitution.",
+            "heuristic": "Benzene substitution? Ask which species is electron-poor with room for a pair."
+          },
+          "4_command_terms": {
+            "short": "MCQ: no command term, choose one ion.",
+            "why": "A single mark rewards recognising the electrophile; no mechanism need be drawn.",
+            "avoid": "Trying to write the full nitration route.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Choose the one ion that can attack benzene.",
+            "score_mechanics": "One mark, all or nothing."
+          },
+          "5_time_efficiency": {
+            "short": "Charge check, then room check: about twenty seconds.",
+            "why": "The sign rule removes anions instantly; the remaining cation comparison takes one look.",
+            "avoid": "Recalling mixed-acid reagents; forming the electrophile is not assessed (R3.4.13).",
+            "seconds": 20,
+            "workflow": [
+              "Cross out the anions",
+              "Is the cation electron-poor?",
+              "Pick the acceptor"
+            ],
+            "fat_to_trim": "Skip mixed-acid equations and mechanism steps."
+          },
+          "6_data_booklet": {
+            "short": "Not in the booklet; memorise benzene's electrophile behaviour.",
+            "why": "Electrophile identity is reaction knowledge, not a data table entry.",
+            "avoid": "Searching the booklet for reacting species.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Benzene undergoes electrophilic substitution; NO2⁺ acts as an electrophile. NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Both anions go at once; NH4⁺ goes on the room check.",
+            "why": "The electron-rich ring repels anions, and ammonium's nitrogen has a full octet with no lone pair.",
+            "avoid": "Assuming every cation is an electrophile.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "An anion is repelled by the electron-rich ring."
+              },
+              {
+                "target": "D",
+                "rule": "An anion is repelled by the electron-rich ring."
+              },
+              {
+                "target": "B",
+                "rule": "N has a full octet, so it cannot accept a pair."
+              }
+            ]
+          }
+        },
+        "answer": "C. NO2⁺, which acts as the electrophile.",
+        "try_next": [
+          "25M.1A.HL.6207.40"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R3.4.4 electrophiles accept both bonding electrons; R3.4.13 benzene with E⁺.",
+          "textbook_gap": "Books bury the electrophile in nitration conditions. Exams isolate it as a single choice of species."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "electrophile",
+            "electron density of the ring",
+            "delocalized electrons"
+          ],
+          "trap_boundaries": [
+            "Cl⁺ is correct where Cl2, Cl• and Cl⁻ are offered (25M.1A.HL.6207.40).",
+            "A high-electron-density answer needs the link to attraction of electrophiles or repulsion of nucleophiles (21N.2.HL.TZ0.10).",
+            "Electrophilic and nucleophilic substitution are often confused (13M.3.HL.TZ2.2)."
+          ],
+          "delta": "Partial knowledge says benzene is reactive. Full credit links the electron-rich ring to an electron-poor attacker."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Only ions listed, without the word electrophile.",
+            "Halogen species as Cl2, Cl•, Cl⁺, Cl⁻ (25M.1A.HL.6207.40).",
+            "Explain why benzene does not react with nucleophiles (21N.2.HL.TZ0.10)."
+          ],
+          "heuristic": "Rich ring needs a poor partner: cation with room for a pair."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Explain"
+          ],
+          "score_mechanics": "MCQ is all or nothing; written explanations score electron density and the attraction or repulsion that follows."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Cross out the anions",
+            "Is the cation electron-poor?",
+            "Pick the acceptor"
+          ],
+          "fat_to_trim": "Do not recall how the electrophile forms: it is not assessed in R3.4.13."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Electrophile identity is NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "Anions cannot be the electrophile attacking benzene.",
+            "Radicals are not the charged electrophile E⁺ of R3.4.13.",
+            "Do not rule out neutral species in general: electrophiles can be neutral (R3.4.4)."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6219.40",
+          "kind": "mcq",
+          "note": "Answer C."
+        },
+        {
+          "ref": "25M.1A.HL.6219.40",
+          "kind": "examiner",
+          "note": "About 36% identified NO2⁺ as a species attacking benzene."
+        },
+        {
+          "ref": "25M.1A.HL.6207.40",
+          "kind": "mcq",
+          "note": "Answer C (Cl⁺) in the same pattern."
+        },
+        {
+          "ref": "21N.2.HL.TZ0.10",
+          "kind": "markscheme",
+          "note": "Delocalized electrons, high electron density, electrophiles attracted, nucleophiles repelled."
+        },
+        {
+          "ref": "17M.2.HL.TZ1.7",
+          "kind": "markscheme",
+          "note": "Arrow from ring to N of NO2⁺ in the mechanism."
+        },
+        {
+          "ref": "13M.3.HL.TZ2.2",
+          "kind": "examiner",
+          "note": "Confusion of electrophilic and nucleophilic substitution."
+        }
+      ],
+      "difficulty_signal": "About 36% correct in May 2025 (25M.1A.HL.6219.40). Examiners also list this among difficult areas that session.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-05",
+      "title": "Benzene's structure: sort evidence into chemical and physical, and say C to C",
+      "understandings": [
+        "R3.4.13"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "25N.2.HL.6209.2",
+        "question": "Styrene, C8H8, can be drawn two ways. Structure A shows the ring with a circle inside it. Structure B shows the ring with alternating single and double bonds. Give one chemical reason and one physical reason why Structure A represents a benzene ring better. [2]",
+        "marks": 2,
+        "key_idea": "Chemical means how it reacts; physical means measured structure: equal C–C lengths.",
+        "question_type": "Benzene: evidence against alternating double bonds",
+        "careful": "Keep categories straight: reversed reasons earn only one mark.",
+        "procedure": [
+          "Read which category each answer line wants.",
+          "Chemical: give a reaction behaviour, such as substitution over addition.",
+          "Physical: give a measured structural fact about the ring.",
+          "Write C–C bonds explicitly, not just bonds."
+        ],
+        "tricks": [
+          "Chemical answers describe reacting; physical answers need a length or angle.",
+          "Hydrogenation enthalpy counts as chemical here: less exothermic than three times cyclohexene."
+        ],
+        "if_lost": [
+          "What would alternating double bonds make benzene do with most reagents?",
+          "What would you measure in a ring with alternating single and double bonds?",
+          "Which of your ideas describes reacting, and which describes measuring?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Compare circle and alternating bonds as models of benzene.",
+            "why": "The circle means delocalized pi electrons, so reactivity and bond measurements should differ from those of three separate double bonds.",
+            "avoid": "Giving only one category; the question needs one of each.",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "R3.4.13: benzene reacts with electrophiles by substitution, the chemical evidence for delocalization.",
+            "textbook_gap": "Books list evidence in one paragraph. The exam separates chemical from physical and penalises a swap."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark each: a chemical property and a physical property.",
+            "why": "Each line is marked separately, so a true fact in the wrong line loses credit.",
+            "avoid": "Writing bond lengths as chemical evidence; examiners report this confusion (17M.2.HL.TZ1.7).",
+            "seconds": 20,
+            "trigger_phrases": [
+              "does not easily undergo addition",
+              "undergoes electrophilic substitution",
+              "all bond lengths the same",
+              "all bond angles the same / planar"
+            ],
+            "trap_boundary": "Reasons reversed: [1 max]. A 2017 report rejected bond lengths not stated as C to C.",
+            "delta": "Two marks need the right fact in the right line; reversing them scores only one.",
+            "evidence_ref": "25N.2.HL.6209.2"
+          },
+          "3_novel_application": {
+            "short": "Styrene looks new, but the question is about the ring.",
+            "why": "Styrene's side chain has a normal double bond, so your reasons must describe the ring, not the whole molecule.",
+            "avoid": "Saying styrene does not add; its side chain can, as its polymerisation shows.",
+            "seconds": 10,
+            "disguise": "Styrene replaces benzene, and its side C=C could distract from the ring.",
+            "heuristic": "Cover the side chain; answer for the ring alone."
+          },
+          "4_command_terms": {
+            "short": "State: brief facts, no explanation needed.",
+            "why": "State rewards specific brief answers, so each line needs one fact only.",
+            "avoid": "Explaining delocalization at length for no extra mark.",
+            "seconds": 5,
+            "command_term": "State",
+            "demands": "One brief chemical fact and one brief physical fact about benzene.",
+            "score_mechanics": "One mark per category; [1 max] if the two are swapped."
+          },
+          "5_time_efficiency": {
+            "short": "Two short lines, about forty seconds.",
+            "why": "A memorised pair answers this family instantly, leaving time for harder parts.",
+            "avoid": "Writing several reasons per line; extra facts add no marks.",
+            "seconds": 40,
+            "workflow": [
+              "Chemical: substitution, not addition",
+              "Physical: equal C–C lengths"
+            ],
+            "fat_to_trim": "Skip drawing resonance forms and explaining orbital overlap."
+          },
+          "6_data_booklet": {
+            "short": "Not in the booklet; memorise one reason of each type.",
+            "why": "These reasons are learnt facts about benzene, so no table replaces them.",
+            "avoid": "Hunting for a data table to justify a State answer.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Substitution over addition; equal C–C lengths and angles; planar. All NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Rule out formula facts and anything true of both models.",
+            "why": "Evidence counts only if it separates the two models; facts shared by both disprove nothing.",
+            "avoid": "Saying benzene is unsaturated or C6H6; both fit the alternating model (25M.1A.HL.6207.13).",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "The molecular formula",
+                "rule": "Both structures have the same formula."
+              },
+              {
+                "target": "Simply that it can be hydrogenated",
+                "rule": "Both models can add hydrogen. Only the enthalpy of hydrogenation separates them."
+              },
+              {
+                "target": "Bond lengths in the chemical line",
+                "rule": "A length is measured, so it is physical."
+              }
+            ]
+          }
+        },
+        "answer": "Chemical (any one): does not easily undergo addition; undergoes electrophilic substitution; hydrogenation enthalpy less exothermic than three times cyclohexene; all C–C bond energies the same. Physical (any one): all bond lengths the same; all bond angles the same or molecule planar.",
+        "try_next": [
+          "25M.1A.HL.6207.13"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R3.4.13 benzene substitution, which rests on the delocalized ring.",
+          "textbook_gap": "Books present evidence as a single list. Exams ask for labelled categories and for facts that truly separate the models."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "electrophilic substitution, not addition",
+            "all C–C bond lengths equal",
+            "intermediate between C–C and C=C",
+            "regular hexagon"
+          ],
+          "trap_boundaries": [
+            "Properties reversed: [1 max] (25N.2.HL.6209.2).",
+            "'All bond lengths are equal' without C to C did not score in 2017 (17M.2.HL.TZ1.7), though the 2025 scheme words it more loosely: always write C–C.",
+            "Do not offer C6H6, unsaturation or hydrogenation alone as disproof (25M.1A.HL.6207.13)."
+          ],
+          "delta": "Partial credit: one correct fact or a swap. Full credit: one correctly placed fact in each category."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A benzene derivative such as styrene.",
+            "Kekulé's structure and a disproving fact (25M.1A.HL.6207.13).",
+            "Bond enthalpy or hydrogenation data as evidence (18M.2.SL.TZ1.3)."
+          ],
+          "heuristic": "Would the alternating model predict something different? Only then is it evidence."
+        },
+        "4_command_terms": {
+          "terms": [
+            "State",
+            "Describe",
+            "none (MCQ)"
+          ],
+          "score_mechanics": "One mark per correctly categorised fact."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Chemical: substitution, not addition",
+            "Physical: equal C–C lengths"
+          ],
+          "fat_to_trim": "No orbital explanation unless the circle is asked about separately."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "The evidence list is NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "Formula and unsaturation fit both models.",
+            "Hydrogenation alone fits both models; only its enthalpy separates them.",
+            "A measured length or angle is physical, never chemical."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25N.2.HL.6209.2",
+          "kind": "markscheme",
+          "note": "Chemical and physical reasons listed, one mark each, [1 max] if reversed."
+        },
+        {
+          "ref": "25M.1A.HL.6207.13",
+          "kind": "mcq",
+          "note": "Answer C: equal C–C lengths disprove the alternating structure."
+        },
+        {
+          "ref": "17M.2.HL.TZ1.7",
+          "kind": "examiner",
+          "note": "Few distinguished physical from chemical; lengths without C to C did not score."
+        },
+        {
+          "ref": "17M.2.SL.TZ1.6",
+          "kind": "examiner",
+          "note": "Very few correct; same confusion and lengths not specified as between carbons."
+        },
+        {
+          "ref": "14M.3.SL.TZ2.20",
+          "kind": "examiner",
+          "note": "Physical given instead of chemical evidence lost the mark."
+        },
+        {
+          "ref": "18M.2.SL.TZ1.3",
+          "kind": "markscheme",
+          "note": "Equal C–C bonds and intermediate bond character credited."
+        }
+      ],
+      "difficulty_signal": "Examiners repeatedly flag physical vs chemical confusion and unspecified bond lengths (2014, 2017).",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-06",
+      "title": "Major product: earn the mark with carbocation stability, not Markovnikov's name",
+      "understandings": [
+        "R3.4.5",
+        "R3.4.11",
+        "R3.4.12"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "24N.2.HL.TZ0.2",
+        "question": "But-1-ene reacts with HBr, giving two structural isomers of bromobutane. Explain which isomer is the major product. [2]",
+        "marks": 2,
+        "key_idea": "The major product comes from the more stable carbocation: more alkyl groups.",
+        "question_type": "Unsymmetrical alkene: predict and explain major product",
+        "careful": "Never stop at Markovnikov's rule; compare the carbocations.",
+        "procedure": [
+          "Draw both carbocations from H adding to either C=C carbon.",
+          "Count alkyl groups on each positive carbon.",
+          "More alkyl groups means more stable carbocation.",
+          "Put the halide on that positive carbon for the product.",
+          "Give the reason: alkyl groups release electrons, stabilising C⁺."
+        ],
+        "tricks": [
+          "Compare the two carbocations actually formed; tertiary versus secondary also appears.",
+          "Markovnikov predicts quickly, but write carbocation stability. Fails for credit if stated alone."
+        ],
+        "if_lost": [
+          "What intermediate forms when H⁺ adds to the double bond?",
+          "Which two positions could the positive charge occupy?",
+          "How many alkyl groups does each positive carbon hold?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "But-1-ene is unsymmetrical, so two carbocations are possible.",
+            "why": "H can add to either alkene carbon and the charge lands on the other, giving primary or secondary carbocations.",
+            "avoid": "Considering only one carbocation; the comparison is what the second mark rewards.",
+            "seconds": 15,
+            "ao_level": "AO3",
+            "syllabus_hook": "R3.4.12: relative carbocation stability explains the major product with unsymmetrical alkenes.",
+            "textbook_gap": "Books often offer Markovnikov's rule as the reason. Markschemes reward the carbocation stability behind it and give nothing for the rule itself."
+          },
+          "2_markscheme_logic": {
+            "short": "Two marks: name the isomer, then justify with carbocation stability.",
+            "why": "The rule predicts the product but gives no cause, and Explain requires the cause.",
+            "avoid": "Quoting Markovnikov's rule alone; no M2 here, and 15M.3.SL.TZ1.20 reports many losing marks this way.",
+            "seconds": 20,
+            "trigger_phrases": [
+              "2-bromobutane",
+              "secondary carbocation more stable than primary",
+              "alkyl groups electron releasing / greater inductive effect"
+            ],
+            "trap_boundary": "Stating Markovnikov's rule alone earns no M2.",
+            "delta": "One mark for the isomer; the second needs a stated carbocation comparison or alkyl-group effect.",
+            "evidence_ref": "24N.2.HL.TZ0.2"
+          },
+          "3_novel_application": {
+            "short": "Different alkene, same test: compare the two carbocations.",
+            "why": "The comparison depends on the carbocations actually formed, so a branched alkene may pit tertiary against secondary.",
+            "avoid": "Using secondary versus primary by habit; 15N.3.HL.TZ0.34 reports this error on a tertiary example.",
+            "seconds": 15,
+            "disguise": "Later versions swap HBr for HI or water, or use a branched alkene.",
+            "heuristic": "Whatever adds, H goes on first: which resulting carbocation has more alkyl groups?"
+          },
+          "4_command_terms": {
+            "short": "Explain: state the isomer and give the cause.",
+            "why": "Explain asks for reasons, so the product alone reaches only half the marks.",
+            "avoid": "Giving the product with no reason.",
+            "seconds": 5,
+            "command_term": "Explain",
+            "demands": "Identify the major isomer and give the reason based on carbocation stability.",
+            "score_mechanics": "One mark for the isomer, one for the reason."
+          },
+          "5_time_efficiency": {
+            "short": "Two sentences: isomer, then reason; under a minute.",
+            "why": "Both marks come from one comparison, so no mechanism is needed in this answer.",
+            "avoid": "Drawing curly arrows here; they earn nothing for this explanation.",
+            "seconds": 45,
+            "workflow": [
+              "Draw both carbocations",
+              "More alkyls is more stable",
+              "Halide joins that carbon"
+            ],
+            "fat_to_trim": "Skip mechanism arrows and Markovnikov's wording."
+          },
+          "6_data_booklet": {
+            "short": "Not in the booklet; memorise the carbocation stability order.",
+            "why": "The order is reasoning from inductive effects, so no table supplies it.",
+            "avoid": "Searching the booklet for carbocation data.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Tertiary more stable than secondary, secondary more stable than primary, because alkyl groups release electrons. NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Rule out Markovnikov-only answers and the primary-carbocation product.",
+            "why": "A primary carbocation has fewer electron-releasing groups, so its product is minor; the rule alone states no cause.",
+            "avoid": "Naming 1-bromobutane because the chain looks simpler.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "1-bromobutane as the major product",
+                "rule": "It needs the less stable primary carbocation."
+              },
+              {
+                "target": "A reason quoting only Markovnikov's rule",
+                "rule": "No cause is given, so M2 is not awarded."
+              },
+              {
+                "target": "A dibromo product",
+                "rule": "One HBr adds one Br across one C=C."
+              }
+            ]
+          }
+        },
+        "answer": "2-bromobutane, CH3CHBrCH2CH3. It forms through a secondary carbocation, which is more stable than the primary one because alkyl groups release electrons.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "2"
+          ],
+          "syllabus_hook": "R3.4.5 high electron density of C=C; R3.4.11 mechanisms; R3.4.12 carbocation stability and major product.",
+          "textbook_gap": "Books teach Markovnikov's rule as a shortcut. Exams give no mark for it alone."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "more stable carbocation",
+            "greater number of alkyl groups",
+            "electron-releasing / positive inductive effect",
+            "arrow from C=C to H of HBr",
+            "arrow from lone pair/negative charge on Br⁻ to C⁺"
+          ],
+          "trap_boundaries": [
+            "Markovnikov's rule alone: no M2 (24N.2.HL.TZ0.2).",
+            "A mechanism giving the wrong isomer is not penalised if that isomer was the earlier answer (24N.2.HL.TZ0.2).",
+            "Why alkenes react: 'presence of C=C' alone is not accepted; say high electron density (25N.2.HL.6221.4).",
+            "Mechanism marks: arrow from C=C to H with H–Br fission, carbocation, arrow from Br⁻ to C⁺ (16N.2.HL.TZ0.5, 21M.2.HL.TZ1.5)."
+          ],
+          "delta": "Partial credit names the isomer. Full credit compares carbocations or explains the alkyl-group effect."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Branched alkene with tertiary vs secondary (21M.2.HL.TZ2.4, 15N.3.HL.TZ0.34).",
+            "Other hydrogen halides such as HI (21N.2.HL.TZ0.10).",
+            "Propene with HCl (19N.2.HL.TZ0.3)."
+          ],
+          "heuristic": "Write both carbocations, then let alkyl count decide."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain",
+            "Deduce",
+            "Predict"
+          ],
+          "score_mechanics": "Product mark plus reason mark; mechanism parts are marked per arrow and carbocation."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Draw both carbocations",
+            "More alkyls is more stable",
+            "Halide joins that carbon"
+          ],
+          "fat_to_trim": "No rule quotation and no mechanism unless asked."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Carbocation order is NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "The product from the less substituted carbocation is the minor one.",
+            "A reason quoting only Markovnikov's rule is not enough.",
+            "Symmetrical alkenes give one product, so this comparison does not apply to them."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.2.HL.TZ0.2",
+          "kind": "markscheme",
+          "note": "2-bromobutane, secondary carbocation reason, no M2 for the rule alone."
+        },
+        {
+          "ref": "24N.2.HL.TZ0.2",
+          "kind": "examiner",
+          "note": "Most attributed the product to carbocation stability."
+        },
+        {
+          "ref": "15M.3.SL.TZ1.20",
+          "kind": "examiner",
+          "note": "Most simply stated Markovnikov's rule and scored nothing on that part."
+        },
+        {
+          "ref": "14M.3.SL.TZ2.22",
+          "kind": "examiner",
+          "note": "Stability stated without the electron-releasing alkyl explanation lost the mark."
+        },
+        {
+          "ref": "15N.3.HL.TZ0.34",
+          "kind": "examiner",
+          "note": "Compared secondary with primary instead of tertiary with secondary."
+        },
+        {
+          "ref": "21M.2.HL.TZ1.5",
+          "kind": "markscheme",
+          "note": "Secondary vs primary carbocation and inductive effect credited."
+        },
+        {
+          "ref": "25N.2.HL.6221.4",
+          "kind": "markscheme",
+          "note": "High electron density required; presence of C=C alone rejected."
+        }
+      ],
+      "difficulty_signal": "Mean 1.28/2 in November 2024 (24N.2.HL.TZ0.2). Examiners repeatedly report rule-only answers as scoring nothing.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R3.4-07",
+      "title": "Optical isomers of a halogenoalkane: mirror the wedge-dash drawing",
+      "understandings": [
+        "R3.4.9"
+      ],
+      "priority": 5,
+      "walkthrough": {
+        "question_ref": "25M.2.HL.6221.4",
+        "question": "The bromoalkane CH3CHBrC(CH3)3 contains a chiral carbon. Draw its two optical isomers so that the three-dimensional arrangement around that carbon is clear. [2]",
+        "marks": 2,
+        "key_idea": "Draw one 3-D isomer, then its exact mirror image, keeping tetrahedral angles.",
+        "question_type": "Draw optical isomers with wedge-dash",
+        "careful": "Swapping groups and wedges together makes identical drawings.",
+        "procedure": [
+          "Find the carbon with four different groups.",
+          "Draw it with two plain bonds, one wedge, one dash.",
+          "Keep angles tetrahedral, not 90°.",
+          "Draw a mirror line and reflect every group.",
+          "Check the two drawings do not superimpose."
+        ],
+        "tricks": [
+          "Mirror it, never swap and flip: two changes recreate the same molecule.",
+          "Check the C(CH3)3 carbon: three identical methyls, so it is not chiral."
+        ],
+        "if_lost": [
+          "Which carbon holds four different groups?",
+          "How do wedge and dash bonds show three dimensions?",
+          "What would a mirror do to each group's position?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "The chiral carbon carries H, Br, CH3 and C(CH3)3.",
+            "why": "Four different groups make the carbon chiral, so the molecule and its mirror image cannot be superimposed.",
+            "avoid": "Missing the chiral centre, which examiners report here (25M.2.HL.6221.4).",
+            "seconds": 15,
+            "ao_level": "AO1",
+            "syllabus_hook": "R3.4.9: the stereospecific nature of SN2 should be covered, which needs 3-D drawings.",
+            "textbook_gap": "Books teach chirality in a structure chapter. Exams set it on the same molecule as substitution, where SN2 inversion needs the same wedge-dash skill."
+          },
+          "2_markscheme_logic": {
+            "short": "Two 3-D mirror images earn both marks; flat drawings cap at one.",
+            "why": "The cap separates knowing the isomers from showing their geometry, which only wedge and dash can show.",
+            "avoid": "90° bond angles or no wedge-dash, both reported here (25M.2.HL.6221.4).",
+            "seconds": 20,
+            "trigger_phrases": [
+              "wedge-dash representation",
+              "correct bond angles"
+            ],
+            "trap_boundary": "Non-3-D with correct angles: [1 max]. Bond angles of 90°: not accepted.",
+            "delta": "One mark: two isomers with correct angles but flat. Both marks: wedge-dash shown on both isomers.",
+            "evidence_ref": "25M.2.HL.6221.4"
+          },
+          "3_novel_application": {
+            "short": "The bulky group is just one more label on the carbon.",
+            "why": "Chirality depends on four different groups, not on their size, so C(CH3)3 counts as one group.",
+            "avoid": "Drawing every methyl in 3-D; only the chiral carbon needs it.",
+            "seconds": 10,
+            "disguise": "A bulky C(CH3)3 group makes the chiral centre harder to spot.",
+            "heuristic": "Scan for a carbon with four different attachments; treat each attachment as one block."
+          },
+          "4_command_terms": {
+            "short": "Draw: accurate geometry is what gets marked.",
+            "why": "Draw requires an accurate representation, so angles and 3-D notation are what is marked.",
+            "avoid": "Sketching flat structural formulas.",
+            "seconds": 3,
+            "command_term": "Draw",
+            "demands": "Show both isomers, with wedge and dash around the chiral carbon.",
+            "score_mechanics": "Two marks; [1 max] for flat drawings with correct angles."
+          },
+          "5_time_efficiency": {
+            "short": "Copy, reflect, check: about a minute.",
+            "why": "Reflecting the first drawing needs no new thinking and prevents the swap error.",
+            "avoid": "Redrawing the second isomer from scratch, which invites errors.",
+            "seconds": 60,
+            "workflow": [
+              "Find four different groups",
+              "Draw wedge and dash",
+              "Reflect across a mirror"
+            ],
+            "fat_to_trim": "Skip explaining optical rotation; it is not asked."
+          },
+          "6_data_booklet": {
+            "short": "Not in the booklet; memorise the drawing convention.",
+            "why": "Wedge-dash is a convention, not data, so no table supplies it.",
+            "avoid": "Looking for a structure template in the booklet.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "None: no table helps here.",
+            "memorise": "Wedge-dash convention and the four-different-groups test are NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Reject 90° drawings and pairs that superimpose.",
+            "why": "A 90° cross misrepresents a tetrahedral carbon, and superimposable drawings are one molecule, not two isomers.",
+            "avoid": "Swapping two groups as well as wedge and dash, which recreates the same molecule (25M.2.HL.6221.4).",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "Structures with 90° bond angles",
+                "rule": "Not accepted by the markscheme."
+              },
+              {
+                "target": "A pair of identical drawings",
+                "rule": "Superimposable drawings are not two isomers."
+              },
+              {
+                "target": "Choosing the C(CH3)3 carbon as chiral",
+                "rule": "Three identical methyl groups rule it out."
+              }
+            ]
+          }
+        },
+        "answer": "Two mirror images around the carbon bonded to H, Br, CH3 and C(CH3)3, each drawn with tetrahedral angles and wedge and dash bonds.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO1",
+          "papers": [
+            "2"
+          ],
+          "syllabus_hook": "R3.4.9 stereospecific nature of SN2, which depends on 3-D representation.",
+          "textbook_gap": "Books separate chirality from mechanisms. Exams place both on one molecule and expect the link."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "wedge-dash",
+            "mirror image shown clearly",
+            "inversion of configuration (SN2)",
+            "about 50% of each (SN1)"
+          ],
+          "trap_boundaries": [
+            "Flat drawings with correct angles: [1 max] (25M.2.HL.6221.4).",
+            "Bond angles of 90° not accepted (25M.2.HL.6221.4).",
+            "SN2 gives inversion; SN1 gives about 50% of each, so a mix suggests both mechanisms (16N.2.HL.TZ0.6, 18M.2.HL.TZ2.9)."
+          ],
+          "delta": "Partial credit shows the isomers. Full credit shows true 3-D geometry and a real mirror relationship."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A bulky group near the chiral carbon.",
+            "Asking for the outcome at a chiral carbon: inversion vs near-equal mixture (16N.2.HL.TZ0.6).",
+            "Planar carbocation attacked from either side (18M.2.HL.TZ2.9)."
+          ],
+          "heuristic": "Find four different blocks, then mirror them; for mechanisms, ask if attack comes from one side or both."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Draw",
+            "Explain"
+          ],
+          "score_mechanics": "Drawings are capped when 3-D is missing; explanation parts score per mechanism outcome."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Find four different groups",
+            "Draw wedge and dash",
+            "Reflect across a mirror"
+          ],
+          "fat_to_trim": "Do not draw every methyl in 3-D."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Wedge-dash and chirality rules are NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "A carbon with two identical groups is not chiral.",
+            "90° angles are not accepted.",
+            "Identical drawings are not optical isomers: check by mirror line, since one swap alone inverts, but a swap plus wedge-dash change restores."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6221.4",
+          "kind": "markscheme",
+          "note": "[1 max] without 3-D; 90° angles rejected."
+        },
+        {
+          "ref": "25M.2.HL.6221.4",
+          "kind": "examiner",
+          "note": "About half correct; missing chiral centre, 90° angles, no wedge-dash, swaps giving identical drawings."
+        },
+        {
+          "ref": "16N.2.HL.TZ0.6",
+          "kind": "markscheme",
+          "note": "Mirror image; SN2 inversion and SN1 near 50% of each."
+        },
+        {
+          "ref": "18M.2.HL.TZ2.9",
+          "kind": "markscheme",
+          "note": "Planar carbocation attacked from either side, about 50% each."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.7",
+          "kind": "markscheme",
+          "note": "SN2 inversion contrasted with about 50:50 for SN1."
+        }
+      ],
+      "difficulty_signal": "About half drew these correctly in May 2025 (25M.2.HL.6221.4). 'Inversion caused by SN1 and SN2' listed as difficult in November 2016.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    }
+  ],
+  "cross_links": [
+    {
+      "sub_topic": "S3.2",
+      "note": "Naming and isomers of X in 25M.2.HL.6221.4: 40% named it correctly, and chirality drawing supports the stereo card."
+    },
+    {
+      "sub_topic": "S2.2",
+      "note": "Benzene delocalization and sigma/pi bonds behind the benzene evidence and alkene electron density."
+    },
+    {
+      "sub_topic": "R3.3",
+      "note": "Homolytic vs heterolytic fission contrast; reversed descriptions score [1 max] in 25M.2.HL.6221.4."
+    },
+    {
+      "sub_topic": "R2.2",
+      "note": "Rate expressions and rate-determining step behind SN1 vs SN2."
+    }
+  ],
+  "sub_topic": "R3.4",
+  "title": "Electron-pair sharing reactions",
+  "schema_version": 2,
+  "generated_by": "claude-code:opus",
+  "excluded_no_markscheme": [],
+  "evidence_base": {
+    "questions": 11,
+    "questions_with_markscheme": 11,
+    "era_2025": 11,
+    "trap_lines": 63,
+    "examiner_error_sentences": 379
+  },
+  "validation_issues": []
+}

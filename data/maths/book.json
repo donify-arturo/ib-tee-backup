@@ -1,0 +1,1476 @@
+{
+ "file": "documents to process\\MATHS\\WORKED ANSWERS\\TEXTBOOK\\Mathematics HL - Applications and Interpretation - OXFORD 2019 BOOK.pdf",
+ "title": "Mathematics: applications and interpretation HL (Oxford, 2019)",
+ "pages": 868,
+ "offset": 10,
+ "answers_page": 776,
+ "chapters": [
+  {
+   "n": 1,
+   "title": "Measuring space: accuracy and geometry",
+   "printed": 2,
+   "pdf_start": 12,
+   "pdf_end": 53,
+   "exercises": {
+    "1A": 15,
+    "1B": 18,
+    "1C": 22,
+    "1D": 26,
+    "1E": 31,
+    "1F": 34,
+    "1G": 36,
+    "1H": 40,
+    "1I": 45
+   },
+   "review_page": 49
+  },
+  {
+   "n": 2,
+   "title": "Representing and describing",
+   "printed": 44,
+   "pdf_start": 54,
+   "pdf_end": 91,
+   "exercises": {
+    "2A": 60,
+    "2B": 65,
+    "2C": 68,
+    "2D": 72,
+    "2E": 74,
+    "2F": 81
+   },
+   "review_page": 85
+  },
+  {
+   "n": 3,
+   "title": "Dividing up space: coordinate geometry, Voronoi diagrams, vectors, lines",
+   "printed": 82,
+   "pdf_start": 92,
+   "pdf_end": 149,
+   "exercises": {
+    "3A": 95,
+    "3B": 98,
+    "3C": 100,
+    "3D": 101,
+    "3E": 105,
+    "3F": 108,
+    "3G": 111,
+    "3H": 114,
+    "3I": 118,
+    "3J": 120,
+    "3K": 122,
+    "3L": 124,
+    "3M": 128,
+    "3N": 131,
+    "3O": 136
+   },
+   "review_page": 140
+  },
+  {
+   "n": 4,
+   "title": "Modelling constant rates of change: linear functions and regressions",
+   "printed": 140,
+   "pdf_start": 150,
+   "pdf_end": 213,
+   "exercises": {
+    "4A": 156,
+    "4B": 160,
+    "4C": 163,
+    "4D": 168,
+    "4E": 170,
+    "4F": 173,
+    "4G": 177,
+    "4H": 180,
+    "4I": 183,
+    "4J": 187,
+    "4K": 190,
+    "4L": 192,
+    "4M": 194,
+    "4N": 198,
+    "4O": 199,
+    "4P": 203,
+    "4Q": 205
+   },
+   "review_page": 208
+  },
+  {
+   "n": 5,
+   "title": "Measuring and analysing randomness",
+   "printed": 204,
+   "pdf_start": 214,
+   "pdf_end": 241,
+   "exercises": {
+    "5A": 220,
+    "5B": 225,
+    "5C": 230,
+    "5D": 233
+   },
+   "review_page": 236
+  },
+  {
+   "n": 6,
+   "title": "Modelling relationships with functions: power and polynomial functions",
+   "printed": 232,
+   "pdf_start": 242,
+   "pdf_end": 297,
+   "exercises": {
+    "6A": 247,
+    "6B": 249,
+    "6C": 254,
+    "6D": 256,
+    "6E": 260,
+    "6F": 267,
+    "6G": 271,
+    "6H": 275,
+    "6I": 282,
+    "6J": 287
+   },
+   "review_page": null
+  },
+  {
+   "n": 7,
+   "title": "Modelling rates of change: exponential and logarithmic functions",
+   "printed": 288,
+   "pdf_start": 298,
+   "pdf_end": 347,
+   "exercises": {
+    "7A": 302,
+    "7B": 305,
+    "7C": 307,
+    "7D": 310,
+    "7E": 316,
+    "7F": 319,
+    "7G": 323,
+    "7H": 325,
+    "7I": 327,
+    "7J": 333,
+    "7K": 334,
+    "7L": 337,
+    "7M": 340
+   },
+   "review_page": 342
+  },
+  {
+   "n": 8,
+   "title": "Modelling periodic phenomena:",
+   "printed": 338,
+   "pdf_start": 348,
+   "pdf_end": 381,
+   "exercises": {
+    "8A": 352,
+    "8B": 356,
+    "8C": 360,
+    "8D": 366,
+    "8E": 369,
+    "8F": 373,
+    "8G": 376
+   },
+   "review_page": 378
+  },
+  {
+   "n": 9,
+   "title": "Modelling with matrices: storing and analysing data",
+   "printed": 372,
+   "pdf_start": 382,
+   "pdf_end": 435,
+   "exercises": {
+    "9A": 386,
+    "9B": 391,
+    "9C": 393,
+    "9D": 399,
+    "9E": 406,
+    "9F": 410,
+    "9G": 415,
+    "9H": 422,
+    "9I": 426,
+    "9J": 430
+   },
+   "review_page": 432
+  },
+  {
+   "n": 10,
+   "title": "Analyzing rates of change: differential calculus",
+   "printed": 426,
+   "pdf_start": 436,
+   "pdf_end": 481,
+   "exercises": {
+    "10A": 440,
+    "10B": 444,
+    "10C": 446,
+    "10D": 449,
+    "10E": 451,
+    "10F": 454,
+    "10G": 456,
+    "10H": 461,
+    "10I": 464,
+    "10J": 468,
+    "10K": 471,
+    "10L": 474
+   },
+   "review_page": 477
+  },
+  {
+   "n": 11,
+   "title": "Approximating irregular spaces: integration and differential equations",
+   "printed": 472,
+   "pdf_start": 482,
+   "pdf_end": 542,
+   "exercises": {
+    "11A": 488,
+    "11B": 490,
+    "11C": 492,
+    "11D": 495,
+    "11E": 500,
+    "11F": 504,
+    "11G": 508,
+    "11H": 511,
+    "11J": 520,
+    "11K": 523,
+    "11L": 527,
+    "11M": 531
+   },
+   "review_page": 536
+  },
+  {
+   "n": 12,
+   "title": "Modelling motion and change in two and three dimensions",
+   "printed": 533,
+   "pdf_start": 543,
+   "pdf_end": 579,
+   "exercises": {
+    "12A": 546,
+    "12B": 549,
+    "12C": 551,
+    "12D": 553,
+    "12E": 556,
+    "12F": 562,
+    "12G": 565,
+    "12H": 567,
+    "12I": 569,
+    "12J": 571
+   },
+   "review_page": null
+  },
+  {
+   "n": 13,
+   "title": "Representing multiple outcomes: random variables and probability distributions",
+   "printed": 570,
+   "pdf_start": 580,
+   "pdf_end": 632,
+   "exercises": {
+    "13A": 589,
+    "13B": 596,
+    "13C": 601,
+    "13D": 610,
+    "13E": 613,
+    "13F": 623
+   },
+   "review_page": 626
+  },
+  {
+   "n": 14,
+   "title": "Testing for validity: Spearman’s, hypothesis testing and χ2 test for independence",
+   "printed": 623,
+   "pdf_start": 633,
+   "pdf_end": 699,
+   "exercises": {
+    "14A": 637,
+    "14B": 643,
+    "14C": 645,
+    "14D": 647,
+    "14E": 652,
+    "14F": 655,
+    "14G": 656,
+    "14H": 658,
+    "14I": 659,
+    "14J": 665,
+    "14K": 670,
+    "14L": 674,
+    "14M": 678,
+    "14N": 682,
+    "14O": 684,
+    "14P": 689,
+    "14Q": 692
+   },
+   "review_page": null
+  },
+  {
+   "n": 15,
+   "title": "Optimizing complex networks: graph theory",
+   "printed": 690,
+   "pdf_start": 700,
+   "pdf_end": 775,
+   "exercises": {
+    "15A": 704,
+    "15B": 707,
+    "15C": 711,
+    "15D": 712,
+    "15E": 716,
+    "15F": 722,
+    "15G": 727,
+    "15H": 728,
+    "15I": 735,
+    "15J": 735
+   },
+   "review_page": 739
+  }
+ ],
+ "sections": [
+  {
+   "code": "1.1",
+   "chapter": 1,
+   "title": "Representing numbers exactly and approximately",
+   "printed": 4,
+   "pdf_start": 14,
+   "pdf_end": 22,
+   "exercises": [
+    "1A",
+    "1B",
+    "1C"
+   ],
+   "subtopics": [
+    "1.1",
+    "1.6"
+   ]
+  },
+  {
+   "code": "1.2",
+   "chapter": 1,
+   "title": "Angles and triangles",
+   "printed": 13,
+   "pdf_start": 23,
+   "pdf_end": 37,
+   "exercises": [
+    "1D",
+    "1E",
+    "1F",
+    "1G"
+   ],
+   "subtopics": [
+    "3.2",
+    "3.3",
+    "3.4"
+   ]
+  },
+  {
+   "code": "1.3",
+   "chapter": 1,
+   "title": "Three dimensional geometry",
+   "printed": 28,
+   "pdf_start": 38,
+   "pdf_end": 48,
+   "exercises": [
+    "1H",
+    "1I"
+   ],
+   "subtopics": [
+    "3.1"
+   ]
+  },
+  {
+   "code": "2.1",
+   "chapter": 2,
+   "title": "Collecting and organizing data",
+   "printed": 46,
+   "pdf_start": 56,
+   "pdf_end": 60,
+   "exercises": [
+    "2A"
+   ],
+   "subtopics": [
+    "4.1"
+   ]
+  },
+  {
+   "code": "2.2",
+   "chapter": 2,
+   "title": "Statistical measures",
+   "printed": 51,
+   "pdf_start": 61,
+   "pdf_end": 68,
+   "exercises": [
+    "2B",
+    "2C"
+   ],
+   "subtopics": [
+    "4.3"
+   ]
+  },
+  {
+   "code": "2.3",
+   "chapter": 2,
+   "title": "Ways in which you can present data",
+   "printed": 59,
+   "pdf_start": 69,
+   "pdf_end": 75,
+   "exercises": [
+    "2D",
+    "2E"
+   ],
+   "subtopics": [
+    "4.2"
+   ]
+  },
+  {
+   "code": "2.4",
+   "chapter": 2,
+   "title": "Bivariate data",
+   "printed": 66,
+   "pdf_start": 76,
+   "pdf_end": 84,
+   "exercises": [
+    "2F"
+   ],
+   "subtopics": [
+    "4.4"
+   ]
+  },
+  {
+   "code": "3.1",
+   "chapter": 3,
+   "title": "Coordinate geometry in 2 and 3 dimensions",
+   "printed": 84,
+   "pdf_start": 94,
+   "pdf_end": 95,
+   "exercises": [
+    "3A"
+   ],
+   "subtopics": [
+    "3.1",
+    "2.1"
+   ]
+  },
+  {
+   "code": "3.2",
+   "chapter": 3,
+   "title": "The equation of a straight line in 2 dimensions",
+   "printed": 86,
+   "pdf_start": 96,
+   "pdf_end": 105,
+   "exercises": [
+    "3B",
+    "3C",
+    "3D",
+    "3E"
+   ],
+   "subtopics": [
+    "2.1",
+    "3.11"
+   ]
+  },
+  {
+   "code": "3.3",
+   "chapter": 3,
+   "title": "Voronoi diagrams",
+   "printed": 96,
+   "pdf_start": 106,
+   "pdf_end": 113,
+   "exercises": [
+    "3F",
+    "3G"
+   ],
+   "subtopics": [
+    "3.6",
+    "3.5"
+   ]
+  },
+  {
+   "code": "3.4",
+   "chapter": 3,
+   "title": "Displacement vectors",
+   "printed": 104,
+   "pdf_start": 114,
+   "pdf_end": 121,
+   "exercises": [
+    "3H",
+    "3I",
+    "3J"
+   ],
+   "subtopics": [
+    "3.10",
+    "3.12"
+   ]
+  },
+  {
+   "code": "3.5",
+   "chapter": 3,
+   "title": "The scalar and vector product",
+   "printed": 112,
+   "pdf_start": 122,
+   "pdf_end": 127,
+   "exercises": [
+    "3K",
+    "3L"
+   ],
+   "subtopics": [
+    "3.13"
+   ]
+  },
+  {
+   "code": "3.6",
+   "chapter": 3,
+   "title": "Vector equations of lines",
+   "printed": 118,
+   "pdf_start": 128,
+   "pdf_end": 139,
+   "exercises": [
+    "3M",
+    "3N",
+    "3O"
+   ],
+   "subtopics": [
+    "3.11"
+   ]
+  },
+  {
+   "code": "4.1",
+   "chapter": 4,
+   "title": "Functions",
+   "printed": 142,
+   "pdf_start": 152,
+   "pdf_end": 164,
+   "exercises": [
+    "4A",
+    "4B",
+    "4C"
+   ],
+   "subtopics": [
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.6"
+   ]
+  },
+  {
+   "code": "4.2",
+   "chapter": 4,
+   "title": "Linear models",
+   "printed": 155,
+   "pdf_start": 165,
+   "pdf_end": 177,
+   "exercises": [
+    "4D",
+    "4E",
+    "4F",
+    "4G"
+   ],
+   "subtopics": [
+    "2.1",
+    "2.5",
+    "2.6"
+   ]
+  },
+  {
+   "code": "4.3",
+   "chapter": 4,
+   "title": "Inverse functions",
+   "printed": 168,
+   "pdf_start": 178,
+   "pdf_end": 187,
+   "exercises": [
+    "4H",
+    "4I",
+    "4J"
+   ],
+   "subtopics": [
+    "2.7",
+    "2.2"
+   ]
+  },
+  {
+   "code": "4.4",
+   "chapter": 4,
+   "title": "Arithmetic sequences and series",
+   "printed": 178,
+   "pdf_start": 188,
+   "pdf_end": 199,
+   "exercises": [
+    "4K",
+    "4L",
+    "4M",
+    "4N",
+    "4O"
+   ],
+   "subtopics": [
+    "1.2"
+   ]
+  },
+  {
+   "code": "4.5",
+   "chapter": 4,
+   "title": "Linear regression",
+   "printed": 190,
+   "pdf_start": 200,
+   "pdf_end": 207,
+   "exercises": [
+    "4P",
+    "4Q"
+   ],
+   "subtopics": [
+    "4.4",
+    "2.1"
+   ]
+  },
+  {
+   "code": "5.1",
+   "chapter": 5,
+   "title": "Reecting on experiences in the world of chance. First steps in the quantication of probabilities",
+   "printed": 206,
+   "pdf_start": 216,
+   "pdf_end": 221,
+   "exercises": [
+    "5A"
+   ],
+   "subtopics": [
+    "4.5"
+   ]
+  },
+  {
+   "code": "5.2",
+   "chapter": 5,
+   "title": "Representing combined probabilities with diagrams",
+   "printed": 212,
+   "pdf_start": 222,
+   "pdf_end": 225,
+   "exercises": [
+    "5B"
+   ],
+   "subtopics": [
+    "4.6"
+   ]
+  },
+  {
+   "code": "5.3",
+   "chapter": 5,
+   "title": "Representing combined probabilities with diagrams and formulae",
+   "printed": 216,
+   "pdf_start": 226,
+   "pdf_end": 230,
+   "exercises": [
+    "5C"
+   ],
+   "subtopics": [
+    "4.6"
+   ]
+  },
+  {
+   "code": "5.4",
+   "chapter": 5,
+   "title": "Complete, concise and consistent representations",
+   "printed": 221,
+   "pdf_start": 231,
+   "pdf_end": 235,
+   "exercises": [
+    "5D"
+   ],
+   "subtopics": [
+    "4.6"
+   ]
+  },
+  {
+   "code": "6.1",
+   "chapter": 6,
+   "title": "Quadratic models",
+   "printed": 234,
+   "pdf_start": 244,
+   "pdf_end": 254,
+   "exercises": [
+    "6A",
+    "6B",
+    "6C"
+   ],
+   "subtopics": [
+    "2.4",
+    "2.5"
+   ]
+  },
+  {
+   "code": "6.2",
+   "chapter": 6,
+   "title": "Problems involving quadratics",
+   "printed": 245,
+   "pdf_start": 255,
+   "pdf_end": 268,
+   "exercises": [
+    "6D",
+    "6E",
+    "6F"
+   ],
+   "subtopics": [
+    "2.5",
+    "2.8",
+    "1.8"
+   ]
+  },
+  {
+   "code": "6.3",
+   "chapter": 6,
+   "title": "Cubic functions and models",
+   "printed": 259,
+   "pdf_start": 269,
+   "pdf_end": 277,
+   "exercises": [
+    "6G",
+    "6H"
+   ],
+   "subtopics": [
+    "2.5"
+   ]
+  },
+  {
+   "code": "6.4",
+   "chapter": 6,
+   "title": "Power functions, direct and inverse variation and models",
+   "printed": 268,
+   "pdf_start": 278,
+   "pdf_end": 297,
+   "exercises": [
+    "6I",
+    "6J"
+   ],
+   "subtopics": [
+    "2.5",
+    "4.13",
+    "2.10"
+   ]
+  },
+  {
+   "code": "7.1",
+   "chapter": 7,
+   "title": "Geometric sequences and series",
+   "printed": 290,
+   "pdf_start": 300,
+   "pdf_end": 311,
+   "exercises": [
+    "7A",
+    "7B",
+    "7C",
+    "7D"
+   ],
+   "subtopics": [
+    "1.3",
+    "1.11"
+   ]
+  },
+  {
+   "code": "7.2",
+   "chapter": 7,
+   "title": "Financial applications of geometric sequences and series",
+   "printed": 302,
+   "pdf_start": 312,
+   "pdf_end": 319,
+   "exercises": [
+    "7E",
+    "7F"
+   ],
+   "subtopics": [
+    "1.4",
+    "1.7"
+   ]
+  },
+  {
+   "code": "7.3",
+   "chapter": 7,
+   "title": "Exponential functions and models",
+   "printed": 310,
+   "pdf_start": 320,
+   "pdf_end": 329,
+   "exercises": [
+    "7G",
+    "7H",
+    "7I"
+   ],
+   "subtopics": [
+    "1.5",
+    "2.5",
+    "2.9"
+   ]
+  },
+  {
+   "code": "7.4",
+   "chapter": 7,
+   "title": "Laws of exponents – laws of logarithms",
+   "printed": 320,
+   "pdf_start": 330,
+   "pdf_end": 338,
+   "exercises": [
+    "7J",
+    "7K",
+    "7L"
+   ],
+   "subtopics": [
+    "1.5",
+    "1.9",
+    "1.10"
+   ]
+  },
+  {
+   "code": "7.5",
+   "chapter": 7,
+   "title": "Logistic models",
+   "printed": 329,
+   "pdf_start": 339,
+   "pdf_end": 341,
+   "exercises": [
+    "7M"
+   ],
+   "subtopics": [
+    "2.9",
+    "1.3",
+    "1.4",
+    "1.5"
+   ]
+  },
+  {
+   "code": "8.1",
+   "chapter": 8,
+   "title": "Measuring angles",
+   "printed": 340,
+   "pdf_start": 350,
+   "pdf_end": 352,
+   "exercises": [
+    "8A"
+   ],
+   "subtopics": [
+    "3.7",
+    "3.8"
+   ]
+  },
+  {
+   "code": "8.2",
+   "chapter": 8,
+   "title": "Sinusoidal models: f(x) = asin (b (x − c)) + d",
+   "printed": 343,
+   "pdf_start": 353,
+   "pdf_end": 361,
+   "exercises": [
+    "8B",
+    "8C"
+   ],
+   "subtopics": [
+    "2.9",
+    "3.8"
+   ]
+  },
+  {
+   "code": "8.3",
+   "chapter": 8,
+   "title": "Completing our number system",
+   "printed": 352,
+   "pdf_start": 362,
+   "pdf_end": 365,
+   "exercises": [],
+   "subtopics": [
+    "1.12"
+   ]
+  },
+  {
+   "code": "8.4",
+   "chapter": 8,
+   "title": "A geometrical interpretation of complex numbers",
+   "printed": 356,
+   "pdf_start": 366,
+   "pdf_end": 373,
+   "exercises": [
+    "8D",
+    "8E",
+    "8F"
+   ],
+   "subtopics": [
+    "1.12",
+    "1.13"
+   ]
+  },
+  {
+   "code": "8.5",
+   "chapter": 8,
+   "title": "Using complex numbers to understand periodic models",
+   "printed": 364,
+   "pdf_start": 374,
+   "pdf_end": 377,
+   "exercises": [
+    "8G"
+   ],
+   "subtopics": [
+    "1.13",
+    "2.9"
+   ]
+  },
+  {
+   "code": "9.1",
+   "chapter": 9,
+   "title": "Introduction to matrices and matrix operations",
+   "printed": 374,
+   "pdf_start": 384,
+   "pdf_end": 386,
+   "exercises": [
+    "9A"
+   ],
+   "subtopics": [
+    "1.14"
+   ]
+  },
+  {
+   "code": "9.2",
+   "chapter": 9,
+   "title": "Matrix multiplication and Properties",
+   "printed": 377,
+   "pdf_start": 387,
+   "pdf_end": 392,
+   "exercises": [
+    "9B"
+   ],
+   "subtopics": [
+    "1.14"
+   ]
+  },
+  {
+   "code": "9.3",
+   "chapter": 9,
+   "title": "Solving systems of equations using matrices",
+   "printed": 383,
+   "pdf_start": 393,
+   "pdf_end": 400,
+   "exercises": [
+    "9C",
+    "9D"
+   ],
+   "subtopics": [
+    "1.14"
+   ]
+  },
+  {
+   "code": "9.4",
+   "chapter": 9,
+   "title": "Transformations of the plane",
+   "printed": 391,
+   "pdf_start": 401,
+   "pdf_end": 411,
+   "exercises": [
+    "9E",
+    "9F"
+   ],
+   "subtopics": [
+    "3.9",
+    "1.14"
+   ]
+  },
+  {
+   "code": "9.5",
+   "chapter": 9,
+   "title": "Representing systems",
+   "printed": 402,
+   "pdf_start": 412,
+   "pdf_end": 415,
+   "exercises": [
+    "9G"
+   ],
+   "subtopics": [
+    "4.19",
+    "1.14"
+   ]
+  },
+  {
+   "code": "9.6",
+   "chapter": 9,
+   "title": "Representing steady state systems",
+   "printed": 406,
+   "pdf_start": 416,
+   "pdf_end": 422,
+   "exercises": [
+    "9H"
+   ],
+   "subtopics": [
+    "4.19"
+   ]
+  },
+  {
+   "code": "9.7",
+   "chapter": 9,
+   "title": "Eigenvalues and eigenvectors",
+   "printed": 413,
+   "pdf_start": 423,
+   "pdf_end": 431,
+   "exercises": [
+    "9I",
+    "9J"
+   ],
+   "subtopics": [
+    "1.15"
+   ]
+  },
+  {
+   "code": "10.1",
+   "chapter": 10,
+   "title": "Limits and derivatives",
+   "printed": 428,
+   "pdf_start": 438,
+   "pdf_end": 451,
+   "exercises": [
+    "10A",
+    "10B",
+    "10C",
+    "10D",
+    "10E"
+   ],
+   "subtopics": [
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4"
+   ]
+  },
+  {
+   "code": "10.2",
+   "chapter": 10,
+   "title": "Dierentiation: further rules and techniques",
+   "printed": 442,
+   "pdf_start": 452,
+   "pdf_end": 464,
+   "exercises": [
+    "10F",
+    "10G",
+    "10H",
+    "10I"
+   ],
+   "subtopics": [
+    "5.9",
+    "5.3",
+    "5.1"
+   ]
+  },
+  {
+   "code": "10.3",
+   "chapter": 10,
+   "title": "Applications and higher derivatives",
+   "printed": 455,
+   "pdf_start": 465,
+   "pdf_end": 476,
+   "exercises": [
+    "10J",
+    "10K",
+    "10L"
+   ],
+   "subtopics": [
+    "5.6",
+    "5.7",
+    "5.10",
+    "5.13"
+   ]
+  },
+  {
+   "code": "11.1",
+   "chapter": 11,
+   "title": "Finding approximate areas for irregular regions",
+   "printed": 474,
+   "pdf_start": 484,
+   "pdf_end": 496,
+   "exercises": [
+    "11A",
+    "11B",
+    "11C",
+    "11D"
+   ],
+   "subtopics": [
+    "5.8",
+    "5.5"
+   ]
+  },
+  {
+   "code": "11.2",
+   "chapter": 11,
+   "title": "Indenite integrals and techniques of integration",
+   "printed": 487,
+   "pdf_start": 497,
+   "pdf_end": 507,
+   "exercises": [
+    "11E",
+    "11F"
+   ],
+   "subtopics": [
+    "5.5",
+    "5.11"
+   ]
+  },
+  {
+   "code": "11.3",
+   "chapter": 11,
+   "title": "Applications of integration",
+   "printed": 498,
+   "pdf_start": 508,
+   "pdf_end": 524,
+   "exercises": [
+    "11G",
+    "11H",
+    "11J",
+    "11K"
+   ],
+   "subtopics": [
+    "5.5",
+    "5.12",
+    "5.14"
+   ]
+  },
+  {
+   "code": "11.4",
+   "chapter": 11,
+   "title": "Dierential equations",
+   "printed": 515,
+   "pdf_start": 525,
+   "pdf_end": 528,
+   "exercises": [
+    "11L"
+   ],
+   "subtopics": [
+    "5.14"
+   ]
+  },
+  {
+   "code": "11.5",
+   "chapter": 11,
+   "title": "Slope elds and dierential equations",
+   "printed": 519,
+   "pdf_start": 529,
+   "pdf_end": 535,
+   "exercises": [
+    "11M"
+   ],
+   "subtopics": [
+    "5.15",
+    "5.16"
+   ]
+  },
+  {
+   "code": "12.1",
+   "chapter": 12,
+   "title": "Vector quantities",
+   "printed": 535,
+   "pdf_start": 545,
+   "pdf_end": 549,
+   "exercises": [
+    "12A",
+    "12B"
+   ],
+   "subtopics": [
+    "3.12",
+    "3.13"
+   ]
+  },
+  {
+   "code": "12.2",
+   "chapter": 12,
+   "title": "Motion with variable velocity",
+   "printed": 540,
+   "pdf_start": 550,
+   "pdf_end": 556,
+   "exercises": [
+    "12C",
+    "12D",
+    "12E"
+   ],
+   "subtopics": [
+    "3.12",
+    "5.13"
+   ]
+  },
+  {
+   "code": "12.3",
+   "chapter": 12,
+   "title": "Exact solutions of coupled dierential equations",
+   "printed": 547,
+   "pdf_start": 557,
+   "pdf_end": 565,
+   "exercises": [
+    "12F",
+    "12G"
+   ],
+   "subtopics": [
+    "5.17",
+    "1.15"
+   ]
+  },
+  {
+   "code": "12.4",
+   "chapter": 12,
+   "title": "Approximate solutions to coupled linear equations",
+   "printed": 556,
+   "pdf_start": 566,
+   "pdf_end": 579,
+   "exercises": [
+    "12H",
+    "12I",
+    "12J"
+   ],
+   "subtopics": [
+    "5.16",
+    "5.17",
+    "5.18"
+   ]
+  },
+  {
+   "code": "13.1",
+   "chapter": 13,
+   "title": "Modelling random behaviour",
+   "printed": 572,
+   "pdf_start": 582,
+   "pdf_end": 590,
+   "exercises": [
+    "13A"
+   ],
+   "subtopics": [
+    "4.7"
+   ]
+  },
+  {
+   "code": "13.2",
+   "chapter": 13,
+   "title": "Modelling the number of successes in a fixed number of trials",
+   "printed": 581,
+   "pdf_start": 591,
+   "pdf_end": 596,
+   "exercises": [
+    "13B"
+   ],
+   "subtopics": [
+    "4.8"
+   ]
+  },
+  {
+   "code": "13.3",
+   "chapter": 13,
+   "title": "Modelling the number of successes in a fixed interval",
+   "printed": 587,
+   "pdf_start": 597,
+   "pdf_end": 602,
+   "exercises": [
+    "13C"
+   ],
+   "subtopics": [
+    "4.17"
+   ]
+  },
+  {
+   "code": "13.4",
+   "chapter": 13,
+   "title": "Modelling measurements that are distributed randomly",
+   "printed": 593,
+   "pdf_start": 603,
+   "pdf_end": 610,
+   "exercises": [
+    "13D"
+   ],
+   "subtopics": [
+    "4.9",
+    "4.15"
+   ]
+  },
+  {
+   "code": "13.5",
+   "chapter": 13,
+   "title": "Mean and variance of transformed or combined random variables",
+   "printed": 601,
+   "pdf_start": 611,
+   "pdf_end": 613,
+   "exercises": [
+    "13E"
+   ],
+   "subtopics": [
+    "4.14"
+   ]
+  },
+  {
+   "code": "13.6",
+   "chapter": 13,
+   "title": "Distributions of combined random variables",
+   "printed": 604,
+   "pdf_start": 614,
+   "pdf_end": 625,
+   "exercises": [
+    "13F"
+   ],
+   "subtopics": [
+    "4.14",
+    "4.15"
+   ]
+  },
+  {
+   "code": "14.1",
+   "chapter": 14,
+   "title": "Spearman’s rank correlation Coecient",
+   "printed": 625,
+   "pdf_start": 635,
+   "pdf_end": 638,
+   "exercises": [
+    "14A"
+   ],
+   "subtopics": [
+    "4.10"
+   ]
+  },
+  {
+   "code": "14.2",
+   "chapter": 14,
+   "title": "Hypothesis testing for the binomial probability, the Poisson mean and the product moment correlation coecient",
+   "printed": 629,
+   "pdf_start": 639,
+   "pdf_end": 647,
+   "exercises": [
+    "14B",
+    "14C",
+    "14D"
+   ],
+   "subtopics": [
+    "4.11",
+    "4.10",
+    "4.18"
+   ]
+  },
+  {
+   "code": "14.3",
+   "chapter": 14,
+   "title": "Testing for the mean of a normal distribution",
+   "printed": 638,
+   "pdf_start": 648,
+   "pdf_end": 659,
+   "exercises": [
+    "14E",
+    "14F",
+    "14G",
+    "14H",
+    "14I"
+   ],
+   "subtopics": [
+    "4.18",
+    "4.11",
+    "4.16"
+   ]
+  },
+  {
+   "code": "14.4",
+   "chapter": 14,
+   "title": "χ 2 test for independence",
+   "printed": 650,
+   "pdf_start": 660,
+   "pdf_end": 666,
+   "exercises": [
+    "14J"
+   ],
+   "subtopics": [
+    "4.11",
+    "4.18",
+    "4.10"
+   ]
+  },
+  {
+   "code": "14.5",
+   "chapter": 14,
+   "title": "χ 2 goodness-of-t test",
+   "printed": 657,
+   "pdf_start": 667,
+   "pdf_end": 679,
+   "exercises": [
+    "14K",
+    "14L",
+    "14M"
+   ],
+   "subtopics": [
+    "4.11",
+    "4.18",
+    "4.10"
+   ]
+  },
+  {
+   "code": "14.6",
+   "chapter": 14,
+   "title": "Choice, validity and interpretation of tests",
+   "printed": 670,
+   "pdf_start": 680,
+   "pdf_end": 699,
+   "exercises": [
+    "14N",
+    "14O",
+    "14P",
+    "14Q"
+   ],
+   "subtopics": [
+    "4.12",
+    "4.18"
+   ]
+  },
+  {
+   "code": "15.1",
+   "chapter": 15,
+   "title": "Constructing graphs",
+   "printed": 692,
+   "pdf_start": 702,
+   "pdf_end": 708,
+   "exercises": [
+    "15A",
+    "15B"
+   ],
+   "subtopics": [
+    "3.14"
+   ]
+  },
+  {
+   "code": "15.2",
+   "chapter": 15,
+   "title": "Graph theory for unweighted graphs",
+   "printed": 699,
+   "pdf_start": 709,
+   "pdf_end": 717,
+   "exercises": [
+    "15C",
+    "15D",
+    "15E"
+   ],
+   "subtopics": [
+    "3.15",
+    "3.14"
+   ]
+  },
+  {
+   "code": "15.3",
+   "chapter": 15,
+   "title": "Graph theory for weighted graphs: the minimum spanning tree",
+   "printed": 708,
+   "pdf_start": 718,
+   "pdf_end": 723,
+   "exercises": [
+    "15F"
+   ],
+   "subtopics": [
+    "3.16"
+   ]
+  },
+  {
+   "code": "15.4",
+   "chapter": 15,
+   "title": "Graph theory for weighted graphs: the Chinese postman problem",
+   "printed": 714,
+   "pdf_start": 724,
+   "pdf_end": 729,
+   "exercises": [
+    "15G",
+    "15H"
+   ],
+   "subtopics": [
+    "3.16"
+   ]
+  },
+  {
+   "code": "15.5",
+   "chapter": 15,
+   "title": "Graph theory for weighted graphs: the travelling salesman problem",
+   "printed": 720,
+   "pdf_start": 730,
+   "pdf_end": 738,
+   "exercises": [
+    "15I",
+    "15J"
+   ],
+   "subtopics": [
+    "3.16"
+   ]
+  }
+ ]
+}

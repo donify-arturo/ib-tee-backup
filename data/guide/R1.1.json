@@ -1,0 +1,170 @@
+{
+ "overview": "Reactivity 1.1 is about using temperature changes to learn about energy transfer in chemical and physical change. Energy is conserved, so heat lost or gained by the system appears in the surroundings. Whether a reaction is exothermic or endothermic depends on how stable the products are compared with the reactants, and this is shown on an energy profile. The heat transferred can be measured by the temperature change of a pure substance such as water (Q = mcΔT). Dividing by the moles of limiting reactant gives the enthalpy change ΔH in kJ mol⁻¹.",
+ "sections": [
+  {
+   "understanding": "R1.1.1",
+   "title": "Energy transfer and conservation of energy",
+   "explanation": "**Thermochemistry** is the study of heat changes during chemical reactions or physical processes. The **first law of thermodynamics** (the law of conservation of energy) says energy cannot be created or destroyed, only converted from one form to another. So for a reaction every energy change can be accounted for. A given change carried out under the same conditions always absorbs or releases the same amount of energy, and this can be found by measuring the heat transferred between the system and the surroundings.\n\n**Systems and surroundings.** The **system** is all the reactants, products and solvent involved in the change of interest. The **surroundings** are everything else in the universe. An **open system** can exchange matter and energy with the surroundings. A **closed system** can exchange energy but not matter. An **isolated system** can exchange neither.\n\n**Heat and temperature are different things.** **Heat** (Q or q) is a form of energy (SI unit joule, J) that is transferred from a warmer body to a cooler one because of a temperature difference. It can move by conduction, convection and radiation. When heat is transferred to an object, the average kinetic energy of its particles rises, which raises the temperature and may cause a change of state. **Temperature** (T) measures the average kinetic energy of the particles (SI unit kelvin, K). Absolute temperature is proportional to that average kinetic energy. At absolute zero, 0 K (−273.15 °C), particle motion theoretically stops. Temperature is a **state function**: a change in its value depends only on the initial and final values, not on the path between them. ΔT = T_final − T_initial. Volume, enthalpy and pressure are other state functions.\n\nExample: in Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g), heat is released from the reaction system into the surroundings, and the temperature of the solution rises. Heat is the transfer of thermal energy. Temperature describes the average kinetic energy of the particles. Use the two terms carefully in explanations.\n\nAt constant pressure the **enthalpy change**, ΔH, is the heat transferred between a closed system and its surroundings during a reaction or change of state. It is linked to the breaking and forming of chemical bonds. The terms \"enthalpy change\" and \"heat of reaction\" are used interchangeably. The most common unit is kJ (per mole of reaction, kJ mol⁻¹).",
+   "key_points": [
+    "Energy is conserved: it is transferred between system and surroundings, never created or destroyed.",
+    "System = the reacting substances; surroundings = everything else.",
+    "Open systems exchange matter and energy, closed systems only energy, isolated systems neither.",
+    "Heat is energy transferred because of a temperature difference (J); temperature is average kinetic energy of the particles (K).",
+    "At constant pressure, the heat transferred is the enthalpy change ΔH."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔT = T_final − T_initial",
+     "meaning": "Temperature change; same numerical value in K and °C."
+    }
+   ],
+   "exam_tips": [
+    "Use \"heat\" and \"temperature\" precisely. Heat is energy transferred; temperature is average kinetic energy.",
+    "Be able to state the difference between heat and temperature."
+   ],
+   "mistakes": [
+    "Treating heat and temperature as the same thing."
+   ],
+   "companion_pages": [
+    "389",
+    "390",
+    "391"
+   ],
+   "prepared_pages": [
+    "93",
+    "94"
+   ]
+  },
+  {
+   "understanding": "R1.1.2",
+   "title": "Exothermic and endothermic reactions",
+   "explanation": "A reaction in which heat is transferred from the system to the surroundings is **exothermic**. A reaction in which heat is absorbed into the system from the surroundings is **endothermic**.\n\nBond breaking absorbs energy (the bond dissociation energy), so it is endothermic. Bond making releases energy, so it is exothermic. Whether the overall reaction is endothermic or exothermic depends on the balance of these.\n\n**Sign convention.** The sign of ΔH is defined from the viewpoint of the **system**. Exothermic: the system loses heat, so ΔH < 0 (negative). Endothermic: the system gains heat, so ΔH > 0 (positive). At constant pressure, enthalpy change and heat Q have equal values but opposite signs, because heat flow Q is measured with respect to the surroundings and ΔH with respect to the system. In an exothermic reaction the surroundings receive heat (Q > 0) while the system loses it (ΔH < 0). In an endothermic reaction the surroundings lose heat (Q < 0) and ΔH > 0.\n\n**Temperature changes.** Heat transfer is not instantaneous, so an exothermic reaction typically raises the temperature of the reaction mixture, and an endothermic reaction lowers it. Examples: Zn(s) + CuSO₄(aq) → Cu(s) + ZnSO₄(aq) is exothermic and the solution warms. Dissolving NH₄NO₃ in water is endothermic, the temperature falls and the container feels cold. External heating or cooling can keep the temperature constant or even reverse the usual change.\n\n**Changes of state.** These often happen at constant temperature, because the heat flow exactly matches the energy consumed or released by the change. A mixture of ice and water stays at 0 °C until all the ice melts or all the water freezes. Liquid water at standard pressure cannot be heated above 100 °C because the extra energy goes into H₂O(l) → H₂O(g). On a heating curve the flat sections are melting and vaporization.\n\nA **calorimeter** is any apparatus used to measure the heat exchanged between system and surroundings. In school labs, the temperature change of the solvent (usually water) is measured, by thermometer or data-logging equipment.",
+   "key_points": [
+    "Exothermic: heat from system to surroundings, ΔH < 0, temperature of surroundings rises.",
+    "Endothermic: heat from surroundings to system, ΔH > 0, temperature of surroundings falls.",
+    "ΔH is defined from the system's viewpoint; Q from the surroundings', so they have opposite signs.",
+    "Bond breaking is endothermic; bond making is exothermic.",
+    "Changes of state occur at constant temperature (heat supplied goes into the change of state)."
+   ],
+   "formulas": [],
+   "exam_tips": [
+    "Know the temperature change that goes with each type of reaction: decrease for endothermic, increase for exothermic."
+   ],
+   "mistakes": [
+    "Giving a positive ΔH for an exothermic reaction. The sign is from the system's viewpoint.",
+    "Thinking temperature must rise whenever heat is added; during a change of state it stays constant."
+   ],
+   "companion_pages": [
+    "390",
+    "391",
+    "392"
+   ],
+   "prepared_pages": [
+    "93",
+    "94",
+    "95"
+   ]
+  },
+  {
+   "understanding": "R1.1.3",
+   "title": "Stability and energy profiles",
+   "explanation": "The thermal effect of a reaction depends on the **relative stability** of reactants and products. Energy is released when the potential energy of the products is lower than that of the reactants, and absorbed when the products have higher potential energy.\n\n**Exothermic:** the reactants are at a higher energy level and are less stable. The products are lower in energy and so more stable (more energetically favourable). The overall change in energy of the system is negative, ΔH < 0.\n\n**Endothermic:** the products are at a higher energy level and are less stable than the reactants. ΔH > 0.\n\nAn **energy profile** (reaction energy profile) shows the change in potential energy along the reaction pathway. From it you can read the enthalpy of reactants and products, the **activation energy** E_a (the minimum energy needed for the reaction to take place; studied further in Reactivity 2.2) and ΔH. The top of the curve is the transition state.\n\nHow to sketch one (the books' advice):\n\n- Label the axes: **reaction coordinate** on x and **potential energy** on y.\n- Draw reactants and products at the correct relative levels: reactants **higher** than products for exothermic; reactants **lower** than products for endothermic.\n- Draw a curve for the pathway rising to a peak (the transition state).\n- Draw an **upward arrow** from the reactants to the peak for E_a.\n- Draw an arrow for ΔH between the reactant and product levels, **pointing downward** if ΔH < 0 and **upward** if ΔH > 0.\n\nExample from the books: for a reaction with ΔH = −1049 kJ mol⁻¹, the products are more stable than the reactants and the reaction is exothermic. For Ba(OH)₂ + 2NH₄Cl, ΔH = +164 kJ mol⁻¹: the temperature decreases, products have higher enthalpy and are less stable. In an endothermic reversible reaction, the forward activation energy is greater than the reverse one; in an exothermic reversible reaction it is smaller.",
+   "key_points": [
+    "Exothermic: products lower in energy, more stable than reactants.",
+    "Endothermic: products higher in energy, less stable than reactants.",
+    "Profile axes: x = reaction coordinate, y = potential energy.",
+    "ΔH arrow points down for exothermic, up for endothermic; E_a arrow points up from reactants to the peak.",
+    "E_a is the minimum energy needed for reaction (Reactivity 2.2)."
+   ],
+   "formulas": [],
+   "exam_tips": [
+    "A good sketch has: labelled axes (reaction coordinate x, potential energy y), reactants and products at the right relative heights, a curve with transition state, an ΔH arrow in the right direction, and an E_a arrow upward.",
+    "You must be able to sketch and interpret profiles for both reaction types."
+   ],
+   "mistakes": [
+    "Putting the reactants lower than the products for an exothermic reaction (or the reverse).",
+    "Leaving the axes unlabelled or drawing the ΔH arrow in the wrong direction.",
+    "Saying a higher-energy product is more stable; lower energy means more stable."
+   ],
+   "companion_pages": [
+    "391",
+    "392",
+    "393",
+    "402"
+   ],
+   "prepared_pages": [
+    "95",
+    "96",
+    "98"
+   ]
+  },
+  {
+   "understanding": "R1.1.4",
+   "title": "Standard enthalpy change and calorimetry",
+   "explanation": "The **standard enthalpy change** of a reaction, ΔH⦵, is the heat transferred at **constant pressure** under **standard conditions and states**. It is given in **kJ mol⁻¹**. It can be found from the temperature change of a pure substance (usually water) that gains or loses the heat.\n\n**Standard conditions.** The symbol ⦵ denotes standard conditions. Standard state is the most stable state of a substance at a given temperature, usually 298.15 K (25 °C), and 100 kPa. A standard enthalpy change requires all species to be in their standard states unless stated otherwise. STP is 273.15 K (0 °C) and 100 kPa; SATP is 298.15 K and 100 kPa (both are given in section 2 of the data booklet).\n\n**Specific heat capacity**, c, is the amount of heat needed to raise the temperature of 1 kg of a substance by 1 K (equivalently 1 g by 1 K, giving J g⁻¹ K⁻¹). Values (kJ kg⁻¹ K⁻¹ = J g⁻¹ K⁻¹): water 4.18, ethanol 2.44, aluminium 0.903, copper 0.385. For example, 2.44 kJ raises 1 kg of ethanol by 1 K. The lower c is, the greater the temperature rise for the same heat. It is an intensive property: it does not depend on the amount of substance. The temperature rise of a substance depends on its identity, its mass and the heat supplied.\n\n**Heat calculation:** Q = mcΔT, where m is the mass of the substance heated and ΔT its temperature change. Keep units consistent: with m in kg and c in kJ kg⁻¹ K⁻¹, Q is in kJ; with m in g and c in J g⁻¹ K⁻¹, Q is in J. A change of 1 °C equals a change of 1 K. For example, 650 J absorbed by 34.5 g of aluminium: ΔT = 650 / (34.5 × 0.903) = 20.9 K.\n\n**Enthalpy change:** ΔH = −Q/n, where n is the moles of the **limiting reactant** (the reactant present in the smallest stoichiometric amount, which limits the product formed; the others are in excess). The minus sign is there because Q is the heat gained by the water (surroundings), while ΔH refers to the system. Steps: find ΔT, calculate Q, find n of the limiting reactant (n = m/M or n = cV), then ΔH = −Q/n.\n\n**Practical details.**\n\n- A polystyrene (coffee-cup) calorimeter with stirrer and thermometer is a convenient set-up. Combustion experiments burn a fuel (e.g. alcohol in a spirit burner) under a beaker or metal calorimeter of water; the mass lost by the burner gives n of fuel.\n- Assumptions: all the heat goes to the water; the cup insulates (though it has a small heat capacity itself); the maximum temperature reached accurately reflects the heat evolved; the solution has the same specific heat capacity as water (and density of 1 g cm⁻³, so volume in cm³ ≈ mass in g).\n- **Systematic error:** heat loss to the surroundings. The measured temperature rise is smaller than theory, so the measured |ΔH| is smaller than the true value. Reduce it by better insulation, or compensate by extrapolating the cooling section of the temperature–time graph back to the moment the reactant was added, giving a more accurate ΔT.\n- Other reasons given for a low combustion value: heat absorbed by the metal calorimeter, incomplete combustion, impurities (e.g. water in ethanol).\n- Random errors cause imprecision; systematic errors cause inaccuracy.\n\nA bomb calorimeter (used in research) burns a sample in a sealed chamber surrounded by water and gives much more accurate results.\n\nBooks' numbers: LiCl dissolving (1.15 g in 25.0 g water, ΔT = 3.80 K) gives Q = 0.397 kJ and ΔH ≈ −14.6 kJ mol⁻¹. Zn + CuSO₄ (28.8 g solution, 1.37 g Zn, ΔT = 39.0 K) gives Q = 4.69 kJ, with Zn limiting (0.0210 mol), ΔH ≈ −223 kJ mol⁻¹. Ethanol combustion (100 g water, ΔT = 63.4 K, 1.19 g ethanol) gives ΔH_c ≈ −1030 kJ mol⁻¹, compared with the data booklet −1367 kJ mol⁻¹.",
+   "key_points": [
+    "ΔH⦵ is the heat transferred at constant pressure under standard conditions and states, in kJ mol⁻¹.",
+    "Q = mcΔT gives the heat gained or lost by the water; c of water = 4.18 J g⁻¹ K⁻¹.",
+    "ΔH = −Q/n, with n = moles of the limiting reactant.",
+    "Heat loss to surroundings makes measured ΔT and |ΔH| too small; improve insulation or extrapolate the graph.",
+    "Standard conditions: 100 kPa, usually 298.15 K; ΔT in K equals ΔT in °C."
+   ],
+   "formulas": [
+    {
+     "formula": "Q = mcΔT",
+     "meaning": "Heat gained or lost by a pure substance: m = mass (kg or g), c = specific heat capacity (kJ kg⁻¹ K⁻¹ or J g⁻¹ K⁻¹), ΔT = temperature change (K). Q in kJ or J (in the data booklet)."
+    },
+    {
+     "formula": "ΔH = −Q/n",
+     "meaning": "Enthalpy change per mole of limiting reactant, in kJ mol⁻¹ (convert Q to kJ first)."
+    },
+    {
+     "formula": "n = m/M",
+     "meaning": "Moles from mass (g) and molar mass (g mol⁻¹)."
+    },
+    {
+     "formula": "n = cV",
+     "meaning": "Moles of solute from concentration (mol dm⁻³) and volume (dm³) (in the data booklet)."
+    }
+   ],
+   "exam_tips": [
+    "Calorimetry usually gives a smaller temperature change than theory predicts, mainly from heat loss; say this and how to reduce it (insulation, extrapolating the temperature–time graph).",
+    "The equation Q = mcΔT and the specific heat capacity of water are in the data booklet; the ΔH = −Q/n step is not given.",
+    "Convert J to kJ before dividing by n so ΔH comes out in kJ mol⁻¹.",
+    "When comparing with a data booklet ΔH_c, give reasons: heat loss, heat absorbed by the calorimeter, incomplete combustion, impurities.",
+    "Identify the limiting reactant before calculating n."
+   ],
+   "mistakes": [
+    "Forgetting the negative sign in ΔH = −Q/n (an exothermic reaction must give a negative ΔH).",
+    "Mixing units (g with kJ kg⁻¹ K⁻¹, or J with kJ mol⁻¹).",
+    "Dividing by moles of the excess reactant instead of the limiting reactant.",
+    "Using the mass of the reactant instead of the mass of the water or solution in Q = mcΔT.",
+    "Adding 273 to a temperature change; ΔT is the same in °C and K."
+   ],
+   "companion_pages": [
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "403"
+   ],
+   "prepared_pages": [
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98"
+   ]
+  }
+ ],
+ "sub_topic": "R1.1",
+ "title": "Measuring enthalpy changes",
+ "guiding_question": "What can be deduced from the temperature change that accompanies chemical or physical change?",
+ "generated_by": "sonnet",
+ "issues": []
+}

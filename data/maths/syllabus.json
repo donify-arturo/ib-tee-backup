@@ -1,0 +1,4829 @@
+{
+ "course": "IB Mathematics: applications and interpretation HL",
+ "assessment": {
+  "papers": [
+   {
+    "paper": "1",
+    "minutes": 120,
+    "marks": 110,
+    "calculator": true,
+    "weight": "30%"
+   },
+   {
+    "paper": "2",
+    "minutes": 120,
+    "marks": 110,
+    "calculator": true,
+    "weight": "30%"
+   },
+   {
+    "paper": "3",
+    "minutes": 60,
+    "marks": 55,
+    "calculator": true,
+    "weight": "20%"
+   }
+  ],
+  "note": "Standard AI HL external assessment (IA is the remaining 20%). Not from a file in the folder; check against the guide."
+ },
+ "source_note": "* Sub-topic numbers and titles follow the IB Mathematics: applications and interpretation guide (first assessment 2021): SL 1.1–1.8,\n  AHL 1.9–1.15, SL 2.1–2.6, AHL 2.7–2.10, SL 3.1–3.6, AHL 3.7–3.16, SL 4.1–4.11, AHL 4.12–4.19, SL 5.1–5.8, AHL 5.9–5.18.\n  The guide PDF itself is NOT in `documents to process/MATHS`; the outline was transcribed for this app. Put the guide in\n  `documents to process/MATHS/SYLLABUS/` to check wording. The five topics match the calculator book's master index (\"BY IB SYLLABUS\n  TOPIC\", Topic 1–5 including Calculus), which is in the folder.\n* Objectives, concepts, formulas, method steps, mistakes and recall prompts are study notes written for IB TEE (standard IB\n  mathematics; formulas use the formula booklet's notation). They are not taken from the student's files and are labelled so in the app.\n* Everything else the app shows (questions, markschemes, examiners reports, calculator sheets, worked solutions) comes from the files.",
+ "topics": [
+  {
+   "n": 1,
+   "title": "Number & Algebra",
+   "guide_title": "Number and algebra",
+   "subtopics": [
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "1.5",
+    "1.6",
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Functions",
+   "guide_title": "Functions",
+   "subtopics": [
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "2.6",
+    "2.7",
+    "2.8",
+    "2.9",
+    "2.10"
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Geometry & Trigonometry",
+   "guide_title": "Geometry and trigonometry",
+   "subtopics": [
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4",
+    "3.5",
+    "3.6",
+    "3.7",
+    "3.8",
+    "3.9",
+    "3.10",
+    "3.11",
+    "3.12",
+    "3.13",
+    "3.14",
+    "3.15",
+    "3.16"
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Statistics & Probability",
+   "guide_title": "Statistics and probability",
+   "subtopics": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "4.10",
+    "4.11",
+    "4.12",
+    "4.13",
+    "4.14",
+    "4.15",
+    "4.16",
+    "4.17",
+    "4.18",
+    "4.19"
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Calculus",
+   "guide_title": "Calculus",
+   "subtopics": [
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6",
+    "5.7",
+    "5.8",
+    "5.9",
+    "5.10",
+    "5.11",
+    "5.12",
+    "5.13",
+    "5.14",
+    "5.15",
+    "5.16",
+    "5.17",
+    "5.18"
+   ]
+  }
+ ],
+ "subtopics": [
+  {
+   "code": "1.1",
+   "title": "Operations with numbers in the form a × 10^k",
+   "level": "SL",
+   "objectives": [
+    "Write numbers in standard form a × 10^k, 1 ≤ a < 10, k ∈ ℤ",
+    "Calculate with numbers in this form, with and without technology"
+   ],
+   "concepts": [
+    "Standard form keeps one non-zero digit before the decimal point and moves the size into the power of 10.",
+    "Multiplying adds the powers; dividing subtracts them. Re-adjust a afterwards so that 1 ≤ a < 10.",
+    "The GDC shows standard form as 1.475E-1: you must rewrite it as 1.475 × 10⁻¹ in the exam."
+   ],
+   "formulas": [
+    {
+     "name": "Standard form",
+     "tex": "a \\times 10^{k},\\quad 1 \\le a < 10,\\ k \\in \\mathbb{Z}",
+     "where": "a: the significand, k: an integer power",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Move the decimal point until one non-zero digit is left of it.",
+    "Count the moves: left gives a positive k, right a negative k.",
+    "Check: 1 ≤ a < 10 and the value is unchanged."
+   ],
+   "mistakes": [
+    "Writing 14.75 × 10⁻² (a is not between 1 and 10).",
+    "Copying the calculator's E notation as the final answer.",
+    "Rounding a when the question asks for the exact value."
+   ],
+   "connections": [
+    "1.6",
+    "1.5"
+   ],
+   "recall": [
+    {
+     "q": "Write 0.000 362 in the form a × 10^k.",
+     "a": "3.62 × 10⁻⁴"
+    },
+    {
+     "q": "What range must a lie in?",
+     "a": "1 ≤ a < 10"
+    },
+    {
+     "q": "(3 × 10⁴)(5 × 10⁻⁷) = ?",
+     "a": "15 × 10⁻³ = 1.5 × 10⁻²"
+    }
+   ],
+   "worked_chapters": [
+    1
+   ]
+  },
+  {
+   "code": "1.2",
+   "title": "Arithmetic sequences and series",
+   "level": "SL",
+   "objectives": [
+    "Use the formulae for the nth term and the sum of the first n terms",
+    "Use sigma notation for sums of arithmetic sequences",
+    "Model real situations (simple interest, regular increases) with arithmetic sequences"
+   ],
+   "concepts": [
+    "An arithmetic sequence goes up or down by the same amount d each step: it is a linear function of n.",
+    "The sum S_n averages the first and last term and multiplies by the number of terms.",
+    "Because n counts terms it must be a positive integer: round in the direction the context needs."
+   ],
+   "formulas": [
+    {
+     "name": "nth term",
+     "tex": "u_n = u_1 + (n-1)d",
+     "where": "u₁ first term, d common difference, n term number",
+     "when": ""
+    },
+    {
+     "name": "Sum of n terms",
+     "tex": "S_n = \\frac{n}{2}\\left(2u_1 + (n-1)d\\right) = \\frac{n}{2}(u_1 + u_n)",
+     "where": "n number of terms",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify u₁ and d (d = any term minus the previous one).",
+    "Decide: a term (u_n) or a total (S_n)?",
+    "Write the equation and solve for the unknown, by algebra or the GDC (table or solver).",
+    "If n is unknown, round to a whole number that fits the context."
+   ],
+   "mistakes": [
+    "Using n instead of n − 1 in u_n.",
+    "Giving d the wrong sign when the sequence decreases.",
+    "Finding u_n when the question wants the total S_n (or the reverse).",
+    "Rounding n the wrong way (e.g. 66.7 boxes means at most 66)."
+   ],
+   "connections": [
+    "1.3",
+    "2.5",
+    "1.4"
+   ],
+   "recall": [
+    {
+     "q": "State the formula for the nth term of an arithmetic sequence.",
+     "a": "u_n = u₁ + (n − 1)d"
+    },
+    {
+     "q": "State the two forms of S_n for an arithmetic series.",
+     "a": "S_n = n/2 (2u₁ + (n − 1)d) = n/2 (u₁ + u_n)"
+    },
+    {
+     "q": "u₁ = 400, d = −6. Find u₁₀.",
+     "a": "400 + 9(−6) = 346"
+    }
+   ],
+   "worked_chapters": [
+    4
+   ]
+  },
+  {
+   "code": "1.3",
+   "title": "Geometric sequences and series",
+   "level": "SL",
+   "objectives": [
+    "Use the formulae for the nth term and the sum of the first n terms of a geometric sequence",
+    "Use sigma notation",
+    "Apply to growth and decay (compound interest, population)"
+   ],
+   "concepts": [
+    "A geometric sequence multiplies by the same ratio r each step: it is an exponential function of n.",
+    "r > 1 grows, 0 < r < 1 decays, r < 0 alternates in sign.",
+    "A percentage increase of p% gives r = 1 + p/100; a decrease gives r = 1 − p/100."
+   ],
+   "formulas": [
+    {
+     "name": "nth term",
+     "tex": "u_n = u_1 r^{\\,n-1}",
+     "where": "u₁ first term, r common ratio",
+     "when": ""
+    },
+    {
+     "name": "Sum of n terms",
+     "tex": "S_n = \\frac{u_1(r^n - 1)}{r - 1} = \\frac{u_1(1 - r^n)}{1 - r},\\quad r \\ne 1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find r by dividing a term by the previous one.",
+    "Choose u_n (a term) or S_n (a total).",
+    "Solve for n with the GDC (table, graph or solver) or logarithms.",
+    "Interpret n in context (which year, which month)."
+   ],
+   "mistakes": [
+    "Writing r = 0.05 for a 5% increase (it is 1.05).",
+    "Using rⁿ instead of rⁿ⁻¹ in u_n.",
+    "Off-by-one errors with years: u₁ is the start, so year 5 may be u₆ depending on the wording."
+   ],
+   "connections": [
+    "1.2",
+    "1.4",
+    "1.11",
+    "2.9"
+   ],
+   "recall": [
+    {
+     "q": "State the nth term of a geometric sequence.",
+     "a": "u_n = u₁ rⁿ⁻¹"
+    },
+    {
+     "q": "A value falls by 12% a year. What is r?",
+     "a": "0.88"
+    },
+    {
+     "q": "State the sum of the first n terms of a geometric series.",
+     "a": "S_n = u₁(rⁿ − 1)/(r − 1), r ≠ 1"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.4",
+   "title": "Financial applications of geometric sequences and series",
+   "level": "SL",
+   "objectives": [
+    "Calculate compound interest and depreciation",
+    "Use the GDC finance app (TVM) for interest problems",
+    "Include the effect of inflation and real value"
+   ],
+   "concepts": [
+    "Compound interest is a geometric sequence: each period the amount is multiplied by 1 + r/(100k).",
+    "Depreciation is the same formula with a negative rate.",
+    "In the TVM solver money paid out is negative and money received is positive: PV and FV have opposite signs."
+   ],
+   "formulas": [
+    {
+     "name": "Compound interest",
+     "tex": "FV = PV \\times \\left(1 + \\frac{r}{100k}\\right)^{kn}",
+     "where": "PV present value, r% nominal annual rate, k compounding periods per year, n years",
+     "when": ""
+    },
+    {
+     "name": "Depreciation",
+     "tex": "FV = PV \\times \\left(1 - \\frac{r}{100}\\right)^{n}",
+     "where": "r% loss per year",
+     "when": ""
+    }
+   ],
+   "method": [
+    "List what you know: PV, rate, compounding per year, years, payments.",
+    "Enter N, I%, PV, PMT, FV, P/Y, C/Y in the finance app; solve for the unknown.",
+    "Check signs and give money to 2 d.p. unless told otherwise.",
+    "For inflation, adjust the rate (real rate ≈ interest − inflation) or deflate the final value, as the question asks."
+   ],
+   "mistakes": [
+    "Same sign for PV and FV in the finance app (it then reports an error or nonsense).",
+    "Wrong C/Y (monthly compounding is 12).",
+    "Rounding money to the nearest dollar when 2 d.p. are required.",
+    "Answering 23 years when 23.19 years means the amount is reached during year 24."
+   ],
+   "connections": [
+    "1.3",
+    "1.7",
+    "2.9"
+   ],
+   "recall": [
+    {
+     "q": "State the compound interest formula.",
+     "a": "FV = PV(1 + r/(100k))^{kn}"
+    },
+    {
+     "q": "In the TVM app, what must be true of the signs of PV and FV?",
+     "a": "They are opposite: one is paid, the other received."
+    },
+    {
+     "q": "Which TVM variable holds the number of compounding periods per year?",
+     "a": "C/Y"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.5",
+   "title": "Laws of exponents with integer exponents; introduction to logarithms",
+   "level": "SL",
+   "objectives": [
+    "Use the laws of exponents with integer exponents",
+    "Understand logarithms with base 10 and base e as the inverse of exponentials",
+    "Solve exponential equations with technology or logarithms"
+   ],
+   "concepts": [
+    "A logarithm answers: what power gives this number? log₁₀ 1000 = 3 because 10³ = 1000.",
+    "ln x is log base e, where e ≈ 2.718.",
+    "aˣ = b has solution x = log_a b; the GDC solver or a graph intersection also works."
+   ],
+   "formulas": [
+    {
+     "name": "Exponent laws",
+     "tex": "a^m a^n = a^{m+n},\\ \\ \\frac{a^m}{a^n} = a^{m-n},\\ \\ (a^m)^n = a^{mn},\\ \\ a^{-n} = \\frac{1}{a^n}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Definition of a logarithm",
+     "tex": "a^x = b \\iff x = \\log_a b,\\quad a>0,\\ b>0,\\ a \\ne 1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Rewrite the equation as base^unknown = number.",
+    "Take logarithms of both sides, or use the GDC.",
+    "Check the answer by substituting."
+   ],
+   "mistakes": [
+    "log(a + b) ≠ log a + log b.",
+    "Forgetting that logarithms are only defined for positive numbers.",
+    "(ab)ⁿ written as abⁿ."
+   ],
+   "connections": [
+    "1.9",
+    "2.9",
+    "2.10"
+   ],
+   "recall": [
+    {
+     "q": "Solve 10ˣ = 50.",
+     "a": "x = log 50 ≈ 1.70"
+    },
+    {
+     "q": "Simplify a⁵ ÷ a⁻².",
+     "a": "a⁷"
+    },
+    {
+     "q": "What is ln e?",
+     "a": "1"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.6",
+   "title": "Approximation: decimal places, significant figures, bounds and percentage error",
+   "level": "SL",
+   "objectives": [
+    "Round to decimal places and significant figures",
+    "Find upper and lower bounds of rounded values",
+    "Calculate percentage error and make estimates"
+   ],
+   "concepts": [
+    "Rounding introduces error; bounds are the smallest and largest values that round to the given number.",
+    "Percentage error compares the approximate value with the exact value, as a fraction of the exact value.",
+    "IB answers are exact or to 3 significant figures unless the question says otherwise."
+   ],
+   "formulas": [
+    {
+     "name": "Percentage error",
+     "tex": "\\varepsilon = \\left|\\frac{v_A - v_E}{v_E}\\right| \\times 100\\%",
+     "where": "v_A approximate value, v_E exact value",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify the exact value and the approximate value.",
+    "Substitute into ε; the exact value goes in the denominator.",
+    "Keep full calculator accuracy until the final answer."
+   ],
+   "mistakes": [
+    "Dividing by the approximate value instead of the exact one.",
+    "Rounding intermediate values and losing accuracy.",
+    "Giving 3 s.f. when 2 d.p. (money) or an integer (people) is needed."
+   ],
+   "connections": [
+    "1.1",
+    "4.3"
+   ],
+   "recall": [
+    {
+     "q": "State the percentage error formula.",
+     "a": "ε = |v_A − v_E| / |v_E| × 100%"
+    },
+    {
+     "q": "Round 0.1475 to 2 s.f.",
+     "a": "0.15"
+    },
+    {
+     "q": "A length is 12 cm to the nearest cm. Give its bounds.",
+     "a": "11.5 ≤ L < 12.5"
+    }
+   ],
+   "worked_chapters": [
+    1
+   ]
+  },
+  {
+   "code": "1.7",
+   "title": "Amortization and annuities using technology",
+   "level": "SL",
+   "objectives": [
+    "Calculate loan repayments and the amount still owed",
+    "Calculate annuities (regular payments into or out of a fund)",
+    "Use the GDC finance app for all of these"
+   ],
+   "concepts": [
+    "A loan is repaid by equal payments; each payment covers the interest for the period and reduces the debt.",
+    "An annuity is a series of regular payments; the TVM solver handles both with PMT.",
+    "Total interest paid = total of all payments − amount borrowed."
+   ],
+   "formulas": [
+    {
+     "name": "Total paid on a loan",
+     "tex": "\\text{Total} = PMT \\times N",
+     "where": "N number of payments",
+     "when": ""
+    },
+    {
+     "name": "Interest paid",
+     "tex": "\\text{Interest} = PMT \\times N - PV",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Set P/Y and C/Y (monthly payments: P/Y = 12).",
+    "Enter the known values with correct signs (borrowed money is +PV, payments are −PMT).",
+    "Solve for the unknown (PMT, N, I% or FV).",
+    "For 'amount owing after n years', set N to the payments made so far and solve for FV."
+   ],
+   "mistakes": [
+    "Mixing up P/Y and C/Y.",
+    "Giving PMT as a negative number in the final answer.",
+    "Forgetting the deposit/initial payment changes PV."
+   ],
+   "connections": [
+    "1.4",
+    "1.3"
+   ],
+   "recall": [
+    {
+     "q": "What does a negative PMT mean in the finance app?",
+     "a": "Money paid out each period"
+    },
+    {
+     "q": "How do you find the total interest on a loan?",
+     "a": "Payments × number of payments − amount borrowed"
+    },
+    {
+     "q": "Which variable is the number of payments in the finance app?",
+     "a": "N (n on the fx-CG50)"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.8",
+   "title": "Systems of linear equations and polynomial equations using technology",
+   "level": "SL",
+   "objectives": [
+    "Solve systems of linear equations in up to 3 unknowns with technology",
+    "Solve polynomial equations with technology",
+    "Set up equations from a context"
+   ],
+   "concepts": [
+    "A system has one solution when the equations are independent; the GDC equation solver finds it.",
+    "Polynomial equations of degree n have at most n real roots; read them all from the solver or graph.",
+    "Most of the marks are for forming the equations from the words."
+   ],
+   "formulas": [],
+   "method": [
+    "Name the unknowns and write one equation per fact in the question.",
+    "Rearrange into the form the solver wants (ax + by + cz = d).",
+    "Solve with the GDC and check each solution against the context."
+   ],
+   "mistakes": [
+    "Writing the equations in different variable orders.",
+    "Missing a root, or keeping a root that makes no sense in context.",
+    "Giving only the solver output without showing the equations (M marks lost)."
+   ],
+   "connections": [
+    "1.14",
+    "2.5"
+   ],
+   "recall": [
+    {
+     "q": "How many real roots can a cubic equation have?",
+     "a": "1, 2 or 3 (at most 3)"
+    },
+    {
+     "q": "What is the first step in a worded system problem?",
+     "a": "Define the unknowns and write one equation per piece of information"
+    },
+    {
+     "q": "Which GDC tool solves a 3 × 3 linear system?",
+     "a": "The equation solver (simultaneous equations)"
+    }
+   ],
+   "worked_chapters": [
+    4,
+    6
+   ]
+  },
+  {
+   "code": "1.9",
+   "title": "Laws of logarithms",
+   "level": "AHL",
+   "objectives": [
+    "Use the laws of logarithms to simplify and solve",
+    "Change the base of a logarithm"
+   ],
+   "concepts": [
+    "The laws of logs mirror the laws of exponents: multiplying numbers adds their logs.",
+    "Change of base lets the GDC evaluate any base using ln or log₁₀."
+   ],
+   "formulas": [
+    {
+     "name": "Laws of logarithms",
+     "tex": "\\log_a xy = \\log_a x + \\log_a y,\\ \\ \\log_a \\tfrac{x}{y} = \\log_a x - \\log_a y,\\ \\ \\log_a x^m = m\\log_a x",
+     "where": "a, x, y > 0, a ≠ 1",
+     "when": ""
+    },
+    {
+     "name": "Change of base",
+     "tex": "\\log_b a = \\frac{\\log_c a}{\\log_c b}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Collect logs on one side.",
+    "Combine them into a single log with the laws.",
+    "Remove the log by exponentiating; check that every log argument is positive."
+   ],
+   "mistakes": [
+    "log(x + y) split into log x + log y.",
+    "Forgetting the power law when bringing down an exponent.",
+    "Keeping a solution that makes a log argument negative."
+   ],
+   "connections": [
+    "1.5",
+    "2.10"
+   ],
+   "recall": [
+    {
+     "q": "Write log a + log b as a single logarithm.",
+     "a": "log(ab)"
+    },
+    {
+     "q": "State the change of base formula.",
+     "a": "log_b a = log_c a / log_c b"
+    },
+    {
+     "q": "Simplify 3 ln x − ln x².",
+     "a": "ln x"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.10",
+   "title": "Simplifying expressions with rational exponents",
+   "level": "AHL",
+   "objectives": [
+    "Simplify numerically and algebraically expressions with rational exponents"
+   ],
+   "concepts": [
+    "x^{1/n} is the nth root of x; x^{m/n} is the nth root of x to the power m."
+   ],
+   "formulas": [
+    {
+     "name": "Rational exponents",
+     "tex": "a^{\\frac{m}{n}} = \\sqrt[n]{a^m} = \\left(\\sqrt[n]{a}\\right)^m",
+     "where": "a > 0",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Rewrite roots as powers.",
+    "Apply the exponent laws.",
+    "Rewrite in the form the question asks."
+   ],
+   "mistakes": [
+    "Treating a^{1/2} as a/2.",
+    "Adding exponents when the bases differ."
+   ],
+   "connections": [
+    "1.5",
+    "1.9"
+   ],
+   "recall": [
+    {
+     "q": "Write ∛(x²) as a power.",
+     "a": "x^{2/3}"
+    },
+    {
+     "q": "Evaluate 8^{2/3}.",
+     "a": "4"
+    },
+    {
+     "q": "Simplify x^{1/2} · x^{3/2}.",
+     "a": "x²"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.11",
+   "title": "The sum of infinite geometric sequences",
+   "level": "AHL",
+   "objectives": [
+    "Find the sum to infinity of a convergent geometric series",
+    "State the condition for convergence"
+   ],
+   "concepts": [
+    "If |r| < 1 the terms shrink towards 0 and the partial sums approach a limit.",
+    "If |r| ≥ 1 there is no sum to infinity."
+   ],
+   "formulas": [
+    {
+     "name": "Sum to infinity",
+     "tex": "S_\\infty = \\frac{u_1}{1 - r},\\quad |r| < 1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find u₁ and r.",
+    "Check |r| < 1 and say so.",
+    "Substitute into S∞; interpret it (e.g. the total distance a ball ever travels)."
+   ],
+   "mistakes": [
+    "Using S∞ when |r| ≥ 1.",
+    "Forgetting to justify convergence when asked 'explain why the series has a sum'."
+   ],
+   "connections": [
+    "1.3",
+    "1.2"
+   ],
+   "recall": [
+    {
+     "q": "State the formula for S∞.",
+     "a": "S∞ = u₁/(1 − r)"
+    },
+    {
+     "q": "When does S∞ exist?",
+     "a": "When |r| < 1"
+    },
+    {
+     "q": "u₁ = 6, r = 0.5. Find S∞.",
+     "a": "12"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "1.12",
+   "title": "Complex numbers in Cartesian form",
+   "level": "AHL",
+   "objectives": [
+    "Use i² = −1 and the form z = a + bi",
+    "Add, subtract, multiply and divide complex numbers",
+    "Represent complex numbers on an Argand diagram"
+   ],
+   "concepts": [
+    "A complex number has a real part and an imaginary part; two complex numbers are equal only if both parts are equal.",
+    "Divide by multiplying top and bottom by the conjugate of the denominator.",
+    "The Argand diagram plots Re(z) across and Im(z) up."
+   ],
+   "formulas": [
+    {
+     "name": "Cartesian form",
+     "tex": "z = a + bi,\\quad i^2 = -1",
+     "where": "a = Re(z), b = Im(z)",
+     "when": ""
+    },
+    {
+     "name": "Conjugate",
+     "tex": "z^* = a - bi,\\quad zz^* = a^2 + b^2",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Expand brackets, replacing i² by −1.",
+    "Collect real and imaginary parts.",
+    "To find unknowns, equate real parts and imaginary parts separately."
+   ],
+   "mistakes": [
+    "Losing the middle term when squaring (a + bi)².",
+    "Writing the imaginary part as bi instead of b.",
+    "Not equating real and imaginary parts to form two equations."
+   ],
+   "connections": [
+    "1.13",
+    "1.8"
+   ],
+   "recall": [
+    {
+     "q": "What is i²?",
+     "a": "−1"
+    },
+    {
+     "q": "State the conjugate of 3 − 4i.",
+     "a": "3 + 4i"
+    },
+    {
+     "q": "Expand (2 + ai)².",
+     "a": "4 − a² + 4ai"
+    }
+   ],
+   "worked_chapters": [
+    8
+   ]
+  },
+  {
+   "code": "1.13",
+   "title": "Modulus–argument (polar) and exponential forms of complex numbers",
+   "level": "AHL",
+   "objectives": [
+    "Convert between Cartesian, polar and Euler forms",
+    "Multiply, divide and raise to powers in polar form",
+    "Add sinusoidal functions with the same frequency using complex numbers"
+   ],
+   "concepts": [
+    "Polar form describes z by its distance r from the origin and its angle θ.",
+    "Multiplying multiplies the moduli and adds the arguments; this makes powers easy.",
+    "Use radians for the argument unless the question works in degrees."
+   ],
+   "formulas": [
+    {
+     "name": "Modulus and argument",
+     "tex": "|z| = r = \\sqrt{a^2 + b^2},\\quad \\tan\\theta = \\frac{b}{a}",
+     "where": "choose θ in the right quadrant",
+     "when": ""
+    },
+    {
+     "name": "Polar and Euler forms",
+     "tex": "z = r(\\cos\\theta + i\\sin\\theta) = r\\,\\mathrm{cis}\\,\\theta = re^{i\\theta}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Products and powers",
+     "tex": "z_1z_2 = r_1r_2 e^{i(\\theta_1+\\theta_2)},\\quad z^n = r^n e^{in\\theta}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find r and θ (draw the point to get the quadrant).",
+    "Write the form asked for.",
+    "For products, quotients and powers work in polar form; convert back if asked."
+   ],
+   "mistakes": [
+    "Wrong quadrant for θ from arctan.",
+    "Degree/radian mode mix-up on the GDC.",
+    "Not giving the argument in the requested interval."
+   ],
+   "connections": [
+    "1.12",
+    "3.8",
+    "2.9"
+   ],
+   "recall": [
+    {
+     "q": "State |z| for z = a + bi.",
+     "a": "√(a² + b²)"
+    },
+    {
+     "q": "Write z = re^{iθ} in cos/sin form.",
+     "a": "r(cos θ + i sin θ)"
+    },
+    {
+     "q": "What happens to arguments when complex numbers multiply?",
+     "a": "They add"
+    }
+   ],
+   "worked_chapters": [
+    8
+   ]
+  },
+  {
+   "code": "1.14",
+   "title": "Matrices: algebra, determinants, inverses and linear systems",
+   "level": "AHL",
+   "objectives": [
+    "Add, subtract and multiply matrices",
+    "Find determinants and inverses (2 × 2 by hand, larger by technology)",
+    "Solve systems of equations with matrices"
+   ],
+   "concepts": [
+    "Matrix multiplication needs columns of the first = rows of the second, and AB ≠ BA in general.",
+    "A has an inverse only if det A ≠ 0; then AX = B gives X = A⁻¹B (order matters)."
+   ],
+   "formulas": [
+    {
+     "name": "2 × 2 determinant",
+     "tex": "\\det A = |A| = ad - bc",
+     "where": "A = (a b; c d)",
+     "when": ""
+    },
+    {
+     "name": "2 × 2 inverse",
+     "tex": "A^{-1} = \\frac{1}{ad - bc}\\begin{pmatrix} d & -b \\\\ -c & a \\end{pmatrix},\\quad ad - bc \\ne 0",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the system as AX = B.",
+    "Check det A ≠ 0.",
+    "Compute X = A⁻¹B with the GDC and state each unknown."
+   ],
+   "mistakes": [
+    "Writing X = BA⁻¹ instead of A⁻¹B.",
+    "Multiplying matrices of incompatible order.",
+    "Arithmetic slips in hand determinants."
+   ],
+   "connections": [
+    "1.15",
+    "1.8",
+    "3.9",
+    "4.19"
+   ],
+   "recall": [
+    {
+     "q": "State det of (a b; c d).",
+     "a": "ad − bc"
+    },
+    {
+     "q": "When does a square matrix have no inverse?",
+     "a": "When its determinant is 0"
+    },
+    {
+     "q": "Solve AX = B for X.",
+     "a": "X = A⁻¹B"
+    }
+   ],
+   "worked_chapters": [
+    9
+   ]
+  },
+  {
+   "code": "1.15",
+   "title": "Eigenvalues, eigenvectors and diagonalization",
+   "level": "AHL",
+   "objectives": [
+    "Find eigenvalues and eigenvectors of 2 × 2 matrices",
+    "Diagonalize A = PDP⁻¹",
+    "Use diagonalization to find powers of a matrix and long-term behaviour"
+   ],
+   "concepts": [
+    "An eigenvector keeps its direction when multiplied by A; the eigenvalue is its scale factor.",
+    "With eigenvectors as the columns of P and eigenvalues on the diagonal of D, A = PDP⁻¹ and Aⁿ = PDⁿP⁻¹.",
+    "For transition matrices one eigenvalue is 1; its eigenvector gives the steady state."
+   ],
+   "formulas": [
+    {
+     "name": "Characteristic equation",
+     "tex": "\\det(A - \\lambda I) = 0",
+     "where": "λ eigenvalue",
+     "when": ""
+    },
+    {
+     "name": "Eigenvector",
+     "tex": "A\\mathbf{v} = \\lambda\\mathbf{v}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Diagonalization",
+     "tex": "A = PDP^{-1},\\quad A^n = PD^nP^{-1}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Solve det(A − λI) = 0 for λ.",
+    "For each λ, solve (A − λI)v = 0 for an eigenvector.",
+    "Build P and D in matching order; compute Aⁿ = PDⁿP⁻¹."
+   ],
+   "mistakes": [
+    "Columns of P in a different order from the eigenvalues in D.",
+    "Writing A = P⁻¹DP.",
+    "Taking the limit of Dⁿ wrongly when |λ| < 1 (it goes to 0)."
+   ],
+   "connections": [
+    "1.14",
+    "4.19",
+    "5.17"
+   ],
+   "recall": [
+    {
+     "q": "State the characteristic equation.",
+     "a": "det(A − λI) = 0"
+    },
+    {
+     "q": "Express Aⁿ using diagonalization.",
+     "a": "Aⁿ = PDⁿP⁻¹"
+    },
+    {
+     "q": "Which eigenvalue does every transition matrix have?",
+     "a": "λ = 1"
+    }
+   ],
+   "worked_chapters": [
+    9
+   ]
+  },
+  {
+   "code": "2.1",
+   "title": "Equations of straight lines; parallel and perpendicular lines",
+   "level": "SL",
+   "objectives": [
+    "Use the forms y = mx + c, ax + by + d = 0 and y − y₁ = m(x − x₁)",
+    "Find gradients of parallel and perpendicular lines"
+   ],
+   "concepts": [
+    "The gradient is the change in y per unit change in x.",
+    "Parallel lines have equal gradients; perpendicular gradients multiply to −1."
+   ],
+   "formulas": [
+    {
+     "name": "Gradient",
+     "tex": "m = \\frac{y_2 - y_1}{x_2 - x_1}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Line forms",
+     "tex": "y = mx + c,\\quad ax + by + d = 0,\\quad y - y_1 = m(x - x_1)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Perpendicular gradients",
+     "tex": "m_1 m_2 = -1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find the gradient.",
+    "Use a known point in y − y₁ = m(x − x₁).",
+    "Rearrange into the form the question asks (often ax + by + d = 0 with integers)."
+   ],
+   "mistakes": [
+    "Using the negative instead of the negative reciprocal for a perpendicular line.",
+    "Not giving integer coefficients when the form asks for them."
+   ],
+   "connections": [
+    "3.5",
+    "2.5",
+    "5.4"
+   ],
+   "recall": [
+    {
+     "q": "State the point–gradient form.",
+     "a": "y − y₁ = m(x − x₁)"
+    },
+    {
+     "q": "A line has gradient 2/3. Gradient of a perpendicular line?",
+     "a": "−3/2"
+    },
+    {
+     "q": "Gradient between (1, 2) and (4, 11)?",
+     "a": "3"
+    }
+   ],
+   "worked_chapters": [
+    3,
+    4
+   ]
+  },
+  {
+   "code": "2.2",
+   "title": "Functions: domain, range, graph and inverse",
+   "level": "SL",
+   "objectives": [
+    "Use function notation; find domain and range",
+    "Understand the inverse function as a reflection in y = x"
+   ],
+   "concepts": [
+    "A function gives exactly one output for each input in its domain.",
+    "The inverse undoes the function; its domain is the original range."
+   ],
+   "formulas": [
+    {
+     "name": "Inverse",
+     "tex": "(f \\circ f^{-1})(x) = x,\\quad y = f(x) \\iff x = f^{-1}(y)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Read domain from the context or the graph.",
+    "Find range from the graph (max, min, asymptotes).",
+    "For an inverse, swap x and y and rearrange."
+   ],
+   "mistakes": [
+    "Giving the range in terms of x.",
+    "Forgetting restrictions from the context (time ≥ 0)."
+   ],
+   "connections": [
+    "2.7",
+    "2.3"
+   ],
+   "recall": [
+    {
+     "q": "What is the domain of the inverse function?",
+     "a": "The range of the original function"
+    },
+    {
+     "q": "How is the graph of f⁻¹ related to f?",
+     "a": "Reflection in y = x"
+    },
+    {
+     "q": "f(x) = 2x + 3. Find f⁻¹(x).",
+     "a": "(x − 3)/2"
+    }
+   ],
+   "worked_chapters": [
+    4
+   ]
+  },
+  {
+   "code": "2.3",
+   "title": "Graphs of functions; sketching with technology",
+   "level": "SL",
+   "objectives": [
+    "Sketch graphs from the GDC with the key features labelled",
+    "Use an appropriate window and domain"
+   ],
+   "concepts": [
+    "A sketch shows shape and key points, not a plotted graph: label intercepts, turning points and asymptotes.",
+    "Use the GDC to find intersections between graphs to solve equations."
+   ],
+   "formulas": [],
+   "method": [
+    "Graph on the GDC with a sensible window.",
+    "Copy the shape over the given domain.",
+    "Label key points with coordinates to the accuracy asked."
+   ],
+   "mistakes": [
+    "Sketch outside the given domain.",
+    "Missing asymptote behaviour.",
+    "No labels on axes intercepts."
+   ],
+   "connections": [
+    "2.4",
+    "2.5"
+   ],
+   "recall": [
+    {
+     "q": "What must a sketch show?",
+     "a": "Shape over the domain with key points labelled"
+    },
+    {
+     "q": "How do you solve f(x) = g(x) graphically?",
+     "a": "Find the x-coordinates of the intersections"
+    },
+    {
+     "q": "What does an open circle at an endpoint mean?",
+     "a": "The endpoint is not included"
+    }
+   ],
+   "worked_chapters": [
+    4
+   ]
+  },
+  {
+   "code": "2.4",
+   "title": "Key features of graphs",
+   "level": "SL",
+   "objectives": [
+    "Find maximum/minimum points, intercepts, symmetry, vertex, zeros and asymptotes with technology"
+   ],
+   "concepts": [
+    "Zeros are where the graph meets the x-axis; the y-intercept is f(0).",
+    "A quadratic's vertex lies on its axis of symmetry x = −b/(2a)."
+   ],
+   "formulas": [
+    {
+     "name": "Axis of symmetry",
+     "tex": "x = -\\frac{b}{2a}",
+     "where": "for y = ax² + bx + c",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Graph the function.",
+    "Use G-Solv (ROOT, MAX, MIN, Y-ICEPT, INTSECT).",
+    "Write coordinates with correct accuracy."
+   ],
+   "mistakes": [
+    "Giving a maximum value when the point (x, y) is asked.",
+    "Rounding coordinates too early."
+   ],
+   "connections": [
+    "2.3",
+    "5.6"
+   ],
+   "recall": [
+    {
+     "q": "Axis of symmetry of y = ax² + bx + c?",
+     "a": "x = −b/(2a)"
+    },
+    {
+     "q": "What is a zero of a function?",
+     "a": "An x-value where f(x) = 0"
+    },
+    {
+     "q": "How is the y-intercept found?",
+     "a": "Evaluate f(0)"
+    }
+   ],
+   "worked_chapters": [
+    4,
+    6
+   ]
+  },
+  {
+   "code": "2.5",
+   "title": "Modelling with functions (linear, quadratic, exponential, direct and inverse variation, cubic, sinusoidal)",
+   "level": "SL",
+   "objectives": [
+    "Choose and use models",
+    "Find parameters from given information",
+    "Interpret parameters in context"
+   ],
+   "concepts": [
+    "Each model has a recognisable shape: constant rate (linear), symmetric turn (quadratic), constant ratio (exponential), y ∝ 1/x (inverse variation).",
+    "Parameters are found by substituting known points and solving."
+   ],
+   "formulas": [
+    {
+     "name": "Direct and inverse variation",
+     "tex": "y = kx^n,\\quad y = \\frac{k}{x^n}",
+     "where": "k constant",
+     "when": ""
+    },
+    {
+     "name": "Exponential model",
+     "tex": "f(x) = ka^x + c,\\quad f(x) = ke^{rx} + c",
+     "where": "c is the horizontal asymptote",
+     "when": ""
+    },
+    {
+     "name": "Sinusoidal model",
+     "tex": "f(x) = a\\sin(b(x - c)) + d",
+     "where": "amplitude |a|, period 2π/b (360°/b), principal axis y = d",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Choose the model from the description or data shape.",
+    "Substitute points to form equations for the parameters.",
+    "Solve and interpret each parameter in context."
+   ],
+   "mistakes": [
+    "Mixing up period and b in sinusoidal models.",
+    "Using the wrong units for time.",
+    "Forgetting the asymptote c in exponential models."
+   ],
+   "connections": [
+    "2.9",
+    "4.13",
+    "2.6"
+   ],
+   "recall": [
+    {
+     "q": "State the period of y = a sin(bx) + d.",
+     "a": "2π/b (or 360°/b)"
+    },
+    {
+     "q": "V varies inversely with t. Write the model.",
+     "a": "V = k/t"
+    },
+    {
+     "q": "What does d represent in a sin(b(x − c)) + d?",
+     "a": "The principal axis (vertical shift)"
+    }
+   ],
+   "worked_chapters": [
+    4,
+    6
+   ]
+  },
+  {
+   "code": "2.6",
+   "title": "Modelling skills",
+   "level": "SL",
+   "objectives": [
+    "Use the modelling cycle: assume, build, test, reflect",
+    "Comment on the reasonableness and limitations of a model"
+   ],
+   "concepts": [
+    "A model is judged by how well it fits the data and whether its predictions make sense in context.",
+    "Extrapolating far beyond the data is unreliable."
+   ],
+   "formulas": [],
+   "method": [
+    "State assumptions.",
+    "Fit the model.",
+    "Test against data; comment on fit and domain of validity."
+   ],
+   "mistakes": [
+    "Generic comments ('the model is not accurate') without reference to the context or data."
+   ],
+   "connections": [
+    "2.5",
+    "4.13"
+   ],
+   "recall": [
+    {
+     "q": "Why is extrapolation risky?",
+     "a": "The model may not hold outside the data range"
+    },
+    {
+     "q": "Name one way to test a model.",
+     "a": "Compare predictions with data (e.g. residuals, R²)"
+    },
+    {
+     "q": "What should a limitation comment refer to?",
+     "a": "The specific context or data"
+    }
+   ],
+   "worked_chapters": [
+    6
+   ]
+  },
+  {
+   "code": "2.7",
+   "title": "Composite functions and inverse functions",
+   "level": "AHL",
+   "objectives": [
+    "Form composite functions",
+    "Find inverse functions, including restricting domains"
+   ],
+   "concepts": [
+    "(f ∘ g)(x) = f(g(x)): apply g first.",
+    "Only one-to-one functions have inverses; restrict the domain if needed."
+   ],
+   "formulas": [
+    {
+     "name": "Composite",
+     "tex": "(f \\circ g)(x) = f(g(x))",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Inverse property",
+     "tex": "(f \\circ f^{-1})(x) = (f^{-1} \\circ f)(x) = x",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Substitute the inner function into the outer.",
+    "For the inverse: y = f(x), swap x and y, rearrange.",
+    "State the domain of the inverse."
+   ],
+   "mistakes": [
+    "Doing f first in f ∘ g.",
+    "Missing the domain of the inverse."
+   ],
+   "connections": [
+    "2.2",
+    "2.8"
+   ],
+   "recall": [
+    {
+     "q": "What is (f ∘ g)(x)?",
+     "a": "f(g(x))"
+    },
+    {
+     "q": "Which functions have inverses?",
+     "a": "One-to-one functions"
+    },
+    {
+     "q": "f(x) = x³, find f⁻¹(x).",
+     "a": "∛x"
+    }
+   ],
+   "worked_chapters": [
+    4
+   ]
+  },
+  {
+   "code": "2.8",
+   "title": "Transformations of graphs",
+   "level": "AHL",
+   "objectives": [
+    "Apply translations, reflections and stretches, and composite transformations"
+   ],
+   "concepts": [
+    "Changes outside the function act vertically; changes inside act horizontally and 'the opposite way'."
+   ],
+   "formulas": [
+    {
+     "name": "Transformations",
+     "tex": "y = f(x) + b,\\ \\ y = f(x - a),\\ \\ y = pf(x),\\ \\ y = f(qx),\\ \\ y = -f(x),\\ \\ y = f(-x)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify each change.",
+    "Apply in order (stretches/reflections before translations when building from the inside).",
+    "Check a point."
+   ],
+   "mistakes": [
+    "f(x − 3) translated left instead of right.",
+    "f(2x) stretched by 2 instead of 1/2."
+   ],
+   "connections": [
+    "2.7",
+    "3.9"
+   ],
+   "recall": [
+    {
+     "q": "What does y = f(x − 3) do?",
+     "a": "Translates right by 3"
+    },
+    {
+     "q": "What does y = f(2x) do?",
+     "a": "Horizontal stretch scale factor 1/2"
+    },
+    {
+     "q": "What does y = −f(x) do?",
+     "a": "Reflects in the x-axis"
+    }
+   ],
+   "worked_chapters": [
+    4,
+    6
+   ]
+  },
+  {
+   "code": "2.9",
+   "title": "Exponential, logarithmic, sinusoidal, logistic and piecewise models",
+   "level": "AHL",
+   "objectives": [
+    "Model with natural log, exponential (half-life), logistic and piecewise functions",
+    "Use regression on the GDC"
+   ],
+   "concepts": [
+    "Logistic growth starts exponential and levels off at the carrying capacity L.",
+    "Half-life: the time for a quantity to halve; k is negative in e^{kt} decay."
+   ],
+   "formulas": [
+    {
+     "name": "Logistic model",
+     "tex": "f(x) = \\frac{L}{1 + Ce^{-kx}}",
+     "where": "L carrying capacity",
+     "when": ""
+    },
+    {
+     "name": "Natural logarithmic model",
+     "tex": "f(x) = a + b\\ln x",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Recognise the shape.",
+    "Fit with regression or given points.",
+    "Interpret the parameters and long-term behaviour."
+   ],
+   "mistakes": [
+    "Confusing L (the limit) with the initial value.",
+    "Not checking continuity at the joins of a piecewise model."
+   ],
+   "connections": [
+    "2.5",
+    "1.3",
+    "4.13",
+    "5.14"
+   ],
+   "recall": [
+    {
+     "q": "State the logistic model.",
+     "a": "f(x) = L/(1 + Ce^{−kx})"
+    },
+    {
+     "q": "What does L represent?",
+     "a": "The carrying capacity (long-term limit)"
+    },
+    {
+     "q": "How do you find a half-life from N = N₀e^{−kt}?",
+     "a": "Solve e^{−kt} = 1/2, so t = ln 2 / k"
+    }
+   ],
+   "worked_chapters": [
+    7,
+    8
+   ]
+  },
+  {
+   "code": "2.10",
+   "title": "Scaling with logarithms; linearizing data",
+   "level": "AHL",
+   "objectives": [
+    "Use log–log and semi-log graphs to linearize power and exponential data",
+    "Interpret gradient and intercept"
+   ],
+   "concepts": [
+    "If y = ab^x, ln y is linear in x (semi-log). If y = ax^n, ln y is linear in ln x (log–log).",
+    "The gradient of the linearized graph gives the exponent or growth constant."
+   ],
+   "formulas": [
+    {
+     "name": "Exponential linearized",
+     "tex": "y = ae^{kx} \\Rightarrow \\ln y = kx + \\ln a",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Power linearized",
+     "tex": "y = ax^n \\Rightarrow \\ln y = n\\ln x + \\ln a",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Take logs of the data.",
+    "Fit a straight line.",
+    "Convert gradient and intercept back to the original parameters."
+   ],
+   "mistakes": [
+    "Forgetting to exponentiate the intercept to get a.",
+    "Using the wrong axes (ln y vs x or ln x)."
+   ],
+   "connections": [
+    "1.9",
+    "4.13"
+   ],
+   "recall": [
+    {
+     "q": "Which graph is linear for y = axⁿ?",
+     "a": "ln y against ln x"
+    },
+    {
+     "q": "For y = ae^{kx}, what is the gradient of ln y against x?",
+     "a": "k"
+    },
+    {
+     "q": "Intercept of ln y against x is 2.3. Find a.",
+     "a": "e^{2.3} ≈ 9.97"
+    }
+   ],
+   "worked_chapters": [
+    7
+   ]
+  },
+  {
+   "code": "3.1",
+   "title": "3D distance, midpoint, volume and surface area; angles in 3D",
+   "level": "SL",
+   "objectives": [
+    "Find distance and midpoint in 3D",
+    "Find volume and surface area of right prisms, pyramids, cones, spheres and composites",
+    "Find angles between lines and planes"
+   ],
+   "concepts": [
+    "Find a right-angled triangle inside the solid for 3D angles.",
+    "Composite solids: add or subtract simple solids."
+   ],
+   "formulas": [
+    {
+     "name": "Distance",
+     "tex": "d = \\sqrt{(x_1-x_2)^2 + (y_1-y_2)^2 + (z_1-z_2)^2}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Midpoint",
+     "tex": "\\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}, \\frac{z_1+z_2}{2}\\right)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Cone and sphere",
+     "tex": "V_{cone} = \\tfrac{1}{3}\\pi r^2h,\\ \\ A_{curved} = \\pi r l,\\ \\ V_{sphere} = \\tfrac{4}{3}\\pi r^3,\\ \\ A_{sphere} = 4\\pi r^2",
+     "where": "l slant height",
+     "when": ""
+    },
+    {
+     "name": "Pyramid",
+     "tex": "V = \\tfrac{1}{3}Ah",
+     "where": "A base area",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Sketch and label.",
+    "Identify the right triangle or the solids involved.",
+    "Apply the formula; watch units."
+   ],
+   "mistakes": [
+    "Using the slant height as the vertical height.",
+    "Forgetting the base in surface area.",
+    "cm³ vs cm² units."
+   ],
+   "connections": [
+    "3.2",
+    "3.10"
+   ],
+   "recall": [
+    {
+     "q": "Volume of a cone?",
+     "a": "⅓πr²h"
+    },
+    {
+     "q": "Surface area of a sphere?",
+     "a": "4πr²"
+    },
+    {
+     "q": "3D distance formula?",
+     "a": "√(Δx² + Δy² + Δz²)"
+    }
+   ],
+   "worked_chapters": [
+    1,
+    3
+   ]
+  },
+  {
+   "code": "3.2",
+   "title": "Right-angled and non-right-angled trigonometry",
+   "level": "SL",
+   "objectives": [
+    "Use sin, cos, tan; the sine rule; the cosine rule; area = ½ab sin C"
+   ],
+   "concepts": [
+    "Cosine rule: two sides and the included angle, or three sides. Sine rule: a side with its opposite angle.",
+    "The sine rule for an angle can have two answers (ambiguous case)."
+   ],
+   "formulas": [
+    {
+     "name": "Sine rule",
+     "tex": "\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Cosine rule",
+     "tex": "c^2 = a^2 + b^2 - 2ab\\cos C,\\quad \\cos C = \\frac{a^2 + b^2 - c^2}{2ab}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Area of a triangle",
+     "tex": "A = \\tfrac{1}{2}ab\\sin C",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Label sides opposite their angles.",
+    "Choose the rule from what is known.",
+    "Check the calculator is in degrees."
+   ],
+   "mistakes": [
+    "Radian mode when the question uses degrees.",
+    "Using the cosine rule's angle not between the two sides."
+   ],
+   "connections": [
+    "3.3",
+    "3.4",
+    "3.13"
+   ],
+   "recall": [
+    {
+     "q": "State the cosine rule.",
+     "a": "c² = a² + b² − 2ab cos C"
+    },
+    {
+     "q": "When do you use the sine rule?",
+     "a": "When a side and its opposite angle are known"
+    },
+    {
+     "q": "Area of a triangle using two sides and the included angle?",
+     "a": "½ab sin C"
+    }
+   ],
+   "worked_chapters": [
+    1
+   ]
+  },
+  {
+   "code": "3.3",
+   "title": "Applications of trigonometry: elevation, depression, bearings",
+   "level": "SL",
+   "objectives": [
+    "Solve problems with Pythagoras, angles of elevation and depression, bearings",
+    "Draw labelled diagrams"
+   ],
+   "concepts": [
+    "Bearings are measured clockwise from north, written with three figures.",
+    "Draw north lines at each point; alternate angles help."
+   ],
+   "formulas": [],
+   "method": [
+    "Draw a clear labelled diagram.",
+    "Find the triangle and known angles.",
+    "Apply the right rule; give the bearing as three figures."
+   ],
+   "mistakes": [
+    "Measuring a bearing from the wrong point.",
+    "Angle of depression placed inside the triangle at the wrong vertex."
+   ],
+   "connections": [
+    "3.2",
+    "3.12"
+   ],
+   "recall": [
+    {
+     "q": "How are bearings measured?",
+     "a": "Clockwise from north, three figures"
+    },
+    {
+     "q": "Angle of elevation is measured from?",
+     "a": "The horizontal upwards"
+    },
+    {
+     "q": "Bearing of A from B is 070°. Bearing of B from A?",
+     "a": "250°"
+    }
+   ],
+   "worked_chapters": [
+    1
+   ]
+  },
+  {
+   "code": "3.4",
+   "title": "Circles: arc length and sector area (degrees)",
+   "level": "SL",
+   "objectives": [
+    "Find arc length and sector area with angles in degrees"
+   ],
+   "concepts": [
+    "An arc is the fraction θ/360 of the circumference; a sector is the same fraction of the area."
+   ],
+   "formulas": [
+    {
+     "name": "Arc length",
+     "tex": "l = \\frac{\\theta}{360} \\times 2\\pi r",
+     "where": "θ in degrees",
+     "when": ""
+    },
+    {
+     "name": "Sector area",
+     "tex": "A = \\frac{\\theta}{360} \\times \\pi r^2",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find the angle and radius.",
+    "Apply the fraction.",
+    "For segments, subtract the triangle (½r² sin θ)."
+   ],
+   "mistakes": [
+    "Using the radian formula with degrees.",
+    "Forgetting to subtract the triangle for a segment."
+   ],
+   "connections": [
+    "3.7",
+    "3.2"
+   ],
+   "recall": [
+    {
+     "q": "Arc length in degrees?",
+     "a": "(θ/360) × 2πr"
+    },
+    {
+     "q": "Sector area in degrees?",
+     "a": "(θ/360) × πr²"
+    },
+    {
+     "q": "Area of a segment?",
+     "a": "Sector − triangle"
+    }
+   ],
+   "worked_chapters": [
+    1
+   ]
+  },
+  {
+   "code": "3.5",
+   "title": "Equations of perpendicular bisectors",
+   "level": "SL",
+   "objectives": [
+    "Find the perpendicular bisector of a line segment"
+   ],
+   "concepts": [
+    "Every point on the perpendicular bisector of AB is equally far from A and B (this builds Voronoi edges)."
+   ],
+   "formulas": [],
+   "method": [
+    "Find the midpoint of AB.",
+    "Find the gradient of AB and take the negative reciprocal.",
+    "Write the line through the midpoint."
+   ],
+   "mistakes": [
+    "Using the gradient of AB itself.",
+    "Using an endpoint instead of the midpoint."
+   ],
+   "connections": [
+    "2.1",
+    "3.6"
+   ],
+   "recall": [
+    {
+     "q": "What point does a perpendicular bisector pass through?",
+     "a": "The midpoint of the segment"
+    },
+    {
+     "q": "Gradient of AB is 4. Gradient of its perpendicular bisector?",
+     "a": "−1/4"
+    },
+    {
+     "q": "Which property do points on it share?",
+     "a": "Equidistant from both endpoints"
+    }
+   ],
+   "worked_chapters": [
+    3
+   ]
+  },
+  {
+   "code": "3.6",
+   "title": "Voronoi diagrams",
+   "level": "SL",
+   "objectives": [
+    "Construct and interpret Voronoi diagrams: sites, vertices, edges, cells",
+    "Add a site; nearest-neighbour interpolation; the toxic waste dump problem"
+   ],
+   "concepts": [
+    "Each cell holds the points closer to its site than to any other site; edges are perpendicular bisectors.",
+    "The toxic waste dump point is a Voronoi vertex (or a boundary point) farthest from its nearest sites."
+   ],
+   "formulas": [],
+   "method": [
+    "Find perpendicular bisectors between neighbouring sites.",
+    "Keep only the parts nearer to those two sites.",
+    "Interpret: which site is nearest; best location."
+   ],
+   "mistakes": [
+    "Drawing bisectors between sites that are not neighbours.",
+    "Forgetting boundary points in the toxic waste problem."
+   ],
+   "connections": [
+    "3.5",
+    "2.1"
+   ],
+   "recall": [
+    {
+     "q": "What are the edges of a Voronoi diagram made of?",
+     "a": "Parts of perpendicular bisectors"
+    },
+    {
+     "q": "What is a Voronoi cell?",
+     "a": "All points closest to one site"
+    },
+    {
+     "q": "Where is the toxic waste dump located?",
+     "a": "At a vertex (or boundary point) farthest from the nearest sites"
+    }
+   ],
+   "worked_chapters": [
+    3
+   ]
+  },
+  {
+   "code": "3.7",
+   "title": "Radian measure; arc length and sector area in radians",
+   "level": "AHL",
+   "objectives": [
+    "Convert between degrees and radians",
+    "Use arc length and sector area formulas in radians"
+   ],
+   "concepts": [
+    "π radians = 180°. In radians the formulas become simpler: l = rθ."
+   ],
+   "formulas": [
+    {
+     "name": "Arc and sector (radians)",
+     "tex": "l = r\\theta,\\quad A = \\tfrac{1}{2}r^2\\theta",
+     "where": "θ in radians",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Check whether θ is in radians.",
+    "Apply l = rθ or A = ½r²θ.",
+    "Set the GDC to radians when trig functions are involved."
+   ],
+   "mistakes": [
+    "Degree mode on the GDC.",
+    "Using the degree formula with radians."
+   ],
+   "connections": [
+    "3.4",
+    "3.8"
+   ],
+   "recall": [
+    {
+     "q": "Convert 60° to radians.",
+     "a": "π/3"
+    },
+    {
+     "q": "Arc length in radians?",
+     "a": "rθ"
+    },
+    {
+     "q": "Sector area in radians?",
+     "a": "½r²θ"
+    }
+   ],
+   "worked_chapters": [
+    8
+   ]
+  },
+  {
+   "code": "3.8",
+   "title": "The unit circle; Pythagorean identity; trigonometric equations",
+   "level": "AHL",
+   "objectives": [
+    "Define sin and cos on the unit circle",
+    "Use cos²θ + sin²θ = 1 and tan θ = sin θ/cos θ",
+    "Solve trigonometric equations with technology in a given interval"
+   ],
+   "concepts": [
+    "On the unit circle, cos θ is the x-coordinate and sin θ the y-coordinate.",
+    "Trig equations have several solutions in an interval: find them all."
+   ],
+   "formulas": [
+    {
+     "name": "Identities",
+     "tex": "\\cos^2\\theta + \\sin^2\\theta = 1,\\quad \\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Graph both sides over the interval.",
+    "Find every intersection.",
+    "Give answers in the interval and units asked."
+   ],
+   "mistakes": [
+    "Missing solutions in the interval.",
+    "Degree/radian mix-up."
+   ],
+   "connections": [
+    "3.7",
+    "2.5",
+    "1.13"
+   ],
+   "recall": [
+    {
+     "q": "State the Pythagorean identity.",
+     "a": "cos²θ + sin²θ = 1"
+    },
+    {
+     "q": "On the unit circle, what is cos θ?",
+     "a": "The x-coordinate"
+    },
+    {
+     "q": "How many solutions does sin x = 0.5 have for 0 ≤ x < 2π?",
+     "a": "Two"
+    }
+   ],
+   "worked_chapters": [
+    8
+   ]
+  },
+  {
+   "code": "3.9",
+   "title": "Geometric transformations with matrices",
+   "level": "AHL",
+   "objectives": [
+    "Use matrices for reflections, stretches, enlargements, rotations and translations",
+    "Compose transformations; area scale factor = |det|"
+   ],
+   "concepts": [
+    "The columns of a transformation matrix are the images of (1,0) and (0,1).",
+    "Composite: T₂T₁ applies T₁ first. Area of image = |det T| × area."
+   ],
+   "formulas": [
+    {
+     "name": "Rotation",
+     "tex": "\\begin{pmatrix}\\cos\\theta & -\\sin\\theta\\\\ \\sin\\theta & \\cos\\theta\\end{pmatrix}",
+     "where": "anticlockwise by θ about O",
+     "when": ""
+    },
+    {
+     "name": "Reflection in y = (tan θ)x",
+     "tex": "\\begin{pmatrix}\\cos 2\\theta & \\sin 2\\theta\\\\ \\sin 2\\theta & -\\cos 2\\theta\\end{pmatrix}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Area scale factor",
+     "tex": "\\text{Area of image} = |\\det A| \\times \\text{area of object}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify each transformation's matrix.",
+    "Multiply in the right order.",
+    "Use |det| for areas."
+   ],
+   "mistakes": [
+    "Multiplying in the wrong order.",
+    "Clockwise vs anticlockwise rotation."
+   ],
+   "connections": [
+    "1.14",
+    "2.8"
+   ],
+   "recall": [
+    {
+     "q": "Matrix for anticlockwise rotation by θ?",
+     "a": "(cos θ −sin θ; sin θ cos θ)"
+    },
+    {
+     "q": "How does area change under transformation A?",
+     "a": "Multiplied by |det A|"
+    },
+    {
+     "q": "Which transformation is applied first in BA?",
+     "a": "A"
+    }
+   ],
+   "worked_chapters": [
+    9
+   ]
+  },
+  {
+   "code": "3.10",
+   "title": "Vectors: representation, magnitude, unit and position vectors",
+   "level": "AHL",
+   "objectives": [
+    "Use vectors in component and column form",
+    "Find magnitude and unit vectors",
+    "Use position and displacement vectors"
+   ],
+   "concepts": [
+    "A vector has size and direction; AB = b − a.",
+    "A unit vector has magnitude 1: divide by the magnitude."
+   ],
+   "formulas": [
+    {
+     "name": "Magnitude",
+     "tex": "|\\mathbf{v}| = \\sqrt{v_1^2 + v_2^2 + v_3^2}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Displacement",
+     "tex": "\\overrightarrow{AB} = \\mathbf{b} - \\mathbf{a}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write position vectors.",
+    "Subtract for displacement.",
+    "Find magnitudes or unit vectors as required."
+   ],
+   "mistakes": [
+    "AB written as a − b.",
+    "Forgetting to square negative components correctly."
+   ],
+   "connections": [
+    "3.11",
+    "3.13",
+    "3.12"
+   ],
+   "recall": [
+    {
+     "q": "How do you find AB from position vectors?",
+     "a": "b − a"
+    },
+    {
+     "q": "Magnitude of (2, −3, 6)?",
+     "a": "7"
+    },
+    {
+     "q": "How do you get a unit vector?",
+     "a": "Divide by its magnitude"
+    }
+   ],
+   "worked_chapters": [
+    3
+   ]
+  },
+  {
+   "code": "3.11",
+   "title": "Vector equations of lines",
+   "level": "AHL",
+   "objectives": [
+    "Write vector equations of lines in 2D and 3D",
+    "Find intersections and angles between lines"
+   ],
+   "concepts": [
+    "r = a + λb: start at a, move along direction b.",
+    "Two lines in 3D can intersect, be parallel or be skew."
+   ],
+   "formulas": [
+    {
+     "name": "Vector equation of a line",
+     "tex": "\\mathbf{r} = \\mathbf{a} + \\lambda\\mathbf{b}",
+     "where": "a point, b direction",
+     "when": ""
+    },
+    {
+     "name": "Parametric form",
+     "tex": "x = x_0 + \\lambda l,\\ y = y_0 + \\lambda m,\\ z = z_0 + \\lambda n",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find a point and a direction.",
+    "Write r = a + λb.",
+    "For intersections equate components and solve for λ and μ; check the third equation."
+   ],
+   "mistakes": [
+    "Using the same parameter for both lines.",
+    "Not checking the third component for consistency."
+   ],
+   "connections": [
+    "3.10",
+    "3.12",
+    "3.13"
+   ],
+   "recall": [
+    {
+     "q": "State the vector equation of a line.",
+     "a": "r = a + λb"
+    },
+    {
+     "q": "Name the three possibilities for two lines in 3D.",
+     "a": "Intersecting, parallel, skew"
+    },
+    {
+     "q": "Which vector gives the direction of the line?",
+     "a": "b"
+    }
+   ],
+   "worked_chapters": [
+    3
+   ]
+  },
+  {
+   "code": "3.12",
+   "title": "Vector applications to kinematics",
+   "level": "AHL",
+   "objectives": [
+    "Model linear motion with constant velocity in 2D and 3D",
+    "Model motion with variable velocity in 2D; find speed and closest approach"
+   ],
+   "concepts": [
+    "Position = initial position + t × velocity; speed = |velocity|.",
+    "Closest approach: minimise the distance between two moving objects (often with the GDC)."
+   ],
+   "formulas": [
+    {
+     "name": "Constant velocity",
+     "tex": "\\mathbf{r} = \\mathbf{r}_0 + t\\mathbf{v}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Speed",
+     "tex": "|\\mathbf{v}|",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write each position vector as a function of t.",
+    "Relative position = difference.",
+    "Minimise its magnitude (graph or calculus)."
+   ],
+   "mistakes": [
+    "Confusing speed with velocity.",
+    "Using different time origins for the two objects."
+   ],
+   "connections": [
+    "3.11",
+    "5.13"
+   ],
+   "recall": [
+    {
+     "q": "Speed from a velocity vector?",
+     "a": "Its magnitude"
+    },
+    {
+     "q": "Position with constant velocity v from r₀?",
+     "a": "r = r₀ + tv"
+    },
+    {
+     "q": "How do you find the closest approach?",
+     "a": "Minimise |relative position| over t"
+    }
+   ],
+   "worked_chapters": [
+    12
+   ]
+  },
+  {
+   "code": "3.13",
+   "title": "Scalar and vector products; angles between vectors; components",
+   "level": "AHL",
+   "objectives": [
+    "Calculate scalar and vector products",
+    "Find angles between vectors and areas",
+    "Find components of vectors"
+   ],
+   "concepts": [
+    "v · w = 0 means perpendicular. |v × w| is the area of the parallelogram; v × w is perpendicular to both."
+   ],
+   "formulas": [
+    {
+     "name": "Scalar product",
+     "tex": "\\mathbf{v}\\cdot\\mathbf{w} = v_1w_1 + v_2w_2 + v_3w_3 = |\\mathbf{v}||\\mathbf{w}|\\cos\\theta",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Vector product magnitude",
+     "tex": "|\\mathbf{v}\\times\\mathbf{w}| = |\\mathbf{v}||\\mathbf{w}|\\sin\\theta",
+     "where": "area of parallelogram",
+     "when": ""
+    },
+    {
+     "name": "Angle",
+     "tex": "\\cos\\theta = \\frac{\\mathbf{v}\\cdot\\mathbf{w}}{|\\mathbf{v}||\\mathbf{w}|}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find the vectors.",
+    "Compute the product needed.",
+    "Rearrange for the angle or area."
+   ],
+   "mistakes": [
+    "Using position vectors instead of direction vectors for an angle.",
+    "Sign errors in the cross product."
+   ],
+   "connections": [
+    "3.10",
+    "3.11",
+    "3.2"
+   ],
+   "recall": [
+    {
+     "q": "When is v · w = 0?",
+     "a": "When v and w are perpendicular"
+    },
+    {
+     "q": "Area of a triangle from two side vectors?",
+     "a": "½|v × w|"
+    },
+    {
+     "q": "Formula for the angle between two vectors?",
+     "a": "cos θ = v·w / (|v||w|)"
+    }
+   ],
+   "worked_chapters": [
+    3,
+    12
+   ]
+  },
+  {
+   "code": "3.14",
+   "title": "Graph theory: graphs, degree, simple, complete, weighted, directed graphs, trees",
+   "level": "AHL",
+   "objectives": [
+    "Use graph vocabulary",
+    "Recognise simple, complete, weighted and directed graphs, subgraphs and trees"
+   ],
+   "concepts": [
+    "The sum of degrees equals twice the number of edges (handshaking lemma).",
+    "A tree is connected with no cycles: n vertices, n − 1 edges."
+   ],
+   "formulas": [
+    {
+     "name": "Handshaking lemma",
+     "tex": "\\sum \\deg(v) = 2|E|",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Edges of K_n",
+     "tex": "\\frac{n(n-1)}{2}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Translate the context into vertices and edges.",
+    "Use the definitions to classify.",
+    "Draw clearly."
+   ],
+   "mistakes": [
+    "Confusing walks/paths definitions.",
+    "Counting a loop's degree as 1 (it is 2)."
+   ],
+   "connections": [
+    "3.15",
+    "3.16"
+   ],
+   "recall": [
+    {
+     "q": "Sum of degrees in a graph?",
+     "a": "Twice the number of edges"
+    },
+    {
+     "q": "Edges in a tree with n vertices?",
+     "a": "n − 1"
+    },
+    {
+     "q": "Edges in K₅?",
+     "a": "10"
+    }
+   ],
+   "worked_chapters": [
+    15
+   ]
+  },
+  {
+   "code": "3.15",
+   "title": "Adjacency matrices; walks; transition matrices for graphs",
+   "level": "AHL",
+   "objectives": [
+    "Write adjacency matrices",
+    "Count walks of length k with powers of the adjacency matrix",
+    "Form transition matrices for graphs (e.g. web pages)"
+   ],
+   "concepts": [
+    "Entry (i, j) of Aᵏ counts the walks of length k from i to j.",
+    "A transition matrix for a graph has columns that sum to 1."
+   ],
+   "formulas": [
+    {
+     "name": "Walks of length k",
+     "tex": "(A^k)_{ij}",
+     "where": "number of k-step walks from i to j",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write A from the graph.",
+    "Use the GDC for Aᵏ.",
+    "Read the required entry (or sum entries for 'at most k')."
+   ],
+   "mistakes": [
+    "Using rows when the convention is columns.",
+    "Forgetting walks of length ≤ k need A + A² + … + Aᵏ."
+   ],
+   "connections": [
+    "3.14",
+    "1.14",
+    "4.19"
+   ],
+   "recall": [
+    {
+     "q": "What does (Aᵏ)ᵢⱼ count?",
+     "a": "Walks of length k from i to j"
+    },
+    {
+     "q": "Walks of length at most 3?",
+     "a": "A + A² + A³"
+    },
+    {
+     "q": "Column sums of a transition matrix?",
+     "a": "1"
+    }
+   ],
+   "worked_chapters": [
+    15
+   ]
+  },
+  {
+   "code": "3.16",
+   "title": "Tree and cycle algorithms: Eulerian/Hamiltonian, MST, Chinese postman, travelling salesman",
+   "level": "AHL",
+   "objectives": [
+    "Use Kruskal's and Prim's algorithms",
+    "Solve the Chinese postman problem",
+    "Find upper and lower bounds for the travelling salesman problem"
+   ],
+   "concepts": [
+    "Eulerian circuit: every vertex has even degree. Chinese postman: repeat the cheapest pairing of odd vertices.",
+    "TSP upper bound: nearest neighbour; lower bound: deleted vertex (MST of the rest + two smallest edges)."
+   ],
+   "formulas": [],
+   "method": [
+    "Identify the problem type (all edges → Chinese postman; all vertices → TSP; connect cheaply → MST).",
+    "Apply the algorithm, listing edges in order.",
+    "State the total weight and route."
+   ],
+   "mistakes": [
+    "Not showing the order of edges (method marks).",
+    "Pairing odd vertices without checking all pairings.",
+    "Mixing up upper and lower bounds."
+   ],
+   "connections": [
+    "3.14",
+    "3.15"
+   ],
+   "recall": [
+    {
+     "q": "Condition for an Eulerian circuit?",
+     "a": "Every vertex has even degree"
+    },
+    {
+     "q": "Which algorithm gives a TSP upper bound?",
+     "a": "Nearest neighbour"
+    },
+    {
+     "q": "How is the deleted-vertex lower bound found?",
+     "a": "MST of the remaining graph + the two shortest edges to the deleted vertex"
+    }
+   ],
+   "worked_chapters": [
+    15
+   ]
+  },
+  {
+   "code": "4.1",
+   "title": "Sampling, data types, bias and outliers",
+   "level": "SL",
+   "objectives": [
+    "Distinguish population and sample, discrete and continuous data",
+    "Recognise bias and sampling techniques",
+    "Identify outliers"
+   ],
+   "concepts": [
+    "Sampling methods: simple random, convenience, systematic, quota, stratified.",
+    "An outlier is more than 1.5 × IQR below Q1 or above Q3."
+   ],
+   "formulas": [
+    {
+     "name": "Outlier rule",
+     "tex": "x < Q_1 - 1.5\\,IQR\\ \\text{ or }\\ x > Q_3 + 1.5\\,IQR",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Name the method or data type.",
+    "Justify with the context."
+   ],
+   "mistakes": [
+    "Calling a method random when it is convenience.",
+    "Using 1.5 × range instead of 1.5 × IQR."
+   ],
+   "connections": [
+    "4.2",
+    "4.3",
+    "4.12"
+   ],
+   "recall": [
+    {
+     "q": "State the outlier rule.",
+     "a": "Below Q1 − 1.5·IQR or above Q3 + 1.5·IQR"
+    },
+    {
+     "q": "Is shoe size discrete or continuous?",
+     "a": "Discrete"
+    },
+    {
+     "q": "Name a sampling method that guarantees each subgroup is represented proportionally.",
+     "a": "Stratified sampling"
+    }
+   ],
+   "worked_chapters": [
+    2
+   ]
+  },
+  {
+   "code": "4.2",
+   "title": "Presenting data: histograms, cumulative frequency, box plots",
+   "level": "SL",
+   "objectives": [
+    "Draw and interpret histograms, cumulative frequency graphs and box-and-whisker diagrams"
+   ],
+   "concepts": [
+    "Cumulative frequency graphs give the median and quartiles by reading across at n/2, n/4, 3n/4."
+   ],
+   "formulas": [],
+   "method": [
+    "Plot cumulative frequency at upper class boundaries.",
+    "Read values.",
+    "Compare distributions using median and IQR."
+   ],
+   "mistakes": [
+    "Plotting at midpoints.",
+    "Comparing only one statistic."
+   ],
+   "connections": [
+    "4.3",
+    "4.1"
+   ],
+   "recall": [
+    {
+     "q": "Where are cumulative frequencies plotted?",
+     "a": "At upper class boundaries"
+    },
+    {
+     "q": "Five values in a box plot?",
+     "a": "Min, Q1, median, Q3, max"
+    },
+    {
+     "q": "How do you read the median from a cumulative frequency graph?",
+     "a": "Read across at n/2"
+    }
+   ],
+   "worked_chapters": [
+    2
+   ]
+  },
+  {
+   "code": "4.3",
+   "title": "Measures of central tendency and dispersion",
+   "level": "SL",
+   "objectives": [
+    "Calculate mean, median, mode, quartiles, range, IQR, standard deviation and variance",
+    "Estimate the mean from grouped data",
+    "Know the effect of constant changes"
+   ],
+   "concepts": [
+    "Adding a constant shifts the mean but not the standard deviation; multiplying scales both."
+   ],
+   "formulas": [
+    {
+     "name": "Mean",
+     "tex": "\\bar{x} = \\frac{\\sum_{i=1}^{k} f_i x_i}{n}",
+     "where": "n = Σf",
+     "when": ""
+    },
+    {
+     "name": "IQR",
+     "tex": "IQR = Q_3 - Q_1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Enter data in the GDC (1-Var stats with frequency list).",
+    "Read x̄, σx, quartiles.",
+    "Interpret."
+   ],
+   "mistakes": [
+    "Using s_{n−1} when σ is asked (or the reverse).",
+    "Forgetting the frequency list in the GDC."
+   ],
+   "connections": [
+    "4.2",
+    "4.14"
+   ],
+   "recall": [
+    {
+     "q": "Effect on the SD of adding 5 to every value?",
+     "a": "None"
+    },
+    {
+     "q": "Formula for IQR?",
+     "a": "Q3 − Q1"
+    },
+    {
+     "q": "Grouped mean uses which x-values?",
+     "a": "Class midpoints"
+    }
+   ],
+   "worked_chapters": [
+    2
+   ]
+  },
+  {
+   "code": "4.4",
+   "title": "Linear correlation and the regression line of y on x",
+   "level": "SL",
+   "objectives": [
+    "Calculate and interpret Pearson's r",
+    "Find the regression line y on x and use it to predict"
+   ],
+   "concepts": [
+    "r measures the strength of a linear relationship (−1 to 1).",
+    "Predict only within the data range and only y from x with y-on-x."
+   ],
+   "formulas": [
+    {
+     "name": "Regression line",
+     "tex": "y - \\bar{y} = a(x - \\bar{x})",
+     "where": "a from the GDC",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Enter both lists; run linear regression.",
+    "Quote a, b, r.",
+    "Predict and comment on reliability."
+   ],
+   "mistakes": [
+    "Predicting x from the y-on-x line.",
+    "Extrapolating.",
+    "Saying correlation proves causation."
+   ],
+   "connections": [
+    "4.10",
+    "4.13",
+    "2.1"
+   ],
+   "recall": [
+    {
+     "q": "Range of r?",
+     "a": "−1 ≤ r ≤ 1"
+    },
+    {
+     "q": "When is a prediction reliable?",
+     "a": "Strong correlation and within the data range"
+    },
+    {
+     "q": "Can y on x predict x?",
+     "a": "No"
+    }
+   ],
+   "worked_chapters": [
+    2,
+    4
+   ]
+  },
+  {
+   "code": "4.5",
+   "title": "Probability: outcomes, sample space, complementary events, expected occurrences",
+   "level": "SL",
+   "objectives": [
+    "Calculate probabilities from equally likely outcomes and relative frequency",
+    "Use P(A′) = 1 − P(A)",
+    "Find expected numbers of occurrences"
+   ],
+   "concepts": [
+    "Expected number = n × P(A).",
+    "Relative frequency estimates probability from experiments."
+   ],
+   "formulas": [
+    {
+     "name": "Probability",
+     "tex": "P(A) = \\frac{n(A)}{n(U)},\\quad P(A') = 1 - P(A)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Expected occurrences",
+     "tex": "E = np",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "List the sample space.",
+    "Count favourable outcomes.",
+    "Use complements for 'at least one'."
+   ],
+   "mistakes": [
+    "Forgetting the complement shortcut.",
+    "Not simplifying probabilities."
+   ],
+   "connections": [
+    "4.6",
+    "4.7"
+   ],
+   "recall": [
+    {
+     "q": "P(A′)?",
+     "a": "1 − P(A)"
+    },
+    {
+     "q": "Expected number of occurrences in n trials?",
+     "a": "np"
+    },
+    {
+     "q": "P(at least one) shortcut?",
+     "a": "1 − P(none)"
+    }
+   ],
+   "worked_chapters": [
+    5
+   ]
+  },
+  {
+   "code": "4.6",
+   "title": "Venn diagrams, tree diagrams, combined, conditional and independent events",
+   "level": "SL",
+   "objectives": [
+    "Use Venn and tree diagrams and tables",
+    "Calculate combined, conditional, mutually exclusive and independent probabilities"
+   ],
+   "concepts": [
+    "P(A | B) restricts the sample space to B.",
+    "Independent: P(A ∩ B) = P(A)P(B). Mutually exclusive: P(A ∩ B) = 0."
+   ],
+   "formulas": [
+    {
+     "name": "Combined events",
+     "tex": "P(A \\cup B) = P(A) + P(B) - P(A \\cap B)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Conditional",
+     "tex": "P(A|B) = \\frac{P(A \\cap B)}{P(B)}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Independent",
+     "tex": "P(A \\cap B) = P(A)P(B)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Draw the diagram.",
+    "Fill it in from the information.",
+    "Apply the formula; for 'given that' divide by P(B)."
+   ],
+   "mistakes": [
+    "Confusing independent with mutually exclusive.",
+    "Dividing by the wrong probability in conditional questions."
+   ],
+   "connections": [
+    "4.5",
+    "4.7"
+   ],
+   "recall": [
+    {
+     "q": "Formula for P(A|B)?",
+     "a": "P(A ∩ B)/P(B)"
+    },
+    {
+     "q": "Test for independence?",
+     "a": "P(A ∩ B) = P(A)P(B)"
+    },
+    {
+     "q": "P(A ∪ B)?",
+     "a": "P(A) + P(B) − P(A ∩ B)"
+    }
+   ],
+   "worked_chapters": [
+    5
+   ]
+  },
+  {
+   "code": "4.7",
+   "title": "Discrete random variables and expected value",
+   "level": "SL",
+   "objectives": [
+    "Use probability distribution tables",
+    "Calculate E(X) and decide whether a game is fair"
+   ],
+   "concepts": [
+    "Probabilities in a distribution sum to 1.",
+    "A game is fair when the expected gain is 0."
+   ],
+   "formulas": [
+    {
+     "name": "Expected value",
+     "tex": "E(X) = \\sum x\\,P(X = x)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Total probability",
+     "tex": "\\sum P(X = x) = 1",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the table.",
+    "Use Σp = 1 for unknowns.",
+    "Compute E(X); interpret."
+   ],
+   "mistakes": [
+    "Forgetting to subtract the cost to play.",
+    "Probabilities not summing to 1."
+   ],
+   "connections": [
+    "4.8",
+    "4.14"
+   ],
+   "recall": [
+    {
+     "q": "What must the probabilities sum to?",
+     "a": "1"
+    },
+    {
+     "q": "E(X) formula?",
+     "a": "Σ x P(X = x)"
+    },
+    {
+     "q": "When is a game fair?",
+     "a": "Expected gain = 0"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.8",
+   "title": "The binomial distribution",
+   "level": "SL",
+   "objectives": [
+    "Recognise binomial situations",
+    "Calculate probabilities with technology",
+    "Use mean np and variance np(1 − p)"
+   ],
+   "concepts": [
+    "Binomial: fixed n independent trials, two outcomes, constant p.",
+    "P(X ≥ k) = 1 − P(X ≤ k − 1)."
+   ],
+   "formulas": [
+    {
+     "name": "Mean and variance",
+     "tex": "E(X) = np,\\quad \\mathrm{Var}(X) = np(1-p)",
+     "where": "X ~ B(n, p)",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Define X ~ B(n, p).",
+    "Translate the words into an inequality.",
+    "Use binomial pdf/cdf on the GDC."
+   ],
+   "mistakes": [
+    "'More than 3' treated as ≥ 3.",
+    "Using the pdf when the cdf is needed."
+   ],
+   "connections": [
+    "4.7",
+    "4.18",
+    "4.11"
+   ],
+   "recall": [
+    {
+     "q": "Conditions for a binomial model?",
+     "a": "Fixed n, independent trials, two outcomes, constant p"
+    },
+    {
+     "q": "Mean of B(n, p)?",
+     "a": "np"
+    },
+    {
+     "q": "P(X > 3) via the cdf?",
+     "a": "1 − P(X ≤ 3)"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.9",
+   "title": "The normal distribution",
+   "level": "SL",
+   "objectives": [
+    "Use properties of the normal curve",
+    "Calculate normal probabilities and inverse normal values with technology"
+   ],
+   "concepts": [
+    "About 68%, 95%, 99.7% lie within 1, 2, 3 standard deviations.",
+    "Inverse normal finds a value from a probability."
+   ],
+   "formulas": [
+    {
+     "name": "Standardization",
+     "tex": "z = \\frac{x - \\mu}{\\sigma}",
+     "where": "X ~ N(μ, σ²)",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Define X ~ N(μ, σ²).",
+    "Sketch the curve and shade.",
+    "Use normal cdf or inverse normal; for unknown μ or σ use z."
+   ],
+   "mistakes": [
+    "Entering σ² as σ.",
+    "Wrong tail in inverse normal.",
+    "Sketch missing (often marked)."
+   ],
+   "connections": [
+    "4.15",
+    "4.16",
+    "4.18"
+   ],
+   "recall": [
+    {
+     "q": "Standardization formula?",
+     "a": "z = (x − μ)/σ"
+    },
+    {
+     "q": "% within 2σ of the mean?",
+     "a": "About 95%"
+    },
+    {
+     "q": "Which GDC function finds x from a probability?",
+     "a": "Inverse normal"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.10",
+   "title": "Spearman's rank correlation coefficient",
+   "level": "SL",
+   "objectives": [
+    "Calculate r_s by ranking",
+    "Compare Pearson and Spearman: appropriateness and limitations"
+   ],
+   "concepts": [
+    "Spearman measures monotonic association using ranks; it is less affected by outliers.",
+    "Tied values share the average rank."
+   ],
+   "formulas": [],
+   "method": [
+    "Rank each variable.",
+    "Apply Pearson's r to the ranks (GDC).",
+    "Interpret strength and direction."
+   ],
+   "mistakes": [
+    "Ranking in opposite directions for the two variables.",
+    "Not averaging tied ranks."
+   ],
+   "connections": [
+    "4.4",
+    "4.11"
+   ],
+   "recall": [
+    {
+     "q": "What does Spearman's coefficient measure?",
+     "a": "Monotonic association between ranks"
+    },
+    {
+     "q": "How are ties ranked?",
+     "a": "Average of the ranks they occupy"
+    },
+    {
+     "q": "When prefer Spearman to Pearson?",
+     "a": "Non-linear monotonic data or outliers"
+    }
+   ],
+   "worked_chapters": [
+    14
+   ]
+  },
+  {
+   "code": "4.11",
+   "title": "Hypothesis testing: χ² tests and the t-test",
+   "level": "SL",
+   "objectives": [
+    "Formulate H₀ and H₁; use significance levels and p-values",
+    "Carry out χ² tests for independence and goodness of fit",
+    "Use the t-test (one- and two-sample, paired)"
+   ],
+   "concepts": [
+    "Reject H₀ when the p-value < significance level (or χ²calc > critical value).",
+    "Expected frequencies should be at least 5; combine classes otherwise."
+   ],
+   "formulas": [
+    {
+     "name": "χ² statistic",
+     "tex": "\\chi^2_{calc} = \\sum \\frac{(f_o - f_e)^2}{f_e}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Degrees of freedom (independence)",
+     "tex": "\\nu = (r-1)(c-1)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "State H₀ and H₁ in context.",
+    "Compute the statistic or p-value with the GDC; state df.",
+    "Compare and conclude in context."
+   ],
+   "mistakes": [
+    "Concluding 'H₀ is true'.",
+    "Wrong degrees of freedom.",
+    "Not combining cells with expected < 5."
+   ],
+   "connections": [
+    "4.18",
+    "4.12",
+    "4.8"
+   ],
+   "recall": [
+    {
+     "q": "When do you reject H₀?",
+     "a": "When the p-value < significance level"
+    },
+    {
+     "q": "df for a 3 × 4 contingency table?",
+     "a": "6"
+    },
+    {
+     "q": "χ² statistic formula?",
+     "a": "Σ (f_o − f_e)²/f_e"
+    }
+   ],
+   "worked_chapters": [
+    14
+   ]
+  },
+  {
+   "code": "4.12",
+   "title": "Designing data collection; reliability and validity",
+   "level": "AHL",
+   "objectives": [
+    "Design surveys and questionnaires",
+    "Categorise numerical data for χ² tables",
+    "Discuss reliability (test–retest, parallel forms) and validity (content, criterion)"
+   ],
+   "concepts": [
+    "Reliable: consistent results. Valid: measures what it claims."
+   ],
+   "formulas": [],
+   "method": [
+    "Identify the variables.",
+    "Choose categories with expected frequencies ≥ 5.",
+    "Comment on reliability/validity in context."
+   ],
+   "mistakes": [
+    "Confusing reliability and validity."
+   ],
+   "connections": [
+    "4.1",
+    "4.11"
+   ],
+   "recall": [
+    {
+     "q": "What does reliability mean?",
+     "a": "Consistent results when repeated"
+    },
+    {
+     "q": "Name a reliability test.",
+     "a": "Test–retest or parallel forms"
+    },
+    {
+     "q": "What does validity mean?",
+     "a": "It measures what it is meant to"
+    }
+   ],
+   "worked_chapters": [
+    14
+   ]
+  },
+  {
+   "code": "4.13",
+   "title": "Non-linear regression; R²; sum of square residuals",
+   "level": "AHL",
+   "objectives": [
+    "Fit linear, quadratic, cubic, exponential, power and sine regression models with technology",
+    "Use SS_res and R² to compare models"
+   ],
+   "concepts": [
+    "The least-squares model minimises the sum of squared residuals.",
+    "R² is the proportion of variation explained; closer to 1 is a better fit."
+   ],
+   "formulas": [
+    {
+     "name": "Sum of square residuals",
+     "tex": "SS_{res} = \\sum_{i=1}^{n} (y_i - f(x_i))^2",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Run the regression on the GDC.",
+    "Write the model with parameters to 3 s.f.",
+    "Compare with R² or SS_res."
+   ],
+   "mistakes": [
+    "Comparing R² across models with different numbers of parameters without comment.",
+    "Rounding parameters too early."
+   ],
+   "connections": [
+    "2.5",
+    "2.9",
+    "4.4"
+   ],
+   "recall": [
+    {
+     "q": "What does R² measure?",
+     "a": "Proportion of variation in y explained by the model"
+    },
+    {
+     "q": "SS_res formula?",
+     "a": "Σ (yᵢ − f(xᵢ))²"
+    },
+    {
+     "q": "What does least squares minimise?",
+     "a": "The sum of squared residuals"
+    }
+   ],
+   "worked_chapters": [
+    6,
+    7
+   ]
+  },
+  {
+   "code": "4.14",
+   "title": "Linear transformations and combinations of random variables; unbiased estimates",
+   "level": "AHL",
+   "objectives": [
+    "Use E(aX + b) and Var(aX + b)",
+    "Find expectation and variance of linear combinations",
+    "Calculate unbiased estimates of mean and variance"
+   ],
+   "concepts": [
+    "Variances add even when variables are subtracted (if independent).",
+    "s²_{n−1} = n/(n − 1) × s²_n is the unbiased estimate of σ²."
+   ],
+   "formulas": [
+    {
+     "name": "Linear transformation",
+     "tex": "E(aX+b) = aE(X)+b,\\quad \\mathrm{Var}(aX+b) = a^2\\mathrm{Var}(X)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Combinations",
+     "tex": "E(\\textstyle\\sum a_iX_i) = \\sum a_iE(X_i),\\quad \\mathrm{Var}(\\textstyle\\sum a_iX_i) = \\sum a_i^2\\mathrm{Var}(X_i)",
+     "where": "X_i independent",
+     "when": ""
+    },
+    {
+     "name": "Unbiased variance",
+     "tex": "s_{n-1}^2 = \\frac{n}{n-1}s_n^2",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the combination.",
+    "Apply the expectation and variance rules.",
+    "Use s_{n−1} for estimates from a sample."
+   ],
+   "mistakes": [
+    "Subtracting variances.",
+    "Var(2X) = 2Var(X) (it is 4Var(X)).",
+    "Var(X₁ + X₂) vs Var(2X) confusion."
+   ],
+   "connections": [
+    "4.15",
+    "4.3",
+    "4.16"
+   ],
+   "recall": [
+    {
+     "q": "Var(aX + b)?",
+     "a": "a² Var(X)"
+    },
+    {
+     "q": "Var(X − Y) for independent X, Y?",
+     "a": "Var(X) + Var(Y)"
+    },
+    {
+     "q": "Unbiased estimate of variance?",
+     "a": "s²_{n−1} = n/(n−1) · s²_n"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.15",
+   "title": "Sums of normal variables; the central limit theorem",
+   "level": "AHL",
+   "objectives": [
+    "Use: a linear combination of independent normal variables is normal",
+    "Use the CLT for the distribution of the sample mean"
+   ],
+   "concepts": [
+    "For large n (n ≥ 30) the sample mean is approximately normal whatever the population."
+   ],
+   "formulas": [
+    {
+     "name": "Sample mean",
+     "tex": "\\bar{X} \\sim N\\!\\left(\\mu, \\frac{\\sigma^2}{n}\\right)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify the combination or sample mean.",
+    "Find its mean and variance.",
+    "Use normal cdf."
+   ],
+   "mistakes": [
+    "Using σ instead of σ/√n.",
+    "Using the CLT with small n from a non-normal population."
+   ],
+   "connections": [
+    "4.14",
+    "4.16",
+    "4.9"
+   ],
+   "recall": [
+    {
+     "q": "Distribution of X̄?",
+     "a": "N(μ, σ²/n)"
+    },
+    {
+     "q": "When does the CLT apply?",
+     "a": "Large n (typically n ≥ 30)"
+    },
+    {
+     "q": "Is X₁ + X₂ normal if both are normal and independent?",
+     "a": "Yes"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.16",
+   "title": "Confidence intervals for the mean",
+   "level": "AHL",
+   "objectives": [
+    "Find confidence intervals using z (σ known) or t (σ unknown)",
+    "Interpret them"
+   ],
+   "concepts": [
+    "A 95% CI: in repeated sampling 95% of such intervals contain μ.",
+    "Wider interval for higher confidence or smaller n."
+   ],
+   "formulas": [
+    {
+     "name": "CI (σ known)",
+     "tex": "\\bar{x} \\pm z\\frac{\\sigma}{\\sqrt{n}}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "CI (σ unknown)",
+     "tex": "\\bar{x} \\pm t\\frac{s_{n-1}}{\\sqrt{n}}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Decide z or t.",
+    "Use the GDC interval function.",
+    "Interpret in context."
+   ],
+   "mistakes": [
+    "Saying 'μ has a 95% probability of being in this interval'.",
+    "Using z when σ is unknown."
+   ],
+   "connections": [
+    "4.15",
+    "4.18"
+   ],
+   "recall": [
+    {
+     "q": "CI when σ is unknown uses?",
+     "a": "The t-distribution"
+    },
+    {
+     "q": "Effect of larger n on the width?",
+     "a": "Narrower"
+    },
+    {
+     "q": "CI with σ known?",
+     "a": "x̄ ± z σ/√n"
+    }
+   ],
+   "worked_chapters": [
+    14
+   ]
+  },
+  {
+   "code": "4.17",
+   "title": "The Poisson distribution",
+   "level": "AHL",
+   "objectives": [
+    "Recognise Poisson situations",
+    "Use mean = variance = m",
+    "Sum independent Poisson variables"
+   ],
+   "concepts": [
+    "Poisson models random independent events at a constant mean rate in a fixed interval.",
+    "Scale the mean to the interval asked."
+   ],
+   "formulas": [
+    {
+     "name": "Mean and variance",
+     "tex": "E(X) = \\mathrm{Var}(X) = m",
+     "where": "X ~ Po(m)",
+     "when": ""
+    },
+    {
+     "name": "Sum",
+     "tex": "X + Y \\sim Po(m_1 + m_2)",
+     "where": "independent",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Define X ~ Po(m) with m for the right interval.",
+    "Translate words into inequalities.",
+    "Use Poisson pdf/cdf."
+   ],
+   "mistakes": [
+    "Not rescaling m for a different time interval.",
+    "≥ vs > errors."
+   ],
+   "connections": [
+    "4.8",
+    "4.18"
+   ],
+   "recall": [
+    {
+     "q": "Mean and variance of Po(m)?",
+     "a": "Both m"
+    },
+    {
+     "q": "Rate 3 per hour. Mean for 20 minutes?",
+     "a": "1"
+    },
+    {
+     "q": "Distribution of X + Y?",
+     "a": "Po(m₁ + m₂)"
+    }
+   ],
+   "worked_chapters": [
+    13
+   ]
+  },
+  {
+   "code": "4.18",
+   "title": "Critical regions, tests for mean and proportion, Type I and II errors",
+   "level": "AHL",
+   "objectives": [
+    "Find critical values and regions",
+    "Test a normal mean, a binomial proportion and a Poisson mean",
+    "Calculate probabilities of Type I and II errors"
+   ],
+   "concepts": [
+    "Type I: rejecting a true H₀ (probability = actual significance level). Type II: accepting a false H₀."
+   ],
+   "formulas": [],
+   "method": [
+    "State hypotheses with the parameter.",
+    "Find the critical region or p-value with the GDC.",
+    "Conclude in context; for errors use the right distribution under H₀ or H₁."
+   ],
+   "mistakes": [
+    "Using the H₀ distribution for a Type II error.",
+    "Discrete critical regions: not checking the actual significance level."
+   ],
+   "connections": [
+    "4.11",
+    "4.8",
+    "4.17"
+   ],
+   "recall": [
+    {
+     "q": "Define a Type I error.",
+     "a": "Rejecting H₀ when it is true"
+    },
+    {
+     "q": "Define a Type II error.",
+     "a": "Not rejecting H₀ when it is false"
+    },
+    {
+     "q": "P(Type I error) for a discrete test equals?",
+     "a": "The actual significance level (P(in critical region | H₀))"
+    }
+   ],
+   "worked_chapters": [
+    14
+   ]
+  },
+  {
+   "code": "4.19",
+   "title": "Transition matrices and Markov chains",
+   "level": "AHL",
+   "objectives": [
+    "Set up transition matrices and initial state vectors",
+    "Find states after n steps and the steady state"
+   ],
+   "concepts": [
+    "s_n = Tⁿs₀ (with columns summing to 1).",
+    "Steady state: Ts = s with entries summing to 1, or Tⁿ for large n."
+   ],
+   "formulas": [
+    {
+     "name": "State after n steps",
+     "tex": "\\mathbf{s}_n = T^n\\mathbf{s}_0",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Steady state",
+     "tex": "T\\mathbf{s} = \\mathbf{s}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Draw the transition diagram.",
+    "Write T (columns = 'from').",
+    "Compute Tⁿs₀ or solve for the steady state."
+   ],
+   "mistakes": [
+    "Rows/columns mix-up.",
+    "Forgetting entries sum to 1 in the steady state."
+   ],
+   "connections": [
+    "1.15",
+    "1.14",
+    "3.15"
+   ],
+   "recall": [
+    {
+     "q": "State after n steps?",
+     "a": "sₙ = Tⁿ s₀"
+    },
+    {
+     "q": "Equation for the steady state?",
+     "a": "Ts = s, with entries summing to 1"
+    },
+    {
+     "q": "Sum of each column of T?",
+     "a": "1"
+    }
+   ],
+   "worked_chapters": [
+    9
+   ]
+  },
+  {
+   "code": "5.1",
+   "title": "Limits; the derivative as gradient and rate of change",
+   "level": "SL",
+   "objectives": [
+    "Understand the derivative as the gradient of the tangent and as a rate of change"
+   ],
+   "concepts": [
+    "dy/dx tells how fast y changes as x changes; units are (units of y) per (unit of x)."
+   ],
+   "formulas": [
+    {
+     "name": "Derivative notation",
+     "tex": "\\frac{dy}{dx} = f'(x)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Read the rate from the context.",
+    "Find dy/dx at a point (GDC or rules).",
+    "Give units."
+   ],
+   "mistakes": [
+    "Missing units of a rate.",
+    "Average vs instantaneous rate confusion."
+   ],
+   "connections": [
+    "5.3",
+    "5.2"
+   ],
+   "recall": [
+    {
+     "q": "What does dy/dx measure?",
+     "a": "The rate of change of y with respect to x"
+    },
+    {
+     "q": "What is the derivative at a point graphically?",
+     "a": "The gradient of the tangent"
+    },
+    {
+     "q": "Units of dV/dt with V in m³ and t in s?",
+     "a": "m³ s⁻¹"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.2",
+   "title": "Increasing and decreasing functions",
+   "level": "SL",
+   "objectives": [
+    "Use f′(x) > 0, = 0, < 0 to describe where a function increases or decreases"
+   ],
+   "concepts": [
+    "f′ > 0: increasing; f′ < 0: decreasing; f′ = 0: stationary."
+   ],
+   "formulas": [],
+   "method": [
+    "Find f′(x).",
+    "Solve f′(x) > 0 or < 0 (graph f′ on the GDC).",
+    "State intervals."
+   ],
+   "mistakes": [
+    "Giving points instead of intervals.",
+    "Inclusive vs strict inequalities."
+   ],
+   "connections": [
+    "5.6",
+    "5.1"
+   ],
+   "recall": [
+    {
+     "q": "f′(x) > 0 means?",
+     "a": "f is increasing"
+    },
+    {
+     "q": "How do you find decreasing intervals?",
+     "a": "Solve f′(x) < 0"
+    },
+    {
+     "q": "What is f′ at a stationary point?",
+     "a": "0"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.3",
+   "title": "Derivatives of axⁿ (n ∈ ℤ)",
+   "level": "SL",
+   "objectives": [
+    "Differentiate polynomials and terms with negative integer powers"
+   ],
+   "concepts": [
+    "Rewrite 1/xⁿ as x⁻ⁿ before differentiating."
+   ],
+   "formulas": [
+    {
+     "name": "Power rule",
+     "tex": "f(x) = ax^n \\Rightarrow f'(x) = anx^{n-1}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Rewrite in powers of x.",
+    "Differentiate term by term.",
+    "Simplify."
+   ],
+   "mistakes": [
+    "Differentiating 3/x as 3.",
+    "Leaving constants after differentiation."
+   ],
+   "connections": [
+    "5.1",
+    "5.4",
+    "5.9"
+   ],
+   "recall": [
+    {
+     "q": "Derivative of axⁿ?",
+     "a": "anxⁿ⁻¹"
+    },
+    {
+     "q": "Derivative of 4/x²?",
+     "a": "−8/x³"
+    },
+    {
+     "q": "Derivative of a constant?",
+     "a": "0"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.4",
+   "title": "Tangents and normals",
+   "level": "SL",
+   "objectives": [
+    "Find equations of tangents and normals at a given point"
+   ],
+   "concepts": [
+    "Tangent gradient = f′(a); normal gradient = −1/f′(a)."
+   ],
+   "formulas": [
+    {
+     "name": "Tangent",
+     "tex": "y - f(a) = f'(a)(x - a)",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Normal gradient",
+     "tex": "m_N = -\\frac{1}{f'(a)}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find the point (a, f(a)).",
+    "Find f′(a).",
+    "Use point–gradient form."
+   ],
+   "mistakes": [
+    "Using f(a) as the gradient.",
+    "Forgetting the negative reciprocal for the normal."
+   ],
+   "connections": [
+    "5.3",
+    "2.1"
+   ],
+   "recall": [
+    {
+     "q": "Gradient of the tangent at x = a?",
+     "a": "f′(a)"
+    },
+    {
+     "q": "Gradient of the normal?",
+     "a": "−1/f′(a)"
+    },
+    {
+     "q": "Equation form for tangents?",
+     "a": "y − y₁ = m(x − x₁)"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.5",
+   "title": "Introduction to integration; definite integrals; area under a curve",
+   "level": "SL",
+   "objectives": [
+    "Integrate axⁿ (n ≠ −1)",
+    "Evaluate definite integrals with technology",
+    "Find areas between a curve and the x-axis",
+    "Use a boundary condition to find c"
+   ],
+   "concepts": [
+    "Integration reverses differentiation; add + c for indefinite integrals.",
+    "Area below the x-axis gives a negative integral: use |f(x)|."
+   ],
+   "formulas": [
+    {
+     "name": "Power rule",
+     "tex": "\\int ax^n\\,dx = \\frac{ax^{n+1}}{n+1} + C,\\quad n \\ne -1",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Area",
+     "tex": "A = \\int_a^b y\\,dx",
+     "where": "y ≥ 0",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the integral with limits.",
+    "Evaluate with the GDC.",
+    "For areas, split at the x-intercepts or integrate |f|."
+   ],
+   "mistakes": [
+    "Forgetting + C.",
+    "Negative area left negative.",
+    "Wrong limits."
+   ],
+   "connections": [
+    "5.12",
+    "5.8",
+    "5.11"
+   ],
+   "recall": [
+    {
+     "q": "∫axⁿ dx?",
+     "a": "axⁿ⁺¹/(n+1) + C, n ≠ −1"
+    },
+    {
+     "q": "Area under y = f(x) from a to b (f ≥ 0)?",
+     "a": "∫ₐᵇ f(x) dx"
+    },
+    {
+     "q": "How do you find C?",
+     "a": "Substitute a known point"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.6",
+   "title": "Stationary points; local maxima and minima",
+   "level": "SL",
+   "objectives": [
+    "Solve f′(x) = 0",
+    "Identify local maxima and minima"
+   ],
+   "concepts": [
+    "At a local max f′ changes from + to −; at a local min from − to +."
+   ],
+   "formulas": [],
+   "method": [
+    "Find f′(x).",
+    "Solve f′(x) = 0.",
+    "Classify (sign change or second derivative); give coordinates."
+   ],
+   "mistakes": [
+    "Giving only x.",
+    "Not justifying the nature of the point."
+   ],
+   "connections": [
+    "5.2",
+    "5.7",
+    "5.10"
+   ],
+   "recall": [
+    {
+     "q": "Condition for a stationary point?",
+     "a": "f′(x) = 0"
+    },
+    {
+     "q": "Sign change of f′ at a local max?",
+     "a": "+ to −"
+    },
+    {
+     "q": "How do you classify with f′′?",
+     "a": "f′′ < 0 max, f′′ > 0 min"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.7",
+   "title": "Optimisation in context",
+   "level": "SL",
+   "objectives": [
+    "Set up and solve optimisation problems"
+   ],
+   "concepts": [
+    "Express the quantity in one variable using the constraint, then maximise or minimise."
+   ],
+   "formulas": [],
+   "method": [
+    "Write the quantity to optimise.",
+    "Use the constraint to remove a variable.",
+    "Differentiate, solve = 0, justify, answer in context."
+   ],
+   "mistakes": [
+    "Not using the constraint.",
+    "Not checking the endpoints of the domain."
+   ],
+   "connections": [
+    "5.6",
+    "2.5"
+   ],
+   "recall": [
+    {
+     "q": "First step in an optimisation problem?",
+     "a": "Write the quantity in terms of one variable"
+    },
+    {
+     "q": "How is an optimum located?",
+     "a": "Solve dQ/dx = 0 and justify"
+    },
+    {
+     "q": "Why check endpoints?",
+     "a": "The max/min may occur at a boundary"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.8",
+   "title": "The trapezoidal rule",
+   "level": "SL",
+   "objectives": [
+    "Approximate areas using the trapezoidal rule"
+   ],
+   "concepts": [
+    "Trapezia approximate the area; concave-up curves give overestimates."
+   ],
+   "formulas": [
+    {
+     "name": "Trapezoidal rule",
+     "tex": "\\int_a^b y\\,dx \\approx \\frac{h}{2}\\left((y_0 + y_n) + 2(y_1 + \\dots + y_{n-1})\\right),\\quad h = \\frac{b-a}{n}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Find h.",
+    "Tabulate y-values.",
+    "Apply the rule; compare with the exact integral if asked."
+   ],
+   "mistakes": [
+    "Wrong h (n strips, n + 1 ordinates).",
+    "Doubling the end values."
+   ],
+   "connections": [
+    "5.5",
+    "1.6"
+   ],
+   "recall": [
+    {
+     "q": "State the trapezoidal rule.",
+     "a": "(h/2)[(y₀ + yₙ) + 2(y₁ + … + yₙ₋₁)]"
+    },
+    {
+     "q": "h for n strips from a to b?",
+     "a": "(b − a)/n"
+    },
+    {
+     "q": "Over- or underestimate for concave up?",
+     "a": "Overestimate"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.9",
+   "title": "Derivatives of trig, exponential, log and xⁿ (n ∈ ℚ); chain, product, quotient rules; related rates",
+   "level": "AHL",
+   "objectives": [
+    "Differentiate sin x, cos x, tan x, eˣ, ln x, xⁿ",
+    "Use the chain, product and quotient rules",
+    "Solve related rates problems"
+   ],
+   "concepts": [
+    "Chain rule: differentiate the outside, multiply by the derivative of the inside.",
+    "Related rates: link rates with the chain rule, e.g. dV/dt = dV/dr · dr/dt."
+   ],
+   "formulas": [
+    {
+     "name": "Standard derivatives",
+     "tex": "(\\sin x)' = \\cos x,\\ (\\cos x)' = -\\sin x,\\ (\\tan x)' = \\frac{1}{\\cos^2 x},\\ (e^x)' = e^x,\\ (\\ln x)' = \\frac{1}{x}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Chain rule",
+     "tex": "\\frac{dy}{dx} = \\frac{dy}{du}\\frac{du}{dx}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Product rule",
+     "tex": "\\frac{d}{dx}(uv) = u\\frac{dv}{dx} + v\\frac{du}{dx}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Quotient rule",
+     "tex": "\\frac{d}{dx}\\left(\\frac{u}{v}\\right) = \\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^2}",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Identify the structure (composition, product, quotient).",
+    "Apply the rule carefully.",
+    "For related rates write the linking equation first."
+   ],
+   "mistakes": [
+    "Forgetting the inner derivative.",
+    "Sign errors in the quotient rule."
+   ],
+   "connections": [
+    "5.3",
+    "5.10",
+    "5.14"
+   ],
+   "recall": [
+    {
+     "q": "State the chain rule.",
+     "a": "dy/dx = dy/du · du/dx"
+    },
+    {
+     "q": "Derivative of ln x?",
+     "a": "1/x"
+    },
+    {
+     "q": "Product rule?",
+     "a": "u v′ + v u′"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.10",
+   "title": "The second derivative; concavity",
+   "level": "AHL",
+   "objectives": [
+    "Find second derivatives",
+    "Use the second derivative test; identify points of inflexion"
+   ],
+   "concepts": [
+    "f′′ > 0 concave up; f′′ < 0 concave down; inflexion where concavity changes."
+   ],
+   "formulas": [],
+   "method": [
+    "Find f′′(x).",
+    "Evaluate at stationary points to classify.",
+    "Solve f′′ = 0 and check a sign change for inflexion."
+   ],
+   "mistakes": [
+    "Saying f′′ = 0 alone proves an inflexion.",
+    "Classifying with f′ instead of f′′."
+   ],
+   "connections": [
+    "5.6",
+    "5.9"
+   ],
+   "recall": [
+    {
+     "q": "f′′(a) < 0 at a stationary point means?",
+     "a": "Local maximum"
+    },
+    {
+     "q": "Condition for a point of inflexion?",
+     "a": "f′′ changes sign"
+    },
+    {
+     "q": "Concave up means?",
+     "a": "f′′ > 0"
+    }
+   ],
+   "worked_chapters": [
+    10
+   ]
+  },
+  {
+   "code": "5.11",
+   "title": "Integration of xⁿ (n ∈ ℚ), sin, cos, 1/cos², eˣ; substitution",
+   "level": "AHL",
+   "objectives": [
+    "Integrate standard functions",
+    "Integrate by inspection or substitution of the form ∫f(g(x))g′(x)dx"
+   ],
+   "concepts": [
+    "Look for an inside function whose derivative is also present."
+   ],
+   "formulas": [
+    {
+     "name": "Standard integrals",
+     "tex": "\\int \\frac{1}{x}dx = \\ln|x| + C,\\ \\int \\sin x\\,dx = -\\cos x + C,\\ \\int \\cos x\\,dx = \\sin x + C,\\ \\int e^x dx = e^x + C",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Spot the structure.",
+    "Substitute u = g(x) or integrate by inspection.",
+    "Differentiate your answer to check."
+   ],
+   "mistakes": [
+    "Sign error with ∫ sin x.",
+    "Forgetting to adjust constants from the chain rule."
+   ],
+   "connections": [
+    "5.5",
+    "5.9",
+    "5.12"
+   ],
+   "recall": [
+    {
+     "q": "∫ 1/x dx?",
+     "a": "ln|x| + C"
+    },
+    {
+     "q": "∫ sin x dx?",
+     "a": "−cos x + C"
+    },
+    {
+     "q": "∫ e^{3x} dx?",
+     "a": "e^{3x}/3 + C"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.12",
+   "title": "Areas enclosed by curves; volumes of revolution",
+   "level": "AHL",
+   "objectives": [
+    "Find areas between a curve and the x- or y-axis",
+    "Find volumes of revolution about the x- or y-axis"
+   ],
+   "concepts": [
+    "Area between curves = ∫(top − bottom) dx.",
+    "Volume about the x-axis: π∫y²dx; about the y-axis: π∫x²dy."
+   ],
+   "formulas": [
+    {
+     "name": "Area (y-axis)",
+     "tex": "A = \\int_a^b |x|\\,dy",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Volume about x-axis",
+     "tex": "V = \\int_a^b \\pi y^2\\,dx",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Volume about y-axis",
+     "tex": "V = \\int_a^b \\pi x^2\\,dy",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Sketch; find intersection points.",
+    "Write the integral with correct limits and variable.",
+    "Evaluate with the GDC."
+   ],
+   "mistakes": [
+    "x-limits used with dy.",
+    "Forgetting π or squaring.",
+    "Area under the axis counted negative."
+   ],
+   "connections": [
+    "5.5",
+    "5.11"
+   ],
+   "recall": [
+    {
+     "q": "Volume of revolution about the x-axis?",
+     "a": "π∫y² dx"
+    },
+    {
+     "q": "Area between two curves?",
+     "a": "∫(upper − lower) dx"
+    },
+    {
+     "q": "Volume about the y-axis?",
+     "a": "π∫x² dy"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.13",
+   "title": "Kinematics: displacement, velocity, acceleration",
+   "level": "AHL",
+   "objectives": [
+    "Use v = ds/dt and a = dv/dt",
+    "Find distance travelled with ∫|v| dt"
+   ],
+   "concepts": [
+    "Displacement can be negative; distance travelled is ∫|v|dt.",
+    "At rest when v = 0."
+   ],
+   "formulas": [
+    {
+     "name": "Kinematics",
+     "tex": "v = \\frac{ds}{dt},\\quad a = \\frac{dv}{dt} = \\frac{d^2s}{dt^2}",
+     "where": "",
+     "when": ""
+    },
+    {
+     "name": "Distance travelled",
+     "tex": "\\int_{t_1}^{t_2} |v(t)|\\,dt",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Differentiate or integrate as needed.",
+    "Use initial conditions for constants.",
+    "Use |v| for distance."
+   ],
+   "mistakes": [
+    "Displacement given when distance is asked.",
+    "Missing the +C from initial position."
+   ],
+   "connections": [
+    "5.9",
+    "5.11",
+    "3.12"
+   ],
+   "recall": [
+    {
+     "q": "How do you get v from s?",
+     "a": "Differentiate: v = ds/dt"
+    },
+    {
+     "q": "Distance travelled from t₁ to t₂?",
+     "a": "∫|v| dt"
+    },
+    {
+     "q": "When is a particle at rest?",
+     "a": "v = 0"
+    }
+   ],
+   "worked_chapters": [
+    12
+   ]
+  },
+  {
+   "code": "5.14",
+   "title": "Differential equations from context; separation of variables",
+   "level": "AHL",
+   "objectives": [
+    "Set up differential equations from context",
+    "Solve by separation of variables"
+   ],
+   "concepts": [
+    "'Rate proportional to' → dy/dt = ky.",
+    "Separate, integrate both sides, use initial conditions."
+   ],
+   "formulas": [
+    {
+     "name": "Separation of variables",
+     "tex": "\\frac{dy}{dx} = g(x)h(y) \\Rightarrow \\int \\frac{1}{h(y)}dy = \\int g(x)\\,dx",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the DE from the words.",
+    "Separate and integrate.",
+    "Use the initial condition; rearrange for y."
+   ],
+   "mistakes": [
+    "Forgetting + C before using initial conditions.",
+    "ln of negative quantities."
+   ],
+   "connections": [
+    "5.9",
+    "2.9",
+    "5.16"
+   ],
+   "recall": [
+    {
+     "q": "Rate proportional to y: write the DE.",
+     "a": "dy/dt = ky"
+    },
+    {
+     "q": "First step of separation?",
+     "a": "Put all y terms with dy and x terms with dx"
+    },
+    {
+     "q": "Solution of dy/dt = ky?",
+     "a": "y = Ae^{kt}"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.15",
+   "title": "Slope fields",
+   "level": "AHL",
+   "objectives": [
+    "Sketch and interpret slope fields",
+    "Sketch solution curves through given points"
+   ],
+   "concepts": [
+    "Each short segment has the gradient given by the DE at that point; solution curves follow them."
+   ],
+   "formulas": [],
+   "method": [
+    "Evaluate dy/dx at grid points.",
+    "Draw short segments.",
+    "Sketch a curve following the segments through the given point."
+   ],
+   "mistakes": [
+    "Crossing the slope lines.",
+    "Ignoring isoclines (dy/dx = 0)."
+   ],
+   "connections": [
+    "5.14",
+    "5.16"
+   ],
+   "recall": [
+    {
+     "q": "What does each segment in a slope field show?",
+     "a": "The gradient dy/dx at that point"
+    },
+    {
+     "q": "What is an isocline?",
+     "a": "A curve where dy/dx is constant"
+    },
+    {
+     "q": "Can solution curves cross?",
+     "a": "No (for well-behaved DEs)"
+    }
+   ],
+   "worked_chapters": [
+    12
+   ]
+  },
+  {
+   "code": "5.16",
+   "title": "Euler's method",
+   "level": "AHL",
+   "objectives": [
+    "Use Euler's method for first-order DEs and coupled systems"
+   ],
+   "concepts": [
+    "Step forward along the tangent: smaller h gives better accuracy."
+   ],
+   "formulas": [
+    {
+     "name": "Euler's method",
+     "tex": "y_{n+1} = y_n + h f(x_n, y_n),\\quad x_{n+1} = x_n + h",
+     "where": "h step length",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Set up the recurrence in the GDC (recursion or table).",
+    "Iterate the right number of steps.",
+    "Read the final value; comment on accuracy."
+   ],
+   "mistakes": [
+    "Wrong number of steps.",
+    "Updating x and y in the wrong order in coupled systems."
+   ],
+   "connections": [
+    "5.14",
+    "5.17",
+    "5.18"
+   ],
+   "recall": [
+    {
+     "q": "State Euler's method.",
+     "a": "y_{n+1} = y_n + h f(x_n, y_n)"
+    },
+    {
+     "q": "How to improve accuracy?",
+     "a": "Smaller step h"
+    },
+    {
+     "q": "Steps from x = 0 to 2 with h = 0.2?",
+     "a": "10"
+    }
+   ],
+   "worked_chapters": [
+    11
+   ]
+  },
+  {
+   "code": "5.17",
+   "title": "Phase portraits for coupled linear differential equations",
+   "level": "AHL",
+   "objectives": [
+    "Use eigenvalues to describe solutions of dx/dt = ax + by, dy/dt = cx + dy",
+    "Sketch phase portraits; equilibrium points, stability, saddle points"
+   ],
+   "concepts": [
+    "Real distinct eigenvalues: both negative stable, both positive unstable, opposite signs saddle.",
+    "Complex eigenvalues: spirals (real part < 0 stable); purely imaginary: closed cycles."
+   ],
+   "formulas": [
+    {
+     "name": "Solution",
+     "tex": "\\mathbf{x} = Ae^{\\lambda_1 t}\\mathbf{p}_1 + Be^{\\lambda_2 t}\\mathbf{p}_2",
+     "where": "λ eigenvalues, p eigenvectors",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Write the system as a matrix.",
+    "Find eigenvalues (and eigenvectors).",
+    "Classify and sketch; show direction with a test point."
+   ],
+   "mistakes": [
+    "No arrows on trajectories.",
+    "Misclassifying from the sign of the real part."
+   ],
+   "connections": [
+    "1.15",
+    "5.16"
+   ],
+   "recall": [
+    {
+     "q": "Eigenvalues of opposite sign give?",
+     "a": "A saddle point"
+    },
+    {
+     "q": "Complex eigenvalues with negative real part give?",
+     "a": "A stable spiral"
+    },
+    {
+     "q": "Purely imaginary eigenvalues give?",
+     "a": "Closed cycles (centre)"
+    }
+   ],
+   "worked_chapters": [
+    12
+   ]
+  },
+  {
+   "code": "5.18",
+   "title": "Second-order differential equations by Euler's method",
+   "level": "AHL",
+   "objectives": [
+    "Solve d²x/dt² = f(x, dx/dt, t) numerically by rewriting as a coupled system"
+   ],
+   "concepts": [
+    "Let y = dx/dt; then dx/dt = y and dy/dt = f(x, y, t)."
+   ],
+   "formulas": [
+    {
+     "name": "Reduction",
+     "tex": "\\frac{dx}{dt} = y,\\quad \\frac{dy}{dt} = f(x, y, t)",
+     "where": "",
+     "when": ""
+    }
+   ],
+   "method": [
+    "Introduce y = dx/dt.",
+    "Write the coupled system.",
+    "Apply Euler's method to both together."
+   ],
+   "mistakes": [
+    "Updating x with the new y instead of the old one."
+   ],
+   "connections": [
+    "5.16",
+    "5.17"
+   ],
+   "recall": [
+    {
+     "q": "How is a second-order DE reduced?",
+     "a": "Let y = dx/dt to get a coupled first-order system"
+    },
+    {
+     "q": "Which method solves it numerically?",
+     "a": "Euler's method on both equations"
+    },
+    {
+     "q": "What does y represent?",
+     "a": "The velocity dx/dt"
+    }
+   ],
+   "worked_chapters": [
+    12
+   ]
+  }
+ ],
+ "worked_solutions": [
+  {
+   "chapter": 1,
+   "title": "Measuring space: accuracy and geometry",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch_1_and_ch_2_HL.pdf",
+   "doc": "ws1",
+   "first_page": 0,
+   "last_page": 13,
+   "exercises": {
+    "1A": 0,
+    "1B": 0,
+    "1C": 1,
+    "1D": 2,
+    "1E": 3,
+    "1F": 5,
+    "1G": 6,
+    "1H": 7,
+    "1I": 8
+   },
+   "subtopics": [
+    "1.1",
+    "1.6",
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4"
+   ]
+  },
+  {
+   "chapter": 2,
+   "title": "Representing and describing",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch_1_and_ch_2_HL.pdf",
+   "doc": "ws2",
+   "first_page": 14,
+   "last_page": 30,
+   "exercises": {
+    "2A": 14,
+    "2B": 14,
+    "2C": 17,
+    "2D": 18,
+    "2E": 19,
+    "2F": 22
+   },
+   "subtopics": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4"
+   ]
+  },
+  {
+   "chapter": 3,
+   "title": "Dividing up space: coordinate geometry, Voronoi diagrams, vectors, lines",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch_3_and_ch4_HL.pdf",
+   "doc": "ws3",
+   "first_page": 0,
+   "last_page": 34,
+   "exercises": {
+    "3A": 0,
+    "3B": 1,
+    "3C": 2,
+    "3D": 3,
+    "3E": 5,
+    "3F": 8,
+    "3G": 10,
+    "3H": 15,
+    "3I": 15,
+    "3J": 16,
+    "3K": 18,
+    "3L": 19,
+    "3M": 21,
+    "3N": 22,
+    "3O": 23
+   },
+   "subtopics": [
+    "2.1",
+    "3.1",
+    "3.5",
+    "3.6",
+    "3.10",
+    "3.11",
+    "3.13"
+   ]
+  },
+  {
+   "chapter": 4,
+   "title": "Modelling constant rates of change: linear functions and regressions",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch_3_and_ch4_HL.pdf",
+   "doc": "ws4",
+   "first_page": 35,
+   "last_page": 59,
+   "exercises": {
+    "4A": 35,
+    "4B": 35,
+    "4C": 36,
+    "4E": 40,
+    "4F": 40,
+    "4G": 41,
+    "4H": 43,
+    "4I": 43,
+    "4J": 45,
+    "4K": 47,
+    "4L": 48,
+    "4M": 49,
+    "4N": 50,
+    "4O": 52,
+    "4P": 52,
+    "4Q": 53
+   },
+   "subtopics": [
+    "1.2",
+    "1.8",
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "2.7",
+    "2.8",
+    "4.4"
+   ]
+  },
+  {
+   "chapter": 5,
+   "title": "Measuring and analysing randomness",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch5-6_HL.pdf",
+   "doc": "ws5",
+   "first_page": 0,
+   "last_page": 11,
+   "exercises": {
+    "5A": 0,
+    "5B": 1,
+    "5C": 4,
+    "5D": 7
+   },
+   "subtopics": [
+    "4.5",
+    "4.6"
+   ]
+  },
+  {
+   "chapter": 6,
+   "title": "Modelling relationships with functions: power and polynomial functions",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_answers_ch5-6_HL.pdf",
+   "doc": "ws6",
+   "first_page": 12,
+   "last_page": 64,
+   "exercises": {
+    "6A": 12,
+    "6B": 18,
+    "6C": 22,
+    "6D": 24,
+    "6E": 26,
+    "6F": 28,
+    "6G": 32,
+    "6H": 41,
+    "6I": 46,
+    "6J": 49
+   },
+   "subtopics": [
+    "1.8",
+    "2.4",
+    "2.5",
+    "2.6",
+    "2.8",
+    "4.13"
+   ]
+  },
+  {
+   "chapter": 7,
+   "title": "Modelling rates of change: exponential and logarithmic functions",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_7-8_HL.pdf",
+   "doc": "ws7",
+   "first_page": 0,
+   "last_page": 28,
+   "exercises": {
+    "7A": 1,
+    "7B": 1,
+    "7C": 2,
+    "7D": 4,
+    "7E": 6,
+    "7F": 8,
+    "7G": 10,
+    "7H": 12,
+    "7I": 13,
+    "7J": 16,
+    "7K": 17,
+    "7L": 19,
+    "7M": 22
+   },
+   "subtopics": [
+    "1.3",
+    "1.4",
+    "1.5",
+    "1.7",
+    "1.9",
+    "1.10",
+    "1.11",
+    "2.9",
+    "2.10",
+    "4.13"
+   ]
+  },
+  {
+   "chapter": 8,
+   "title": "Modelling periodic phenomena:",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_7-8_HL.pdf",
+   "doc": "ws8",
+   "first_page": 29,
+   "last_page": 46,
+   "exercises": {
+    "8A": 29,
+    "8B": 31,
+    "8C": 34,
+    "8D": 37,
+    "8E": 38,
+    "8F": 39,
+    "8G": 41
+   },
+   "subtopics": [
+    "1.12",
+    "1.13",
+    "2.9",
+    "3.7",
+    "3.8"
+   ]
+  },
+  {
+   "chapter": 9,
+   "title": "Modelling with matrices: storing and analysing data",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch9-10_HL.pdf",
+   "doc": "ws9",
+   "first_page": 0,
+   "last_page": 19,
+   "exercises": {
+    "9A": 0,
+    "9B": 1,
+    "9C": 2,
+    "9D": 4,
+    "9E": 6,
+    "9F": 9,
+    "9G": 11,
+    "9H": 12,
+    "9I": 13,
+    "9J": 14
+   },
+   "subtopics": [
+    "1.14",
+    "1.15",
+    "3.9",
+    "4.19"
+   ]
+  },
+  {
+   "chapter": 10,
+   "title": "Analyzing rates of change: differential calculus",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch9-10_HL.pdf",
+   "doc": "ws10",
+   "first_page": 20,
+   "last_page": 40,
+   "exercises": {
+    "10A": 20,
+    "10B": 21,
+    "10C": 22,
+    "10D": 23,
+    "10E": 24,
+    "10F": 26,
+    "10G": 27,
+    "10H": 29,
+    "10I": 30,
+    "10J": 31,
+    "10K": 33,
+    "10L": 35
+   },
+   "subtopics": [
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.6",
+    "5.7",
+    "5.9",
+    "5.10"
+   ]
+  },
+  {
+   "chapter": 11,
+   "title": "Approximating irregular spaces: integration and differential equations",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_11-12_HL.pdf",
+   "doc": "ws11",
+   "first_page": 0,
+   "last_page": 24,
+   "exercises": {
+    "11A": 0,
+    "11B": 0,
+    "11C": 1,
+    "11D": 2,
+    "11E": 4,
+    "11F": 5,
+    "11G": 7,
+    "11H": 8,
+    "11I": 9,
+    "11J": 11,
+    "11K": 12,
+    "11L": 14,
+    "11M": 16,
+    "11N": 18
+   },
+   "subtopics": [
+    "5.5",
+    "5.8",
+    "5.11",
+    "5.12",
+    "5.14",
+    "5.16"
+   ]
+  },
+  {
+   "chapter": 12,
+   "title": "Modelling motion and change in two and three dimensions",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_11-12_HL.pdf",
+   "doc": "ws12",
+   "first_page": 25,
+   "last_page": 56,
+   "exercises": {
+    "12A": 25,
+    "12B": 26,
+    "12C": 28,
+    "12D": 31,
+    "12E": 33,
+    "12F": 35,
+    "12G": 39,
+    "12H": 41,
+    "12I": 45,
+    "12J": 47
+   },
+   "subtopics": [
+    "3.12",
+    "3.13",
+    "5.13",
+    "5.15",
+    "5.17",
+    "5.18"
+   ]
+  },
+  {
+   "chapter": 13,
+   "title": "Representing multiple outcomes: random variables and probability distributions",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_13-14_HL.pdf",
+   "doc": "ws13",
+   "first_page": 0,
+   "last_page": 15,
+   "exercises": {
+    "13A": 0,
+    "13B": 2,
+    "13C": 4,
+    "13D": 6,
+    "13E": 8,
+    "13F": 9
+   },
+   "subtopics": [
+    "4.7",
+    "4.8",
+    "4.9",
+    "4.14",
+    "4.15",
+    "4.17"
+   ]
+  },
+  {
+   "chapter": 14,
+   "title": "Testing for validity: Spearman’s, hypothesis testing and χ2 test for independence",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_13-14_HL.pdf",
+   "doc": "ws14",
+   "first_page": 16,
+   "last_page": 44,
+   "exercises": {
+    "14A": 16,
+    "14B": 19,
+    "14C": 20,
+    "14D": 21,
+    "14E": 22,
+    "14F": 23,
+    "14G": 23,
+    "14H": 24,
+    "14I": 24,
+    "14J": 25,
+    "14K": 26,
+    "14L": 28,
+    "14M": 31,
+    "14N": 34,
+    "14O": 36,
+    "14P": 37,
+    "14Q": 39
+   },
+   "subtopics": [
+    "4.10",
+    "4.11",
+    "4.12",
+    "4.16",
+    "4.18"
+   ]
+  },
+  {
+   "chapter": 15,
+   "title": "Optimizing complex networks: graph theory",
+   "file": "documents to process\\MATHS\\WORKED ANSWERS\\Worked_ans_ch_15_HL.pdf",
+   "doc": "ws15",
+   "first_page": 0,
+   "last_page": 21,
+   "exercises": {
+    "15A": 0,
+    "15B": 1,
+    "15C": 3,
+    "15D": 4,
+    "15E": 7,
+    "15F": 11,
+    "15G": 12,
+    "15H": 12,
+    "15I": 13,
+    "15J": 14
+   },
+   "subtopics": [
+    "3.14",
+    "3.15",
+    "3.16"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,623 @@
+{
+ "source": "documents to process/Planning Arturo (Calendar).pdf",
+ "days": {
+  "0": [
+   {
+    "start": "08:30",
+    "minutes": 420,
+    "kind": "school",
+    "subject": "school",
+    "title": "School",
+    "note": ""
+   },
+   {
+    "start": "13:00",
+    "minutes": 30,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths at lunch: review this week's lessons and exercises",
+    "note": "Lunch break (1 h): 30 min of it. PDF: 'Todos los días patio repaso-ejercicios de Mates de lo que se está dando esa semana'",
+    "rotation": false
+   },
+   {
+    "start": "15:30",
+    "minutes": 20,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Travel home",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Rest + get ready to study",
+    "note": "Descanso + activación para el estudio"
+   },
+   {
+    "start": "17:00",
+    "minutes": 15,
+    "kind": "review",
+    "subject": "general",
+    "title": "Mental review of today's lessons",
+    "note": "Repaso mental de lo dado en el día"
+   },
+   {
+    "kind": "study",
+    "subject": "biology",
+    "title": "Biology (short)",
+    "note": "Biología corta",
+    "start": "17:15",
+    "minutes": 30
+   },
+   {
+    "kind": "study",
+    "subject": "english",
+    "title": "English (long)",
+    "note": "Inglés larga",
+    "start": "17:45",
+    "minutes": 30
+   },
+   {
+    "start": "18:15",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Exercise (strength / walk-run) + shower / meditate",
+    "note": "Phone only during exercise breaks: calls/messages"
+   },
+   {
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths",
+    "note": "",
+    "start": "19:15",
+    "minutes": 45
+   },
+   {
+    "start": "20:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Dinner + podcast / music",
+    "note": ""
+   },
+   {
+    "start": "21:00",
+    "minutes": 60,
+    "kind": "review",
+    "subject": "chemistry",
+    "title": "Daily Chemistry review",
+    "note": "Repaso diario química"
+   },
+   {
+    "start": "22:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "No phone or PC: music, composing, reading, meditation, wind down",
+    "note": ""
+   }
+  ],
+  "1": [
+   {
+    "start": "08:30",
+    "minutes": 420,
+    "kind": "school",
+    "subject": "school",
+    "title": "School",
+    "note": ""
+   },
+   {
+    "start": "13:00",
+    "minutes": 30,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths at lunch: review this week's lessons and exercises",
+    "note": "Lunch break (1 h): 30 min of it. PDF: 'Todos los días patio repaso-ejercicios de Mates de lo que se está dando esa semana'",
+    "rotation": false
+   },
+   {
+    "start": "15:30",
+    "minutes": 20,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Travel home",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Rest + get ready to study",
+    "note": "Descanso + activación para el estudio"
+   },
+   {
+    "start": "17:00",
+    "minutes": 15,
+    "kind": "review",
+    "subject": "general",
+    "title": "Mental review of today's lessons",
+    "note": "Repaso mental de lo dado en el día"
+   },
+   {
+    "kind": "study",
+    "subject": "psychology",
+    "title": "Psychology",
+    "note": "",
+    "start": "17:15",
+    "minutes": 30
+   },
+   {
+    "kind": "study",
+    "subject": "chemistry",
+    "title": "Chemistry",
+    "note": "",
+    "start": "17:45",
+    "minutes": 30
+   },
+   {
+    "start": "18:15",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Exercise (strength / walk-run) + shower / meditate",
+    "note": "Phone only during exercise breaks: calls/messages"
+   },
+   {
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths",
+    "note": "",
+    "start": "19:15",
+    "minutes": 45
+   },
+   {
+    "start": "20:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Dinner + podcast / music",
+    "note": ""
+   },
+   {
+    "start": "21:00",
+    "minutes": 60,
+    "kind": "review",
+    "subject": "chemistry",
+    "title": "Daily Chemistry review",
+    "note": "Repaso diario química"
+   },
+   {
+    "start": "22:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "No phone or PC: music, composing, reading, meditation, wind down",
+    "note": ""
+   }
+  ],
+  "2": [
+   {
+    "start": "08:30",
+    "minutes": 420,
+    "kind": "school",
+    "subject": "school",
+    "title": "School",
+    "note": ""
+   },
+   {
+    "start": "13:00",
+    "minutes": 30,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths at lunch: review this week's lessons and exercises",
+    "note": "Lunch break (1 h): 30 min of it. PDF: 'Todos los días patio repaso-ejercicios de Mates de lo que se está dando esa semana'",
+    "rotation": false
+   },
+   {
+    "start": "15:30",
+    "minutes": 20,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Travel home",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Rest + get ready to study",
+    "note": "Descanso + activación para el estudio"
+   },
+   {
+    "start": "17:00",
+    "minutes": 15,
+    "kind": "review",
+    "subject": "general",
+    "title": "Mental review of today's lessons",
+    "note": "Repaso mental de lo dado en el día"
+   },
+   {
+    "kind": "study",
+    "subject": "english",
+    "title": "English",
+    "note": "",
+    "start": "17:15",
+    "minutes": 30
+   },
+   {
+    "kind": "study",
+    "subject": "biology",
+    "title": "Biology",
+    "note": "",
+    "start": "17:45",
+    "minutes": 30
+   },
+   {
+    "start": "18:15",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Exercise (strength / walk-run) + shower / meditate",
+    "note": "Phone only during exercise breaks: calls/messages"
+   },
+   {
+    "kind": "study",
+    "subject": "spanish",
+    "title": "Spanish (Lengua)",
+    "note": "",
+    "start": "19:15",
+    "minutes": 45
+   },
+   {
+    "start": "20:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Dinner + podcast / music",
+    "note": ""
+   },
+   {
+    "start": "21:00",
+    "minutes": 60,
+    "kind": "review",
+    "subject": "chemistry",
+    "title": "Daily Chemistry review",
+    "note": "Repaso diario química"
+   },
+   {
+    "start": "22:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "No phone or PC: music, composing, reading, meditation, wind down",
+    "note": ""
+   }
+  ],
+  "3": [
+   {
+    "start": "08:30",
+    "minutes": 420,
+    "kind": "school",
+    "subject": "school",
+    "title": "School",
+    "note": ""
+   },
+   {
+    "start": "13:00",
+    "minutes": 30,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths at lunch: review this week's lessons and exercises",
+    "note": "Lunch break (1 h): 30 min of it. PDF: 'Todos los días patio repaso-ejercicios de Mates de lo que se está dando esa semana'",
+    "rotation": false
+   },
+   {
+    "start": "15:30",
+    "minutes": 20,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Travel home",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Rest + get ready to study",
+    "note": "Descanso + activación para el estudio"
+   },
+   {
+    "start": "17:00",
+    "minutes": 15,
+    "kind": "review",
+    "subject": "general",
+    "title": "Mental review of today's lessons",
+    "note": "Repaso mental de lo dado en el día"
+   },
+   {
+    "kind": "study",
+    "subject": "chemistry",
+    "title": "Chemistry",
+    "note": "",
+    "start": "17:15",
+    "minutes": 30
+   },
+   {
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths",
+    "note": "",
+    "start": "17:45",
+    "minutes": 30
+   },
+   {
+    "start": "18:15",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Exercise (strength / walk-run) + shower / meditate",
+    "note": "Phone only during exercise breaks: calls/messages"
+   },
+   {
+    "kind": "study",
+    "subject": "biology",
+    "title": "Biology (short)",
+    "note": "Biolog corta",
+    "start": "19:15",
+    "minutes": 22
+   },
+   {
+    "kind": "study",
+    "subject": "psychology",
+    "title": "Psychology (short)",
+    "note": "Psic corta",
+    "start": "19:37",
+    "minutes": 23
+   },
+   {
+    "start": "20:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Dinner + podcast / music",
+    "note": ""
+   },
+   {
+    "start": "21:00",
+    "minutes": 60,
+    "kind": "review",
+    "subject": "chemistry",
+    "title": "Daily Chemistry review",
+    "note": "Repaso diario química"
+   },
+   {
+    "start": "22:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "No phone or PC: music, composing, reading, meditation, wind down",
+    "note": ""
+   }
+  ],
+  "4": [
+   {
+    "start": "08:30",
+    "minutes": 420,
+    "kind": "school",
+    "subject": "school",
+    "title": "School",
+    "note": ""
+   },
+   {
+    "start": "13:00",
+    "minutes": 30,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths at lunch: review this week's lessons and exercises",
+    "note": "Lunch break (1 h): 30 min of it. PDF: 'Todos los días patio repaso-ejercicios de Mates de lo que se está dando esa semana'",
+    "rotation": false
+   },
+   {
+    "start": "15:30",
+    "minutes": 20,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Travel home",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Rest + get ready to study",
+    "note": "Descanso + activación para el estudio"
+   },
+   {
+    "start": "17:00",
+    "minutes": 15,
+    "kind": "review",
+    "subject": "general",
+    "title": "Mental review of today's lessons",
+    "note": "Repaso mental de lo dado en el día"
+   },
+   {
+    "kind": "study",
+    "subject": "chemistry",
+    "title": "Chemistry",
+    "note": "",
+    "start": "17:15",
+    "minutes": 30
+   },
+   {
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths",
+    "note": "",
+    "start": "17:45",
+    "minutes": 30
+   },
+   {
+    "start": "18:15",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Exercise (strength / walk-run) + shower / meditate",
+    "note": "Phone only during exercise breaks: calls/messages"
+   },
+   {
+    "kind": "routine",
+    "subject": "choir",
+    "title": "Choir",
+    "note": "Coro",
+    "start": "19:15",
+    "minutes": 45
+   },
+   {
+    "start": "20:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Dinner + podcast / music",
+    "note": ""
+   },
+   {
+    "start": "21:00",
+    "minutes": 60,
+    "kind": "review",
+    "subject": "chemistry",
+    "title": "Daily Chemistry review",
+    "note": "Repaso diario química"
+   },
+   {
+    "start": "22:00",
+    "minutes": 60,
+    "kind": "routine",
+    "subject": "life",
+    "title": "No phone or PC: music, composing, reading, meditation, wind down",
+    "note": ""
+   }
+  ],
+  "5": [
+   {
+    "start": "10:00",
+    "minutes": 120,
+    "kind": "routine",
+    "subject": "choir",
+    "title": "Choir, then rest",
+    "note": "Mañana: Coro - descanso (times approximate)"
+   },
+   {
+    "start": "16:00",
+    "minutes": 90,
+    "kind": "study",
+    "subject": "english",
+    "title": "English literature",
+    "note": "Tarde 16:00-20:30: Inglés 1,5 h literatura"
+   },
+   {
+    "start": "17:30",
+    "minutes": 90,
+    "kind": "study",
+    "subject": "english",
+    "title": "English language",
+    "note": "Inglés 1,5 h lengua"
+   },
+   {
+    "start": "19:00",
+    "minutes": 90,
+    "kind": "study",
+    "subject": "spanish",
+    "title": "Spanish (Lengua)",
+    "note": "Lengua 1,5 h"
+   }
+  ],
+  "6": [
+   {
+    "start": "08:30",
+    "minutes": 60,
+    "kind": "study",
+    "subject": "maths",
+    "title": "Maths",
+    "note": "Mañana 8:30-13:30"
+   },
+   {
+    "start": "09:30",
+    "minutes": 60,
+    "kind": "study",
+    "subject": "chemistry",
+    "title": "Chemistry",
+    "note": ""
+   },
+   {
+    "start": "10:30",
+    "minutes": 60,
+    "kind": "study",
+    "subject": "biology",
+    "title": "Biology",
+    "note": ""
+   },
+   {
+    "start": "11:30",
+    "minutes": 120,
+    "kind": "study",
+    "subject": "ia",
+    "title": "IA (internal assessments)",
+    "note": ""
+   },
+   {
+    "start": "16:00",
+    "minutes": 120,
+    "kind": "study",
+    "subject": "global_issue",
+    "title": "Global Issue (if not done in the week)",
+    "note": "Tarde: Global Issue?"
+   },
+   {
+    "start": "18:00",
+    "minutes": 120,
+    "kind": "routine",
+    "subject": "life",
+    "title": "Walk / meet friends",
+    "note": "Paseo (quedar amigos?)"
+   }
+  ]
+ },
+ "tasks": {
+  "0": [
+   {
+    "title": "Global Issue: 2 h this week in free periods at school",
+    "subject": "global_issue",
+    "note": "Hacer en el colegio en ratos libres"
+   }
+  ],
+  "6": [
+   {
+    "title": "Review last week",
+    "subject": "general",
+    "note": "Análisis semana pasada"
+   },
+   {
+    "title": "Plan next week: check calendar events and deadlines",
+    "subject": "general",
+    "note": "Programar semana siguiente"
+   },
+   {
+    "title": "House jobs: washing, tidy room, help at home",
+    "subject": "life",
+    "note": "Tareas casa"
+   },
+   {
+    "title": "Calls / messages (during gym time): Alex, Félix, Mavi, Miriam, SL",
+    "subject": "life",
+    "note": "Llamadas/wasaps"
+   }
+  ]
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "overview": "Reactivity 2.1 shows how a balanced chemical equation acts as a recipe: its coefficients give the mole ratio in which species react and form. Convert masses, gas volumes or solution volumes and concentrations to amounts in mol, use the ratio to move between species, and find the limiting reactant, which sets the theoretical yield. Comparing the experimental yield with it gives the percentage yield. Atom economy then judges efficiency from the stoichiometry alone, and so measures waste.",
+ "sections": [
+  {
+   "understanding": "R2.1.1",
+   "title": "Equations show reactant and product ratios",
+   "explanation": "When substances react, their proportions are fixed in a **stoichiometric ratio**, also called the **mole ratio** of the equation. It is shown by the **stoichiometric coefficients** in front of each species. An equation with correct coefficients is **balanced**: there is the same number of each type of atom on both sides. This follows from the **law of conservation of mass**. Atoms cannot be created or destroyed, so the total mass of products equals the total mass of the reactants consumed. (Lomonosov found this experimentally in 1748 using sealed vessels. Lavoisier formulated it in 1774 and is usually credited, because Lomonosov's work was little known in western Europe.)\n\nTo balance an equation, change only the coefficients. Never change a chemical formula. Work through the elements one at a time. For example, for NaHCO₃ + H₂SO₄ → Na₂SO₄ + CO₂ + H₂O, put 2 before NaHCO₃ (two Na needed), then 2 before CO₂ (two C), then 2 before H₂O (to balance H). The result is 2NaHCO₃(aq) + H₂SO₄(aq) → Na₂SO₄(aq) + 2CO₂(g) + 2H₂O(l). Fractional coefficients are used in the Companion, e.g. CaC₂ + 2.5O₂ → CaO + 2CO₂.\n\n**State symbols** are included in equations: (s) solid, (l) liquid, (g) gas, (aq) aqueous, meaning dissolved in water. An aqueous solution has water as the solvent.\n\nThe coefficients give ratios of amounts (mol), not of masses. The ratio of reactants in a mixture does not have to match the mole ratio. Likewise the final composition of a mixture is not related to the coefficients. Only the *changes* in amount are proportional to the coefficients.\n\nThe Companion suggests a general approach to stoichiometry problems:\n\n- Formulate and balance the equation(s).\n- Calculate the amounts of as many substances as you can, using n = m/M and n = V/Vm. If you are given a mass percentage, convert it to a mass first and then to an amount.\n- Write the known amounts under the formulas in the equation. Missing values suggest the next step.\n- Find the limiting reactant and use the mole ratio to calculate the changes in amount. Remember that the mole ratio does not reflect the initial or final amounts.\n- Check the mass balance: total mass of products = total mass of reactants.\n- Check that the answer makes sense. Percentages should add up to 100%, no individual percentage can exceed 100%, and the yield must not exceed 100%. Treat very low or very high percentages with caution.",
+   "key_points": [
+    "Coefficients give the mole ratio, not the mass ratio.",
+    "A balanced equation has equal numbers of each atom on both sides, so mass is conserved.",
+    "Balance by changing coefficients only, never the formulas.",
+    "State symbols: (s), (l), (g), (aq).",
+    "The initial and final mixtures need not be in the mole ratio; only the changes in amount are."
+   ],
+   "formulas": [],
+   "exam_tips": [
+    "You are expected to balance all equations in exam papers, even when the word \"balanced\" does not appear in the question.",
+    "Never change a chemical formula when balancing; only change the coefficient.",
+    "Check the mass balance and that percentages make sense."
+   ],
+   "mistakes": [
+    "Changing a formula (subscript) instead of a coefficient to balance an equation.",
+    "Thinking the amounts in the initial or final mixture must follow the mole ratio. Only the changes do.",
+    "Forgetting that the equation's ratio is by amount in mol, not by mass."
+   ],
+   "companion_pages": [
+    "463",
+    "470",
+    "474"
+   ],
+   "prepared_pages": [
+    "121",
+    "122",
+    "123"
+   ]
+  },
+  {
+   "understanding": "R2.1.2",
+   "title": "Using mole ratios for masses, volumes, concentrations",
+   "explanation": "The mole ratio lets you calculate the masses, gas volumes and solution concentrations of reactants and products. The standard route is:\n\n- Convert the given quantity into an amount in mol.\n- Use the mole ratio from the balanced equation.\n- Convert the amount in mol into the quantity asked for.\n\n**Conversions** (Structure 1.4 and 1.5):\n\n- From mass: n = m/M, where M is the molar mass in g mol⁻¹. Use the Ar values from the data booklet to two decimal places. If the mass is in kg, convert with 1 kg = 10³ g first.\n- From gas volume: n = V/Vm. At STP, Vm = 22.7 dm³ mol⁻¹. This uses **Avogadro's law**: equal volumes of all gases at the same temperature and pressure contain the same number of molecules.\n- From a solution: n = V × c, where c is the molar concentration in mol dm⁻³ and V is in dm³. Convert cm³ to dm³ by dividing by 1000. Concentration is c = n/V.\n\n**Gases.** A worked example has 16.0 g CaC₂ (M = 64.10 g mol⁻¹, so 0.250 mol) and 19.3 dm³ O₂ (0.850 mol at STP). The first reaction is CaC₂ + 2.5O₂ → CaO + 2CO₂. Then CaO + CO₂ → CaCO₃. The final mixture holds 0.250 mol CaCO₃ (≈ 25.0 g), 0.250 mol CO₂ (≈ 5.68 dm³) and 0.225 mol O₂ (≈ 5.11 dm³).\n\n**Solutions.** Reactions are often run in aqueous solution, which is easy to handle and mix. Focus on the amounts in mol and the mole ratio. For example, 1.00 dm³ of 0.500 mol dm⁻³ HCl is mixed with 1.00 dm³ of 0.200 mol dm⁻³ NaOH, giving HCl + NaOH → NaCl + H₂O. NaOH is limiting. Final amounts are 0.300 mol HCl and 0.200 mol NaCl in 2.00 dm³, so c(HCl) = 0.150 and c(NaCl) = 0.100 mol dm⁻³. Water, as the solvent, is in large excess and is not counted.\n\nTwo useful rules:\n\n- **Volumes of solutions are assumed additive**: V_final = V₁ + V₂. Strictly this is not exact. Mixing the solutions above gives 2.01 dm³ rather than 2.00 dm³, about 0.5% more. That is comparable to the accuracy of standard volumetric glassware (0.2–0.5%), so it is usually negligible.\n- **Never add the volume of a gas to the volume of a solution.** Gases are about 1000 times less dense than aqueous solutions, so a gas absorbed by a solution changes its volume negligibly. In the SO₂ example, 2.84 dm³ SO₂ (0.125 mol) is absorbed by 2.00 dm³ of 0.400 mol dm⁻³ NaOH (0.800 mol), by SO₂ + 2NaOH → Na₂SO₃ + H₂O. SO₂ is limiting. The final solution holds 0.550 mol NaOH and 0.125 mol Na₂SO₃ in about 2.00 dm³, so c = 0.275 and 0.0625 mol dm⁻³. Gases that leave as a product (such as CO₂) are not in the final solution.\n\n**Titration.** In an acid–base titration an acid and a base react to give a salt and water. An **indicator** changes colour at neutralization. If both volumes and one concentration are known, you can find the other. For example, 20.0 cm³ of H₂SO₄ is titrated with 0.200 mol dm⁻³ NaOH, and 14.3 cm³ is needed. Here H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. n(NaOH) = 0.0143 × 0.200 = 0.00286 mol, so n(H₂SO₄) = 0.00143 mol, and c = 0.00143/0.0200 = 0.0715 mol dm⁻³. A shortcut is c₁V₁/x₁ = c₂V₂/x₂, where x₁ and x₂ are the stoichiometric coefficients of the two reactants. It skips the step of finding amounts.\n\nIn a **back titration** the substance being analysed (e.g. insoluble CaCO₃ in eggshells) first reacts with a known excess amount of reagent of known volume and concentration (HCl). The leftover reagent is then titrated (with standard NaOH) to find how much was used up. From that, find the amount of the analyte by stoichiometry.\n\nThe IB Prepared example mixes 50.0 cm³ of 0.500 mol dm⁻³ NaHCO₃ with 50.0 cm³ of 0.500 mol dm⁻³ H₂SO₄. Both amounts are 0.0250 mol, but the ratio is 2:1, so NaHCO₃ is limiting. CO₂ = 0.0250 mol → 0.568 dm³ at STP. Final: 0.0125 mol H₂SO₄ and 0.0125 mol Na₂SO₄ in 0.100 dm³, so 0.125 mol dm⁻³ each.",
+   "key_points": [
+    "Route: quantity → n (mol) → mole ratio → n of target → quantity.",
+    "n = m/M; n = V/Vm (Vm = 22.7 dm³ mol⁻¹ at STP); n = c × V for solutions.",
+    "Convert cm³ to dm³ (÷1000) and kg to g (×1000).",
+    "Solution volumes are taken as additive; gas and solution volumes are never added.",
+    "Titration: use the mole ratio, or c₁V₁/x₁ = c₂V₂/x₂.",
+    "Back titration: excess reagent is titrated to find how much reacted with the analyte."
+   ],
+   "formulas": [
+    {
+     "formula": "n = m / M",
+     "meaning": "amount in mol from mass in g and molar mass in g mol⁻¹"
+    },
+    {
+     "formula": "n = V / Vm",
+     "meaning": "amount of gas in mol from volume in dm³; Vm = 22.7 dm³ mol⁻¹ at STP"
+    },
+    {
+     "formula": "n = c × V",
+     "meaning": "amount of solute in mol from concentration in mol dm⁻³ and volume in dm³ (in the data booklet)"
+    },
+    {
+     "formula": "c₁V₁ / x₁ = c₂V₂ / x₂",
+     "meaning": "titration shortcut; x₁ and x₂ are the stoichiometric coefficients of the reactants; V in the same units on both sides, c in mol dm⁻³"
+    }
+   ],
+   "exam_tips": [
+    "Use the Ar values from the data booklet to two decimal places, and Vm = 22.7 dm³ mol⁻¹ from the booklet for STP gases.",
+    "Give the units the question asks for. In one IB Prepared answer, 0.454 dm³ earned no mark because the question asked for cm³ (454 cm³).",
+    "Use the exact Ar from the booklet (e.g. P = 30.97) and respect significant figures. A sample answer lost marks for rounding Ar and for ignoring significant figures.",
+    "Show working, state the amounts and identify the limiting reactant explicitly."
+   ],
+   "mistakes": [
+    "Adding the volume of a gas to the volume of a solution.",
+    "Forgetting to convert cm³ to dm³ in n = c × V.",
+    "Reporting the amount of the other reactant used instead of the excess left over (IB Prepared sample: 0.500 mol is the NaOH present, not the excess; the excess is 0.500 − 0.0600 = 0.440 mol).",
+    "Counting the water solvent as a solute in the final solution, or counting a gas product as present in the final solution."
+   ],
+   "companion_pages": [
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469"
+   ],
+   "prepared_pages": [
+    "121",
+    "122",
+    "125",
+    "126"
+   ]
+  },
+  {
+   "understanding": "R2.1.3",
+   "title": "Limiting reactant and theoretical yield",
+   "explanation": "The relative amounts of reactants in a mixture might not equal the mole ratio, so some reactant can be left over even when the others are used up. The **limiting reactant** is the reactant that is used up completely. It controls the amount of product formed, and therefore the **theoretical yield**. An **excess reactant** is added in a greater proportion than the mole ratio requires, so some is left when the reaction finishes.\n\nExample: 1.0 mol H₂ is mixed with 3.0 mol O₂ and ignited, by 2H₂(g) + O₂(g) → 2H₂O(l). Hydrogen reacts with oxygen 2:1, so 1.0 mol H₂ uses 0.5 mol O₂ and 2.5 mol O₂ remains. The final mixture holds 1.0 mol H₂O and 2.5 mol O₂.\n\nThe Companion uses a three-row **amounts table** (initial, change, final):\n\n- n_initial: any amounts, whatever the coefficients.\n- Δn: negative for reactants, positive for products, and proportional to the coefficients.\n- n_final = n_initial + Δn. The final mixture is also not related to the coefficients.\n\nFor the H₂/O₂ example: initial 1.0, 3.0, 0; change −1.0, −0.5, +1.0; final 0, 2.5, 1.0.\n\n**Finding the limiting reactant.** Compare the actual ratio of amounts with the mole ratio, or work out how much of one reactant the other needs. In the CaC₂ example, the equation ratio of CaC₂:O₂ is 1:2.5 but the mixture is 0.250:0.850 = 1:3.4. Oxygen is in excess, so CaC₂ is limiting. For SO₂ and NaOH (1:2 ratio), 0.125 mol SO₂ needs 0.250 mol NaOH, and 0.800 mol is available, so SO₂ is limiting. Note that the limiting reactant is not the one with the smaller amount: IB Prepared's 0.0250 mol NaHCO₃ and 0.0250 mol H₂SO₄ have equal amounts, but the 2:1 ratio makes NaHCO₃ limiting.\n\nOnly the limiting reactant matters for the amount of product. Doubling the limiting reactant (H₂) doubles the water formed (2.0 mol). Doubling the reactant already in excess (O₂ from 3.0 to 6.0 mol) leaves the water at 1.0 mol and only increases the leftover O₂ (to 5.5 mol).\n\nThe **theoretical yield** is the amount or mass of product that would form if the reaction went to completion and no product were lost. Calculate it from the limiting reactant. In IB Prepared's Haber example, 5.25 kg H₂ (2.60 × 10³ mol) reacts with 28.2 kg N₂ (1.01 × 10³ mol) by 3H₂ + N₂ → 2NH₃. The N₂ would need 3.03 × 10³ mol H₂, which is more than is present, so H₂ is limiting. NH₃ = ⅔ × 2.60 × 10³ = 1.73 × 10³ mol, which is 29.5 kg to 3 s.f.",
+   "key_points": [
+    "The limiting reactant is used up completely and fixes the amount of product.",
+    "The excess reactant is left over when the reaction stops.",
+    "Compare the actual ratio of amounts with the mole ratio of the equation. Do not just pick the smaller amount.",
+    "Amounts table: n_final = n_initial + Δn, with Δn in the mole ratio.",
+    "Theoretical yield is calculated from the limiting reactant."
+   ],
+   "formulas": [
+    {
+     "formula": "n_final = n_initial + Δn",
+     "meaning": "amount of each species after reaction; Δn is negative for reactants, positive for products; units mol"
+    }
+   ],
+   "exam_tips": [
+    "State the limiting reactant explicitly. One IB Prepared sample answer lost a mark because the calculation was right but the limiting reactant was never named.",
+    "Show your working for the limiting reactant, e.g. n needed versus n available."
+   ],
+   "mistakes": [
+    "Assuming the reactant with the smaller amount in mol is limiting without considering the coefficients.",
+    "Using the ratio of the initial or final amounts as the mole ratio. The mole ratio only describes the changes.",
+    "Calculating the theoretical yield from the excess reactant."
+   ],
+   "companion_pages": [
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "471"
+   ],
+   "prepared_pages": [
+    "121",
+    "122",
+    "123",
+    "124",
+    "125"
+   ]
+  },
+  {
+   "understanding": "R2.1.4",
+   "title": "Percentage yield",
+   "explanation": "In practice the amount of product is usually lower than the theoretical amount. Reasons include incomplete conversion of reactants, side reactions, and loss of product during isolation and purification. The **theoretical yield** is the amount or mass of product expected if the reaction goes to completion and nothing is lost. The **experimental yield** is the actual amount or mass isolated. It can be lower than or equal to the theoretical yield, but it can never exceed it.\n\nThe **percentage yield** is the ratio of the experimental to the theoretical yield:\n\npercentage yield = experimental yield / theoretical yield × 100%\n\nSince n = m/M, the yield can be found from amounts, masses or volumes, provided the experimental and theoretical values are in the same units.\n\nWorked example: 10.0 g Ca and 9.62 g S are heated and give 17.0 g CaS. Ca (0.250 mol) and S (0.300 mol) react 1:1, so Ca is limiting. Theoretical amount = 0.250 mol, so m = 0.250 × 72.15 ≈ 18.0 g. Percentage yield = 17.0/18.0 × 100% = 94.4%. The same answer comes from amounts: 0.236/0.250 × 100% = 94.4%.\n\nIB Prepared example: Haber process, 15.5 kg NH₃ obtained from a theoretical 29.5 kg gives 52.5%.\n\n**Aspirin (Companion data-based question).** Salicylic acid + ethanoic anhydride, with H₃PO₄ catalyst, give aspirin + ethanoic acid. Each step (reaction not 100% complete, product staying in solution, crystals trapped in filter paper, recrystallization) loses product. Three student experiments gave masses of 3.42 g (no recrystallization, melting point 122–128 °C), 2.31 g (recrystallized once, 133–135 °C) and 1.87 g (twice, 135–136 °C). The literature melting point is 136 °C. Impurities lower and widen the melting range, which the book uses to judge purity. An impossible yield above 100% (Experiment 1, with a wide, low melting range) suggests an impure or wet product. The purest sample is the one with the melting point closest to 136 °C.\n\n**Yield versus purity.** Chemists balance yield against purity. Medical drugs need 99% or higher purity, which reduces yield and raises prices. Detergents and fertilizers can accept purity well below 50% if safety and use are not compromised. In industry even a small loss of product means lost profit, and low yields increase waste that must be disposed of or reused.\n\n**Gravimetric practical.** CaCl₂(aq) + Na₂CO₃(aq) → CaCO₃(s) + 2NaCl(aq). The precipitate is filtered, dried to constant mass and weighed. Mass of filter paper is subtracted, and the percentage yield is calculated.",
+   "key_points": [
+    "Percentage yield = experimental / theoretical × 100%.",
+    "Experimental yield can be lower than or equal to the theoretical yield, never greater.",
+    "Use the same units (n, m or V) for both values.",
+    "Losses: incomplete reaction, side reactions, loss during separation and purification.",
+    "A yield above 100% points to impurities or a wet product.",
+    "Yield and purity must be balanced; low yields mean more waste."
+   ],
+   "formulas": [
+    {
+     "formula": "percentage yield = (experimental yield / theoretical yield) × 100%",
+     "meaning": "efficiency of obtaining the product; the two yields in the same units, result in %"
+    }
+   ],
+   "exam_tips": [
+    "The percentage yield is a ratio, so use amounts, masses or volumes of the product as long as experimental and theoretical values have the same units.",
+    "Calculate the theoretical yield from the limiting reactant first.",
+    "Check that no percentage is above 100% and that very high or low values make sense."
+   ],
+   "mistakes": [
+    "Mixing units, e.g. an experimental mass over a theoretical amount in mol.",
+    "Calculating the theoretical yield from the excess reactant.",
+    "Accepting a yield over 100% without commenting on impurities, wet product or an error."
+   ],
+   "companion_pages": [
+    "470",
+    "471",
+    "472",
+    "473",
+    "474"
+   ],
+   "prepared_pages": [
+    "123",
+    "124"
+   ]
+  },
+  {
+   "understanding": "R2.1.5",
+   "title": "Atom economy and green chemistry",
+   "explanation": "In traditional chemistry, efficiency is judged by product yield and the cost of raw materials. Toxicity of reagents and solvents, energy use and waste are often ignored. **Green chemistry** takes into account the environmental impact of the entire process. It seeks to minimize the use and production of hazardous substances. Common practices:\n\n- aqueous or solvent-free reactions;\n- renewable starting materials;\n- mild reaction conditions and energy-saving techniques;\n- efficient catalysts;\n- use of by-products formed in the synthesis.\n\nThe term was coined in 1991 by Paul Anastas and John Warner, who formulated 12 principles, including the idea that \"the best form of waste disposal is not to create it in the first place\". The ideas have passed into national and international laws.\n\n**Atom economy** measures the efficiency of a reaction. It is the ratio of the molar mass of the desired product to the total molar mass of the reactants:\n\n% atom economy = (mass of desired product(s) / total mass of reactants) × 100%\n\nThe equation is in the data booklet (section 1). The Companion also writes the denominator as the total of all starting materials (and, in its wording, catalysts and solvents). IB Prepared uses the total mass of reactants. Use the stoichiometric coefficients: multiply each M by its coefficient.\n\n**Meaning.** In a reaction A + B → C with no by-product, all atoms end up in the target and the atom economy is potentially close to 100%. In A + B → C + D with C as target, it is always significantly below 100% because D is an unwanted by-product. Solvents and catalysts reduce it further, since their atoms do not form the product and must be disposed of or recycled. The atom economy is therefore **inversely related to the waste** generated in an industrial process or lab experiment: higher atom economy means less waste.\n\nExample: 4CH₃OH + 2CO + O₂ → 2(CH₃O)₂CO + 2H₂O. Using M(reactants): 2 × 90.09 / (4 × 32.05 + 2 × 28.01 + 32.00) × 100% = 83.33%. Using the products' total M, 2 × 90.09 / (2 × 90.09 + 2 × 18.02), gives the same 83.33%, because total mass of products equals total mass of reactants. The Companion says to assume a 100% yield.\n\n**Efficient and inefficient reactions.** Addition polymerization (e.g. propene to polypropene, 100%) and hydrogenation of alkenes are atom-efficient: high yields, no solvents, almost no by-products. Condensation polymerization is always below 100% because a by-product forms. Traditional organic reactions such as oxidation of alcohols or electrophilic substitution in aromatics (HL) are inefficient: large volumes of solvent, low yields and sometimes mixtures of isomers.\n\n**Cost and wider view.** Green technologies can need expensive equipment and recycling facilities, but the initial investment reduces later costs of remediation, waste management and energy, so green chemistry is commercially attractive in the long term. Yield and atom economy are both measures of \"efficiency\", but not the only ones; other factors count too. Something branded \"green\" may still need toxic chemicals or lots of energy to produce, and natural products used industrially (plant oils, starch) take up agricultural land, reduce biodiversity and raise food prices. So \"greenness\" must be assessed over the whole life cycle.",
+   "key_points": [
+    "Atom economy = mass of desired product / total mass of reactants × 100%, from the balanced equation.",
+    "It is in the data booklet (section 1).",
+    "Addition reactions and polymerizations can reach 100%; reactions with by-products are always lower.",
+    "Higher atom economy means less waste (inverse relationship).",
+    "Solvents and catalysts reduce atom economy if counted.",
+    "Atom economy differs from percentage yield: one comes from the equation, the other from the experiment.",
+    "Green chemistry: less hazardous substances, less waste and energy, renewable materials."
+   ],
+   "formulas": [
+    {
+     "formula": "% atom economy = (mass of desired product(s) / total mass of reactants) × 100%",
+     "meaning": "efficiency of a reaction from its stoichiometry; use M × coefficient for each species (in the data booklet)"
+    }
+   ],
+   "exam_tips": [
+    "The atom-economy formula is in section 1 of the data booklet, so you do not need to memorize it.",
+    "Multiply each molar mass by its coefficient in the balanced equation.",
+    "Take the desired product as the numerator, as stated in the question (e.g. the organic compound)."
+   ],
+   "mistakes": [
+    "Forgetting to multiply molar masses by the stoichiometric coefficients.",
+    "Confusing atom economy with percentage yield.",
+    "Including unwanted by-products in the numerator.",
+    "The books differ slightly on the denominator: the Companion mentions all starting materials, catalysts and solvents, while IB Prepared and the worked example use the reactants only. Follow the equation in the data booklet."
+   ],
+   "companion_pages": [
+    "475",
+    "476",
+    "477"
+   ],
+   "prepared_pages": [
+    "124"
+   ]
+  }
+ ],
+ "sub_topic": "R2.1",
+ "title": "How much? The amount of chemical change",
+ "guiding_question": "How are chemical equations used to calculate reacting ratios?",
+ "generated_by": "sonnet",
+ "issues": []
+}

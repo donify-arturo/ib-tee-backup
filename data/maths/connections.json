@@ -1,0 +1,7921 @@
+{
+"links": {
+"1.1": [
+{
+"code": "1.6",
+"syllabus": true,
+"past": [],
+"passages": [
+"1.1"
+],
+"sheets": [],
+"book_questions": 12,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+}
+],
+"1.2": [
+{
+"code": "1.3",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.4",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.11",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.1",
+"EXM.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"1.3": [
+{
+"code": "1.11",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ1.11",
+"23N.1.AHL.TZ0.1",
+"24N.2.AHL.TZ0.3"
+],
+"passages": [
+"7.1"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 14.0
+},
+{
+"code": "1.4",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 6.0
+},
+{
+"code": "1.2",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.7",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 3.0
+}
+],
+"1.4": [
+{
+"code": "1.7",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.7",
+"24M.1.AHL.TZ1.1",
+"24M.1.AHL.TZ2.1",
+"SPM.2.AHL.TZ0.3"
+],
+"passages": [
+"7.2"
+],
+"sheets": [
+"7-8"
+],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 16.0
+},
+{
+"code": "1.3",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 6.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 6.0
+},
+{
+"code": "1.2",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 3.0
+}
+],
+"1.5": [
+{
+"code": "1.9",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.3",
+"25N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 7,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 10.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.3",
+"7.5"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 10.0
+},
+{
+"code": "1.10",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 5.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.4",
+"25M.1.AHL.TZ3.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.7",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.10",
+"EXN.1.AHL.TZ0.12"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.10",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.4",
+"EXM.1.AHL.TZ0.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.1",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "1.3",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 3.0
+}
+],
+"1.6": [
+{
+"code": "4.4",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.4",
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "1.1",
+"syllabus": true,
+"past": [],
+"passages": [
+"1.1"
+],
+"sheets": [],
+"book_questions": 12,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.8",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.4",
+"24M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.14",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"25M.2.AHL.TZ1.2",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.4",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.16",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"1.7": [
+{
+"code": "1.4",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.7",
+"24M.1.AHL.TZ1.1",
+"24M.1.AHL.TZ2.1",
+"SPM.2.AHL.TZ0.3"
+],
+"passages": [
+"7.2"
+],
+"sheets": [
+"7-8"
+],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 16.0
+},
+{
+"code": "1.3",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+}
+],
+"1.8": [
+{
+"code": "1.14",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ1.7"
+],
+"passages": [],
+"sheets": [
+"9-5"
+],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [
+"6.2"
+],
+"sheets": [],
+"book_questions": 8,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.12",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [
+"3-2"
+],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 2.0
+}
+],
+"1.9": [
+{
+"code": "1.5",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.3",
+"25N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 7,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 10.0
+},
+{
+"code": "1.10",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.10",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+}
+],
+"1.10": [
+{
+"code": "1.5",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+}
+],
+"1.11": [
+{
+"code": "1.3",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ1.11",
+"23N.1.AHL.TZ0.1",
+"24N.2.AHL.TZ0.3"
+],
+"passages": [
+"7.1"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 14.0
+},
+{
+"code": "1.2",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.1"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "1.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.1"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"1.12": [
+{
+"code": "1.13",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.8",
+"22M.1.AHL.TZ1.10",
+"21N.2.AHL.TZ0.5"
+],
+"passages": [
+"8.4",
+"8.5"
+],
+"sheets": [
+"8-10"
+],
+"book_questions": 10,
+"priority": [
+"Complex numbers and polar/exponential forms"
+],
+"score": 18.0
+},
+{
+"code": "1.8",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "2.9",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"1.13": [
+{
+"code": "1.12",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.8",
+"22M.1.AHL.TZ1.10",
+"21N.2.AHL.TZ0.5"
+],
+"passages": [
+"8.4",
+"8.5"
+],
+"sheets": [
+"8-10"
+],
+"book_questions": 10,
+"priority": [
+"Complex numbers and polar/exponential forms"
+],
+"score": 18.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ1.13",
+"21N.2.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.9",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.15",
+"25M.2.AHL.TZ3.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.8",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "3.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"1.14": [
+{
+"code": "1.15",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.11",
+"24M.1.AHL.TZ1.17",
+"25N.2.AHL.TZ0.7",
+"24M.2.AHL.TZ2.5",
+"21N.2.AHL.TZ0.6",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "3.9",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.15",
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [
+"9.4"
+],
+"sheets": [],
+"book_questions": 6,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 14.0
+},
+{
+"code": "4.19",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ2.5",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4"
+],
+"passages": [
+"9.5"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 12.5
+},
+{
+"code": "1.8",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ1.7"
+],
+"passages": [],
+"sheets": [
+"9-5"
+],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.6",
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.23",
+"25M.2.AHL.TZ3.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.15",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ3.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 6.0
+},
+{
+"code": "3.12",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.6",
+"EXM.2.AHL.TZ0.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.7",
+"EXM.2.AHL.TZ0.23"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"1.15": [
+{
+"code": "4.19",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.15",
+"24M.2.AHL.TZ2.5",
+"22M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ2.5",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [
+"9.7"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 20.0
+},
+{
+"code": "1.14",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.11",
+"24M.1.AHL.TZ1.17",
+"25N.2.AHL.TZ0.7",
+"24M.2.AHL.TZ2.5",
+"21N.2.AHL.TZ0.6",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "5.17",
+"syllabus": true,
+"past": [
+"21M.2.AHL.TZ2.7"
+],
+"passages": [
+"12.3",
+"12.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.7",
+"21N.2.AHL.TZ0.6"
+],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.7",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.14",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.6",
+"22M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"2.1": [
+{
+"code": "4.4",
+"syllabus": true,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.4",
+"23M.2.AHL.TZ1.1"
+],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 12.5
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ1.10",
+"25M.2.AHL.TZ1.4",
+"21M.2.AHL.TZ1.4"
+],
+"passages": [
+"3.2",
+"3.6"
+],
+"sheets": [],
+"book_questions": 10,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "3.12",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.4",
+"25M.2.AHL.TZ1.4",
+"25M.2.AHL.TZ3.3",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ2.6",
+"21M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [
+"4-4"
+],
+"book_questions": 6,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.3",
+"21M.2.AHL.TZ1.4",
+"24N.2.AHL.TZ0.4"
+],
+"passages": [
+"3.1"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 8.5
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.15",
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.8",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.1",
+"24M.1.AHL.TZ2.8",
+"gt_p1.60",
+"24M.2.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ2.6",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.8",
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.3",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.6",
+"25M.1.AHL.TZ1.5",
+"24M.2.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+}
+],
+"2.2": [
+{
+"code": "2.3",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.7",
+"22M.1.AHL.TZ2.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "2.7",
+"syllabus": true,
+"past": [],
+"passages": [
+"4.3",
+"4.5"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "2.6",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.1"
+],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"2.3": [
+{
+"code": "5.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.8",
+"24M.1.AHL.TZ2.10",
+"24M.1.AHL.TZ2.13",
+"23N.1.AHL.TZ0.11",
+"25M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "2.2",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.7",
+"22M.1.AHL.TZ2.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "2.4",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.6",
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.7",
+"24M.1.AHL.TZ2.13",
+"25N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.6",
+"23M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "2.6",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 2.0
+}
+],
+"2.4": [
+{
+"code": "2.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.2",
+"23N.1.AHL.TZ0.5",
+"23M.1.AHL.TZ2.1",
+"22M.2.AHL.TZ2.6"
+],
+"passages": [
+"6.1",
+"6.4"
+],
+"sheets": [
+"6-9"
+],
+"book_questions": 8,
+"priority": [],
+"score": 16.0
+},
+{
+"code": "2.3",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "3.16",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.4",
+"23M.2.AHL.TZ2.4",
+"22N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.15",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.7",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.6",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.3",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [
+"23N.1.AHL.TZ0.11",
+"21M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"2.5": [
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.2",
+"23N.1.AHL.TZ0.5",
+"23M.1.AHL.TZ2.1",
+"22M.2.AHL.TZ2.6"
+],
+"passages": [
+"6.1",
+"6.4"
+],
+"sheets": [
+"6-9"
+],
+"book_questions": 8,
+"priority": [],
+"score": 16.0
+},
+{
+"code": "4.13",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ1.12",
+"22N.1.AHL.TZ0.11"
+],
+"passages": [
+"6.4"
+],
+"sheets": [
+"6-10",
+"6-11"
+],
+"book_questions": 9,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 16.0
+},
+{
+"code": "2.1",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ2.6",
+"21M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [
+"4-4"
+],
+"book_questions": 6,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "2.6",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms",
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "1.8",
+"syllabus": true,
+"past": [],
+"passages": [
+"6.2"
+],
+"sheets": [],
+"book_questions": 8,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"7.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 5.0
+},
+{
+"code": "2.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Sequences, finance, exponentials and logarithms",
+"Functions, modelling, regression and statistics"
+],
+"score": 5.0
+},
+{
+"code": "1.2",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 4.0
+}
+],
+"2.6": [
+{
+"code": "2.5",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "4.13",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 6.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.2"
+],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.1"
+],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.3",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 6,
+"priority": [],
+"score": 2.0
+}
+],
+"2.7": [
+{
+"code": "2.2",
+"syllabus": true,
+"past": [],
+"passages": [
+"4.3",
+"4.5"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "2.8",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "1.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.10",
+"EXN.1.AHL.TZ0.12"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.10",
+"24M.2.AHL.TZ1.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"EXM.2.AHL.TZ0.21",
+"25M.1.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"EXM.2.AHL.TZ0.21",
+"24M.2.AHL.TZ1.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"2.8": [
+{
+"code": "3.9",
+"syllabus": true,
+"past": [
+"21N.2.AHL.TZ0.4",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.6",
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.7",
+"syllabus": true,
+"past": [
+"24N.1.AHL.TZ0.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.16",
+"SPM.1.AHL.TZ0.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.16"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.10",
+"22M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.8",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"2.9": [
+{
+"code": "1.5",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.3",
+"7.5"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 10.0
+},
+{
+"code": "4.13",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [
+"7-14",
+"8-4"
+],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 10.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [
+"Sequences, finance, exponentials and logarithms",
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "1.13",
+"syllabus": true,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "1.4",
+"syllabus": true,
+"past": [],
+"passages": [
+"7.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 6.0
+},
+{
+"code": "1.3",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "5.14",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "1.12",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.8",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 2.0
+}
+],
+"2.10": [
+{
+"code": "4.13",
+"syllabus": true,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Sequences, finance, exponentials and logarithms",
+"Functions, modelling, regression and statistics"
+],
+"score": 5.0
+},
+{
+"code": "1.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "1.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Sequences, finance, exponentials and logarithms"
+],
+"score": 4.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.1": [
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.3",
+"21M.2.AHL.TZ1.4",
+"24N.2.AHL.TZ0.4"
+],
+"passages": [
+"3.1"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 8.5
+},
+{
+"code": "3.2",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ2.1",
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 8.0
+},
+{
+"code": "2.3",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.6",
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.4",
+"syllabus": false,
+"past": [
+"21N.1.AHL.TZ0.15",
+"23N.2.AHL.TZ0.1",
+"22M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.13",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [
+"21N.1.AHL.TZ0.15",
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"23N.1.AHL.TZ0.11",
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.16",
+"SPM.1.AHL.TZ0.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.7",
+"syllabus": false,
+"past": [
+"22N.1.AHL.TZ0.3",
+"SPM.1.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"3.2": [
+{
+"code": "3.3",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.4"
+],
+"passages": [
+"1.2"
+],
+"sheets": [
+"1-7"
+],
+"book_questions": 11,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 12.0
+},
+{
+"code": "3.13",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6",
+"24M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "3.4",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.4"
+],
+"passages": [
+"1.2"
+],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "3.1",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ2.1",
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 8.0
+},
+{
+"code": "3.16",
+"syllabus": false,
+"past": [
+"EXM.1.AHL.TZ0.1",
+"25M.2.AHL.TZ3.4",
+"23M.2.AHL.TZ2.4",
+"SPM.2.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.23",
+"25M.2.AHL.TZ3.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.8",
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.9",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.4",
+"24M.1.AHL.TZ1.11",
+"21M.1.AHL.TZ2.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.15",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.12",
+"25M.2.AHL.TZ3.4",
+"SPM.2.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.8",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.5",
+"24M.1.AHL.TZ2.8",
+"21M.1.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+}
+],
+"3.3": [
+{
+"code": "3.2",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.4"
+],
+"passages": [
+"1.2"
+],
+"sheets": [
+"1-7"
+],
+"book_questions": 11,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 12.0
+},
+{
+"code": "3.12",
+"syllabus": true,
+"past": [
+"22M.1.AHL.TZ1.13",
+"SPM.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 8.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.6",
+"25M.1.AHL.TZ1.5",
+"24M.2.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ1.13",
+"EXN.1.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 5.0
+},
+{
+"code": "3.4",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 2.0
+}
+],
+"3.4": [
+{
+"code": "3.2",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.4"
+],
+"passages": [
+"1.2"
+],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"21N.1.AHL.TZ0.15",
+"23N.2.AHL.TZ0.1",
+"22M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.7",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "3.3",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 2.0
+}
+],
+"3.5": [
+{
+"code": "3.6",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ1.5",
+"25M.1.AHL.TZ2.4",
+"23N.1.AHL.TZ0.6",
+"25M.2.AHL.TZ1.2"
+],
+"passages": [
+"3.3",
+"3.6"
+],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 16.5
+},
+{
+"code": "2.1",
+"syllabus": true,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.12",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.6": [
+{
+"code": "3.5",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ1.5",
+"25M.1.AHL.TZ2.4",
+"23N.1.AHL.TZ0.6",
+"25M.2.AHL.TZ1.2"
+],
+"passages": [
+"3.3",
+"3.6"
+],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 16.5
+},
+{
+"code": "2.1",
+"syllabus": true,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "3.12",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.2"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [
+"3-14c"
+],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.7": [
+{
+"code": "3.8",
+"syllabus": true,
+"past": [],
+"passages": [
+"8.1"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"22N.1.AHL.TZ0.3",
+"SPM.1.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.4",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "1.12",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "1.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.9",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.8": [
+{
+"code": "3.7",
+"syllabus": true,
+"past": [],
+"passages": [
+"8.1"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ1.11",
+"23M.1.AHL.TZ1.17"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 5.0
+},
+{
+"code": "1.13",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 3.0
+},
+{
+"code": "2.9",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 11,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.1"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"8.1"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.9": [
+{
+"code": "1.14",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.15",
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [
+"9.4"
+],
+"sheets": [],
+"book_questions": 6,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 14.0
+},
+{
+"code": "2.8",
+"syllabus": true,
+"past": [
+"21N.2.AHL.TZ0.4",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.4",
+"24M.1.AHL.TZ1.11",
+"21M.1.AHL.TZ2.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "1.13",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.15",
+"25M.2.AHL.TZ3.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.12",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ2.14",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"3.10": [
+{
+"code": "3.12",
+"syllabus": true,
+"past": [
+"21M.2.AHL.TZ1.6"
+],
+"passages": [
+"3.4"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "3.11",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 6.0
+},
+{
+"code": "3.13",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 6.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.2",
+"24M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 5.0
+},
+{
+"code": "3.1",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 4.0
+}
+],
+"3.11": [
+{
+"code": "3.12",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.4",
+"24M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ3.5",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 14.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ1.10",
+"25M.2.AHL.TZ1.4",
+"21M.2.AHL.TZ1.4"
+],
+"passages": [
+"3.2",
+"3.6"
+],
+"sheets": [],
+"book_questions": 10,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "3.13",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.14",
+"22N.1.AHL.TZ0.8"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "3.10",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 6.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ2.6",
+"SPM.1.AHL.TZ0.11",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.3",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ1.13",
+"EXN.1.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 5.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.4",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"21M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 3.0
+},
+{
+"code": "3.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.6",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.12": [
+{
+"code": "3.11",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.4",
+"24M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ3.5",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 14.0
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [
+"22M.1.AHL.TZ2.16",
+"21N.1.AHL.TZ0.16",
+"24N.2.AHL.TZ0.5"
+],
+"passages": [
+"3.6",
+"12.1"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 13.0
+},
+{
+"code": "5.13",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.4",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 12.5
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.4",
+"25M.2.AHL.TZ1.4",
+"25M.2.AHL.TZ3.3",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "3.10",
+"syllabus": true,
+"past": [
+"21M.2.AHL.TZ1.6"
+],
+"passages": [
+"3.4"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "3.3",
+"syllabus": true,
+"past": [
+"22M.1.AHL.TZ1.13",
+"SPM.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 8.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.6",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.2"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.9",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 3.0
+}
+],
+"3.13": [
+{
+"code": "3.12",
+"syllabus": false,
+"past": [
+"22M.1.AHL.TZ2.16",
+"21N.1.AHL.TZ0.16",
+"24N.2.AHL.TZ0.5"
+],
+"passages": [
+"3.6",
+"12.1"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 13.0
+},
+{
+"code": "3.2",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6",
+"24M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "3.11",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.14",
+"22N.1.AHL.TZ0.8"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 10.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.15",
+"23M.1.AHL.TZ1.7",
+"22M.1.AHL.TZ1.6"
+],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "3.10",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Trigonometry, vectors and 3D geometry"
+],
+"score": 6.0
+},
+{
+"code": "1.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "3.6",
+"syllabus": false,
+"past": [],
+"passages": [
+"3.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.17",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"3.14": [
+{
+"code": "3.15",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.12",
+"23M.1.AHL.TZ2.8",
+"21M.1.AHL.TZ1.16",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [
+"15.2"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "3.16",
+"syllabus": true,
+"past": [
+"23M.2.AHL.TZ1.4",
+"21M.1.AHL.TZ1.10",
+"gt_p1.59",
+"EXM.1.AHL.TZ0.39",
+"23M.2.AHL.TZ2.4",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"25M.2.AHL.TZ1.2",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.12",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.19",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ2.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 3.0
+}
+],
+"3.15": [
+{
+"code": "3.14",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.12",
+"23M.1.AHL.TZ2.8",
+"21M.1.AHL.TZ1.16",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [
+"15.2"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "3.16",
+"syllabus": true,
+"past": [
+"EXM.1.AHL.TZ0.24",
+"25M.2.AHL.TZ3.4",
+"23N.2.AHL.TZ0.5",
+"SPM.2.AHL.TZ0.5",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [
+"15.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "1.14",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ3.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 6.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.12",
+"25M.2.AHL.TZ3.4",
+"SPM.2.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.19",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ1.8"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 6.0
+}
+],
+"3.16": [
+{
+"code": "3.14",
+"syllabus": true,
+"past": [
+"23M.2.AHL.TZ1.4",
+"21M.1.AHL.TZ1.10",
+"gt_p1.59",
+"EXM.1.AHL.TZ0.39",
+"23M.2.AHL.TZ2.4",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "3.15",
+"syllabus": true,
+"past": [
+"EXM.1.AHL.TZ0.24",
+"25M.2.AHL.TZ3.4",
+"23N.2.AHL.TZ0.5",
+"SPM.2.AHL.TZ0.5",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18"
+],
+"passages": [
+"15.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 18.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"EXM.1.AHL.TZ0.1",
+"25M.2.AHL.TZ3.4",
+"23M.2.AHL.TZ2.4",
+"SPM.2.AHL.TZ0.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.4",
+"23M.2.AHL.TZ2.4",
+"22N.2.AHL.TZ0.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"23M.2.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 3.0
+}
+],
+"4.1": [
+{
+"code": "4.3",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"24N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 13.0
+},
+{
+"code": "4.2",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ1.2",
+"25N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.12",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "4.13",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.3",
+"23M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.2": [
+{
+"code": "4.3",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"25M.2.AHL.TZ1.1",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "4.1",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 9.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"2.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"4.3": [
+{
+"code": "4.1",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"24N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 13.0
+},
+{
+"code": "4.2",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.4",
+"25N.2.AHL.TZ0.1",
+"25M.2.AHL.TZ1.1",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.1",
+"25M.2.AHL.TZ2.5",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.14",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.16",
+"25M.2.AHL.TZ1.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ2.7",
+"23N.2.AHL.TZ0.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.6",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+}
+],
+"4.4": [
+{
+"code": "2.1",
+"syllabus": true,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.4",
+"23M.2.AHL.TZ1.1"
+],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 12.5
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.3",
+"22M.2.AHL.TZ2.4",
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"24M.1.AHL.TZ1.2",
+"23M.1.AHL.TZ1.8",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.13",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.10",
+"23M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "4.12",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.7",
+"EXM.1.AHL.TZ0.19",
+"EXM.1.AHL.TZ0.20"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.10",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "1.5",
+"syllabus": false,
+"past": [
+"22M.2.AHL.TZ2.4",
+"EXM.1.AHL.TZ0.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "2.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"4.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"4.5": [
+{
+"code": "4.6",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ2.13",
+"23N.1.AHL.TZ0.7",
+"EXN.1.AHL.TZ0.6",
+"24M.2.AHL.TZ1.4",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [
+"5.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 15.0
+},
+{
+"code": "4.8",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"24M.1.AHL.TZ2.2",
+"23M.1.AHL.TZ2.7",
+"SPM.1.AHL.TZ0.17",
+"EXM.1.AHL.TZ0.55",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"24N.1.AHL.TZ0.3",
+"23M.1.AHL.TZ2.5",
+"22M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ3.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.19",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"25N.1.AHL.TZ0.16",
+"EXM.1.AHL.TZ0.17",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.7",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.2",
+"25M.2.AHL.TZ3.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"EXM.1.AHL.TZ0.55",
+"24M.2.AHL.TZ1.4",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.17",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"EXN.1.AHL.TZ0.16",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.18",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"22M.1.AHL.TZ2.12",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.3",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.16",
+"25M.2.AHL.TZ1.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.6": [
+{
+"code": "4.5",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ2.13",
+"23N.1.AHL.TZ0.7",
+"EXN.1.AHL.TZ0.6",
+"24M.2.AHL.TZ1.4",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [
+"5.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 15.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"25M.1.AHL.TZ3.3",
+"sp_p1.60",
+"25N.2.AHL.TZ0.5",
+"24M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.4",
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ2.6",
+"SPM.1.AHL.TZ0.11",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"EXM.2.AHL.TZ0.21",
+"21N.1.AHL.TZ0.14",
+"24M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.6",
+"EXM.2.AHL.TZ0.10"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.7",
+"syllabus": false,
+"past": [
+"EXM.2.AHL.TZ0.21",
+"25M.1.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.9",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ2.14",
+"23N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.8",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.7": [
+{
+"code": "4.5",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.2",
+"25M.2.AHL.TZ3.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "4.8",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.14",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.6",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+}
+],
+"4.8": [
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"24M.1.AHL.TZ2.2",
+"23M.1.AHL.TZ2.7",
+"SPM.1.AHL.TZ0.17",
+"EXM.1.AHL.TZ0.55",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 12.0
+},
+{
+"code": "4.17",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.9",
+"25M.1.AHL.TZ2.13",
+"24M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [
+"13-7"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 12.0
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.1",
+"24M.1.AHL.TZ2.8",
+"gt_p1.60",
+"24M.2.AHL.TZ2.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.11",
+"syllabus": true,
+"past": [
+"EXM.1.AHL.TZ0.55"
+],
+"passages": [],
+"sheets": [
+"14-14"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "3.2",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.5",
+"24M.1.AHL.TZ2.8",
+"21M.1.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.7",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.18",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.1",
+"25M.1.AHL.TZ1.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 5.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [
+"23N.1.AHL.TZ0.5",
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"23M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.9": [
+{
+"code": "4.14",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.15",
+"22M.1.AHL.TZ1.9",
+"EXM.1.AHL.TZ0.59",
+"24M.2.AHL.TZ1.6",
+"24M.2.AHL.TZ2.7",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 13.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ1.2",
+"EXM.1.AHL.TZ0.59",
+"23N.2.AHL.TZ0.2",
+"23N.2.AHL.TZ0.7",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 11.0
+},
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"24N.1.AHL.TZ0.3",
+"23M.1.AHL.TZ2.5",
+"22M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ3.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.16",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ2.6",
+"23M.1.AHL.TZ2.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.18",
+"syllabus": true,
+"past": [
+"22M.1.AHL.TZ2.12",
+"23N.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.15",
+"syllabus": true,
+"past": [],
+"passages": [
+"13.4"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.5
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"EXM.2.AHL.TZ0.21",
+"21N.1.AHL.TZ0.14",
+"24M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.8",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.1",
+"25M.1.AHL.TZ1.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 5.0
+},
+{
+"code": "1.2",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.1",
+"EXM.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "1.14",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.7",
+"EXM.2.AHL.TZ0.23"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.10": [
+{
+"code": "4.11",
+"syllabus": true,
+"past": [],
+"passages": [
+"14.2",
+"14.3",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 15.0
+},
+{
+"code": "4.18",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "4.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.3",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.3",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.4",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "4.16",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.11": [
+{
+"code": "4.18",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.12",
+"22N.1.AHL.TZ0.16",
+"25N.2.AHL.TZ0.5",
+"23N.2.AHL.TZ0.7",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [
+"14.2",
+"14.3",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 21,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 26.0
+},
+{
+"code": "4.10",
+"syllabus": true,
+"past": [],
+"passages": [
+"14.2",
+"14.3",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 15.0
+},
+{
+"code": "4.14",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.4",
+"22M.1.AHL.TZ2.9",
+"EXM.1.AHL.TZ0.59",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [
+"14-15",
+"14-16"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 13.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ1.2",
+"EXM.1.AHL.TZ0.59",
+"23N.2.AHL.TZ0.2",
+"23N.2.AHL.TZ0.7",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 11.0
+},
+{
+"code": "4.17",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.12",
+"EXM.1.AHL.TZ0.56",
+"23M.2.AHL.TZ1.5",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [
+"14-13"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 11.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"25M.1.AHL.TZ3.3",
+"sp_p1.60",
+"25N.2.AHL.TZ0.5",
+"24M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "4.1",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ1.2",
+"25N.2.AHL.TZ0.1",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.3",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.1",
+"25M.2.AHL.TZ2.5",
+"23N.2.AHL.TZ0.2",
+"22M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [
+"gt_p1.83",
+"24M.1.AHL.TZ1.2",
+"23M.1.AHL.TZ1.8",
+"sp_p1.60"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "4.8",
+"syllabus": true,
+"past": [
+"EXM.1.AHL.TZ0.55"
+],
+"passages": [],
+"sheets": [
+"14-14"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+}
+],
+"4.12": [
+{
+"code": "4.11",
+"syllabus": true,
+"past": [
+"25N.2.AHL.TZ0.5",
+"25M.2.AHL.TZ2.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "4.4",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.7",
+"EXM.1.AHL.TZ0.19",
+"EXM.1.AHL.TZ0.20"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.18",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.5"
+],
+"passages": [
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.1",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+}
+],
+"4.13": [
+{
+"code": "2.5",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ1.12",
+"22N.1.AHL.TZ0.11"
+],
+"passages": [
+"6.4"
+],
+"sheets": [
+"6-10",
+"6-11"
+],
+"book_questions": 9,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 16.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [],
+"sheets": [
+"7-14",
+"8-4"
+],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 10.0
+},
+{
+"code": "2.10",
+"syllabus": true,
+"past": [],
+"passages": [
+"6.4"
+],
+"sheets": [],
+"book_questions": 9,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "4.4",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.10",
+"23M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 8.0
+},
+{
+"code": "2.6",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.14"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Functions, modelling, regression and statistics"
+],
+"score": 6.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.12",
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.1",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.3",
+"23M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.14": [
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ2.15",
+"22M.1.AHL.TZ1.9",
+"EXM.1.AHL.TZ0.59",
+"24M.2.AHL.TZ1.6",
+"24M.2.AHL.TZ2.7",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 13.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.4",
+"22M.1.AHL.TZ2.9",
+"EXM.1.AHL.TZ0.59",
+"22N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [
+"14-15",
+"14-16"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 13.0
+},
+{
+"code": "4.15",
+"syllabus": true,
+"past": [],
+"passages": [
+"13.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.16",
+"syllabus": true,
+"past": [
+"21M.1.AHL.TZ2.10",
+"23M.1.AHL.TZ2.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.7",
+"syllabus": true,
+"past": [
+"24M.1.AHL.TZ2.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.3",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "4.17",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+}
+],
+"4.15": [
+{
+"code": "4.14",
+"syllabus": true,
+"past": [],
+"passages": [
+"13.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.9",
+"syllabus": true,
+"past": [],
+"passages": [
+"13.4"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.5
+},
+{
+"code": "4.16",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 4.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+},
+{
+"code": "4.17",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+},
+{
+"code": "4.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"13.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "4.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"13.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"4.16": [
+{
+"code": "4.9",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ2.6",
+"23M.1.AHL.TZ2.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.14",
+"syllabus": true,
+"past": [
+"21M.1.AHL.TZ2.10",
+"23M.1.AHL.TZ2.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.18",
+"syllabus": true,
+"past": [],
+"passages": [
+"14.3"
+],
+"sheets": [],
+"book_questions": 11,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.3"
+],
+"sheets": [],
+"book_questions": 11,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 7.0
+},
+{
+"code": "4.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.15",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 4.0
+},
+{
+"code": "4.16",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "4.16",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"4.17": [
+{
+"code": "4.18",
+"syllabus": true,
+"past": [
+"21M.1.AHL.TZ2.15",
+"25M.1.AHL.TZ3.12",
+"22M.1.AHL.TZ1.15",
+"SPM.1.AHL.TZ0.16",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 14.0
+},
+{
+"code": "4.8",
+"syllabus": true,
+"past": [
+"25N.1.AHL.TZ0.9",
+"25M.1.AHL.TZ2.13",
+"24M.1.AHL.TZ2.9"
+],
+"passages": [],
+"sheets": [
+"13-7"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 12.0
+},
+{
+"code": "4.11",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ3.12",
+"EXM.1.AHL.TZ0.56",
+"23M.2.AHL.TZ1.5",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [
+"14-13"
+],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 11.0
+},
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"EXN.1.AHL.TZ0.16",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ2.13",
+"23N.1.AHL.TZ0.16"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.9",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+},
+{
+"code": "4.14",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+},
+{
+"code": "4.15",
+"syllabus": false,
+"past": [
+"23M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 3.0
+}
+],
+"4.18": [
+{
+"code": "4.11",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ3.12",
+"22N.1.AHL.TZ0.16",
+"25N.2.AHL.TZ0.5",
+"23N.2.AHL.TZ0.7",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [
+"14.2",
+"14.3",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 21,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 26.0
+},
+{
+"code": "4.17",
+"syllabus": true,
+"past": [
+"21M.1.AHL.TZ2.15",
+"25M.1.AHL.TZ3.12",
+"22M.1.AHL.TZ1.15",
+"SPM.1.AHL.TZ0.16",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 14.0
+},
+{
+"code": "4.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"14.2",
+"14.4",
+"14.5",
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "4.9",
+"syllabus": true,
+"past": [
+"22M.1.AHL.TZ2.12",
+"23N.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.16",
+"syllabus": true,
+"past": [],
+"passages": [
+"14.3"
+],
+"sheets": [],
+"book_questions": 11,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 8.0
+},
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"22M.1.AHL.TZ2.12",
+"23M.2.AHL.TZ2.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "4.8",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Probability distributions, hypothesis tests and confidence intervals"
+],
+"score": 6.0
+},
+{
+"code": "4.12",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.5"
+],
+"passages": [
+"14.6"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.5",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ1.7",
+"25M.2.AHL.TZ1.5"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.19",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"25M.1.AHL.TZ3.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"4.19": [
+{
+"code": "1.15",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.15",
+"24M.2.AHL.TZ2.5",
+"22M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ2.5",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [
+"9.7"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 20.0
+},
+{
+"code": "1.14",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ2.5",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4"
+],
+"passages": [
+"9.5"
+],
+"sheets": [],
+"book_questions": 1,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 12.5
+},
+{
+"code": "4.5",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"25N.1.AHL.TZ0.16",
+"EXM.1.AHL.TZ0.17",
+"25M.2.AHL.TZ2.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "3.15",
+"syllabus": true,
+"past": [
+"24M.2.AHL.TZ1.8"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 6.0
+},
+{
+"code": "4.18",
+"syllabus": false,
+"past": [
+"24M.2.AHL.TZ1.8",
+"25M.1.AHL.TZ3.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.14",
+"syllabus": false,
+"past": [
+"21M.1.AHL.TZ2.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [
+"Matrices, graph theory and Markov chains"
+],
+"score": 3.0
+}
+],
+"5.1": [
+{
+"code": "5.3",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1",
+"10.2"
+],
+"sheets": [
+"10-8"
+],
+"book_questions": 33,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.2",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 26,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.9",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.2"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 4.0
+}
+],
+"5.2": [
+{
+"code": "5.1",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 26,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.3",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1",
+"10.3"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.4",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.6",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.9",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.3": [
+{
+"code": "5.1",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1",
+"10.2"
+],
+"sheets": [
+"10-8"
+],
+"book_questions": 33,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.9",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [
+"10.2",
+"10.3"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.4",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 26,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1",
+"10.3"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.10",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.4": [
+{
+"code": "5.3",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 26,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.1",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ2.15"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "5.1",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.1"
+],
+"sheets": [],
+"book_questions": 25,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.2",
+"22M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"5.5": [
+{
+"code": "5.8",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.4",
+"24M.2.AHL.TZ2.2",
+"22M.2.AHL.TZ1.6",
+"21M.2.AHL.TZ1.2"
+],
+"passages": [
+"11.1",
+"11.2",
+"11.5"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 19.0
+},
+{
+"code": "5.12",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ1.8"
+],
+"passages": [
+"11.3",
+"11.5"
+],
+"sheets": [
+"11-3"
+],
+"book_questions": 19,
+"priority": [],
+"score": 13.0
+},
+{
+"code": "5.11",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.2",
+"11.5"
+],
+"sheets": [
+"11-12"
+],
+"book_questions": 18,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "2.3",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.8",
+"24M.1.AHL.TZ2.10",
+"24M.1.AHL.TZ2.13",
+"23N.1.AHL.TZ0.11",
+"25M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 10.0
+},
+{
+"code": "1.6",
+"syllabus": false,
+"past": [
+"23M.1.AHL.TZ1.4",
+"24M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.4",
+"syllabus": false,
+"past": [
+"23N.1.AHL.TZ0.11",
+"21M.2.AHL.TZ1.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.8",
+"syllabus": false,
+"past": [
+"24M.1.AHL.TZ2.10",
+"22M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"25N.1.AHL.TZ0.15",
+"23N.1.AHL.TZ0.11"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.4",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.2",
+"22M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.7",
+"24M.1.AHL.TZ2.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+}
+],
+"5.6": [
+{
+"code": "5.7",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [
+"10-10"
+],
+"book_questions": 13,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.10",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 14,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "2.4",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.2",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 2.0
+}
+],
+"5.7": [
+{
+"code": "5.6",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [
+"10-10"
+],
+"book_questions": 13,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "3.1",
+"syllabus": false,
+"past": [
+"21N.1.AHL.TZ0.15",
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.10",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.1"
+],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.3",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.6",
+"23M.2.AHL.TZ2.3"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.13",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.3",
+"25M.2.AHL.TZ3.1"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.5",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.3",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.9",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.8": [
+{
+"code": "5.5",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.4",
+"24M.2.AHL.TZ2.2",
+"22M.2.AHL.TZ1.6",
+"21M.2.AHL.TZ1.2"
+],
+"passages": [
+"11.1",
+"11.2",
+"11.5"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 19.0
+},
+{
+"code": "1.6",
+"syllabus": true,
+"past": [
+"23M.1.AHL.TZ1.4",
+"24M.2.AHL.TZ2.2"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.12",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.9": [
+{
+"code": "5.3",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.3"
+],
+"passages": [
+"10.2",
+"10.3"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.10",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.9"
+],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.1",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.2"
+],
+"sheets": [],
+"book_questions": 7,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.11",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.13",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.14",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.10": [
+{
+"code": "5.6",
+"syllabus": true,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 14,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.9",
+"syllabus": true,
+"past": [
+"23N.1.AHL.TZ0.9"
+],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ3.1"
+],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "5.2",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.3",
+"syllabus": false,
+"past": [],
+"passages": [
+"10.3"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 2.0
+}
+],
+"5.11": [
+{
+"code": "5.5",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.2",
+"11.5"
+],
+"sheets": [
+"11-12"
+],
+"book_questions": 18,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.12",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "5.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.13",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.12": [
+{
+"code": "5.5",
+"syllabus": true,
+"past": [
+"25M.1.AHL.TZ1.8"
+],
+"passages": [
+"11.3",
+"11.5"
+],
+"sheets": [
+"11-3"
+],
+"book_questions": 19,
+"priority": [],
+"score": 13.0
+},
+{
+"code": "5.11",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "5.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.14",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 19,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.13": [
+{
+"code": "3.12",
+"syllabus": true,
+"past": [
+"25M.2.AHL.TZ1.4",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 3,
+"priority": [],
+"score": 12.5
+},
+{
+"code": "2.1",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ2.6",
+"22N.2.AHL.TZ0.7",
+"21M.2.AHL.TZ1.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 8.0
+},
+{
+"code": "1.15",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.7",
+"21N.2.AHL.TZ0.6"
+],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "2.3",
+"syllabus": false,
+"past": [
+"24N.2.AHL.TZ0.7",
+"24M.1.AHL.TZ2.13",
+"25N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 6.0
+},
+{
+"code": "3.11",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ1.4",
+"EXN.2.AHL.TZ0.7"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "4.6",
+"syllabus": false,
+"past": [
+"21N.2.AHL.TZ0.6",
+"25N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [
+"25M.1.AHL.TZ1.7",
+"24M.1.AHL.TZ2.13"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.7",
+"syllabus": false,
+"past": [
+"25N.2.AHL.TZ0.6"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 13,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.11",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+}
+],
+"5.14": [
+{
+"code": "5.15",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.4",
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.16",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "1.15",
+"syllabus": false,
+"past": [
+"25M.2.AHL.TZ2.6",
+"22M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.3"
+],
+"sheets": [],
+"book_questions": 19,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "2.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.9",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 3.0
+},
+{
+"code": "5.12",
+"syllabus": false,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 19,
+"priority": [],
+"score": 2.0
+}
+],
+"5.15": [
+{
+"code": "5.14",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.4",
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.16",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.4",
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.15",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.4",
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 4.0
+},
+{
+"code": "5.5",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.8",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.11",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.12",
+"syllabus": false,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.16": [
+{
+"code": "5.15",
+"syllabus": true,
+"past": [],
+"passages": [
+"11.5"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.17",
+"syllabus": true,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.14",
+"syllabus": true,
+"past": [
+"22M.2.AHL.TZ1.4"
+],
+"passages": [],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 5.0
+},
+{
+"code": "5.18",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 3.5
+}
+],
+"5.17": [
+{
+"code": "1.15",
+"syllabus": true,
+"past": [
+"21M.2.AHL.TZ2.7"
+],
+"passages": [
+"12.3",
+"12.4"
+],
+"sheets": [],
+"book_questions": 5,
+"priority": [],
+"score": 11.0
+},
+{
+"code": "5.16",
+"syllabus": true,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 4,
+"priority": [],
+"score": 7.0
+},
+{
+"code": "5.18",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 3.5
+},
+{
+"code": "3.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+},
+{
+"code": "5.13",
+"syllabus": false,
+"past": [],
+"passages": [
+"12.4"
+],
+"sheets": [],
+"book_questions": 0,
+"priority": [],
+"score": 2.0
+}
+],
+"5.18": [
+{
+"code": "5.16",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 3.5
+},
+{
+"code": "5.17",
+"syllabus": true,
+"past": [],
+"passages": [],
+"sheets": [],
+"book_questions": 1,
+"priority": [],
+"score": 3.5
+}
+]
+},
+"topics": {
+"1": {
+"1": 0,
+"2": 20,
+"3": 14,
+"4": 11,
+"5": 5
+},
+"2": {
+"1": 20,
+"2": 0,
+"3": 20,
+"4": 13,
+"5": 10
+},
+"3": {
+"1": 14,
+"2": 20,
+"3": 0,
+"4": 7,
+"5": 6
+},
+"4": {
+"1": 11,
+"2": 13,
+"3": 7,
+"4": 0,
+"5": 2
+},
+"5": {
+"1": 5,
+"2": 10,
+"3": 6,
+"4": 2,
+"5": 0
+}
+},
+"priority": [
+{
+"name": "Sequences, finance, exponentials and logarithms",
+"subtopics": [
+"1.2",
+"1.3",
+"1.4",
+"1.5",
+"1.7",
+"1.9",
+"1.11",
+"2.5",
+"2.9",
+"2.10"
+],
+"questions": [
+"25M.1.AHL.TZ1.11",
+"24N.1.AHL.TZ0.7",
+"24M.1.AHL.TZ1.1",
+"24M.1.AHL.TZ2.1",
+"24M.1.AHL.TZ2.3",
+"23N.1.AHL.TZ0.1",
+"23M.1.AHL.TZ1.10",
+"25N.2.AHL.TZ0.4",
+"24N.2.AHL.TZ0.3",
+"24M.2.AHL.TZ2.6",
+"SPM.2.AHL.TZ0.3",
+"23M.1.AHL.TZ1.14"
+],
+"sections": [
+"4.2",
+"4.4",
+"4.5",
+"6.1",
+"6.2",
+"6.3",
+"6.4",
+"7.1",
+"7.2",
+"7.3",
+"7.4",
+"7.5",
+"8.2",
+"8.5"
+]
+},
+{
+"name": "Functions, modelling, regression and statistics",
+"subtopics": [
+"2.5",
+"2.6",
+"2.9",
+"2.10",
+"4.3",
+"4.4",
+"4.13"
+],
+"questions": [
+"23N.1.AHL.TZ0.10",
+"23M.1.AHL.TZ1.10",
+"24M.1.AHL.TZ1.12",
+"24M.1.AHL.TZ2.14",
+"23M.1.AHL.TZ2.1",
+"22N.1.AHL.TZ0.11",
+"EXN.1.AHL.TZ0.12",
+"25M.2.AHL.TZ1.3",
+"23M.2.AHL.TZ1.1",
+"21M.2.AHL.TZ1.4",
+"23M.1.AHL.TZ2.9",
+"24N.2.AHL.TZ0.1"
+],
+"sections": [
+"2.2",
+"2.4",
+"4.1",
+"4.2",
+"4.5",
+"6.1",
+"6.2",
+"6.3",
+"6.4",
+"7.3",
+"7.5",
+"8.2",
+"8.5"
+]
+},
+{
+"name": "Trigonometry, vectors and 3D geometry",
+"subtopics": [
+"3.1",
+"3.2",
+"3.3",
+"3.8",
+"3.10",
+"3.11",
+"3.12",
+"3.13"
+],
+"questions": [
+"25N.2.AHL.TZ0.3",
+"25M.2.AHL.TZ2.1",
+"24M.2.AHL.TZ2.6",
+"23M.2.AHL.TZ1.6",
+"22M.2.AHL.TZ1.7",
+"21N.2.AHL.TZ0.4",
+"EXM.2.AHL.TZ0.22",
+"25M.1.AHL.TZ1.7",
+"23N.1.AHL.TZ0.11",
+"23M.1.AHL.TZ2.16",
+"25M.2.AHL.TZ1.4",
+"25M.2.AHL.TZ1.5",
+"25M.2.AHL.TZ3.3",
+"24M.2.AHL.TZ2.3",
+"22M.2.AHL.TZ2.6",
+"21M.2.AHL.TZ1.4",
+"25N.1.AHL.TZ0.13",
+"25M.1.AHL.TZ2.2",
+"24M.1.AHL.TZ1.11",
+"24M.1.AHL.TZ2.12",
+"23N.1.AHL.TZ0.4",
+"23N.1.AHL.TZ0.14",
+"23M.1.AHL.TZ1.7",
+"23M.1.AHL.TZ1.17",
+"22N.1.AHL.TZ0.8",
+"22M.1.AHL.TZ1.6",
+"22M.1.AHL.TZ1.13",
+"22M.1.AHL.TZ2.16",
+"21N.1.AHL.TZ0.16",
+"21M.1.AHL.TZ1.13",
+"EXN.1.AHL.TZ0.7",
+"25M.2.AHL.TZ3.5",
+"24N.2.AHL.TZ0.5",
+"24M.2.AHL.TZ1.2",
+"21M.2.AHL.TZ1.6",
+"SPM.2.AHL.TZ0.4",
+"EXN.2.AHL.TZ0.7"
+],
+"sections": [
+"1.2",
+"1.3",
+"3.1",
+"3.2",
+"3.4",
+"3.5",
+"3.6",
+"8.1",
+"8.2",
+"12.1",
+"12.2",
+"12.4"
+]
+},
+{
+"name": "Matrices, graph theory and Markov chains",
+"subtopics": [
+"1.14",
+"1.15",
+"3.9",
+"3.14",
+"3.15",
+"3.16",
+"4.19"
+],
+"questions": [
+"24N.1.AHL.TZ0.11",
+"24M.1.AHL.TZ1.17",
+"24M.1.AHL.TZ2.15",
+"23N.1.AHL.TZ0.15",
+"22M.1.AHL.TZ1.11",
+"25N.2.AHL.TZ0.7",
+"25M.2.AHL.TZ3.7",
+"24N.2.AHL.TZ0.6",
+"24M.2.AHL.TZ2.5",
+"23M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ1.4",
+"22M.2.AHL.TZ1.7",
+"22M.2.AHL.TZ2.5",
+"22M.2.AHL.TZ2.7",
+"21N.2.AHL.TZ0.4",
+"21N.2.AHL.TZ0.6",
+"21M.2.AHL.TZ1.5",
+"21M.2.AHL.TZ2.4",
+"EXM.2.AHL.TZ0.8",
+"22N.1.AHL.TZ0.11",
+"22M.2.AHL.TZ1.6",
+"21N.2.AHL.TZ0.2",
+"25N.1.AHL.TZ0.12",
+"25M.1.AHL.TZ2.8",
+"24M.1.AHL.TZ1.11",
+"23M.1.AHL.TZ2.8",
+"22N.1.AHL.TZ0.4",
+"22M.1.AHL.TZ2.6",
+"21M.1.AHL.TZ1.10",
+"21M.1.AHL.TZ1.16",
+"gt_p1.59",
+"EXM.1.AHL.TZ0.1",
+"EXM.1.AHL.TZ0.24",
+"EXM.1.AHL.TZ0.39",
+"21M.1.AHL.TZ2.13",
+"25M.2.AHL.TZ3.4",
+"24M.2.AHL.TZ1.8",
+"23N.2.AHL.TZ0.5",
+"23N.2.AHL.TZ0.6",
+"23M.2.AHL.TZ2.4",
+"SPM.2.AHL.TZ0.5",
+"EXM.2.AHL.TZ0.2",
+"EXM.2.AHL.TZ0.17",
+"EXM.2.AHL.TZ0.18",
+"25N.1.AHL.TZ0.16",
+"25M.1.AHL.TZ3.15",
+"EXN.1.AHL.TZ0.5",
+"EXM.1.AHL.TZ0.17",
+"EXM.1.AHL.TZ0.18",
+"25M.2.AHL.TZ2.7"
+],
+"sections": [
+"9.1",
+"9.2",
+"9.3",
+"9.4",
+"9.5",
+"9.6",
+"9.7",
+"12.3",
+"12.4",
+"15.1",
+"15.2",
+"15.3",
+"15.4",
+"15.5"
+]
+},
+{
+"name": "Probability distributions, hypothesis tests and confidence intervals",
+"subtopics": [
+"4.7",
+"4.8",
+"4.9",
+"4.11",
+"4.14",
+"4.15",
+"4.16",
+"4.17",
+"4.18"
+],
+"questions": [
+"22M.1.AHL.TZ1.12",
+"25M.2.AHL.TZ1.5",
+"24M.2.AHL.TZ1.1",
+"21N.1.AHL.TZ0.14",
+"21M.1.AHL.TZ1.11",
+"21M.1.AHL.TZ2.9",
+"21M.1.AHL.TZ2.10",
+"21M.1.AHL.TZ2.15",
+"gt_p1.83",
+"25N.1.AHL.TZ0.9",
+"25M.1.AHL.TZ1.9",
+"25M.1.AHL.TZ2.6",
+"25M.1.AHL.TZ2.13",
+"25M.1.AHL.TZ3.12",
+"24M.1.AHL.TZ2.2",
+"24M.1.AHL.TZ2.4",
+"24M.1.AHL.TZ2.9",
+"23M.1.AHL.TZ1.2",
+"23M.1.AHL.TZ2.15",
+"22N.1.AHL.TZ0.16",
+"22M.1.AHL.TZ1.9",
+"22M.1.AHL.TZ1.15",
+"22M.1.AHL.TZ2.9",
+"22M.1.AHL.TZ2.12",
+"SPM.1.AHL.TZ0.16",
+"EXM.1.AHL.TZ0.55",
+"EXM.1.AHL.TZ0.56",
+"EXM.1.AHL.TZ0.59",
+"25N.2.AHL.TZ0.5",
+"25M.2.AHL.TZ3.6",
+"24M.2.AHL.TZ1.6",
+"24M.2.AHL.TZ2.7",
+"23N.2.AHL.TZ0.2",
+"23N.2.AHL.TZ0.7",
+"23M.2.AHL.TZ1.5",
+"23M.2.AHL.TZ2.6",
+"22N.2.AHL.TZ0.6"
+],
+"sections": [
+"13.1",
+"13.2",
+"13.3",
+"13.4",
+"13.5",
+"13.6",
+"14.2",
+"14.3",
+"14.4",
+"14.5",
+"14.6"
+]
+},
+{
+"name": "Complex numbers and polar/exponential forms",
+"subtopics": [
+"1.12",
+"1.13"
+],
+"questions": [
+"25N.1.AHL.TZ0.5",
+"25M.1.AHL.TZ1.14",
+"24N.1.AHL.TZ0.9",
+"24M.1.AHL.TZ1.13",
+"24M.1.AHL.TZ2.3",
+"24M.1.AHL.TZ2.15",
+"23N.1.AHL.TZ0.8",
+"23M.1.AHL.TZ2.11",
+"22N.1.AHL.TZ0.17",
+"22M.1.AHL.TZ1.10",
+"25M.2.AHL.TZ3.7",
+"21N.2.AHL.TZ0.5"
+],
+"sections": [
+"8.3",
+"8.4",
+"8.5"
+]
+}
+]
+}

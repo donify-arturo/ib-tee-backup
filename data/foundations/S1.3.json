@@ -1,0 +1,1047 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "50",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "In the orbital filling of boron-type atoms, the 1s and 2s orbitals are completely filled before electrons go into the 2p orbitals. Why does the filling happen in this order?",
+   "options": [],
+   "answer": "1s and 2s orbitals have lower energy than 2p orbitals, so filling them first gives the most stable arrangement.",
+   "steps": [
+    "Electrons fill the lowest available energy orbitals first (Aufbau principle).",
+    "1s and 2s lie below 2p in energy.",
+    "Occupying the lowest orbitals gives the most stable electron configuration."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "52",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Write the full electron configuration of a phosphorus atom.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p³",
+   "steps": [
+    "Phosphorus has Z = 15, so 15 electrons.",
+    "Fill in order: 1s² (2), 2s² (4), 2p⁶ (10), 3s² (12).",
+    "The last 3 electrons go into 3p: 3p³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "53",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Write the condensed electron configuration of a phosphorus atom.",
+   "options": [],
+   "answer": "[Ne] 3s² 3p³",
+   "steps": [
+    "The previous noble gas is neon (Z = 10), covering 1s² 2s² 2p⁶.",
+    "Add the remaining valence electrons: 3s² 3p³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "58",
+   "understanding": "S1.3.6",
+   "kind": "calculation",
+   "question": "In the helium atom's emission spectrum the lines converge at 5.05×10⁻⁸ m. Calculate the first ionization energy of helium in kJ mol⁻¹. (h = 6.63×10⁻³⁴ J s, c = 3.00×10⁸ m s⁻¹, Nₐ = 6.02×10²³ mol⁻¹)",
+   "options": [],
+   "answer": "≈ 2370 kJ mol⁻¹",
+   "steps": [
+    "E = hc/λ = (6.63×10⁻³⁴ × 3.00×10⁸) / 5.05×10⁻⁸ ≈ 3.94×10⁻¹⁸ J per atom.",
+    "Multiply by Nₐ: 3.94×10⁻¹⁸ × 6.02×10²³ ≈ 2.37×10⁶ J mol⁻¹.",
+    "Divide by 1000: ≈ 2370 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "58",
+   "understanding": "S1.3.6",
+   "kind": "calculation",
+   "question": "The first ionization energy of calcium is 590 kJ mol⁻¹. Calculate the wavelength of convergence for calcium's atomic spectrum, in Å. (h = 6.63×10⁻³⁴ J s, c = 3.00×10⁸ m s⁻¹, Nₐ = 6.02×10²³ mol⁻¹, 1 Å = 10⁻¹⁰ m)",
+   "options": [],
+   "answer": "≈ 2030 Å",
+   "steps": [
+    "Energy per atom = 590 000 J mol⁻¹ / 6.02×10²³ ≈ 9.80×10⁻¹⁹ J.",
+    "λ = hc/E = (6.63×10⁻³⁴ × 3.00×10⁸) / 9.80×10⁻¹⁹ ≈ 2.03×10⁻⁷ m.",
+    "Convert: 2.03×10⁻⁷ m = 2030 Å."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "59",
+   "understanding": "S1.3.7",
+   "kind": "short_answer",
+   "question": "The first five successive ionization energies of an unknown element are 801, 2427, 3660, 25026 and 32827 kJ mol⁻¹. In which group of the periodic table is the element likely to be?",
+   "options": [],
+   "answer": "Group 13",
+   "steps": [
+    "Find the largest jump: 3660 → 25026 kJ mol⁻¹, between IE₃ and IE₄.",
+    "So the fourth electron comes from an inner, noble-gas-like core.",
+    "Three outer electrons means group 13."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Using what you know from this topic, explain as fully as you can how the energy states of electrons in atoms can be modelled.",
+   "options": [],
+   "answer": "Electrons occupy discrete energy levels that converge at high energy; each level splits into s, p, d, f sublevels of rising energy; each sublevel has a fixed number of orbitals holding two electrons of opposite spin; absorbing or emitting a quantum moves an electron between levels.",
+   "steps": [
+    "Discrete levels that converge at higher energies.",
+    "Levels split into sublevels of successively higher energy.",
+    "Orbitals hold up to two electrons with opposite spins.",
+    "Jumping up absorbs a quantum; falling back emits the same quantum, usually as IR, visible or UV light."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.1",
+   "kind": "multiple_choice",
+   "question": "Which row correctly describes the ultraviolet (UV) and infrared (IR) regions of the electromagnetic spectrum?",
+   "options": [
+    "A. UV: high energy, short wavelength; IR: low energy, low frequency",
+    "B. UV: high energy, low frequency; IR: low energy, long wavelength",
+    "C. UV: high frequency, short wavelength; IR: high energy, long wavelength",
+    "D. UV: high frequency, long wavelength; IR: low frequency, low energy"
+   ],
+   "answer": "A. UV: high energy, short wavelength; IR: low energy, low frequency",
+   "steps": [
+    "UV has higher energy than IR, so higher frequency and shorter wavelength.",
+    "IR has lower energy, so lower frequency and longer wavelength.",
+    "Only A is consistent for both regions."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.1",
+   "kind": "multiple_choice",
+   "question": "Which light sources would give a line spectrum when viewed through a prism? I. a gas discharge tube; II. an incandescent lamp; III. an alkali metal salt in a Bunsen flame.",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "Excited gaseous atoms (discharge tube, atoms in a flame) emit at discrete wavelengths.",
+    "A hot filament emits a continuous spectrum.",
+    "So I and III only."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.2",
+   "kind": "multiple_choice",
+   "question": "An electron transition from n = 4 to n = 2 in an isolated atom gives a visible line. Which transition in the same atom would most likely give a UV line?",
+   "options": [
+    "A. n = 4 to n = 1",
+    "B. n = 4 to n = 3",
+    "C. n = 3 to n = 2",
+    "D. n = 5 to n = 3"
+   ],
+   "answer": "A. n = 4 to n = 1",
+   "steps": [
+    "UV photons carry more energy than visible ones.",
+    "Transitions ending at n = 1 involve the largest energy gaps.",
+    "So n = 4 to n = 1."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.3",
+   "kind": "multiple_choice",
+   "question": "What is the maximum number of electrons the third energy level can hold?",
+   "options": [
+    "A. 3",
+    "B. 6",
+    "C. 9",
+    "D. 18"
+   ],
+   "answer": "D. 18",
+   "steps": [
+    "Maximum = 2n².",
+    "For n = 3: 2 × 9 = 18."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.5",
+   "kind": "multiple_choice",
+   "question": "What is the ground-state electron configuration of chromium (Z = 24)?",
+   "options": [
+    "A. [Ar] 3d⁷",
+    "B. [Ar] 4s² 3d⁴",
+    "C. [Ar] 4s¹ 3d⁵",
+    "D. [Ar] 4s¹ 4p⁵"
+   ],
+   "answer": "C. [Ar] 4s¹ 3d⁵",
+   "steps": [
+    "Cr is one of the two exceptions to the Aufbau order.",
+    "One 4s electron moves to 3d, giving a half-filled 3d sublevel.",
+    "Result: [Ar] 4s¹ 3d⁵."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.7",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct?",
+   "options": [
+    "A. IE₃ > IE₄",
+    "B. Molar ionization energies are measured in kJ",
+    "C. The third ionization energy of X is the process X²⁺(g) → X³⁺(g) + e⁻",
+    "D. Ionization energies decrease across a period from left to right"
+   ],
+   "answer": "C. The third ionization energy of X is the process X²⁺(g) → X³⁺(g) + e⁻",
+   "steps": [
+    "Successive IEs rise, so IE₃ < IE₄ (A wrong).",
+    "Molar IE has units kJ mol⁻¹ (B wrong).",
+    "IE generally increases across a period (D wrong).",
+    "C correctly describes removing the third electron."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.7",
+   "kind": "multiple_choice",
+   "question": "Which statement about the first ionization energies of nitrogen and oxygen is correct?",
+   "options": [
+    "A. IE₁(N) < IE₁(O) because oxygen has two paired electrons in its partly filled sublevel",
+    "B. IE₁(N) > IE₁(O) because oxygen has two paired electrons in its partly filled sublevel",
+    "C. IE₁(N) < IE₁(O) because oxygen loses an electron from a higher sublevel than nitrogen",
+    "D. IE₁(N) > IE₁(O) because oxygen loses an electron from a higher sublevel than nitrogen"
+   ],
+   "answer": "B. IE₁(N) > IE₁(O) because oxygen has two paired electrons in its partly filled sublevel",
+   "steps": [
+    "N is 2p³ (half-filled, stable); O is 2p⁴.",
+    "In O two electrons share one 2p orbital and repel each other.",
+    "That makes one easier to remove, so IE₁(N) > IE₁(O). Both lose a 2p electron, so the 'higher sublevel' reasons are wrong."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "61",
+   "understanding": "S1.3.7",
+   "kind": "multiple_choice",
+   "question": "The first five successive ionization energies of an element are 578, 1817, 2745, 11577 and 14842 kJ mol⁻¹. Which group is it likely to be in?",
+   "options": [
+    "A. 1",
+    "B. 2",
+    "C. 13",
+    "D. 14"
+   ],
+   "answer": "C. 13",
+   "steps": [
+    "The biggest jump is from IE₃ (2745) to IE₄ (11577).",
+    "Three electrons come from the outer level before the core is reached.",
+    "Three valence electrons: group 13."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.1",
+   "kind": "short_answer",
+   "question": "Explain in your own words why gaseous atoms give line spectra rather than continuous spectra.",
+   "options": [],
+   "answer": "Electrons sit in discrete energy levels, so transitions release or absorb only specific energy quanta; each quantum is a photon with one specific wavelength, giving separate lines.",
+   "steps": [
+    "Atomic energy levels are discrete.",
+    "Transitions between them involve fixed energy amounts.",
+    "Each fixed energy corresponds to a photon of one wavelength, so only certain lines appear."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Give the full and condensed ground-state electron configurations of a titanium atom.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²; [Ar] 4s² 3d²",
+   "steps": [
+    "Ti has Z = 22.",
+    "Fill up to 3p⁶ (18 electrons), then 4s² (20), then 3d² (22).",
+    "Condense the first 18 electrons to [Ar]."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Give the full and condensed ground-state electron configurations of a selenium atom.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴; [Ar] 4s² 3d¹⁰ 4p⁴",
+   "steps": [
+    "Se has Z = 34.",
+    "After [Ar] (18), add 4s² (20), 3d¹⁰ (30), then 4p⁴ (34)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Give the full and condensed ground-state electron configurations of a silicon atom.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p²; [Ne] 3s² 3p²",
+   "steps": [
+    "Si has Z = 14.",
+    "1s² 2s² 2p⁶ takes 10 electrons; 3s² 3p² takes the other 4.",
+    "Condense the first 10 to [Ne]."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Give the full and condensed ground-state electron configurations of the Ti³⁺ ion.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹; [Ar] 3d¹",
+   "steps": [
+    "Ti is [Ar] 4s² 3d²; it has 22 electrons, so Ti³⁺ has 19.",
+    "Remove electrons from the highest n first: both 4s, then one 3d.",
+    "Left with [Ar] 3d¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Give the full and condensed ground-state electron configurations of the S²⁻ ion.",
+   "options": [],
+   "answer": "1s² 2s² 2p⁶ 3s² 3p⁶; [Ar]",
+   "steps": [
+    "S has 16 electrons ([Ne] 3s² 3p⁴); S²⁻ has 18.",
+    "The extra two electrons fill 3p to 3p⁶.",
+    "That equals the argon configuration."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Which of these configurations is impossible, and why? (i) 1s² 2s² 2p⁷ 3s² 3p⁵ (ii) 1s² 2s² 2p⁶ 3s² 3p⁶",
+   "options": [],
+   "answer": "(i) is impossible: a 2p sublevel can hold only 6 electrons.",
+   "steps": [
+    "The p sublevel has 3 orbitals, each holding 2 electrons, so maximum 6.",
+    "2p⁷ exceeds this; (ii) is fine."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Which is a ground-state configuration, and why? (i) 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵ 5s¹ (ii) 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹",
+   "options": [],
+   "answer": "(ii) is the ground state; in (i) a 4p electron has been promoted to 5s, so it is excited.",
+   "steps": [
+    "In the ground state 4p fills (4p⁶) before 5s receives electrons.",
+    "(i) leaves a vacancy in 4p while 5s is occupied, so an electron has been promoted."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Describe the shape of an s orbital.",
+   "options": [],
+   "answer": "Spherical (centred on the nucleus).",
+   "steps": [],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.2",
+   "kind": "short_answer",
+   "question": "In the hydrogen energy-level diagram (n = 1 to 7), which transition is the lowest-energy one that appears in the visible region of the emission spectrum?",
+   "options": [],
+   "answer": "An arrow pointing down from n = 3 to n = 2.",
+   "steps": [
+    "Visible lines come from transitions ending at n = 2.",
+    "The smallest energy gap among these is from n = 3 to n = 2 (the red line)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Sketch the orbital filling diagram of an aluminium atom and deduce how many unpaired electrons it has.",
+   "options": [],
+   "answer": "One unpaired electron.",
+   "steps": [
+    "Al has Z = 13: 1s² 2s² 2p⁶ 3s² 3p¹.",
+    "Draw 1s, 2s and 3s boxes each with an up and a down arrow; three 2p boxes each with two arrows.",
+    "The 3p electron sits alone in one of three 3p boxes, so one is unpaired."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "calculation",
+   "question": "A transition element ion X³⁺ has the configuration [Ar] 3d⁵. Find the atomic number of X.",
+   "options": [],
+   "answer": "26",
+   "steps": [
+    "[Ar] has 18 electrons, plus 5 in 3d gives 23.",
+    "The neutral atom has 3 more electrons: 26.",
+    "Atomic number = 26 (iron)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Draw (describe) the condensed orbital filling diagram for germanium and deduce the total number of p orbitals holding one or more electrons.",
+   "options": [],
+   "answer": "8 occupied p orbitals (2p⁶, 3p⁶, 4p²).",
+   "steps": [
+    "Ge has Z = 32: [Ar] 4s² 3d¹⁰ 4p².",
+    "Core: three 2p orbitals and three 3p orbitals, all full.",
+    "4p² puts one electron in each of two 4p orbitals.",
+    "Total = 3 + 3 + 2 = 8."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.6",
+   "kind": "short_answer",
+   "question": "Describe how the first ionization energy of an atom can be found from its emission spectrum.",
+   "options": [],
+   "answer": "Find the wavelength where the spectral lines converge, then calculate IE₁ = hc/λ (per atom), multiplying by Nₐ for a molar value.",
+   "steps": [
+    "The convergence limit corresponds to ionization of the atom.",
+    "Use that wavelength λ in E = hc/λ.",
+    "Scale by Avogadro's constant for kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.7",
+   "kind": "short_answer",
+   "question": "Using the data booklet values for period 3 (Na to Ar), explain the general trend in first ionization energy and the two exceptions to it.",
+   "options": [],
+   "answer": "IE₁ rises because nuclear charge increases while shielding stays about constant. Drops at Mg→Al (3p electron is easier to remove than 3s) and P→S (paired 3p electrons repel; P has a stable half-filled 3p).",
+   "steps": [
+    "More protons, same inner shielding: outer electrons held more strongly.",
+    "Mg 3s² to Al 3s² 3p¹: the 3p electron is shielded by 3s² and is slightly higher in energy.",
+    "P 3s² 3p³ to S 3s² 3p⁴: in S two electrons share an orbital and repel.",
+    "P has a half-filled p sublevel, which is stable."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "62",
+   "understanding": "S1.3.7",
+   "kind": "short_answer",
+   "question": "The first four successive ionization energies of an element X are 738, 1451, 7733 and 10543 kJ mol⁻¹. In which group is X likely to be?",
+   "options": [],
+   "answer": "Group 2",
+   "steps": [
+    "The biggest jump is from IE₂ (1451) to IE₃ (7733).",
+    "The third electron comes from an inner level, so two valence electrons.",
+    "Group 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "17M.1.HL.TZ1.6"
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.2",
+   "kind": "short_answer",
+   "question": "Which type of electron transition in the hydrogen atom produces light in the ultraviolet region? (Choose the transition that ends at the lowest level.)",
+   "options": [],
+   "answer": "A transition down to n = 1 (the book's answer is option C).",
+   "steps": [
+    "Transitions to n = 1 release the largest energy.",
+    "These photons fall in the UV region."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Deduce the full electron configurations of Ga, P³⁻ and V²⁺.",
+   "options": [],
+   "answer": "Ga: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p¹; P³⁻: 1s² 2s² 2p⁶ 3s² 3p⁶; V²⁺: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³",
+   "steps": [
+    "Ga (31 e⁻): fill to 3p⁶, then 4s², 3d¹⁰, 4p¹.",
+    "P³⁻ has 18 electrons: 3p fills to 3p⁶.",
+    "V (23 e⁻) is [Ar] 4s² 3d³; V²⁺ loses the two 4s electrons: [Ar] 3d³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "State the condensed electron configuration of Cr³⁺.",
+   "options": [],
+   "answer": "[Ar] 3d³",
+   "steps": [
+    "Cr is [Ar] 4s¹ 3d⁵ (24 e⁻).",
+    "Remove the 4s electron first, then two 3d electrons.",
+    "Left with [Ar] 3d³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Draw (describe) the orbital diagram for a fluorine atom.",
+   "options": [],
+   "answer": "1s: ↑↓; 2s: ↑↓; 2p: ↑↓ ↑↓ ↑ (full or condensed form [He] accepted).",
+   "steps": [
+    "F has 9 electrons: 1s² 2s² 2p⁵.",
+    "Fill the three 2p boxes singly first, then pair two of them.",
+    "That leaves one unpaired 2p electron."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "Draw (describe) the orbital diagram for a Ni²⁺ ion.",
+   "options": [],
+   "answer": "[Ar] with 3d: ↑↓ ↑↓ ↑↓ ↑ ↑ (3d⁸); 4s empty.",
+   "steps": [
+    "Ni (28 e⁻) is [Ar] 4s² 3d⁸.",
+    "Remove the two 4s electrons: [Ar] 3d⁸.",
+    "Five 3d boxes: three paired, two with a single electron each (Hund's rule)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "14",
+   "understanding": "S1.3.5",
+   "kind": "short_answer",
+   "question": "How many unpaired electrons are in Cu²⁺?",
+   "options": [],
+   "answer": "1",
+   "steps": [
+    "Cu is [Ar] 4s¹ 3d¹⁰; Cu²⁺ loses the 4s electron and one 3d.",
+    "Cu²⁺ is [Ar] 3d⁹.",
+    "Four boxes full, one with a single electron: 1 unpaired."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "52",
+   "understanding": "S1.3.5",
+   "title": "Full electron configuration of calcium",
+   "problem": "Determine the full electron configuration of a calcium atom (Z = 20).",
+   "steps": [
+    {
+     "hint": "Find the number of electrons to place.",
+     "work": "Z = 20, so 20 electrons."
+    },
+    {
+     "hint": "Fill the lowest sublevels, two per s and six per p.",
+     "work": "1s² (2), 2s² (4), 2p⁶ (10), 3s² (12), 3p⁶ (18)."
+    },
+    {
+     "hint": "Place the remaining electrons in the next lowest sublevel.",
+     "work": "2 electrons left → 4s²."
+    },
+    {
+     "hint": "Write out the whole configuration.",
+     "work": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "53",
+   "understanding": "S1.3.5",
+   "title": "Condensed electron configuration of calcium",
+   "problem": "Using the full configuration of calcium (1s² 2s² 2p⁶ 3s² 3p⁶ 4s²), write its condensed configuration.",
+   "steps": [
+    {
+     "hint": "Identify the noble gas preceding calcium.",
+     "work": "Argon (Z = 18)."
+    },
+    {
+     "hint": "Check argon's configuration matches the inner part.",
+     "work": "Ar = 1s² 2s² 2p⁶ 3s² 3p⁶."
+    },
+    {
+     "hint": "Replace the core and keep the valence electrons.",
+     "work": "[Ar] 4s²"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "58",
+   "understanding": "S1.3.6",
+   "title": "First ionization energy of hydrogen from spectrum",
+   "problem": "The lines in hydrogen's emission spectrum converge at 9.12×10⁻⁸ m. Calculate the first ionization energy in kJ mol⁻¹. (c = 3.00×10⁸ m s⁻¹, h = 6.63×10⁻³⁴ J s, Nₐ = 6.02×10²³ mol⁻¹)",
+   "steps": [
+    {
+     "hint": "Get the frequency of the convergence limit from c = fλ.",
+     "work": "f = 3.00×10⁸ / 9.12×10⁻⁸ = 3.29×10¹⁵ Hz."
+    },
+    {
+     "hint": "Find the energy of one photon.",
+     "work": "E = hf = 6.63×10⁻³⁴ × 3.29×10¹⁵ = 2.18×10⁻¹⁸ J."
+    },
+    {
+     "hint": "Scale from one atom to one mole.",
+     "work": "2.18×10⁻¹⁸ × 6.02×10²³ = 1.31×10⁶ J mol⁻¹."
+    },
+    {
+     "hint": "Convert to kJ.",
+     "work": "≈ 1.31×10³ kJ mol⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "58",
+   "understanding": "S1.3.6",
+   "title": "Convergence wavelength for sodium",
+   "problem": "The first ionization energy of Na is 496 kJ mol⁻¹. Calculate the wavelength at which its spectral lines converge, in Å.",
+   "steps": [
+    {
+     "hint": "Convert to joules per atom.",
+     "work": "496 000 J mol⁻¹ / 6.02×10²³ mol⁻¹ = 8.24×10⁻¹⁹ J."
+    },
+    {
+     "hint": "Rearrange E = hc/λ for wavelength.",
+     "work": "λ = hc/E = (6.63×10⁻³⁴ × 3.00×10⁸) / 8.24×10⁻¹⁹."
+    },
+    {
+     "hint": "Evaluate in metres.",
+     "work": "λ = 2.41×10⁻⁷ m."
+    },
+    {
+     "hint": "Convert to ångström (1 Å = 10⁻¹⁰ m).",
+     "work": "2410 Å (UV region)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "59",
+   "understanding": "S1.3.7",
+   "title": "Group of element from successive IEs",
+   "problem": "The first five successive ionization energies of element X are 403, 2633, 3860, 5080 and 6850 kJ mol⁻¹. Deduce its group.",
+   "steps": [
+    {
+     "hint": "Look for the biggest jump between values.",
+     "work": "403 → 2633 kJ mol⁻¹ is the largest increase."
+    },
+    {
+     "hint": "Interpret what the jump means.",
+     "work": "The second electron comes from a stable, noble-gas-like inner level."
+    },
+    {
+     "hint": "Count the outer electrons and decide the group.",
+     "work": "One valence electron → group 1."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "12",
+   "understanding": "S1.3.6",
+   "title": "Hydrogen IE₁ from convergence frequency",
+   "problem": "Hydrogen's convergence frequency for electrons returning to n = 1 is 3.288×10¹⁵ Hz. Calculate IE₁ in kJ mol⁻¹. (h = 6.63×10⁻³⁴ J s, Nₐ = 6.02×10²³ mol⁻¹)",
+   "steps": [
+    {
+     "hint": "Use E = hf for one atom.",
+     "work": "E = 6.63×10⁻³⁴ × 3.288×10¹⁵ = 2.18×10⁻¹⁸ J."
+    },
+    {
+     "hint": "Convert to J per mole.",
+     "work": "2.18×10⁻¹⁸ × 6.02×10²³ = 1.31×10⁶ J mol⁻¹."
+    },
+    {
+     "hint": "Convert to kJ.",
+     "work": "≈ 1310 kJ mol⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "12",
+   "understanding": "S1.3.7",
+   "title": "Group of a transition element from IE data",
+   "problem": "The first five successive ionization energies of an unknown transition element are 633, 1235, 2389, 7091 and 8843 kJ mol⁻¹. Deduce its group.",
+   "steps": [
+    {
+     "hint": "Compare consecutive values to find the biggest gap.",
+     "work": "2389 → 7091 kJ mol⁻¹ (between IE₃ and IE₄)."
+    },
+    {
+     "hint": "Say what the jump tells you about the valence shell.",
+     "work": "The fourth electron is from a lower level, so there are 3 outer electrons."
+    },
+    {
+     "hint": "List candidate groups, then use the transition-element clue.",
+     "work": "Group 3 or 13; transition element → group 3."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "13",
+   "understanding": "S1.3.7",
+   "title": "Exceptions to the IE₁ trend in period 3",
+   "problem": "Explain with electron configurations why first ionization energy does not simply rise from (a) Mg (738 kJ mol⁻¹) to Al (578 kJ mol⁻¹) and (b) P (1012 kJ mol⁻¹) to S (1000 kJ mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Write the Mg and Al outer configurations.",
+     "work": "Mg 3s²; Al 3s² 3p¹."
+    },
+    {
+     "hint": "Explain why Al's outer electron is easier to remove.",
+     "work": "The 3p electron is shielded by 3s² and is higher in energy, so IE₁(Al) = 578 < 738."
+    },
+    {
+     "hint": "Write the P and S outer configurations.",
+     "work": "P 3s² 3p³ (one electron per 3p orbital); S 3s² 3p⁴."
+    },
+    {
+     "hint": "Explain why S loses an electron more easily.",
+     "work": "Two electrons share one 3p orbital in S and repel, so IE₁(S) = 1000 < 1012."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "36",
+   "understanding": "S1.3.1",
+   "tag": "Skills question",
+   "prompt": "After viewing light sources through a spectroscope, how would you decide whether each spectrum is continuous, emission or absorption?",
+   "model_answer": [
+    "The spectra seen from discharge lamps are emission spectra.",
+    "They show bright lines at discrete wavelengths on a dark background.",
+    "A continuous spectrum would show all colours without gaps."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "36",
+   "understanding": "S1.3.2",
+   "tag": "Skills question",
+   "prompt": "How should the observed emission lines of a gas compare with its theoretical spectrum from a database?",
+   "model_answer": [
+    "The theoretical spectrum will generally show more lines.",
+    "It may include more colours than you could see.",
+    "Wavelengths may differ slightly from your observed values."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "36",
+   "understanding": "S1.3.2",
+   "tag": "Skills question",
+   "prompt": "You plot theoretical against observed wavelength and draw a line of best fit. How do you present and interpret this graph?",
+   "model_answer": [
+    "Follow Tool 3 guidance: labelled axes with units, suitable scales, title.",
+    "Draw a line of best fit through the points.",
+    "Describe the relationship shown, and comment on how accurate the observed wavelengths are.",
+    "Answers depend on the lamp and instrument used."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "37",
+   "understanding": "S1.3.1",
+   "tag": "Skills question",
+   "prompt": "How do the flame-test colours you saw compare with the metals' published emission spectra?",
+   "model_answer": [
+    "Published spectra are likely to contain more lines and possibly more colours than the flame shows.",
+    "The flame colour you see is the overall impression of the strongest visible lines."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "37",
+   "understanding": "S1.3.1",
+   "tag": "Skills question",
+   "prompt": "Why do different metal salts give different flame colours?",
+   "model_answer": [
+    "The flame excites electrons to higher energy levels.",
+    "Electrons falling back emit photons.",
+    "The gaps between energy levels differ from one element to another.",
+    "So the photon energies, wavelengths and colours differ."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "39",
+   "understanding": "S1.3.1",
+   "tag": "Activity",
+   "prompt": "Comparing red and green light in the electromagnetic spectrum figure, which has the highest wavelength, the highest frequency and the highest energy?",
+   "model_answer": [
+    "Highest wavelength: red.",
+    "Highest frequency: green.",
+    "Highest energy: green."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "39",
+   "understanding": "S1.3.2",
+   "tag": "Data-based question",
+   "prompt": "The Sun's absorption spectrum has dark lines at the same positions as four lines in hydrogen's emission spectrum. What does this tell you about the Sun?",
+   "model_answer": [
+    "The matching lines show hydrogen is present in the Sun.",
+    "Hydrogen atoms absorb those wavelengths, creating the dark lines."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "48",
+   "understanding": "S1.3.4",
+   "tag": "Activity",
+   "prompt": "For the energy level n = 5, state the sublevel types, orbitals per sublevel, total orbitals and maximum electrons.",
+   "model_answer": [
+    "Sublevels: s, p, d, f and g.",
+    "Orbitals: s 1, p 3, d 5, f 7, g 9.",
+    "Total orbitals = 25 (equal to n²).",
+    "Maximum electrons = 25 × 2 = 50."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "54",
+   "understanding": "S1.3.5",
+   "tag": "Activity",
+   "prompt": "What is the electron configuration of the Cu²⁺ ion?",
+   "model_answer": [
+    "Cu is [Ar] 4s¹ 3d¹⁰.",
+    "Remove the 4s electron and one 3d electron.",
+    "Cu²⁺ is [Ar] 3d⁹."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "59",
+   "understanding": "S1.3.7",
+   "tag": "Data-based question",
+   "prompt": "Using the graph of sodium's successive ionization energies and its electron configuration, explain the two large jumps.",
+   "model_answer": [
+    "Na is 1s² 2s² 2p⁶ 3s¹.",
+    "The first big jump is after the 1st electron: the next one comes from the stable [Ne] core.",
+    "The second is between the 9th and 10th: breaking into the [He] 1s² core.",
+    "Both jumps mark a change of main energy level."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "60",
+   "understanding": "S1.3.7",
+   "tag": "Skills question",
+   "prompt": "Why does ionization energy increase with each successive electron removed?",
+   "model_answer": [
+    "Electron–electron repulsion decreases as electrons are removed.",
+    "The ion gets smaller and the remaining electrons are pulled in closer.",
+    "Attraction between the nucleus and the remaining electrons increases, so more energy is needed."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "60",
+   "understanding": "S1.3.7",
+   "tag": "Skills question",
+   "prompt": "Why do large jumps in a successive ionization energy graph show main energy levels?",
+   "model_answer": [
+    "A big jump means an electron is being taken from a noble-gas-like inner level.",
+    "Removing an electron from n = 2 needs much more energy than from n = 3."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "60",
+   "understanding": "S1.3.7",
+   "tag": "Skills question",
+   "prompt": "Why plot the logarithm of successive ionization energies rather than the raw values?",
+   "model_answer": [
+    "A log scale fits data that covers a very large range.",
+    "It makes unusually large increases easier to spot."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "60",
+   "understanding": "S1.3.7",
+   "tag": "Skills question",
+   "prompt": "In an expanded graph of the n = 2 electrons, you see a slightly larger increase. What does it show about sublevels?",
+   "model_answer": [
+    "In one energy level, s electrons need more energy to remove than p electrons.",
+    "A 2s electron is harder to remove than a 2p electron.",
+    "The slightly bigger step between removing the 2p and 2s electrons is evidence for sublevels."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.3.2",
+   "tag": "Inquiry 2",
+   "prompt": "What qualitative and quantitative data can you collect from gas discharge tubes and prisms when studying emission spectra?",
+   "model_answer": [
+    "Qualitative: colours of the lines, number of lines, whether the spectrum is line or continuous, and relative brightness.",
+    "Quantitative: wavelengths (or frequencies) of each line, measured with a calibrated spectroscope or scale.",
+    "Wavelengths give photon energies via E = hc/λ, which reveal energy-level gaps.",
+    "Compare with database values to assess accuracy.",
+    "Each element's pattern of lines acts like a fingerprint for identifying it."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.3.6",
+   "tag": "Tool 3",
+   "prompt": "Why are log scales useful when discussing ionization energies (and [H⁺])?",
+   "model_answer": [
+    "The values cover many orders of magnitude (successive IEs rise from hundreds to hundreds of thousands of kJ mol⁻¹).",
+    "A log scale compresses this range so all points fit on one readable graph.",
+    "Large jumps marking a new main energy level stand out clearly.",
+    "In the same way, [H⁺] spans many powers of ten, which is why pH is a log scale."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "S1.3",
+ "title": "Electron configurations",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 9 (Course Companion p61): copies the book",
+  "practice 28 (Course Companion p62): copies the book"
+ ]
+}

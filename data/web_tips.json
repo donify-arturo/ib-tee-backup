@@ -1,0 +1,93 @@
+{
+  "tips": {
+    "2d9b57464fff": {
+      "card_id": "R1.1-01",
+      "sub_topic": "R1.1",
+      "pillar": "3_novel_application",
+      "kind": "mistake",
+      "tip": "In combustion calorimetry, use the water's mass in mcΔT, but the burned fuel's mass change (initial minus final) for moles.",
+      "why": "Two different masses appear; mixing them up gives a wrong molar enthalpy even with the right sign.",
+      "url": "https://www.tutorchase.com/notes/a-level-ocr/chemistry/6-1-4-determining-enthalpy-changes-experimentally",
+      "domain": "tutorchase.com",
+      "status": "pending",
+      "reasons": [],
+      "warnings": [
+        "written for another exam board"
+      ],
+      "related": [],
+      "added": "2026-11-04 07:32"
+    },
+    "be365d99870e": {
+      "card_id": "R1.1-01",
+      "sub_topic": "R1.1",
+      "pillar": "3_novel_application",
+      "kind": "explanation",
+      "tip": "Open-flame experiments give a less exothermic ΔH than the data-book value, because heat escapes, combustion is incomplete, or fuel evaporates.",
+      "why": "Evaluation parts ask why experiment and literature differ; heat loss shrinks ΔT, so the magnitude comes out too small.",
+      "url": "https://www.tutorchase.com/notes/a-level-ocr/chemistry/6-1-4-determining-enthalpy-changes-experimentally",
+      "domain": "tutorchase.com",
+      "status": "accepted",
+      "reasons": [],
+      "warnings": [
+        "written for another exam board"
+      ],
+      "related": [],
+      "added": "2026-11-04 07:32"
+    },
+    "2d4d9cb087ad": {
+      "card_id": "R1.2-11",
+      "sub_topic": "R1.2",
+      "pillar": "7_elimination",
+      "kind": "shortcut",
+      "tip": "Check your answer by closing the loop: formation enthalpy should equal the sum of all other steps taken the one way round.",
+      "why": "A cycle that does not close exposes a missed term or sign slip before you commit to an option.",
+      "url": "https://www.tutorchase.com/notes/a-level-ocr/chemistry/10-1-2-bornhaber-cycles-and-calculations",
+      "domain": "tutorchase.com",
+      "status": "accepted",
+      "reasons": [],
+      "warnings": [
+        "written for another exam board"
+      ],
+      "related": [],
+      "added": "2026-11-04 07:34"
+    },
+    "5b59b92c1bb7": {
+      "card_id": "R1.2-11",
+      "sub_topic": "R1.2",
+      "pillar": "5_time_efficiency",
+      "kind": "mistake",
+      "tip": "If your lattice value looks unreasonable, first hunt for a missing second ionization or electron affinity term, then for a wrong sign.",
+      "why": "These are the commonest slips, so checking them first ruins fewer minutes than redoing everything.",
+      "url": "https://www.tutorchase.com/notes/a-level-ocr/chemistry/10-1-2-bornhaber-cycles-and-calculations",
+      "domain": "tutorchase.com",
+      "status": "pending",
+      "reasons": [],
+      "warnings": [
+        "written for another exam board"
+      ],
+      "related": [],
+      "added": "2026-11-04 07:34"
+    },
+    "b9d08e13f252": {
+      "card_id": "R1.2-11",
+      "sub_topic": "R1.2",
+      "pillar": "1_context",
+      "kind": "explanation",
+      "tip": "A diatomic element's atomization step is half its bond enthalpy per mole of atoms. Two Cl atoms in the formula use one whole Cl–Cl bond.",
+      "why": "Explains why chlorine terms are given as halves or whole values, so you can match labelled arrows to the formula.",
+      "url": "https://www.tutorchase.com/notes/a-level-ocr/chemistry/10-1-2-bornhaber-cycles-and-calculations",
+      "domain": "tutorchase.com",
+      "status": "pending",
+      "reasons": [],
+      "warnings": [
+        "written for another exam board"
+      ],
+      "related": [],
+      "added": "2026-11-04 07:34"
+    }
+  },
+  "researched": {
+    "R1.1-01": "2026-11-04",
+    "R1.2-11": "2026-11-04"
+  }
+}

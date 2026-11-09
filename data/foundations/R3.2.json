@@ -1,0 +1,1813 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "In Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq), give the oxidation state of chlorine and of iodine in the reactants and in the products.",
+   "options": [],
+   "answer": "Reactants: Cl 0 (in Cl2), I −1 (in KI). Products: Cl −1 (in KCl), I 0 (in I2).",
+   "steps": [
+    "Elements on their own are 0, so Cl2 and I2 are 0.",
+    "In KI and KCl, K is +1, so the halogen is −1."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "For Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq), which element is oxidized and which is reduced?",
+   "options": [],
+   "answer": "Iodine is oxidized; chlorine is reduced.",
+   "steps": [
+    "I goes from −1 to 0: oxidation state rises, so oxidized.",
+    "Cl goes from 0 to −1: oxidation state falls, so reduced."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "For Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq), name the oxidizing agent and the reducing agent.",
+   "options": [],
+   "answer": "Cl2 is the oxidizing agent; KI is the reducing agent.",
+   "steps": [
+    "The oxidizing agent is the species that is itself reduced: Cl2.",
+    "The reducing agent is the species that is itself oxidized: KI (its iodide)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Identify the oxidizing agent and reducing agent in PbO(s) + H2(g) → Pb(s) + H2O(l).",
+   "options": [],
+   "answer": "Oxidizing agent: PbO; reducing agent: H2.",
+   "steps": [
+    "Pb goes +2 → 0 (reduced), so PbO is the oxidizing agent.",
+    "H goes 0 → +1 (oxidized), so H2 is the reducing agent."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Identify the oxidizing agent and reducing agent in 2CuO(s) + C(s) → CO2(g) + 2Cu(s).",
+   "options": [],
+   "answer": "Oxidizing agent: CuO; reducing agent: C.",
+   "steps": [
+    "Cu goes +2 → 0 (reduced): CuO is the oxidizing agent.",
+    "C goes 0 → +4 (oxidized): C is the reducing agent."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Identify the oxidizing agent and reducing agent in Mg(s) + Cl2(g) → MgCl2(s).",
+   "options": [],
+   "answer": "Oxidizing agent: Cl2; reducing agent: Mg.",
+   "steps": [
+    "Cl goes 0 → −1 (reduced): Cl2 is the oxidizing agent.",
+    "Mg goes 0 → +2 (oxidized): Mg is the reducing agent."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Identify the oxidizing agent and reducing agent in 2KI(aq) + Br2(aq) → I2(aq) + 2KBr(aq).",
+   "options": [],
+   "answer": "Oxidizing agent: Br2; reducing agent: KI.",
+   "steps": [
+    "Br goes 0 → −1 (reduced): Br2 is the oxidizing agent.",
+    "I goes −1 → 0 (oxidized): KI is the reducing agent."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "588",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Balance in acidic solution: Zn(s) + SO4²⁻(aq) → Zn2+(aq) + SO2(g). Include state symbols.",
+   "options": [],
+   "answer": "Zn(s) + SO4²⁻(aq) + 4H+(aq) → Zn2+(aq) + SO2(g) + 2H2O(l)",
+   "steps": [
+    "Oxidation: Zn → Zn2+ + 2e−. Reduction: S goes +6 → +4, so SO4²⁻ + 2e− → SO2.",
+    "Electrons already equal (2), so add the halves.",
+    "Balance O with 2H2O and H with 4H+; check charge (+2 both sides)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "588",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Balance in acidic solution: MnO4⁻(aq) + Br⁻(aq) → Mn2+(aq) + BrO3⁻(aq). Include state symbols.",
+   "options": [],
+   "answer": "Book's answer: 2MnO4⁻(aq) + Br⁻(aq) + 2H+(aq) → 2MnO2(s) + BrO3⁻(aq) + H2O(l)",
+   "steps": [
+    "The book's equation is balanced but gives MnO2, not the Mn2+ the question states, so it does not match this question as worded (it matches end-of-topic Q3).",
+    "With Mn2+ as product: MnO4⁻ + 8H+ + 5e− → Mn2+ + 4H2O and Br⁻ + 3H2O → BrO3⁻ + 6H+ + 6e−.",
+    "Multiply by 6 and 5: 6MnO4⁻(aq) + 5Br⁻(aq) + 18H+(aq) → 6Mn2+(aq) + 5BrO3⁻(aq) + 9H2O(l)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "588",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Balance in acidic solution: I2(s) + OCl⁻(aq) → IO3⁻(aq) + Cl⁻(aq). Include state symbols.",
+   "options": [],
+   "answer": "I2(s) + 5OCl⁻(aq) + H2O(l) → 2IO3⁻(aq) + 5Cl⁻(aq) + 2H+(aq)",
+   "steps": [
+    "I2 is oxidized (0 → +5), losing 10 e− for two I; Cl goes +1 → −1, gaining 2 e− per OCl⁻.",
+    "Use 5 OCl⁻ per I2 to match 10 electrons.",
+    "Balance O and H with H2O and H+; check charge (−5 both sides)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "588",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Balance in acidic solution: Cr2O7²⁻(aq) + C2O4²⁻(aq) → Cr3+(aq) + CO2(g). Include state symbols.",
+   "options": [],
+   "answer": "Cr2O7²⁻(aq) + 3C2O4²⁻(aq) + 14H+(aq) → 2Cr3+(aq) + 6CO2(g) + 7H2O(l)",
+   "steps": [
+    "Reduction: Cr2O7²⁻ + 14H+ + 6e− → 2Cr3+ + 7H2O.",
+    "Oxidation: C2O4²⁻ → 2CO2 + 2e−; multiply by 3 to give 6e−.",
+    "Add and cancel electrons; check charge (+6 both sides)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "601",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "A nickel–cadmium cell discharges with anode: Cd(s) + 2OH⁻(aq) → Cd(OH)2(s) + 2e⁻ and cathode: NiO(OH)(s) + H2O(l) + e⁻ → Ni(OH)2(s) + OH⁻(aq). Write the overall cell equation.",
+   "options": [],
+   "answer": "Cd(s) + 2NiO(OH)(s) + 2H2O(l) → Cd(OH)2(s) + 2Ni(OH)2(s)",
+   "steps": [
+    "Double the cathode half-equation so it has 2e−.",
+    "Add the halves; the 2e− cancel.",
+    "2OH⁻ on each side cancel."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "601",
+   "understanding": "R3.2.6",
+   "kind": "short_answer",
+   "question": "Write the cell diagram for the nickel–cadmium cell (anode: Cd → Cd(OH)2; cathode: NiO(OH) → Ni(OH)2).",
+   "options": [],
+   "answer": "Cd(s) | Cd(OH)2(s) || Ni(OH)2(s) | NiO(OH)(s)",
+   "steps": [
+    "Anode (oxidation) goes on the left, cathode on the right.",
+    "Write each side as species oxidized | its product, and reduced species's product | the reduced species, separated by || for the salt bridge. Other variants (with OH⁻ shown) are also acceptable."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "601",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "For the nickel–cadmium cell, write the two electrode reactions that occur during charging.",
+   "options": [],
+   "answer": "Cd(OH)2(s) + 2e⁻ → Cd(s) + 2OH⁻(aq); Ni(OH)2(s) + OH⁻(aq) → NiO(OH)(s) + H2O(l) + e⁻",
+   "steps": [
+    "Charging reverses each discharge half-equation.",
+    "The book labels these as anode and cathode respectively in the way it did for the lead–acid example; note that strictly, in IB terms, the electrode where reduction occurs is the cathode."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "602",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "State the function of the proton exchange membrane (PEM) in a hydrogen fuel cell.",
+   "options": [],
+   "answer": "It separates the two half-cells and lets only H+ ions through, blocking other ions, molecules and electrons.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "604",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Write the half-equations and the overall equation for the electrolysis of molten lead(II) bromide, PbBr2.",
+   "options": [],
+   "answer": "Cathode: Pb2+ + 2e⁻ → Pb(l); anode: 2Br⁻ → Br2(g) + 2e⁻; overall: Pb2+ + 2Br⁻ → Pb(l) + Br2(g)",
+   "steps": [
+    "Cations are reduced at the cathode; anions are oxidized at the anode.",
+    "Both half-equations involve 2e−, so just add.",
+    "No (aq) symbols for ions in a melt; the melting point is high so lead is liquid and bromine gas."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "609",
+   "understanding": "R3.2.11",
+   "kind": "short_answer",
+   "question": "Predict the product and write the equation for propene reacting with excess hydrogen gas (with a Ni or Pt catalyst).",
+   "options": [],
+   "answer": "Propane: CH3CH=CH2 + H2 → CH3CH2CH3",
+   "steps": [
+    "H2 adds across the C=C double bond.",
+    "The alkene is reduced to an alkane, so the degree of unsaturation falls."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "609",
+   "understanding": "R3.2.11",
+   "kind": "short_answer",
+   "question": "Predict the product and write the equation for pent-1-yne reacting with excess hydrogen gas.",
+   "options": [],
+   "answer": "Pentane: CH≡C–CH2CH2CH3 + 2H2 → CH3CH2CH2CH2CH3",
+   "steps": [
+    "A triple bond needs two moles of H2 to become a single bond.",
+    "Excess H2 takes the alkyne through the alkene to the alkane."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "610",
+   "understanding": "R3.2.12",
+   "kind": "short_answer",
+   "question": "The E⦵ values are: Sn −0.14 V, Ca −2.87 V, Li −3.04 V, Al −1.66 V. Order these metals from most easily oxidized to least easily oxidized.",
+   "options": [],
+   "answer": "lithium, calcium, aluminium, tin",
+   "steps": [
+    "The more negative E⦵, the more easily the metal is oxidized.",
+    "Order: −3.04, −2.87, −1.66, −0.14 V."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "614",
+   "understanding": "R3.2.14",
+   "kind": "short_answer",
+   "question": "The reaction Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s) in a cell has ΔG⦵ = −152 kJ mol⁻¹. Is it spontaneous?",
+   "options": [],
+   "answer": "Yes, because ΔG⦵ is negative.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "614",
+   "understanding": "R3.2.14",
+   "kind": "calculation",
+   "question": "For Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s), ΔG⦵ = −152 kJ mol⁻¹ (F = 9.65 × 10⁴ C mol⁻¹). Calculate E⦵cell and compare with the value from E⦵(Cu2+/Cu) − E⦵(Fe2+/Fe) in the data booklet.",
+   "options": [],
+   "answer": "E⦵cell ≈ 0.79 V; the booklet gives +0.34 − (−0.45) = 0.79 V, which agrees.",
+   "steps": [
+    "n = 2 electrons.",
+    "E⦵ = −ΔG⦵/(nF) = 152 000 J mol⁻¹ / (2 × 9.65×10⁴ C mol⁻¹)",
+    "= 0.788 V ≈ 0.79 V.",
+    "Booklet: 0.34 − (−0.45) = 0.79 V."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "618",
+   "understanding": "R3.2.15",
+   "kind": "short_answer",
+   "question": "Give the cathode and anode half-equations and the overall equation for the electrolysis of aqueous potassium dichromate, K2Cr2O7(aq), with inert electrodes.",
+   "options": [],
+   "answer": "Cathode: 2H+(aq) + 2e⁻ → H2(g); anode: 2H2O(l) → O2(g) + 4H+(aq) + 4e⁻; overall: 2H2O(l) → 2H2(g) + O2(g)",
+   "steps": [
+    "Water is oxidized at the anode, since dichromate cannot be oxidized further (Cr is already +6).",
+    "Hydrogen forms at the cathode.",
+    "Double the cathode equation to 4e− and add."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "619",
+   "understanding": "R3.2.16",
+   "kind": "short_answer",
+   "question": "A nickel spoon is the cathode and a silver electrode is the anode in aqueous silver(I) nitrate. Write the half-equation at the cathode.",
+   "options": [],
+   "answer": "Ag+(aq) + e⁻ → Ag(s)",
+   "steps": [
+    "Silver ions are reduced to silver metal on the spoon."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "619",
+   "understanding": "R3.2.16",
+   "kind": "short_answer",
+   "question": "A nickel spoon is the cathode and a silver electrode is the anode in aqueous silver(I) nitrate. Write the half-equation at the anode.",
+   "options": [],
+   "answer": "Ag(s) → Ag+(aq) + e⁻",
+   "steps": [
+    "The silver anode is oxidized to silver ions."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "619",
+   "understanding": "R3.2.16",
+   "kind": "short_answer",
+   "question": "In the silver plating of a nickel spoon, what happens to the concentration of the silver(I) nitrate solution, and why?",
+   "options": [],
+   "answer": "It stays the same: each Ag+ reduced at the cathode is replaced by one Ag+ formed from the anode.",
+   "steps": [
+    "Compare the cathode and anode half-equations: both involve 1 mol Ag+ per mol e−.",
+    "Ag+ removed equals Ag+ produced."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "619",
+   "understanding": "R3.2.16",
+   "kind": "short_answer",
+   "question": "In the silver plating of a nickel spoon, describe and explain the mass change of each electrode.",
+   "options": [],
+   "answer": "The cathode (spoon) gains mass as silver deposits on it; the silver anode loses mass as it dissolves into solution as Ag+.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.1",
+   "kind": "multiple_choice",
+   "question": "Which species contains nitrogen in the +5 oxidation state?",
+   "options": [
+    "A. N2",
+    "B. N2O",
+    "C. NO2",
+    "D. HNO3"
+   ],
+   "answer": "D. HNO3",
+   "steps": [
+    "N2 is 0; N2O is +1; NO2 is +4.",
+    "In HNO3: +1 + N + 3(−2) = 0, so N = +5."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.1",
+   "kind": "multiple_choice",
+   "question": "In 2MnO4⁻(aq) + Br⁻(aq) + H2O(l) → 2MnO2(s) + BrO3⁻(aq) + 2OH⁻(aq), which element is reduced?",
+   "options": [
+    "A. Mn",
+    "B. O",
+    "C. Br",
+    "D. H"
+   ],
+   "answer": "A. Mn",
+   "steps": [
+    "Mn goes +7 → +4, a decrease.",
+    "Br goes −1 → +5, so it is oxidized."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.1",
+   "kind": "multiple_choice",
+   "question": "Which of the following is not a redox reaction?",
+   "options": [
+    "A. 2H2O2 → 2H2O + O2",
+    "B. CH3COOH + LiOH → CH3COOLi + H2O",
+    "C. C3H6 + Br2 → C3H6Br2",
+    "D. Na + Cl2 → 2NaCl"
+   ],
+   "answer": "B. CH3COOH + LiOH → CH3COOLi + H2O",
+   "steps": [
+    "B is an acid–base neutralization: no oxidation states change.",
+    "The others involve changes in oxidation state (peroxide O disproportionates, Br2 is reduced, Na and Cl2 transfer electrons)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.3",
+   "kind": "multiple_choice",
+   "question": "Which pair reacts most vigorously?",
+   "options": [
+    "A. Li and Br2",
+    "B. Li and F2",
+    "C. K and Br2",
+    "D. K and F2"
+   ],
+   "answer": "D. K and F2",
+   "steps": [
+    "Metal reactivity rises down group 1, so K beats Li.",
+    "Halogen oxidizing power rises up the group, so F2 beats Br2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.8",
+   "kind": "multiple_choice",
+   "question": "What are the products of the electrolysis of molten lead(II) bromide at the cathode and the anode?",
+   "options": [
+    "A. lead; bromine",
+    "B. lead; bromide",
+    "C. lead(II); bromine",
+    "D. lead(II); bromide"
+   ],
+   "answer": "A. lead; bromine",
+   "steps": [
+    "Cathode: Pb2+ + 2e− → Pb.",
+    "Anode: 2Br− → Br2 + 2e−."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.5",
+   "kind": "multiple_choice",
+   "question": "In a voltaic cell where 2Ag+(aq) + Cu(s) → 2Ag(s) + Cu2+(aq) occurs, which pair gives the reactions at the cathode and the anode?",
+   "options": [
+    "A. cathode Ag+ → Ag + e⁻; anode Cu → Cu2+ + 2e⁻",
+    "B. cathode Ag+ + e⁻ → Ag; anode Cu + 2e⁻ → Cu2+",
+    "C. cathode Ag+ + e⁻ → Ag; anode Cu → Cu2+ + 2e⁻",
+    "D. cathode Cu → Cu2+ + 2e⁻; anode Ag+ + e⁻ → Ag"
+   ],
+   "answer": "C. cathode Ag+ + e⁻ → Ag; anode Cu → Cu2+ + 2e⁻",
+   "steps": [
+    "Reduction (electrons gained, on the left) is at the cathode: Ag+ + e⁻ → Ag.",
+    "Oxidation (electrons lost, on the right) is at the anode: Cu → Cu2+ + 2e⁻."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.10",
+   "kind": "multiple_choice",
+   "question": "Which of these classes of compound can be reduced: I alkene, II carboxylic acid, III aldehyde?",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "D. I, II and III",
+   "steps": [
+    "Alkenes gain H2 to give alkanes; carboxylic acids reduce to aldehydes then primary alcohols; aldehydes reduce to primary alcohols."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.9",
+   "kind": "multiple_choice",
+   "question": "What class of compound forms when a secondary alcohol is oxidized?",
+   "options": [
+    "A. aldehyde",
+    "B. ether",
+    "C. ketone",
+    "D. carboxylic acid"
+   ],
+   "answer": "C. ketone",
+   "steps": [
+    "Loss of the H on the carbon bearing OH gives C=O in the middle of the chain, a ketone."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.11",
+   "kind": "multiple_choice",
+   "question": "For C2H4(g) + H2(g) → C2H6(g), which is correct about the degree of unsaturation and the species reduced?",
+   "options": [
+    "A. unsaturation increases; ethene reduced",
+    "B. unsaturation decreases; ethene reduced",
+    "C. unsaturation increases; hydrogen reduced",
+    "D. unsaturation decreases; hydrogen reduced"
+   ],
+   "answer": "B. unsaturation decreases; ethene reduced",
+   "steps": [
+    "The C=C becomes C–C, so unsaturation falls.",
+    "Ethene gains hydrogen, which counts as reduction."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "620",
+   "understanding": "R3.2.12",
+   "kind": "multiple_choice",
+   "question": "Given Cd2+ + 2e⁻ ⇌ Cd, E⦵ = −0.40 V and Cr3+ + 3e⁻ ⇌ Cr, E⦵ = −0.74 V, which is the strongest oxidizing agent?",
+   "options": [
+    "A. Cd2+",
+    "B. Cr3+",
+    "C. Cd",
+    "D. Cr"
+   ],
+   "answer": "A. Cd2+",
+   "steps": [
+    "Oxidizing agents are on the left of the equations (ions).",
+    "The more positive E⦵ (−0.40 V) is more easily reduced, so Cd2+ is stronger."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.15",
+   "kind": "multiple_choice",
+   "question": "What are the major products at the negative electrode and the positive electrode when concentrated NaCl(aq) is electrolysed?",
+   "options": [
+    "A. Na; O2",
+    "B. H2; O2",
+    "C. Na; Cl2",
+    "D. H2; Cl2"
+   ],
+   "answer": "D. H2; Cl2",
+   "steps": [
+    "Cathode: water is reduced (−0.83 V is less negative than Na+, −2.71 V), giving H2.",
+    "Anode: high Cl⁻ concentration gives Cl2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "What is the oxidation state of carbon in the ethanedioate ion, C2O4²⁻?",
+   "options": [],
+   "answer": "+3",
+   "steps": [
+    "2C + 4(−2) = −2, so 2C = +6 and C = +3."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "In acidic solution, C2O4²⁻ is oxidized (C2O4²⁻(aq) → 2CO2(g) + 2e⁻) by MnO4⁻, which becomes Mn2+. Deduce the reduction half-equation with state symbols.",
+   "options": [],
+   "answer": "8H+(aq) + MnO4⁻(aq) + 5e⁻ → Mn2+(aq) + 4H2O(l)",
+   "steps": [
+    "Mn goes +7 → +2, so 5e− on the left.",
+    "Add 4H2O to balance O, then 8H+ to balance H.",
+    "Charge check: +2 both sides."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Combine the oxidation half-equation C2O4²⁻ → 2CO2 + 2e⁻ and the reduction half-equation MnO4⁻ + 8H+ + 5e⁻ → Mn2+ + 4H2O into the full equation.",
+   "options": [],
+   "answer": "16H+(aq) + 2MnO4⁻(aq) + 5C2O4²⁻(aq) → 2Mn2+(aq) + 8H2O(l) + 10CO2(g)",
+   "steps": [
+    "LCM of 2 and 5 electrons is 10: multiply oxidation by 5 and reduction by 2.",
+    "Add and cancel the 10e−."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Describe how the bonding in sodium chloride arises.",
+   "options": [],
+   "answer": "Ionic bonding: strong electrostatic attraction between oppositely charged Na+ and Cl⁻ ions.",
+   "steps": [
+    "Na transfers an electron to Cl, forming ions that attract."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Explain why NaCl does not conduct electricity when solid but does when molten.",
+   "options": [],
+   "answer": "In the solid the ions are fixed in the lattice and cannot move; when molten the ions are free to move under a potential difference.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Give the half-equation at the cathode in the electrolysis of molten NaCl.",
+   "options": [],
+   "answer": "Na+ + e⁻ → Na(l)",
+   "steps": [
+    "Cations are reduced at the cathode."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Give the half-equation at the anode in the electrolysis of molten NaCl.",
+   "options": [],
+   "answer": "2Cl⁻ → Cl2(g) + 2e⁻",
+   "steps": [
+    "Anions are oxidized at the anode."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.15",
+   "kind": "short_answer",
+   "question": "Give the oxidation half-equation for the electrolysis of dilute aqueous sodium chloride.",
+   "options": [],
+   "answer": "Book's answer: 4OH⁻(aq) → O2(g) + 2H2O(l) + 4e⁻",
+   "steps": [
+    "In dilute NaCl the oxygen-producing oxidation of water wins over chloride.",
+    "The book writes this via hydroxide ions (as in neutral/basic wording); the equivalent form with water is 2H2O(l) → O2(g) + 4H+(aq) + 4e⁻, as in the text."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.15",
+   "kind": "short_answer",
+   "question": "Phenolphthalein is added to concentrated NaCl(aq), which is then electrolysed. Give two observations.",
+   "options": [],
+   "answer": "Any two: solution turns pink at the cathode; colourless gas bubbles at the cathode; greenish-yellow gas bubbles at the anode; damp litmus paper near the anode is bleached.",
+   "steps": [
+    "Cathode makes H2 and OH⁻ (pink with phenolphthalein).",
+    "Anode makes Cl2 (greenish-yellow, bleaches litmus)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "In a lithium-ion battery, Li+ + e⁻ → Li(s) occurs at one electrode. Say which electrode (anode/cathode) this is and whether it is the charging or discharging reaction.",
+   "options": [],
+   "answer": "Book's answer: cathode; charging reaction.",
+   "steps": [
+    "Gain of electrons is reduction, and the book says that occurs at the cathode, during charging.",
+    "Note: the companion's own table 2 labels the electrode where Li is formed as the anode, so the naming of electrodes in a recharging cell is a source of confusion; the key point is that it is reduction and it happens on charging."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "In a lithium-ion battery, Li+ + e⁻ → Li(s) takes place at one electrode on charging. Give the reaction at the opposite electrode.",
+   "options": [],
+   "answer": "LiCoO2(s) → Li+ + e⁻ + CoO2(s)",
+   "steps": [
+    "The other electrode is the lithium cobalt oxide one, which loses Li+ on charging."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.7",
+   "kind": "short_answer",
+   "question": "Explain why lithium-ion batteries must be sealed.",
+   "options": [],
+   "answer": "Lithium is very reactive, so exposure to air or moisture could cause an explosion.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Write the equation for the complete combustion of ethanol.",
+   "options": [],
+   "answer": "C2H5OH + 3O2 → 2CO2 + 3H2O",
+   "steps": [
+    "Products are CO2 and H2O; balance C, then H, then O."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "What is the oxidation state of carbon in carbon dioxide?",
+   "options": [],
+   "answer": "+4",
+   "steps": [
+    "C + 2(−2) = 0, so C = +4."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "What is the mean oxidation state of carbon in ethanol, C2H5OH?",
+   "options": [],
+   "answer": "−2",
+   "steps": [
+    "Six H at +1 and one O at −2 give +4; the two C must sum to −4, so −2 each."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Is carbon oxidized or reduced when ethanol burns completely? Explain using oxidation states.",
+   "options": [],
+   "answer": "Oxidized, because its oxidation state increases from −2 to +4.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.9",
+   "kind": "short_answer",
+   "question": "Ethanol is oxidized by acidified potassium dichromate(VI). Name the two possible organic products.",
+   "options": [],
+   "answer": "Ethanal (CH3CHO, an aldehyde) and ethanoic acid (CH3COOH, a carboxylic acid).",
+   "steps": [
+    "Primary alcohol → aldehyde → carboxylic acid."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.9",
+   "kind": "short_answer",
+   "question": "For the oxidation of ethanol, state the method used to isolate each organic product (ethanal and ethanoic acid).",
+   "options": [],
+   "answer": "Ethanal: distillation. Ethanoic acid: reflux.",
+   "steps": [
+    "Distil the aldehyde off as it forms (alcohol in excess).",
+    "Reflux with excess oxidizing agent to reach the acid."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.3",
+   "kind": "short_answer",
+   "question": "Results: Y + Z(NO3)2(aq) reacts (red-brown solid forms, blue colour fades); X + Y(NO3)2 no reaction; Z + X(NO3)2 no reaction; Z + HCl no reaction. List X, Y, Z in order of increasing reactivity.",
+   "options": [],
+   "answer": "Z, X, Y",
+   "steps": [
+    "Y displaces Z, so Y is more reactive than Z.",
+    "X does not displace Y, so X < Y.",
+    "Z does not displace X, so Z < X."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.3",
+   "kind": "short_answer",
+   "question": "Using the same results (Y displaces Z from Z(NO3)2 giving a red-brown solid and fading blue solution; Z does not react with dilute acid), give two observations suggesting which metal could be copper.",
+   "options": [],
+   "answer": "Z. Any two: Z does not react with dilute acid (as copper); Z is a red-brown solid (as copper); Z(NO3)2 solution is blue (as copper(II) nitrate).",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.13",
+   "kind": "short_answer",
+   "question": "Deduce the equation, with state symbols, for the spontaneous reaction in a standard nickel–copper voltaic cell.",
+   "options": [],
+   "answer": "Ni(s) + Cu2+(aq) → Cu(s) + Ni2+(aq)",
+   "steps": [
+    "Cu2+/Cu has the more positive E⦵ so Cu2+ is reduced.",
+    "Ni is oxidized."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "621",
+   "understanding": "R3.2.13",
+   "kind": "calculation",
+   "question": "Calculate the standard cell potential of the nickel–copper cell, using E⦵ from section 19 of the data booklet (Cu2+/Cu +0.34 V; Ni2+/Ni −0.26 V).",
+   "options": [],
+   "answer": "0.60 V",
+   "steps": [
+    "E⦵cell = E⦵(cathode) − E⦵(anode)",
+    "= +0.34 − (−0.26) = 0.60 V."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.3",
+   "kind": "multiple_choice",
+   "question": "These reactions occur spontaneously: Fe + NiCl2 → FeCl2 + Ni; Zn + FeCl2 → ZnCl2 + Fe; Ni + SnCl2 → NiCl2 + Sn. What is the increasing order of reactivity of the metals?",
+   "options": [
+    "A. Fe < Ni < Zn < Sn",
+    "B. Sn < Ni < Fe < Zn",
+    "C. Ni < Zn < Sn < Fe",
+    "D. Zn < Fe < Ni < Sn"
+   ],
+   "answer": "B. Sn < Ni < Fe < Zn",
+   "steps": [
+    "Fe displaces Ni, so Fe > Ni.",
+    "Zn displaces Fe, so Zn > Fe.",
+    "Ni displaces Sn, so Ni > Sn.",
+    "Increasing: Sn < Ni < Fe < Zn."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.9",
+   "kind": "multiple_choice",
+   "question": "Which classes of compound can be formed by oxidation of alcohols: I aldehyde, II ketone, III carboxylic acid?",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "D. I, II and III",
+   "steps": [
+    "Primary alcohols give aldehydes then carboxylic acids; secondary alcohols give ketones."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Give the systematic name of MnO2.",
+   "options": [],
+   "answer": "manganese(IV) oxide",
+   "steps": [
+    "O is −2, so Mn is +4."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Give the systematic name of Fe(OH)2.",
+   "options": [],
+   "answer": "iron(II) hydroxide",
+   "steps": [
+    "Two OH⁻ so Fe is +2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "Give the systematic name of Cr2(SO4)3.",
+   "options": [],
+   "answer": "chromium(III) sulfate(VI)",
+   "steps": [
+    "Three sulfate ions give −6 across two Cr, so Cr is +3.",
+    "Sulfate contains S(VI), shown in the name."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "A rocket propellant mixes hydrogen peroxide, H2O2(l), with hydrazine, N2H4(l), producing N2(g) and H2O(l). Deduce the balanced equation.",
+   "options": [],
+   "answer": "2H2O2(l) + N2H4(l) → N2(g) + 4H2O(l)",
+   "steps": [
+    "Hydrazine is a base, so the half-equations use OH⁻: 2H2O2 + 4e⁻ → 4OH⁻ and N2H4 + 4OH⁻ → N2 + 4H2O + 4e⁻.",
+    "Add; the OH⁻ and electrons cancel."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.10",
+   "kind": "short_answer",
+   "question": "Give the structure and IUPAC name of the product when butanoic acid is reduced.",
+   "options": [],
+   "answer": "CH3CH2CH2CH2OH, butan-1-ol",
+   "steps": [
+    "Carboxylic acid → aldehyde (butanal, not isolated) → primary alcohol."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.10",
+   "kind": "short_answer",
+   "question": "Give the structure and IUPAC name of the product when methanal is reduced.",
+   "options": [],
+   "answer": "CH3OH, methanol",
+   "steps": [
+    "Aldehyde → primary alcohol."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.10",
+   "kind": "short_answer",
+   "question": "Give the structure and IUPAC name of the product when pentan-2-one is reduced.",
+   "options": [],
+   "answer": "CH3CH2CH2CH(OH)CH3, pentan-2-ol",
+   "steps": [
+    "Ketone → secondary alcohol."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Explain how molten zinc chloride conducts electricity.",
+   "options": [],
+   "answer": "Its ions are free to move only when molten: Zn2+ moves towards the negative electrode (cathode) and Cl⁻ towards the positive electrode (anode).",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.5",
+   "kind": "short_answer",
+   "question": "In the electrolysis of molten ZnCl2, at which electrode does oxidation occur and at which does reduction occur?",
+   "options": [],
+   "answer": "Oxidation at the anode; reduction at the cathode (true in all electrochemical cells).",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "State a half-equation for each electrode in the electrolysis of molten ZnCl2.",
+   "options": [],
+   "answer": "Cathode: Zn2+ + 2e⁻ → Zn(l); anode: 2Cl⁻ → Cl2(g) + 2e⁻",
+   "steps": [
+    "Zinc melts at 420 °C, above ZnCl2 at 290 °C, so the zinc may be liquid or solid depending on conditions."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Deduce the overall cell reaction for the electrolysis of molten ZnCl2.",
+   "options": [],
+   "answer": "ZnCl2(l) → Zn(l) + Cl2(g)",
+   "steps": [
+    "Add the two half-equations; the 2e⁻ cancel."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.8",
+   "kind": "short_answer",
+   "question": "Outline what you would observe during the electrolysis of molten ZnCl2.",
+   "options": [],
+   "answer": "A silvery-grey metal forms at the cathode, a yellow-green gas with a sharp odour forms at the anode, and the molten salt slowly gets used up.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.6",
+   "kind": "short_answer",
+   "question": "A voltaic cell uses Cu(s)|Cu2+(aq) and Pb(s)|Pb2+(aq) half-cells joined by a salt bridge and a wire. Which electrode is the anode and which the cathode, and which way do electrons and ions move?",
+   "options": [],
+   "answer": "Pb is the anode (−) and Cu the cathode (+). Electrons flow through the wire from Pb to Cu; cations move through the salt bridge towards the Cu half-cell and anions towards the Pb half-cell.",
+   "steps": [
+    "Pb is the more easily oxidized (more negative E⦵).",
+    "Electrons move anode → cathode; ions move to balance the charge build-up."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.6",
+   "kind": "short_answer",
+   "question": "Write the cell diagram notation for the Cu|Cu2+ and Pb|Pb2+ voltaic cell.",
+   "options": [],
+   "answer": "Pb(s)|Pb2+(aq)||Cu2+(aq)|Cu(s)",
+   "steps": [
+    "Anode on the left, cathode on the right."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.2",
+   "kind": "short_answer",
+   "question": "Deduce the half-equations and overall reaction for the Pb/Cu voltaic cell.",
+   "options": [],
+   "answer": "Anode: Pb(s) → Pb2+(aq) + 2e⁻; cathode: Cu2+(aq) + 2e⁻ → Cu(s); overall: Pb(s) + Cu2+(aq) → Pb2+(aq) + Cu(s)",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "176",
+   "understanding": "R3.2.13",
+   "kind": "calculation",
+   "question": "Calculate the standard cell potential of the Pb/Cu voltaic cell, using E⦵(Cu2+/Cu) = +0.34 V and E⦵(Pb2+/Pb) = −0.13 V.",
+   "options": [],
+   "answer": "+0.47 V",
+   "steps": [
+    "E⦵cell = E⦵(cathode) − E⦵(anode)",
+    "= +0.34 − (−0.13) = +0.47 V (positive, so spontaneous)."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "177",
+   "understanding": "R3.2.1",
+   "kind": "short_answer",
+   "question": "In the Winkler method: step 1 O2 + 2Mn2+ + 4OH⁻ → 2MnO2 + 2H2O; step 2 MnO2 + 2I⁻ + 4H+ → Mn2+ + I2 + 2H2O; step 3 I2 + 2S2O3²⁻ → 2I⁻ + S4O6²⁻. Identify the oxidizing and reducing agent in each step.",
+   "options": [],
+   "answer": "Step 1: O2 oxidizing, Mn2+ reducing. Step 2: MnO2 oxidizing, I⁻ reducing. Step 3: I2 oxidizing, S2O3²⁻ reducing.",
+   "steps": [
+    "The oxidizing agent is the species reduced (O: 0 → −2; Mn: +4 → +2; I: 0 → −1)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "177",
+   "understanding": "R3.2.1",
+   "kind": "calculation",
+   "question": "In the Winkler method on a 0.100 dm³ water sample (steps: O2 → MnO2 in a 1:2 ratio; MnO2 → I2 in 1:1; I2 → I⁻ in 1:2 in the last step), 0.00150 mol of I⁻ was produced in the last step. Calculate the amount of dissolved oxygen in mol.",
+   "options": [],
+   "answer": "3.75 × 10⁻⁴ mol",
+   "steps": [
+    "n(I2) = 0.5 × 0.00150 = 7.50 × 10⁻⁴ mol.",
+    "n(MnO2) = n(I2) = 7.50 × 10⁻⁴ mol.",
+    "n(O2) = 0.5 × 7.50 × 10⁻⁴ = 3.75 × 10⁻⁴ mol.",
+    "Check: O2 takes 4 e⁻, each I⁻ gives 1 e⁻ (ratio 1:4)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "177",
+   "understanding": "R3.2.15",
+   "kind": "calculation",
+   "question": "During electrolysis of aqueous copper(II) sulfate with graphite electrodes, 5.34 g of copper is deposited. Calculate the volume of oxygen formed at the anode at STP, in m³ (M(Cu) = 63.55 g mol⁻¹; molar volume 22.7 dm³ mol⁻¹).",
+   "options": [],
+   "answer": "9.53 × 10⁻⁴ m³ (0.953 dm³)",
+   "steps": [
+    "n(Cu) = 5.34 / 63.55 = 0.0840 mol.",
+    "2Cu2+ + 2H2O → 2Cu + O2 + 4H+, so n(O2) = 0.0420 mol.",
+    "V = 0.0420 × 22.7 = 0.953 dm³ = 9.53 × 10⁻⁴ m³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "584",
+   "understanding": "R3.2.1",
+   "title": "Oxidation states in the MnO2 and NaCl reaction",
+   "problem": "4NaCl(s) + 2H2SO4(aq) + MnO2(s) → 2Na2SO4(aq) + MnCl2(aq) + 2H2O(l) + Cl2(g). (a) Find the changes in oxidation state. (b) State what is oxidized and reduced. (c) Name the oxidizing and reducing agents.",
+   "steps": [
+    {
+     "hint": "Assign oxidation states to every element on both sides.",
+     "work": "Na +1, S +6, O −2, H +1 unchanged; Mn +4 (MnO2) → +2 (MnCl2); Cl −1 (NaCl) → 0 (Cl2)."
+    },
+    {
+     "hint": "Decide direction of each change.",
+     "work": "Mn: +4 → +2 decreases, reduced. Cl: −1 → 0 increases, oxidized."
+    },
+    {
+     "hint": "Link agents to what happens to the other species.",
+     "work": "MnO2 causes Cl to be oxidized, so it is the oxidizing agent; NaCl is the reducing agent."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "585",
+   "understanding": "R3.2.1",
+   "title": "Oxidation states in Fe with HBr",
+   "problem": "Fe(s) + 2HBr(aq) → FeBr2(aq) + H2(g). (a) Give the oxidation states of Fe and H before and after. (b) State what is oxidized and reduced. (c) Identify the agents.",
+   "steps": [
+    {
+     "hint": "Assign states to each element.",
+     "work": "Fe 0 → +2; H +1 (in HBr) → 0 (H2); Br −1 throughout."
+    },
+    {
+     "hint": "Compare each change.",
+     "work": "Fe increases: Fe(s) oxidized. H decreases: HBr(aq) reduced."
+    },
+    {
+     "hint": "Name the compounds, not just atoms.",
+     "work": "Oxidizing agent: HBr(aq); reducing agent: Fe(s)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "587",
+   "understanding": "R3.2.2",
+   "title": "Balancing Fe and Ag+ redox equation",
+   "problem": "Fe(s) reacts with Ag+(aq) to form Fe3+(aq) and Ag(s). Write the balanced equation.",
+   "steps": [
+    {
+     "hint": "Find oxidation and reduction.",
+     "work": "Fe 0 → +3 (oxidized); Ag +1 → 0 (reduced)."
+    },
+    {
+     "hint": "Write half-equations with electrons.",
+     "work": "Fe → Fe3+ + 3e⁻; Ag+ + e⁻ → Ag."
+    },
+    {
+     "hint": "Equalize electrons.",
+     "work": "Multiply silver half-equation by 3: 3Ag+ + 3e⁻ → 3Ag."
+    },
+    {
+     "hint": "Add and cancel electrons; add states.",
+     "work": "Fe(s) + 3Ag+(aq) → Fe3+(aq) + 3Ag(s)"
+    },
+    {
+     "hint": "Check charge.",
+     "work": "Left: 3 × (+1) = +3; right: +3. Balanced."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "588",
+   "understanding": "R3.2.2",
+   "title": "Balancing Fe2+ with dichromate in acid",
+   "problem": "Fe2+(aq) and Cr2O7²⁻(aq) react in acidic solution to give Fe3+(aq) and Cr3+(aq). Deduce the balanced equation.",
+   "steps": [
+    {
+     "hint": "Find the oxidation-state changes.",
+     "work": "Fe +2 → +3 (loses 1 e⁻); Cr +6 → +3, two Cr so gains 6 e⁻."
+    },
+    {
+     "hint": "Write the half-equations.",
+     "work": "Fe2+ → Fe3+ + e⁻; Cr2O7²⁻ + 6e⁻ → 2Cr3+."
+    },
+    {
+     "hint": "Match electrons.",
+     "work": "Multiply Fe half-equation by 6; add: 6Fe2+ + Cr2O7²⁻ → 6Fe3+ + 2Cr3+."
+    },
+    {
+     "hint": "Balance O with water, then H with H+.",
+     "work": "Add 7H2O to the right, then 14H+ to the left."
+    },
+    {
+     "hint": "Check charge and add states.",
+     "work": "Both sides +24: 6Fe2+(aq) + Cr2O7²⁻(aq) + 14H+(aq) → 6Fe3+(aq) + 2Cr3+(aq) + 7H2O(l)"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "590",
+   "understanding": "R3.2.3",
+   "title": "Reactivity series from displacement table",
+   "problem": "Five metals (Zn, Fe, Mg, Cu, Ag) were each placed in nitrate solutions of the others. Mg reacted with all four solutions; Cu reacted only with AgNO3; Ag reacted with none; Zn reacted with Fe, Cu and Ag solutions but not Mg; Fe reacted with Cu and Ag only. Deduce the series from most to least easily oxidized.",
+   "steps": [
+    {
+     "hint": "Count how many solutions each metal reacts with.",
+     "work": "Mg 4, Zn 3, Fe 2, Cu 1, Ag 0."
+    },
+    {
+     "hint": "More reactions means more easily oxidized.",
+     "work": "Mg is the most reactive; Ag the least."
+    },
+    {
+     "hint": "Order and interpret.",
+     "work": "Mg, Zn, Fe, Cu, Ag. Ag+ is the most easily reduced, so AgNO3 is the best oxidizing agent."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "597",
+   "understanding": "R3.2.6",
+   "title": "Manganese–nickel primary cell",
+   "problem": "Mn metal reacts with Ni2+ ions to form Mn2+ and Ni. Write the overall equation, the half-equations, the cell diagram, and the directions of electron and ion flow.",
+   "steps": [
+    {
+     "hint": "Write the overall reaction.",
+     "work": "Mn(s) + Ni2+(aq) → Mn2+(aq) + Ni(s)"
+    },
+    {
+     "hint": "Split into oxidation and reduction.",
+     "work": "Anode: Mn(s) → Mn2+(aq) + 2e⁻; cathode: Ni2+(aq) + 2e⁻ → Ni(s)."
+    },
+    {
+     "hint": "Put anode on the left, cathode on the right.",
+     "work": "Mn(s) | Mn2+(aq) || Ni2+(aq) | Ni(s)"
+    },
+    {
+     "hint": "Describe flows.",
+     "work": "Electrons go from Mn (anode) to Ni (cathode) via the wire; cations in the salt bridge move towards Ni, anions towards Mn."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "599",
+   "understanding": "R3.2.7",
+   "title": "Charging reactions of a lead–acid cell",
+   "problem": "The discharge reactions are anode: Pb + HSO4⁻ → PbSO4 + H+ + 2e⁻ and cathode: PbO2 + 3H+ + HSO4⁻ + 2e⁻ → PbSO4 + 2H2O. Give the reactions during charging and the overall charging reaction.",
+   "steps": [
+    {
+     "hint": "Charging reverses discharge.",
+     "work": "Reverse each discharge half-equation."
+    },
+    {
+     "hint": "Write the reversed equations.",
+     "work": "PbSO4 + H+ + 2e⁻ → Pb + HSO4⁻ and PbSO4 + 2H2O → PbO2 + 3H+ + HSO4⁻ + 2e⁻."
+    },
+    {
+     "hint": "Add and combine ions as sulfuric acid.",
+     "work": "2PbSO4(s) + 2H2O(l) → Pb(s) + PbO2(s) + 2H2SO4(aq)"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "606",
+   "understanding": "R3.2.9",
+   "title": "Oxidation equations for three alcohols",
+   "problem": "Write oxidation equations using [O] for (a) ethanol to an aldehyde, (b) propan-1-ol to a carboxylic acid, (c) propan-2-ol. State which reagent is in excess and whether to use reflux or distillation.",
+   "steps": [
+    {
+     "hint": "Ethanol to aldehyde: lose two H, gain C=O.",
+     "work": "CH3CH2OH + [O] → CH3CHO + H2O; alcohol in excess; distillation."
+    },
+    {
+     "hint": "Propan-1-ol to acid needs two oxidation steps.",
+     "work": "CH3CH2CH2OH + 2[O] → CH3CH2COOH + H2O; oxidizing agent in excess; reflux."
+    },
+    {
+     "hint": "Secondary alcohol gives a ketone.",
+     "work": "CH3CH(OH)CH3 + [O] → CH3COCH3 + H2O; oxidizing agent in excess; reflux."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "612",
+   "understanding": "R3.2.13",
+   "title": "Zinc half-cell with SHE",
+   "problem": "A Zn2+|Zn half-cell is joined to a standard hydrogen electrode. The reaction is 2H+(aq) + Zn(s) ⇌ Zn2+(aq) + H2(g). State which half-cell holds the anode and cathode, whether the forward reaction is spontaneous, and show E⦵cell = +0.76 V (E⦵ Zn2+/Zn = −0.76 V; H+/H2 = 0.00 V).",
+   "steps": [
+    {
+     "hint": "Compare the E⦵ values.",
+     "work": "H+/H2 (0.00 V) is more positive, so SHE is the cathode; zinc half-cell (−0.76 V) is the anode."
+    },
+    {
+     "hint": "Set directions and balance electrons.",
+     "work": "Cathode: 2H+ + 2e⁻ → H2; anode: Zn → Zn2+ + 2e⁻. Sum: 2H+(aq) + Zn(s) → Zn2+(aq) + H2(g)."
+    },
+    {
+     "hint": "State the verdict.",
+     "work": "The forward reaction as written is spontaneous."
+    },
+    {
+     "hint": "Compute E⦵cell.",
+     "work": "0.00 − (−0.76) = +0.76 V"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "613",
+   "understanding": "R3.2.13",
+   "title": "Copper–silver standard cell",
+   "problem": "A cell has Cu2+|Cu and Ag+|Ag half-cells. Find the anode and cathode, write the spontaneous reaction and calculate E⦵cell (E⦵ Ag+/Ag = +0.80 V; Cu2+/Cu = +0.34 V).",
+   "steps": [
+    {
+     "hint": "Compare E⦵.",
+     "work": "Silver (+0.80 V) is more positive: cathode. Copper is the anode."
+    },
+    {
+     "hint": "Balance electrons.",
+     "work": "2Ag+ + 2e⁻ → 2Ag and Cu → Cu2+ + 2e⁻."
+    },
+    {
+     "hint": "Add.",
+     "work": "2Ag+(aq) + Cu(s) → 2Ag(s) + Cu2+(aq)"
+    },
+    {
+     "hint": "Calculate E⦵cell; do not multiply E⦵ by coefficients.",
+     "work": "0.80 − 0.34 = 0.46 V"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "614",
+   "understanding": "R3.2.14",
+   "title": "ΔG⦵ for the zinc–hydrogen cell",
+   "problem": "The cell reaction 2H+(aq) + Zn(s) → Zn2+(aq) + H2(g) has E⦵cell = +0.76 V. Calculate ΔG⦵ (F = 9.65 × 10⁴ C mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the number of electrons.",
+     "work": "n = 2."
+    },
+    {
+     "hint": "Substitute into ΔG⦵ = −nFE⦵.",
+     "work": "−2 × 9.65×10⁴ C mol⁻¹ × 0.76 V"
+    },
+    {
+     "hint": "Evaluate and convert units.",
+     "work": "= −1.47 × 10⁵ J mol⁻¹ = −147 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "617",
+   "understanding": "R3.2.15",
+   "title": "Electrolysis of aqueous copper(II) sulfate",
+   "problem": "Deduce the products when aqueous CuSO4 is electrolysed with inert electrodes, and write the overall equation.",
+   "steps": [
+    {
+     "hint": "Compare reduction candidates at the cathode.",
+     "work": "Cu2+ + 2e⁻ → Cu (+0.34 V) beats water (−0.83 V): copper forms."
+    },
+    {
+     "hint": "Consider the anode candidates.",
+     "work": "Sulfate cannot be oxidized (S is already +6), so water is oxidized: H2O → ½O2 + 2H+ + 2e⁻."
+    },
+    {
+     "hint": "Add and double.",
+     "work": "2CuSO4(aq) + 2H2O(l) → 2Cu(s) + O2(g) + 2H2SO4(aq)"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "619",
+   "understanding": "R3.2.16",
+   "title": "Electroplating steel with copper",
+   "problem": "Deduce the half-equations at each electrode when steel is electroplated with copper in CuSO4(aq), using a copper anode.",
+   "steps": [
+    {
+     "hint": "The plating metal is the anode.",
+     "work": "Anode: Cu(s) → Cu2+(aq) + 2e⁻."
+    },
+    {
+     "hint": "The object to be plated is the cathode.",
+     "work": "Cathode: Cu2+(aq) + 2e⁻ → Cu(s)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "163",
+   "understanding": "R3.2.1",
+   "title": "Oxidation states and systematic names",
+   "problem": "Find the oxidation states and give systematic names for (a) CuO, (b) Co(OH)3, (c) NH4HCO3.",
+   "steps": [
+    {
+     "hint": "Start with CuO; oxygen is −2.",
+     "work": "Cu = +2: copper(II) oxide."
+    },
+    {
+     "hint": "Co(OH)3: H +1, O −2.",
+     "work": "x + 3(−2) + 3(+1) = 0, x = +3: cobalt(III) hydroxide."
+    },
+    {
+     "hint": "Treat NH4⁺ and HCO3⁻ separately.",
+     "work": "NH4⁺: x + 4 = +1, N = −3. HCO3⁻: x + 1 − 6 = −1, C = +4."
+    },
+    {
+     "hint": "Name the compound.",
+     "work": "ammonium hydrogencarbonate"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "164",
+   "understanding": "R3.2.2",
+   "title": "Copper with nitrate in acid",
+   "problem": "Cu(s) reacts with NO3⁻(aq) in acid to give Cu2+(aq) and NO2(g). Deduce the balanced equation and name the oxidizing and reducing agents.",
+   "steps": [
+    {
+     "hint": "Find oxidation-state changes.",
+     "work": "N +5 → +4 (reduced); Cu 0 → +2 (oxidized)."
+    },
+    {
+     "hint": "Write the reduction half-equation with H+ and water.",
+     "work": "NO3⁻ + 2H+ + e⁻ → NO2 + H2O"
+    },
+    {
+     "hint": "Write the oxidation half-equation.",
+     "work": "Cu → Cu2+ + 2e⁻"
+    },
+    {
+     "hint": "Equalize electrons and add.",
+     "work": "Double the reduction: Cu(s) + 2NO3⁻(aq) + 4H+(aq) → Cu2+(aq) + 2NO2(g) + 2H2O(l)"
+    },
+    {
+     "hint": "Name the agents as species.",
+     "work": "Oxidizing agent: NO3⁻(aq); reducing agent: Cu(s)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "169",
+   "understanding": "R3.2.9",
+   "title": "Telling tertiary from secondary alcohol",
+   "problem": "Explain, by observable changes, how acidified dichromate distinguishes 2-methylbutan-2-ol from 3-methylbutan-2-ol.",
+   "steps": [
+    {
+     "hint": "Classify each alcohol.",
+     "work": "2-methylbutan-2-ol is tertiary; 3-methylbutan-2-ol is secondary."
+    },
+    {
+     "hint": "Say what happens to the tertiary one.",
+     "work": "No oxidation: the solution stays orange."
+    },
+    {
+     "hint": "Say what happens to the secondary one.",
+     "work": "It is oxidized to a ketone while Cr2O7²⁻ (orange) is reduced to Cr3+ (green): orange to green."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "171",
+   "understanding": "R3.2.14",
+   "title": "Fe–Ni cell potential and ΔG",
+   "problem": "For the cell Fe(s)|Fe2+(aq)||Ni2+(aq)|Ni(s), calculate E⦵cell, write the cell reaction and calculate ΔG⦵ in kJ mol⁻¹ (E⦵ Fe2+/Fe = −0.45 V; Ni2+/Ni = −0.26 V; F = 96 500 C mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Identify cathode and anode from E⦵.",
+     "work": "Ni (−0.26 V, less negative) is the cathode; Fe is the anode."
+    },
+    {
+     "hint": "Subtract.",
+     "work": "E⦵cell = −0.26 − (−0.45) = +0.19 V"
+    },
+    {
+     "hint": "Write the reaction.",
+     "work": "Ni2+(aq) + Fe(s) → Fe2+(aq) + Ni(s)"
+    },
+    {
+     "hint": "Use ΔG⦵ = −nFE⦵ with n = 2.",
+     "work": "−2 × 96 500 × 0.19 = −3.7 × 10⁴ J mol⁻¹ = −37 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "173",
+   "understanding": "R3.2.15",
+   "title": "Dilute versus concentrated NaCl electrolysis",
+   "problem": "Compare the electrolysis of dilute and concentrated NaCl(aq).",
+   "steps": [
+    {
+     "hint": "Consider the cathode in both.",
+     "work": "Na+ (−2.71 V) is much harder to reduce than water (−0.83 V): H2 forms in both."
+    },
+    {
+     "hint": "Consider the anode in dilute solution.",
+     "work": "Water oxidation wins: 2H2O → O2 + 4H+ + 4e⁻, so O2 forms."
+    },
+    {
+     "hint": "Consider the anode in concentrated solution.",
+     "work": "High Cl⁻ concentration: 2Cl⁻ → Cl2 + 2e⁻, so Cl2 forms."
+    },
+    {
+     "hint": "State overall equations and pH.",
+     "work": "Dilute: 2H2O → 2H2 + O2 (pH stays near 7). Concentrated: 2NaCl + 2H2O → H2 + Cl2 + 2NaOH (becomes basic)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "175",
+   "understanding": "R3.2.16",
+   "title": "Mass of copper from a given current",
+   "problem": "A current of 1.7 A flows for 3.8 hours through aqueous CuSO4. Calculate the mass of copper deposited at the cathode (F = 9.65 × 10⁴ C mol⁻¹; M(Cu) = 63.55 g mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Find the charge in coulombs.",
+     "work": "Q = 1.7 A × (3.8 × 3600 s) = 2.3 × 10⁴ C"
+    },
+    {
+     "hint": "Convert to moles of electrons.",
+     "work": "n(e⁻) = 2.3×10⁴ / 9.65×10⁴ = 0.24 mol"
+    },
+    {
+     "hint": "Use Cu2+ + 2e⁻ → Cu.",
+     "work": "n(Cu) = 0.24 / 2 = 0.12 mol"
+    },
+    {
+     "hint": "Convert to mass.",
+     "work": "m = 0.12 × 63.55 ≈ 7.6 g (7.7 g without rounding intermediates)"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "592",
+   "understanding": "R3.2.4",
+   "tag": "ATL Thinking skills",
+   "prompt": "Zinc bubbles in dilute sulfuric acid, copper does not, and when the two metals touch, bubbles appear on the copper. How do you explain these three observations?",
+   "model_answer": [
+    "Copper is less reactive than hydrogen, so it does not displace hydrogen from the acid; zinc is more reactive and does.",
+    "When zinc and copper touch, a potential difference arises and electrons flow between them.",
+    "Metals conduct because of mobile delocalised electrons; electrons from zinc travel through the copper and reduce H+ to H2 there.",
+    "Possible linking question: why are acid–metal reactions redox while acid–base reactions are not?"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "593",
+   "understanding": "R3.2.2",
+   "tag": "Skills question",
+   "prompt": "In the iron-tablet titration with MnO4⁻, write the half-equations and overall equation, then outline how you go from titre to percentage of iron in a tablet.",
+   "model_answer": [
+    "Oxidation: Fe2+ → Fe3+ + e⁻.",
+    "Reduction: MnO4⁻ + 8H+ + 5e⁻ → Mn2+ + 4H2O.",
+    "Overall: 5Fe2+ + MnO4⁻ + 8H+ → 5Fe3+ + Mn2+ + 4H2O.",
+    "Find mol MnO4⁻ from titre and concentration, multiply by 5 for Fe2+ in 25 cm³, scale up to 250 cm³, convert to mass, then divide by tablet mass for the percentage."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "593",
+   "understanding": "R3.2.2",
+   "tag": "Skills question",
+   "prompt": "For the iron-tablet titration, what are two sources of error and how could you reduce them? Why use four tablets, and why leave the powder in acid for 24–48 hours?",
+   "model_answer": [
+    "Unclear end-point: put white paper behind the flask and agree a time that the pale pink must persist.",
+    "Incomplete dissolution of iron: leave the powder in acid longer.",
+    "Old tablets may contain different iron than labelled: use new tablets.",
+    "Several tablets give a larger iron amount, lowering the relative and percentage uncertainty.",
+    "Long soaking lets the iron fully dissolve in the acid."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "615",
+   "understanding": "R3.2.14",
+   "tag": "Skills question",
+   "prompt": "For the zinc–copper cell you built, what theoretical E⦵ would you expect, why might your measured value differ, and how do you get ΔG from it?",
+   "model_answer": [
+    "E⦵ = E⦵red − E⦵ox = 0.34 − (−0.76) = +1.10 V.",
+    "Differences may come from non-standard temperature, changing ion concentrations, or resistance in the circuit components.",
+    "ΔG = −nFE⦵ with n = 2.",
+    "−2 × 9.65×10⁴ × 1.10 = −212 080 J mol⁻¹ ≈ −212 kJ mol⁻¹ (3 sf)."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R3.2.2",
+   "tag": "Tool 1, Inquiry 2",
+   "prompt": "Why are some redox titrations described as “self-indicating”?",
+   "model_answer": [
+    "In many redox titrations the reactant and product have different colours, so the colour change itself shows the end-point.",
+    "In the MnO4⁻ titration, purple MnO4⁻ is reduced to almost colourless/pale pink Mn2+; the first permanent pale pink shows the end-point.",
+    "No separate indicator needs to be added, which removes indicator error and saves effort.",
+    "In contrast, acid–base titrations usually involve colourless solutions, so an indicator is needed.",
+    "Use a white tile and judge a persistent colour for reliable results."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R3.2.3",
+   "tag": "Tool 1, Inquiry 2",
+   "prompt": "What observations can you make when metals are placed in solutions of other metal ions, and when halogen solutions are mixed with halide ions?",
+   "model_answer": [
+    "If a metal is more reactive, it dissolves and a coating of the less reactive metal forms (e.g. Zn in Cu2+: red-brown copper appears and the blue colour fades).",
+    "If the metal is less reactive, nothing is seen.",
+    "A more reactive halogen displaces a less reactive halide, e.g. Cl2 with Br⁻ gives orange-brown Br2; Br2 with I⁻ gives brown I2.",
+    "A less reactive halogen added to a more reactive halide shows no change.",
+    "Ordering which metals or halogens react gives their relative ease of oxidation or reduction, with oxidizing power of halogens decreasing down the group."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R3.2.16",
+   "tag": "Tool 1",
+   "prompt": "How is an electrolytic cell set up and used for electroplating?",
+   "model_answer": [
+    "The object to be plated is the cathode, connected to the negative terminal of a DC supply.",
+    "The plating metal is the anode, connected to the positive terminal.",
+    "The electrolyte contains ions of the plating metal, e.g. CuSO4(aq) for copper.",
+    "At the anode the metal is oxidized (Cu → Cu2+ + 2e⁻); at the cathode the ions are reduced and deposit as a thin layer (Cu2+ + 2e⁻ → Cu).",
+    "Electrolyte concentration stays constant, since ions removed at the cathode are replaced by the anode."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "R3.2",
+ "title": "Electron transfer reactions",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 31 (Course Companion p620): copies the book",
+  "practice 33 (Course Companion p620): copies the book",
+  "practice 60 (IB Prepared p176): copies the book"
+ ]
+}

@@ -1,0 +1,10 @@
+streamlit>=1.50        # the app (st.button shortcuts, st.pills, horizontal containers)
+anthropic>=0.70        # API backend + Claude classifier (optional on Pro: use --backend claude-cli)
+pdfplumber>=0.11       # PDF text: Chemistry pipeline and the Maths build steps (ingest/maths_*.py)
+pypdfium2>=4.30        # renders PDF pages: Maths questions, markschemes and calculator steps are shown as crops
+pandas>=2.2            # Maths analytics
+tzdata                 # Atlantic/Canary time zone for the revision calendar on Windows
+llama-cloud>=2.0       # only needed for LlamaParse parsing (optional)
+pytest>=8
+rapidocr>=3.0          # scanned revision books: fast CPU OCR (ingest.scan_ocr)
+onnxruntime>=1.20

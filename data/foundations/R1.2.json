@@ -1,0 +1,965 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Cl2(g) + H2(g) → 2HCl(g) has ΔH = −185 kJ mol⁻¹. Taking BE(H–H) = 436 and BE(Cl–Cl) = 242 kJ mol⁻¹, calculate the H–Cl bond enthalpy in kJ mol⁻¹.",
+   "options": [],
+   "answer": "431.5 kJ mol⁻¹",
+   "steps": [
+    "ΔH = Σ(bonds broken) − Σ(bonds formed) = (436 + 242) − 2x",
+    "−185 = 678 − 2x",
+    "2x = 863, so x = 431.5 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Use bond enthalpies (C–H 414, O–H 463, H–H 436, C≡O 1077 kJ mol⁻¹) to find ΔH for CH4(g) + H2O(g) → 3H2(g) + CO(g).",
+   "options": [],
+   "answer": "+197 kJ mol⁻¹",
+   "steps": [
+    "Bonds broken: 4 C–H + 2 O–H = 4(414) + 2(463) = 2582",
+    "Bonds formed: 3 H–H + 1 C≡O = 3(436) + 1077 = 2385",
+    "ΔH = 2582 − 2385 = +197 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "Methane reacts with chlorine to give chloromethane and hydrogen chloride. Write the balanced equation with state symbols (all gases).",
+   "options": [],
+   "answer": "CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g)",
+   "steps": [
+    "Only one H is swapped for one Cl, so the coefficients are all 1"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Using bond enthalpies (C–H 414, Cl–Cl 242, C–Cl 324, H–Cl 431 kJ mol⁻¹), find ΔH for CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g).",
+   "options": [],
+   "answer": "−99 kJ mol⁻¹",
+   "steps": [
+    "Broken: 4 C–H + Cl–Cl = 1656 + 242 = 1898",
+    "Formed: 3 C–H + C–Cl + H–Cl = 1242 + 324 + 431 = 1997",
+    "ΔH = 1898 − 1997 = −99 kJ mol⁻¹ (same if you count only the bonds that change: 656 − 755)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "The reaction CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g) has ΔH = −99 kJ mol⁻¹. Is it exothermic or endothermic? Explain.",
+   "options": [],
+   "answer": "Exothermic, because ΔH is negative.",
+   "steps": [
+    "A negative ΔH means energy is released to the surroundings"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "For the reaction with ΔH = −99 kJ mol⁻¹ (CH4 + Cl2 → CH3Cl + HCl), which are more energetically stable: reactants or products?",
+   "options": [],
+   "answer": "The products",
+   "steps": [
+    "Energy is released, so the products have lower enthalpy than the reactants"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "410",
+   "understanding": "R1.2.2",
+   "kind": "calculation",
+   "question": "Find ΔH for 3H2(g) + 2C(s) + ½O2(g) → C2H5OH(l) using (1) C2H5OH(l) + 3O2(g) → 2CO2(g) + 3H2O(l), ΔH = −1367; (2) C(s) + O2(g) → CO2(g), ΔH = −394; (3) H2(g) + ½O2(g) → H2O(l), ΔH = −286 (all kJ mol⁻¹). Use summation of equations.",
+   "options": [],
+   "answer": "−279 kJ mol⁻¹",
+   "steps": [
+    "Reverse (1): 2CO2 + 3H2O → C2H5OH + 3O2, ΔH = +1367",
+    "Double (2): ΔH = 2(−394) = −788",
+    "Triple (3): ΔH = 3(−286) = −858",
+    "Sum: +1367 − 788 − 858 = −279 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "410",
+   "understanding": "R1.2.2",
+   "kind": "calculation",
+   "question": "Find ΔH for 4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(l) from (1) N2(g) + O2(g) → 2NO(g), +66; (2) N2(g) + 3H2(g) → 2NH3(g), −92; (3) 2H2(g) + O2(g) → 2H2O(l), −572 (all kJ mol⁻¹). Use an enthalpy cycle.",
+   "options": [],
+   "answer": "−1400 kJ mol⁻¹",
+   "steps": [
+    "Reverse and double (2): 4NH3 → 2N2 + 6H2, ΔH = +184",
+    "Double (1): 2N2 + 2O2 → 4NO, ΔH = +132",
+    "Triple (3): 6H2 + 3O2 → 6H2O, ΔH = −1716",
+    "Sum: 184 + 132 − 1716 = −1400 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "414",
+   "understanding": "R1.2.4",
+   "kind": "short_answer",
+   "question": "A student uses combustion data and Hess's law and gets ΔHf of pentane = −177 kJ mol⁻¹, but the booklet gives −173 kJ mol⁻¹. Suggest why they differ.",
+   "options": [],
+   "answer": "The booklet's enthalpy values are rounded to whole numbers; with more precise data (CO2 −393.5, H2O −285.8) the result is −173.3, so rounding affects the precision and accuracy of the answer.",
+   "steps": [
+    "Booklet ΔHc values are rounded",
+    "Rounding errors add up when values are multiplied by 5 and 6",
+    "Using −393.5 and −285.8 gives −173.3 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.4",
+   "kind": "calculation",
+   "question": "Calculate ΔHf of propanone, CH3COCH3(l), from ΔHc data: C(s) −394, H2(g) −286, CH3COCH3(l) −1790 kJ mol⁻¹. The formation reaction is 3C(s) + 3H2(g) + ½O2(g) → CH3COCH3(l).",
+   "options": [],
+   "answer": "−250 kJ mol⁻¹",
+   "steps": [
+    "Triple the carbon combustion: 3(−394) = −1182",
+    "Triple the hydrogen combustion: 3(−286) = −858",
+    "Reverse propanone combustion: +1790",
+    "Sum: −1182 − 858 + 1790 = −250 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.3",
+   "kind": "short_answer",
+   "question": "For CH4(g) + H2O(g) → 3H2(g) + CO(g), why is no ΔHf value listed for H2(g)?",
+   "options": [],
+   "answer": "H2 is an element in its standard state, so its ΔHf is zero by definition (nothing is formed).",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.4",
+   "kind": "calculation",
+   "question": "Using ΔHf values CH4(g) −74, H2O(g) −242, CO(g) −111, H2(g) 0 kJ mol⁻¹, find ΔH for CH4(g) + H2O(g) → 3H2(g) + CO(g).",
+   "options": [],
+   "answer": "+205 kJ mol⁻¹",
+   "steps": [
+    "Σ products = 3(0) + (−111) = −111",
+    "Σ reactants = −74 + (−242) = −316",
+    "ΔH = −111 − (−316) = +205 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "Why is the ΔH for CH4(g) + H2O(g) → 3H2(g) + CO(g) found from bond enthalpies less accurate than the one from formation enthalpies?",
+   "options": [],
+   "answer": "Bond enthalpies are averages across many compounds, not specific to these molecules; they are experimental values with uncertainty and sources differ slightly.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.4",
+   "kind": "calculation",
+   "question": "Ethene plus hydrogen (C2H4(g) + H2(g)) can be burned to give 2CO2(g) + 3H2O(l). Using ΔHc(H2) = −286 and ΔHc(C2H4) = −1411 kJ mol⁻¹, find the enthalpy change of this combined combustion.",
+   "options": [],
+   "answer": "−1697 kJ mol⁻¹",
+   "steps": [
+    "Both reactants burn separately to the same products",
+    "Add the two combustion enthalpies: −286 + (−1411) = −1697 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.4",
+   "kind": "calculation",
+   "question": "Hydrogenation C2H4(g) + H2(g) → C2H6(g): burning the reactants gives ΔH = −1697 kJ mol⁻¹ to 2CO2 + 3H2O(l); burning ethane (ΔHc = −1561 kJ mol⁻¹) gives the same products. Find ΔH of the hydrogenation.",
+   "options": [],
+   "answer": "−136 kJ mol⁻¹",
+   "steps": [
+    "Hydrogenation = (burn reactants) − (burn ethane)",
+    "−1697 − (−1561) = −136 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "417",
+   "understanding": "R1.2.4",
+   "kind": "short_answer",
+   "question": "Give one reason the Hess's law result of −136 kJ mol⁻¹ can be called accurate and one reason it is only approximate.",
+   "options": [],
+   "answer": "Accurate: no approximations in the cycle (values are specific to these compounds; Hess's law reflects energy conservation). Approximate: the data are experimental with uncertainty and given to only 3–4 significant figures; a small difference of two large numbers gives a large percentage uncertainty.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "421",
+   "understanding": "R1.2.5",
+   "kind": "calculation",
+   "question": "Calculate ΔHf of MgO from these Born–Haber values (kJ mol⁻¹): ΔHat(Mg) +148, IE1(Mg) +738, IE2(Mg) +1451, ΔHat(O) +249, EA1(O) −141, EA2(O) +753, lattice enthalpy +3791.",
+   "options": [],
+   "answer": "−593 kJ mol⁻¹",
+   "steps": [
+    "ΔHf equals the sum of all other steps, with lattice enthalpy reversed (−3791)",
+    "148 + 738 + 1451 + 249 − 141 + 753 − 3791",
+    "= −593 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "422",
+   "understanding": "R1.2.2",
+   "kind": "short_answer",
+   "question": "How does applying conservation of energy help predict energy changes in reactions?",
+   "options": [],
+   "answer": "Energy cannot be created or destroyed, so the enthalpy change depends only on start and end states (Hess's law). Knowing an overall value such as ΔHf or lattice enthalpy lets you find a missing step in an energy cycle.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "422",
+   "understanding": "R1.2.1",
+   "kind": "multiple_choice",
+   "question": "Which equation represents the N–H bond enthalpy in NH3?",
+   "options": [
+    "A. NH3(g) → N(g) + 3H(g)",
+    "B. ⅓NH3(g) → ⅓N(g) + H(g)",
+    "C. NH3(g) → ½N2(g) + 3/2 H2(g)",
+    "D. NH3(g) → •NH2(g) + •H(g)"
+   ],
+   "answer": "B. ⅓NH3(g) → ⅓N(g) + H(g)",
+   "steps": [
+    "Bond enthalpy is the average for one mole of N–H bonds",
+    "A has 3 mol of bonds; B has 1 mol of N–H bonds broken in the average"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "422",
+   "understanding": "R1.2.1",
+   "kind": "multiple_choice",
+   "question": "Which expression gives ΔH for N2(g) + 3H2(g) ⇌ 2NH3(g) from bond enthalpies (N–H 391, H–H 436, N≡N 945 kJ mol⁻¹)?",
+   "options": [
+    "A. (6 × 391) − [(3 × 436) + 945]",
+    "B. (3 × 391) − (436 + 945)",
+    "C. −[(3 × 436) + 945] + (3 × 391)",
+    "D. −(6 × 391) + [(3 × 436) + 945]"
+   ],
+   "answer": "D. −(6 × 391) + [(3 × 436) + 945]",
+   "steps": [
+    "Broken: 3 H–H + 1 N≡N",
+    "Formed: 6 N–H",
+    "ΔH = broken − formed"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "422",
+   "understanding": "R1.2.5",
+   "kind": "multiple_choice",
+   "question": "Which equation represents lattice enthalpy?",
+   "options": [
+    "A. NaCl(g) → Na⁺(g) + Cl⁻(g)",
+    "B. NaCl(s) → Na⁺(g) + Cl⁻(g)",
+    "C. NaCl(s) → Na⁺(aq) + Cl⁻(aq)",
+    "D. NaCl(s) → Na⁺(s) + Cl⁻(s)"
+   ],
+   "answer": "B. NaCl(s) → Na⁺(g) + Cl⁻(g)",
+   "steps": [
+    "In DP chemistry lattice enthalpy is solid lattice to gaseous ions"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "422",
+   "understanding": "R1.2.5",
+   "kind": "multiple_choice",
+   "question": "In a Born–Haber cycle for SrCl2 (kJ mol⁻¹): ΔHf = −829, ΔHat(Sr) = +164, atomization of 2Cl = +242, IE1 = +549, IE2 = +1064, EA for 2Cl = −698. Which calculation gives the lattice enthalpy?",
+   "options": [
+    "A. −(−829) + 164 + 242 + 549 + 1064 − (−698)",
+    "B. −829 + 164 + 242 + 549 + 1064 − 698",
+    "C. −(−829) + 164 + 242 + 549 + 1064 − 698",
+    "D. −829 + 164 + 242 + 549 + 1064 − (−698)"
+   ],
+   "answer": "C. −(−829) + 164 + 242 + 549 + 1064 − 698",
+   "steps": [
+    "Reverse ΔHf: +829",
+    "Add the other steps, including the electron affinity as its own negative value (−698)",
+    "This gives about +2150 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "18M.1.HL.TZ2.16"
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Using BE(N≡N) 945, BE(H–H) 436, BE(N–H) 391 kJ mol⁻¹, calculate ΔH for N2(g) + 3H2(g) ⇌ 2NH3(g).",
+   "options": [],
+   "answer": "−93 kJ mol⁻¹",
+   "steps": [
+    "Broken: 945 + 3(436) = 2253",
+    "Formed: 6 × 391 = 2346",
+    "ΔH = 2253 − 2346 = −93 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "The Haber reaction has ΔH = −93 kJ mol⁻¹. State and explain whether it is exothermic or endothermic.",
+   "options": [],
+   "answer": "Exothermic, because ΔH is negative.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "Write a balanced equation with state symbols for ammonia reacting with oxygen to form nitrogen and steam.",
+   "options": [],
+   "answer": "4NH3(g) + 3O2(g) → 2N2(g) + 6H2O(g)",
+   "steps": [
+    "Balance N: 2N2 from 4NH3",
+    "Balance H: 6H2O",
+    "O: 6 atoms means 3O2"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Using BE (N–H 391, O=O 498, N≡N 945, O–H 463 kJ mol⁻¹), find ΔH for 4NH3(g) + 3O2(g) → 2N2(g) + 6H2O(g).",
+   "options": [],
+   "answer": "−1260 kJ mol⁻¹",
+   "steps": [
+    "Broken: 12 N–H + 3 O=O = 4692 + 1494 = 6186",
+    "Formed: 2 N≡N + 12 O–H = 1890 + 5556 = 7446",
+    "ΔH = 6186 − 7446 = −1260 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "Using BE (C–H 414, C–C 346, O=O 498, C=O 804, O–H 463 kJ mol⁻¹), find ΔH for C8H18(l) + 12.5O2(g) → 8CO2(g) + 9H2O(g).",
+   "options": [],
+   "answer": "−5099 kJ mol⁻¹",
+   "steps": [
+    "Broken: 18 C–H + 7 C–C + 12.5 O=O = 7452 + 2422 + 6225 = 16099",
+    "Formed: 16 C=O + 18 O–H = 12864 + 8334 = 21198",
+    "ΔH = 16099 − 21198 = −5099 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "423",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "The bond-enthalpy ΔH for octane combustion (−5099) differs from the experimental −5470 kJ mol⁻¹. Give two reasons.",
+   "options": [],
+   "answer": "Bond enthalpies are averages, so only approximate; and bond enthalpies apply to gaseous substances, but octane is a liquid.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "105",
+   "understanding": "R1.2.1",
+   "kind": "multiple_choice",
+   "question": "Which equation corresponds to the bond enthalpy of H–Br?",
+   "options": [
+    "A. HBr(g) → ½H2(g) + ½Br2(g)",
+    "B. HBr(g) → ½H2(g) + ½Br2(l)",
+    "C. HBr(g) → H⁺(g) + Br⁻(g)",
+    "D. HBr(g) → H(g) + Br(g)"
+   ],
+   "answer": "D. HBr(g) → H(g) + Br(g)",
+   "steps": [
+    "Bond enthalpy is homolytic breaking of the bond into gaseous atoms"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.2",
+   "kind": "multiple_choice",
+   "question": "Given 2Al(s) + 1.5O2(g) → Al2O3(s), ΔH = −1675 and 2Fe(s) + 1.5O2(g) → Fe2O3(s), ΔH = −825 kJ mol⁻¹, what is ΔH (kJ mol⁻¹) for Fe2O3(s) + 2Al(s) → 2Fe(s) + Al2O3(s)?",
+   "options": [
+    "A. −850",
+    "B. +850",
+    "C. −2500",
+    "D. +2500"
+   ],
+   "answer": "A. −850",
+   "steps": [
+    "Keep the Al equation: −1675",
+    "Reverse the Fe equation: +825",
+    "Sum: −850"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.1",
+   "kind": "short_answer",
+   "question": "Each O–O bond in ozone has bond order 1.5. Using the booklet's bond length (O–O 148 pm, O=O 121 pm) and BE (O–O 144, O=O 498 kJ mol⁻¹) data, predict the bond length and BE.",
+   "options": [],
+   "answer": "Length about 135 pm; BE about 321 kJ mol⁻¹.",
+   "steps": [
+    "Bond order 1.5 lies halfway between single and double",
+    "Length = (148 + 121)/2 ≈ 135 pm (actual 128 pm)",
+    "BE = (144 + 498)/2 = 321 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.3",
+   "kind": "calculation",
+   "question": "Write the equation for evaporation of water and calculate its enthalpy change using ΔHf(H2O(l)) = −286 and ΔHf(H2O(g)) = −242 kJ mol⁻¹.",
+   "options": [],
+   "answer": "H2O(l) → H2O(g); ΔH = +44 kJ mol⁻¹",
+   "steps": [
+    "ΔH = ΔHf(product) − ΔHf(reactant)",
+    "−242 − (−286) = +44 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.1",
+   "kind": "calculation",
+   "question": "The bond-enthalpy ΔHc for burning ethane gas to CO2(g) and H2O(l) was −1421 kJ mol⁻¹, but bond enthalpies refer to gaseous water. Use the +44 kJ mol⁻¹ evaporation value to correct it.",
+   "options": [],
+   "answer": "−1553 kJ mol⁻¹",
+   "steps": [
+    "3 mol of water are formed as liquid, not gas",
+    "Extra energy released on condensing: 3 × 44 = 132",
+    "−1421 − 132 = −1553 kJ mol⁻¹ (close to the booklet's −1561)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.3",
+   "kind": "short_answer",
+   "question": "Write the equations that define ΔHc for CH3OH(l) and ΔHf for H2O(l).",
+   "options": [],
+   "answer": "CH3OH(l) + 1.5O2(g) → CO2(g) + 2H2O(l); H2(g) + 0.5O2(g) → H2O(l)",
+   "steps": [
+    "Combustion: 1 mol of fuel with oxygen to CO2 and liquid water",
+    "Formation: 1 mol of product from elements in standard states"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.4",
+   "kind": "short_answer",
+   "question": "Using formation equations for methanol (C + 2H2 + 0.5O2 → CH3OH), CO2 (C + O2 → CO2) and water (H2 + 0.5O2 → H2O), show that ΔHc(CH3OH) = Σ ΔHf(products) − Σ ΔHf(reactants).",
+   "options": [],
+   "answer": "Combine (CO2 formation) + 2×(water formation) − (methanol formation) to get CH3OH + 1.5O2 → CO2 + 2H2O; so ΔHc = ΔHf(CO2) + 2ΔHf(H2O) − ΔHf(CH3OH). Numerically −394 + 2(−286) − (−239) = −727 kJ mol⁻¹, near −726 (rounding).",
+   "steps": [
+    "Add CO2 and 2 water equations; subtract methanol equation",
+    "C and 2H2 cancel, leaving the combustion equation",
+    "Apply the same combination to the ΔHf values; O2 is zero"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.5",
+   "kind": "short_answer",
+   "question": "What process is the standard enthalpy of atomization for aluminium at 298 K?",
+   "options": [],
+   "answer": "Al(s) → Al(g)",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.5",
+   "kind": "short_answer",
+   "question": "What process is the standard enthalpy of atomization for nitrogen at 298 K?",
+   "options": [],
+   "answer": "½N2(g) → N(g)",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.5",
+   "kind": "short_answer",
+   "question": "What process is the standard enthalpy of atomization for bromine at 298 K?",
+   "options": [],
+   "answer": "½Br2(l) → Br(g) (evaporation plus bond breaking)",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.5",
+   "kind": "short_answer",
+   "question": "Write the equation for the standard enthalpy of formation of calcium oxide.",
+   "options": [],
+   "answer": "Ca(s) + ½O2(g) → CaO(s)",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "106",
+   "understanding": "R1.2.5",
+   "kind": "calculation",
+   "question": "Calculate the lattice enthalpy of CaO (kJ mol⁻¹): ΔHf(CaO) −635, ΔHat(Ca) +155, IE1(Ca) +590, IE2(Ca) +1146, ΔHat(O) = ½BE(O=O) = 0.5 × 498, EA1(O) −141, EA2(O) +753.",
+   "options": [],
+   "answer": "+3387 kJ mol⁻¹",
+   "steps": [
+    "Lattice enthalpy = −ΔHf + ΔHat(Ca) + IE1 + IE2 + ΔHat(O) + EA1 + EA2",
+    "= 635 + 155 + 590 + 1146 + 249 − 141 + 753",
+    "= +3387 kJ mol⁻¹ (booklet: +3401)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "407",
+   "understanding": "R1.2.1",
+   "title": "ΔH of HBr addition from bond enthalpies",
+   "problem": "Use bond enthalpies to find ΔH for C2H4(g) + HBr(g) → C2H5Br(g). Use C–H 414, C=C 614, H–Br 366, C–C 346, C–Br 285 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Count bonds in reactants.",
+     "work": "Reactants: 4 C–H, 1 C=C, 1 H–Br"
+    },
+    {
+     "hint": "Count bonds in the product.",
+     "work": "Product: 5 C–H, 1 C–C, 1 C–Br"
+    },
+    {
+     "hint": "Total energy for breaking bonds.",
+     "work": "4(414) + 614 + 366 = 2636 kJ mol⁻¹"
+    },
+    {
+     "hint": "Total energy released forming bonds, then subtract.",
+     "work": "5(414) + 346 + 285 = 2701; ΔH = 2636 − 2701 = −65 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "409",
+   "understanding": "R1.2.2",
+   "title": "Methanol formation enthalpy by summing equations",
+   "problem": "Find ΔH for C(s) + 2H2(g) + ½O2(g) → CH3OH(l) given: (1) CH3OH + 1.5O2 → CO2 + 2H2O, −726; (2) C + O2 → CO2, −394; (3) H2 + ½O2 → H2O, −286 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Carbon is a reactant; check which equation holds it.",
+     "work": "Use (2) as written: ΔH = −394"
+    },
+    {
+     "hint": "Two moles of hydrogen needed; scale equation (3).",
+     "work": "2 × (3): ΔH = −572"
+    },
+    {
+     "hint": "Methanol must be a product, so alter equation (1).",
+     "work": "Reverse (1): ΔH = +726"
+    },
+    {
+     "hint": "Add and cancel common species.",
+     "work": "−394 − 572 + 726 = −240 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "415",
+   "understanding": "R1.2.4",
+   "title": "Pentane ΔHf from combustion data",
+   "problem": "Calculate ΔHf of C5H12(l) from ΔHc: C(s) −394, H2(g) −286, C5H12(l) −3509 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Write the formation equation.",
+     "work": "5C(s) + 6H2(g) → C5H12(l)"
+    },
+    {
+     "hint": "Scale carbon combustion to five moles.",
+     "work": "5 × (−394) = −1970"
+    },
+    {
+     "hint": "Scale hydrogen combustion to six moles.",
+     "work": "6 × (−286) = −1716"
+    },
+    {
+     "hint": "Pentane must be produced, so reverse its combustion.",
+     "work": "+3509"
+    },
+    {
+     "hint": "Add all three values.",
+     "work": "−1970 − 1716 + 3509 = −177 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "416",
+   "understanding": "R1.2.4",
+   "title": "Pentane ΔHc from formation data",
+   "problem": "Calculate ΔHc of C5H12(l) from ΔHf: C5H12(l) −173, CO2(g) −394, H2O(l) −286 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Write the combustion equation.",
+     "work": "C5H12(l) + 8O2(g) → 5CO2(g) + 6H2O(l)"
+    },
+    {
+     "hint": "Pentane is a reactant, so reverse its formation.",
+     "work": "+173"
+    },
+    {
+     "hint": "Scale CO2 formation by five.",
+     "work": "5 × (−394) = −1970"
+    },
+    {
+     "hint": "Scale water formation by six.",
+     "work": "6 × (−286) = −1716"
+    },
+    {
+     "hint": "Add the values.",
+     "work": "173 − 1970 − 1716 = −3513 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "420",
+   "understanding": "R1.2.5",
+   "title": "Lattice enthalpy of potassium bromide",
+   "problem": "Find the lattice enthalpy of KBr using: ΔHf(KBr) −392, ΔHat(K) +89, IE(K) +419, ΔHat(Br) +112, EA(Br) −325 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Go round the cycle the long way from KBr(s) to gaseous ions.",
+     "work": "Lattice = −ΔHf + ΔHat(K) + IE(K) + ΔHat(Br) + EA(Br)"
+    },
+    {
+     "hint": "Reverse the sign of formation because the arrow is followed backwards.",
+     "work": "−(−392) = +392"
+    },
+    {
+     "hint": "Substitute and add.",
+     "work": "392 + 89 + 419 + 112 − 325 = +687 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "99",
+   "understanding": "R1.2.1",
+   "title": "Ethane combustion from bond enthalpies",
+   "problem": "Calculate ΔH for the complete combustion of C2H6(g) to CO2(g) and H2O(l) with bond enthalpies (C–C 346, C–H 414, O=O 498, C=O 804, O–H 463), then compare it with the booklet value −1561 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Write the balanced equation.",
+     "work": "C2H6(g) + 3.5O2(g) → 2CO2(g) + 3H2O(l)"
+    },
+    {
+     "hint": "Sum bonds broken.",
+     "work": "346 + 6(414) + 3.5(498) = 4573 kJ mol⁻¹"
+    },
+    {
+     "hint": "Sum bonds formed.",
+     "work": "4(804) + 6(463) = 5994 kJ mol⁻¹"
+    },
+    {
+     "hint": "Subtract formed from broken.",
+     "work": "4573 − 5994 = −1421 kJ mol⁻¹"
+    },
+    {
+     "hint": "Explain why this differs from the booklet.",
+     "work": "BEs are averages and refer to gases, but the product water here is liquid"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "101",
+   "understanding": "R1.2.2",
+   "title": "CO + NO2 enthalpy via Hess's law",
+   "problem": "Given 2NO(g) + O2(g) → 2NO2(g), ΔH = −116 and 2CO(g) + O2(g) → 2CO2(g), ΔH = −566 kJ mol⁻¹, find ΔH for CO(g) + NO2(g) → CO2(g) + NO(g).",
+   "steps": [
+    {
+     "hint": "Decide how to combine the two equations.",
+     "work": "Second equation minus first, then halve"
+    },
+    {
+     "hint": "Check species cancel.",
+     "work": "O2 cancels; 2CO + 2NO2 → 2CO2 + 2NO, then halve"
+    },
+    {
+     "hint": "Combine enthalpies the same way.",
+     "work": "ΔH = 0.5 × [−566 − (−116)] = −225 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "102",
+   "understanding": "R1.2.4",
+   "title": "Propanoic acid ΔHc from formation data",
+   "problem": "Given ΔHf of CH3CH2COOH(l) = −511, CO2 = −394, H2O(l) = −286 kJ mol⁻¹, find its ΔHc.",
+   "steps": [
+    {
+     "hint": "Write the combustion equation.",
+     "work": "CH3CH2COOH(l) + 3.5O2(g) → 3CO2(g) + 3H2O(l)"
+    },
+    {
+     "hint": "List ΔHf values; oxygen is an element.",
+     "work": "−511, 0 | −394, −286"
+    },
+    {
+     "hint": "Products minus reactants.",
+     "work": "3(−394) + 3(−286) − (−511) = −1529 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "105",
+   "understanding": "R1.2.5",
+   "title": "Lattice enthalpy of sodium chloride",
+   "problem": "Find the lattice enthalpy of NaCl from: ΔHf(NaCl) −411, ΔHsub(Na) +108, IE1(Na) +496, BE(Cl–Cl) 242, EA(Cl) −349 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Write the formation equation.",
+     "work": "Na(s) + ½Cl2(g) → NaCl(s)"
+    },
+    {
+     "hint": "Convert Cl2 to atoms.",
+     "work": "ΔHat(Cl) = ½ × 242 = +121 kJ mol⁻¹"
+    },
+    {
+     "hint": "Go anticlockwise; reverse formation's sign.",
+     "work": "Lattice = 411 + 108 + 496 + 121 − 349"
+    },
+    {
+     "hint": "Add up.",
+     "work": "+787 kJ mol⁻¹ (booklet: +790)"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "411",
+   "understanding": "R1.2.4",
+   "tag": "Skills question 1",
+   "prompt": "In the KHCO3 decomposition investigation, write balanced equations with state symbols for the reactions of K2CO3 and of KHCO3 with hydrochloric acid.",
+   "model_answer": [
+    "2HCl(aq) + K2CO3(s) → 2KCl(aq) + H2O(l) + CO2(g)",
+    "HCl(aq) + KHCO3(s) → KCl(aq) + H2O(l) + CO2(g)",
+    "Note carbonate needs 2 mol of acid, hydrogencarbonate needs 1"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "411",
+   "understanding": "R1.2.4",
+   "tag": "Skills question 2",
+   "prompt": "You use 30 cm³ of 2 mol dm⁻³ HCl with about 0.02 mol K2CO3 or 0.03 mol KHCO3. Show that the acid is in excess in each case.",
+   "model_answer": [
+    "n(HCl) = 0.030 dm³ × 2 mol dm⁻³ = 0.06 mol",
+    "K2CO3 needs 2 HCl per carbonate: 2 × 0.02 = 0.04 < 0.06, so excess",
+    "KHCO3 needs 1:1, so 0.03 < 0.06, so excess",
+    "Excess acid ensures all the solid reacts"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "411",
+   "understanding": "R1.2.4",
+   "tag": "Skills question 4",
+   "prompt": "Write the balanced equation for thermal decomposition of KHCO3, and comment on the state symbol for water.",
+   "model_answer": [
+    "2KHCO3(s) → K2CO3(s) + CO2(g) + H2O(g)",
+    "Heated, water is a gas; under standard conditions it would be (l)"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "411",
+   "understanding": "R1.2.4",
+   "tag": "Skills question 8",
+   "prompt": "How should you find a theoretical value for the decomposition enthalpy to calculate your percentage error?",
+   "model_answer": [
+    "The value depends on the source you look up",
+    "It can be calculated from enthalpy of formation data",
+    "Percentage error compares your result to this accepted value"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "411",
+   "understanding": "R1.2.4",
+   "tag": "Skills question 9",
+   "prompt": "Name two assumptions made in this calorimetry investigation and discuss whether they are valid.",
+   "model_answer": [
+    "The solution's specific heat capacity is taken as that of water",
+    "No energy is lost to the surroundings",
+    "Energy is evenly spread through the solution",
+    "Mass of solution is assumed from volume, with 1 g = 1 cm³ (water's mass not measured)"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "412",
+   "understanding": "R1.2.3",
+   "tag": "Activity",
+   "prompt": "Write equations with state symbols for the standard enthalpy of combustion of octane, cyclohexanol, methanoic acid, glucose and chloroethane, and give the booklet values.",
+   "model_answer": [
+    "C8H18(l) + 12.5O2(g) → 8CO2(g) + 9H2O(l), −5470 kJ mol⁻¹",
+    "C6H12O(s) + 8.5O2(g) → 6CO2(g) + 6H2O(l), −3728",
+    "CH2O2(l) + 0.5O2(g) → CO2(g) + H2O(l), −255",
+    "C6H12O6(s) + 6O2(g) → 6CO2(g) + 6H2O(l), −2803",
+    "C2H5Cl(g) + 3O2(g) → 2CO2(g) + 2H2O(l) + HCl(g), −1413"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "413",
+   "understanding": "R1.2.3",
+   "tag": "Activity",
+   "prompt": "Write the formation equations (with state symbols) for propane, chloromethane, ethanol, benzoic acid, carbon monoxide and methylamine, and give the booklet ΔHf values.",
+   "model_answer": [
+    "3C(s) + 4H2(g) → C3H8(g), −105 kJ mol⁻¹",
+    "C(s) + 1.5H2(g) + 0.5Cl2(g) → CH3Cl(g), −82.0",
+    "2C(s) + 3H2(g) + 0.5O2(g) → C2H6O(l), −278",
+    "7C(s) + 3H2(g) + O2(g) → C6H5COOH(s), −385",
+    "C(s) + 0.5O2(g) → CO(g), −111",
+    "C(s) + 2.5H2(g) + 0.5N2(g) → CH3NH2(g), −23"
+   ],
+   "answer_from": "book"
+  }
+ ],
+ "sub_topic": "R1.2",
+ "title": "Energy cycles in reactions",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": []
+}

@@ -1,0 +1,2857 @@
+{
+  "cards": [
+    {
+      "card_id": "R1.1-01",
+      "title": "Right number, wrong sign: the sign of ΔH from calorimetry",
+      "understandings": [
+        "R1.1.4",
+        "R1.1.2"
+      ],
+      "priority": 1,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6213.19",
+        "question": "A spirit burner burns 0.110 mol of fuel beneath a metal calorimeter holding 200 g of water. The water warms from 21.0 °C to 25.0 °C. Use c(water) = 4.18 J g⁻¹ K⁻¹ and Q = mcΔT. Which value is the standard enthalpy change of combustion?\nA. −2110 kJ mol⁻¹\nB. −30.4 kJ mol⁻¹\nC. +30.4 kJ mol⁻¹\nD. +2110 kJ mol⁻¹",
+        "marks": 1,
+        "key_idea": "Q is only a size; ΔH = −Q/n, so heat released means negative.",
+        "question_type": "Calorimetry: find ΔH per mole",
+        "careful": "Put a negative sign on ΔH when the temperature rises.",
+        "procedure": [
+          "Find ΔT as final minus initial temperature.",
+          "Calculate Q = mcΔT using the mass of water.",
+          "Convert Q from J to kJ.",
+          "Divide Q by the moles of fuel burned.",
+          "Add the sign: negative if exothermic, positive if endothermic."
+        ],
+        "tricks": [
+          "Decide the sign first; it removes half the options.",
+          "Round before dividing: Q in kJ over moles gives the size quickly."
+        ],
+        "if_lost": [
+          "Which substance changes temperature, and what is its mass?",
+          "How many joules did that substance gain?",
+          "Is burning a fuel releasing or absorbing heat?",
+          "What does that direction mean for the sign of ΔH?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Combustion calorimetry with easy arithmetic and a sign test.",
+            "why": "The report links this to R1.1.4 and Tool 1. It discriminated strongly and had the most blanks on the paper, so a routine setup still loses students.",
+            "avoid": "Treating it as arithmetic only: 23% chose the right size with the wrong sign (25M.1A.HL.6213.19).",
+            "seconds": 75,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.4: apply Q = mcΔT and ΔH = −Q/n; ΔH units are kJ mol⁻¹.",
+            "textbook_gap": "Books drill the substitution. This question gives the equation and tests whether you convert a heat into a signed molar enthalpy."
+          },
+          "2_markscheme_logic": {
+            "short": "Size 30.4 and a minus sign: only one option has both.",
+            "why": "Q from mcΔT is always a positive amount of heat. The sign comes from the direction of transfer, and the convention gives combustion a negative ΔH.",
+            "avoid": "Stopping at +30.4 because the formula produced a positive number (25M.1A.SL.TZ2.16).",
+            "seconds": 10,
+            "trigger_phrases": [
+              "−30.4 kJ mol⁻¹",
+              "negative by convention for an exothermic change"
+            ],
+            "trap_boundary": "+30.4 has correct arithmetic but scores nothing: the MCQ needs the negative sign.",
+            "delta": "B and C share the same size. The only difference is the sign that combustion requires.",
+            "evidence_ref": "25M.1A.HL.6213.19"
+          },
+          "3_novel_application": {
+            "short": "The word combustion is your only sign clue here.",
+            "why": "No thermometer direction needs interpreting beyond the rise. Examiners vary the process, so you must read the process or temperature change, not the formula.",
+            "avoid": "Assuming every ΔH is negative: a dissolving that cools gives a positive ΔH (24N.1.HL.TZ0.18).",
+            "seconds": 5,
+            "disguise": "A labelled apparatus and a list of data make it look like a practical question rather than a sign question.",
+            "heuristic": "Ask: did the surroundings warm or cool? Warm means minus; cool means plus."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem: one mark, all or nothing.",
+            "why": "With no working credit, a sign slip costs the same as a total failure. In written papers the same slip costs the final mark.",
+            "avoid": "Spending time on full working: nobody marks it on Paper 1A.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Choose the option with the correct size, unit and sign.",
+            "score_mechanics": "All or nothing. There is no credit for a correct size with the wrong sign."
+          },
+          "5_time_efficiency": {
+            "short": "Sign first, then a rough size check.",
+            "why": "The sign removes two options instantly. Only one rough division then separates the remaining two, because they differ by a factor of about seventy.",
+            "avoid": "Keying every figure into the calculator before reading the options.",
+            "seconds": 30,
+            "workflow": [
+              "Combustion means minus",
+              "Rough Q in kJ",
+              "Divide by moles"
+            ],
+            "fat_to_trim": "Skip exact digits: the two negative options differ far too much to need them."
+          },
+          "6_data_booklet": {
+            "short": "Q = mcΔT is in section 1; ΔH = −Q/n is not.",
+            "why": "The stem also prints Q = mcΔT and c, so the booklet adds nothing here. The step from Q to molar ΔH is the part you carry yourself.",
+            "avoid": "Looking for a molar enthalpy formula in the booklet; section 1 only gives Q = mcΔT.",
+            "seconds": 3,
+            "sections": [
+              1
+            ],
+            "pattern": "Section 1 lists Q = mcΔT. The syllabus says the value of c for water is also supplied.",
+            "memorise": "ΔH = −Q/n is NOT in section 1. Memorise it and its kJ mol⁻¹ units."
+          },
+          "7_elimination": {
+            "short": "Combustion is exothermic, so both positive options go.",
+            "why": "The sign is fixed by the process before any number is calculated. That leaves one quick size comparison between the two negative options.",
+            "avoid": "Eliminating on size first, which leaves the sign trap still open.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "C",
+                "rule": "A positive ΔH means heat absorbed; combustion releases heat."
+              },
+              {
+                "target": "D",
+                "rule": "A positive ΔH means heat absorbed; combustion releases heat."
+              }
+            ]
+          }
+        },
+        "answer": "B. Q = 200 × 4.18 × 4.0 = 3344 J = 3.34 kJ. 3.34 ÷ 0.110 = 30.4, and combustion is exothermic, so ΔH = −30.4 kJ mol⁻¹.",
+        "try_next": [
+          "16N.1.HL.TZ0.17",
+          "19N.1.HL.TZ0.14",
+          "25M.1A.HL.6219.21"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.4: Q = mcΔT then ΔH = −Q/n, in kJ mol⁻¹.",
+          "textbook_gap": "Textbooks treat the sign as a final detail. Reports repeatedly show it is the single most common lost mark in this calculation."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "negative sign for an exothermic reaction",
+            "ΔH positive for an endothermic dissolving"
+          ],
+          "trap_boundaries": [
+            "In MCQs the wrong-sign value is deliberately offered as the most popular distractor.",
+            "In written questions the correct size without a minus loses the final mark (18N.2.HL.TZ0.1, 11M.2.SL.TZ2.1, 10N.2.SL.TZ0.1)."
+          ],
+          "delta": "Full credit needs both size and sign. The arithmetic alone is partial credit at best."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A temperature drop on dissolving a salt, which needs a positive ΔH.",
+            "Expressions instead of numbers, with + or − placed in front.",
+            "A long apparatus description hiding that only the sign separates options."
+          ],
+          "heuristic": "Thermometer up means ΔH negative; thermometer down means ΔH positive."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Determine",
+            "none (MCQ)"
+          ],
+          "score_mechanics": "Paper 1A is all or nothing. In Paper 2 the Q step and the signed molar step earn separate marks."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Read the temperature direction",
+            "Fix the sign",
+            "Estimate the size"
+          ],
+          "fat_to_trim": "Do not compute exact digits once the sign has reduced the options."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "Section 1 gives Q = mcΔT. ΔH = −Q/n is NOT in section 1, so memorise it. The syllabus says c for water is supplied in the booklet."
+        },
+        "7_elimination": {
+          "rules": [
+            "Combustion and neutralisation: any positive ΔH is wrong.",
+            "A temperature fall in the mixture: any negative ΔH is wrong.",
+            "Always read the process first; a sign never comes from the formula."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6213.19",
+          "kind": "mcq",
+          "note": "66% correct; 23% chose the right value with the wrong sign."
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.16",
+          "kind": "examiner",
+          "note": "A quarter chose the positive distractor, overlooking that the reaction is exothermic."
+        },
+        {
+          "ref": "24M.1.SL.TZ2.15",
+          "kind": "examiner",
+          "note": "39% correct against 37% for the distractor with the wrong enthalpy sign."
+        },
+        {
+          "ref": "24N.1.HL.TZ0.18",
+          "kind": "mcq",
+          "note": "Endothermic dissolving: many forgot ΔH must be positive."
+        },
+        {
+          "ref": "16N.1.HL.TZ0.17",
+          "kind": "mcq",
+          "note": "The most popular wrong answer differed only in sign."
+        },
+        {
+          "ref": "10N.2.SL.TZ0.1",
+          "kind": "examiner",
+          "note": "Molar enthalpy calculated correctly, but the essential negative sign omitted."
+        },
+        {
+          "ref": "11M.2.SL.TZ2.1",
+          "kind": "examiner",
+          "note": "Many forgot the minus sign for an exothermic change and lost the mark."
+        }
+      ],
+      "difficulty_signal": "2025 data: 66% and 61% correct on HL and SL versions; 24M version only 39% with 37% on the sign distractor. Flagged in reports from 2010 to 2025.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-02",
+      "title": "Solution mass in Q, limiting reactant in n: the full molar enthalpy calculation",
+      "understandings": [
+        "R1.1.4"
+      ],
+      "priority": 1,
+      "walkthrough": {
+        "question_ref": "18N.2.HL.TZ0.1",
+        "question": "Iron powder (3.26 g, M = 55.85 g mol⁻¹) is added to 80.0 cm³ of 0.200 mol dm⁻³ copper(II) sulfate solution in a calorimeter: Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s). The solution's temperature rises by at most 7.5 °C. Assume the solution takes up all the heat released and has a density of 1.00 g cm⁻³. Using c = 4.18 J g⁻¹ K⁻¹, calculate ΔH for this reaction in kJ. [2]",
+        "marks": 2,
+        "key_idea": "Q uses solution mass; divide by moles of the limiting reactant; exothermic means negative.",
+        "question_type": "Calorimetry: find ΔH per mole",
+        "careful": "Use the solution's mass in Q, never the solid's mass.",
+        "procedure": [
+          "Find moles of each reactant: n = m/M, n = CV.",
+          "Identify the limiting reactant from the equation ratio.",
+          "Calculate Q = mcΔT using the mass of solution.",
+          "Convert Q from J to kJ.",
+          "Divide by the moles of the limiting reactant.",
+          "Make ΔH negative if the temperature rose."
+        ],
+        "tricks": [
+          "Solid looks in excess? Use the solution's moles, once you've checked.",
+          "Check: ΔH should be Q in kJ divided by a small mole number."
+        ],
+        "if_lost": [
+          "Which substance is absorbing the heat?",
+          "What mass of that substance is there?",
+          "Which reactant runs out first?",
+          "Did the temperature rise or fall, and what sign follows?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Paper 2 calorimetry linking stoichiometry to R1.1.4.",
+            "why": "The written form separates heat from molar enthalpy, so each stage is tested. The limiting reactant decides which moles belong in the division.",
+            "avoid": "Dividing by moles of iron just because iron is the solid you weighed (18N.2.HL.TZ0.1).",
+            "seconds": 120,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.4: apply Q = mcΔT and ΔH = −Q/n to find a reaction's enthalpy change.",
+            "textbook_gap": "Book examples usually state the moles. Exams make you find which reactant limits before dividing."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for Q, one for signed ΔH per limiting moles.",
+            "why": "Marks split at Q versus ΔH. Examiners note some students stop at q, while others forget the negative sign and lose the second mark only.",
+            "avoid": "Writing ΔH = mcΔT; a heat is not a molar enthalpy (05M.2.SL.TZ0.1).",
+            "seconds": 15,
+            "trigger_phrases": [
+              "80.0 g × 4.18 × 7.5 gives 2.5 kJ",
+              "−2.5 ÷ 0.0160 gives −1.6 × 10² kJ"
+            ],
+            "trap_boundary": "No second mark without the division by moles and the negative sign.",
+            "delta": "Q alone earns one mark. Full credit needs the division by 0.0160 mol and the minus sign.",
+            "evidence_ref": "18N.2.HL.TZ0.1"
+          },
+          "3_novel_application": {
+            "short": "An iron displacement hides a standard neutralisation-type method.",
+            "why": "Whatever reacts, the method is identical because only the solution is heated and the limiting reactant sets the amount reacting.",
+            "avoid": "Adding iron's mass to m because it sits in the calorimeter (11M.2.HL.TZ2.1 shows solid-only mass rejected).",
+            "seconds": 5,
+            "disguise": "A solid reactant and two given amounts make the mass and mole choices look ambiguous.",
+            "heuristic": "m is whatever heats up; n is whatever runs out."
+          },
+          "4_command_terms": {
+            "short": "Calculate: working shown, final value signed.",
+            "why": "Calculate requires relevant stages. Showing Q separately protects the first mark even if a later mole or sign error appears.",
+            "avoid": "Writing only a final number, which risks both marks if it is wrong.",
+            "seconds": 5,
+            "command_term": "Calculate",
+            "demands": "Show Q, then the enthalpy change for the reaction in kJ with its sign.",
+            "score_mechanics": "Two marks, one per stage: heat from mcΔT, then the signed molar value."
+          },
+          "5_time_efficiency": {
+            "short": "Moles once, Q once, divide, sign.",
+            "why": "A short, fixed order avoids rereading the stem and catches the three reported errors: wrong mass, no division and missing sign.",
+            "avoid": "Converting ΔT to kelvin: a change of 7.5 °C is already a change of 7.5 K.",
+            "seconds": 20,
+            "workflow": [
+              "Mass means solution, not solid",
+              "Moles mean limiting reactant",
+              "Rise means minus sign"
+            ],
+            "fat_to_trim": "Do not find the copper mass or percentage yield; this part needs neither."
+          },
+          "6_data_booklet": {
+            "short": "Sections 1 and 2 give the tools; ΔH = −Q/n is memorised.",
+            "why": "The question itself points to sections 1 and 2. Section 1 supplies Q = mcΔT, n = m/M and n = CV, which carry the whole method.",
+            "avoid": "Hunting for the density of water: treat it as 1.00 g cm⁻³ from memory.",
+            "seconds": 10,
+            "sections": [
+              1
+            ],
+            "pattern": "Section 1: Q = mcΔT, n = m/M, n = CV. The question directs you to section 2 as well for c.",
+            "memorise": "ΔH = −Q/n and water's density, 1.00 g cm⁻³, are NOT in section 1."
+          },
+          "7_elimination": {
+            "short": "A positive answer or an answer using 3.26 g is out.",
+            "why": "The temperature rose, so the sign is fixed. The solid's mass is not what warms in this model, so any Q built on it fails.",
+            "avoid": "Accepting 2.5 kJ as final: it is a heat for this sample, not the reaction's ΔH.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "a positive ΔH",
+                "rule": "The temperature rose, so heat was released."
+              },
+              {
+                "target": "Q using 3.26 g as the mass",
+                "rule": "The solution is what absorbs the heat."
+              },
+              {
+                "target": "dividing by 0.0584 mol",
+                "rule": "Iron is in excess, so not all of it reacts."
+              }
+            ]
+          }
+        },
+        "answer": "Q = 80.0 × 4.18 × 7.5 = 2.5 × 10³ J = 2.5 kJ. CuSO₄ limits (0.0160 mol against 0.0584 mol Fe). ΔH = −2.5 ÷ 0.0160 = −1.6 × 10² kJ for the reaction as written.",
+        "try_next": [
+          "18M.1.HL.TZ2.15",
+          "09N.1.HL.TZ0.15",
+          "09M.1.HL.TZ1.14"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.4: heat from a temperature change, then molar ΔH.",
+          "textbook_gap": "Books present one neat reagent. Exam stems give a solid and a solution, and you decide which mass and which moles count."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "mass of solution in q",
+            "per mole of limiting reactant",
+            "negative for exothermic"
+          ],
+          "trap_boundaries": [
+            "A solid's mass in q is rejected; water or solution mass was accepted (11M.2.HL.TZ2.1).",
+            "Writing ΔH = mcΔT is a flagged error (05M.2.SL.TZ0.1).",
+            "Mass of sodium hydroxide is not the m in q (17M.3.HL.TZ1.5)."
+          ],
+          "delta": "Partial credit stops at Q. Full credit requires dividing by the correct moles and adding the sign."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A metal displacement instead of a neutralisation.",
+            "Mixing two solutions, where the total volume sets the mass (18M.1.HL.TZ2.15).",
+            "c given in kJ kg⁻¹ K⁻¹, which changes the mass units (09N.1.HL.TZ0.15)."
+          ],
+          "heuristic": "m is whatever heats up; n is whatever runs out."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Determine"
+          ],
+          "score_mechanics": "Usually one mark for Q and one for the signed molar value, with error carried forward between parts."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Mass means solution",
+            "Moles mean limiting reactant",
+            "Rise means minus"
+          ],
+          "fat_to_trim": "Do not convert ΔT to kelvin or carry long decimals through the working."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "Section 1 has Q = mcΔT, n = m/M and n = CV. ΔH = −Q/n and water's density are NOT there. Questions direct you to section 2 for c."
+        },
+        "7_elimination": {
+          "rules": [
+            "Any Q built on a solid's mass is wrong unless the question says otherwise.",
+            "Dividing by total moles of two neutralising reagents is wrong: count moles reacting.",
+            "Exception to mass rule: solution mass including the solute was accepted alongside water mass."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "markscheme",
+          "note": "Q from 80.0 g, then −2.5 ÷ 0.0160 for the reaction."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "examiner",
+          "note": "Wrong mass in M1; some did not divide by moles; many lost M2 by forgetting the negative sign."
+        },
+        {
+          "ref": "11M.2.HL.TZ2.1",
+          "kind": "examiner",
+          "note": "Many used the solid's mass; only water or solution mass was accepted."
+        },
+        {
+          "ref": "11M.2.SL.TZ2.1",
+          "kind": "examiner",
+          "note": "Used the salt's mass; some added 273; some forgot conversion to kJ."
+        },
+        {
+          "ref": "17M.3.HL.TZ1.5",
+          "kind": "examiner",
+          "note": "The mass of the alkali was wrongly used as m."
+        },
+        {
+          "ref": "05M.2.SL.TZ0.1",
+          "kind": "examiner",
+          "note": "Students wrote ΔH = mcΔT and did not separate heat from molar enthalpy."
+        },
+        {
+          "ref": "10N.2.HL.TZ0.1",
+          "kind": "examiner",
+          "note": "Units confused: Q in J not converted to kJ."
+        },
+        {
+          "ref": "19M.2.SL.TZ1.8",
+          "kind": "markscheme",
+          "note": "Heat from the water's mass, then per gram of fuel: another split of the two stages."
+        }
+      ],
+      "difficulty_signal": "Findings list calorimetry calculations as difficult in Nov 2018 and May 2011; 55% correct on the 25M MCQ version.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-03",
+      "title": "Never add 273 to a temperature change",
+      "understandings": [
+        "R1.1.1",
+        "R1.1.4"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "14M.1.HL.TZ2.19",
+        "question": "A 100 g sample of water receives 2100 J of energy. Water's specific heat capacity is 4.2 J g⁻¹ K⁻¹. By how much does its temperature rise?\nA. 5 °C\nB. 278 K\nC. 0.2 °C\nD. 20 °C",
+        "marks": 1,
+        "key_idea": "A temperature change has the same size in °C and K.",
+        "question_type": "Q = mcΔT: find the unknown",
+        "careful": "Do not add 273 to a temperature change.",
+        "procedure": [
+          "Write Q = mcΔT.",
+          "Rearrange for the unknown quantity.",
+          "Substitute values in matching units.",
+          "Calculate and state the unit."
+        ],
+        "tricks": [
+          "Check that Q, m and c share the same J and g units.",
+          "Absolute temperatures convert by 273.15; differences never do."
+        ],
+        "if_lost": [
+          "Which equation connects energy, mass and temperature change?",
+          "Which quantity is the question asking for?",
+          "Is that quantity a temperature or a change in temperature?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "A one-step rearrangement that tests the idea of a temperature change.",
+            "why": "The report says this item was designed to test understanding of a temperature difference, not arithmetic. A kelvin distractor exists purely to catch this idea.",
+            "avoid": "Adding 273 to get 278 K: nearly 14% at HL and nearly 20% at SL did (14M.1.HL.TZ2.19, 14M.1.SL.TZ2.16).",
+            "seconds": 30,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.1: understand the difference between heat and temperature; R1.1.4 uses Q = mcΔT.",
+            "textbook_gap": "Books teach that kelvin is required for gas laws. Students then wrongly apply this conversion to a temperature change."
+          },
+          "2_markscheme_logic": {
+            "short": "The value 5 in °C is correct; 278 K is not.",
+            "why": "One degree Celsius and one kelvin are the same step size, so a difference is unchanged. Only absolute readings shift by 273.",
+            "avoid": "Thinking a kelvin unit makes an answer more rigorous; 278 K is a reading, not a rise.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "ΔT = 5 °C",
+              "same size in K and °C"
+            ],
+            "trap_boundary": "Adding 273 to the change gives no credit in MCQs and costs marks in written calculations.",
+            "delta": "Tempting B and correct A come from identical arithmetic. B then wrongly adds 273.",
+            "evidence_ref": "14M.1.HL.TZ2.19"
+          },
+          "3_novel_application": {
+            "short": "The kelvin option looks technically careful.",
+            "why": "Mixed units in the options suggest a conversion is expected. The arithmetic gives 5 and needs no conversion at all.",
+            "avoid": "Picking the only option in SI units because it looks more formal.",
+            "seconds": 3,
+            "disguise": "Two options differ only in a 273 shift, while c is quoted per kelvin.",
+            "heuristic": "If you see ΔT, ask whether 278 degrees of heating is even plausible."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem with no working credited.",
+            "why": "Only the option counts. Knowing that a 5 °C change equals a 5 K change lets you reject the distractor at once.",
+            "avoid": "Writing unit conversions in the margin; there is nothing to convert.",
+            "seconds": 2,
+            "command_term": "none",
+            "demands": "Select the correct temperature rise.",
+            "score_mechanics": "All or nothing: one mark for the correct option."
+          },
+          "5_time_efficiency": {
+            "short": "Divide mentally: 2100 over 420.",
+            "why": "The numbers are chosen to divide cleanly, so a calculator step is not needed. That leaves spare time for harder items on the paper.",
+            "avoid": "Doing a full rearrangement with a calculator for simple numbers.",
+            "seconds": 10,
+            "workflow": [
+              "Multiply m by c",
+              "Divide energy by that",
+              "Keep the degree unchanged"
+            ],
+            "fat_to_trim": "Do not convert any unit or check the options with extra calculations."
+          },
+          "6_data_booklet": {
+            "short": "Q = mcΔT in section 1; the K conversion is section 4.",
+            "why": "Section 4's conversion applies to an actual temperature reading. It tells you how to convert a reading, not a difference between two readings.",
+            "avoid": "Applying the section 4 line to ΔT because it is the only temperature conversion listed.",
+            "seconds": 3,
+            "sections": [
+              1,
+              4
+            ],
+            "pattern": "Section 1: Q = mcΔT. Section 4: temperature in K = °C + 273.15, for readings only.",
+            "memorise": "That a change in °C equals the same change in K is NOT stated in the booklet."
+          },
+          "7_elimination": {
+            "short": "A rise of 278 K would boil water many times over.",
+            "why": "A rise that large is physically absurd for a small energy. It also carries the signature of the reported 273 error.",
+            "avoid": "Eliminating A because it is not in kelvin.",
+            "seconds": 2,
+            "definitely_wrong": [
+              {
+                "target": "B",
+                "rule": "A rise of 278 K is implausible and comes from adding 273 to ΔT."
+              }
+            ]
+          }
+        },
+        "answer": "A. ΔT = 2100 ÷ (100 × 4.2) = 5, and a 5 °C rise is the same as a 5 K rise.",
+        "try_next": [
+          "13M.1.HL.TZ2.14",
+          "09M.1.HL.TZ2.17",
+          "19M.1.HL.TZ1.14"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO1 to AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.1 heat versus temperature; R1.1.4 Q = mcΔT.",
+          "textbook_gap": "Kelvin conversions are drilled for gas laws, then misapplied to differences."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "temperature change, not temperature",
+            "no 273 in ΔT"
+          ],
+          "trap_boundaries": [
+            "Weak candidates added 273 to the difference (24M.2.SL.TZ1.2).",
+            "In a heat-change expression, the correct mcΔT was outnumbered by the +273 version (05M.1.SL.TZ0.16)."
+          ],
+          "delta": "The tempting answers reuse the right substitution and then add 273."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "MCQ algebra with (ΔT + 273) in the numerator.",
+            "An option in kelvin next to options in °C.",
+            "A heating question using a metal, not water."
+          ],
+          "heuristic": "Reading: can convert by 273. Difference: never convert."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "none (MCQ)"
+          ],
+          "score_mechanics": "MCQ all or nothing. In written questions adding 273 loses the Q mark, though ECF can rescue later steps (11M.2.HL.TZ2.1)."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Rearrange once",
+            "Use clean numbers",
+            "Keep the degree unchanged"
+          ],
+          "fat_to_trim": "Skip kelvin conversion entirely for any ΔT."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            4
+          ],
+          "hack": "Section 1 has Q = mcΔT. Section 4's K = °C + 273.15 applies to readings. That a difference is unchanged is NOT stated, so memorise it."
+        },
+        "7_elimination": {
+          "rules": [
+            "Any expression with (ΔT + 273) in it is wrong.",
+            "Any rise near 280 K from a small energy is wrong.",
+            "Exception: a stated final temperature in K can be correct, because that is a reading, not a change."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "14M.1.HL.TZ2.19",
+          "kind": "mcq",
+          "note": "Designed to test temperature difference; 78% correct, nearly 14% chose 278 K."
+        },
+        {
+          "ref": "14M.1.SL.TZ2.16",
+          "kind": "examiner",
+          "note": "68% correct; nearly 20% added 273."
+        },
+        {
+          "ref": "05M.1.SL.TZ0.16",
+          "kind": "examiner",
+          "note": "About 30% correct; those adding 273 outnumbered correct answers."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Only very weak candidates added 273 in q."
+        },
+        {
+          "ref": "10N.2.HL.TZ0.1",
+          "kind": "examiner",
+          "note": "A significant number added 273 to the temperature change."
+        },
+        {
+          "ref": "11M.2.SL.TZ2.1",
+          "kind": "examiner",
+          "note": "Some added 273 to the temperature change."
+        }
+      ],
+      "difficulty_signal": "Hardest recorded item for the sub-topic is this trap: 05M 30% correct. Still 68% at SL and 78% at HL in 2014.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-04",
+      "title": "Heat lost equals heat gained: finding a metal's specific heat capacity",
+      "understandings": [
+        "R1.1.4",
+        "R1.1.1"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "25N.1B.HL.6208.2",
+        "question": "A 1.28 g metal sample sits in boiling water until it reaches 100.00 °C. It is then moved quickly into 5.65 g of water at 25.00 °C, and both settle at 26.77 °C. Water's c is 4.18 J g⁻¹ K⁻¹.\n(a) Find the energy passed from the metal to the water. [2]\n(b) Assume all the heat the metal lost was gained by the water. Find the metal's specific heat capacity. [2]",
+        "marks": 4,
+        "key_idea": "Same Q for both; each substance has its own mass and ΔT.",
+        "question_type": "Heat balance: find specific heat capacity",
+        "careful": "Use the metal's own temperature drop, not the water's rise.",
+        "procedure": [
+          "Find the water's temperature rise.",
+          "Calculate Q for the water with its own mass.",
+          "Set heat lost by metal equal to heat gained.",
+          "Find the metal's temperature drop from its starting temperature.",
+          "Rearrange: c = Q ÷ (m × ΔT).",
+          "Report c as positive, with units."
+        ],
+        "tricks": [
+          "Pair each mass with its own ΔT before writing anything.",
+          "Metals usually have much lower c than water; check your answer. Not a proof."
+        ],
+        "if_lost": [
+          "Which substance has a known c?",
+          "How much did that substance warm by?",
+          "Where did the energy it gained come from?",
+          "How far did the metal's temperature fall?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "2025 Paper 1B data work with the same Q applied twice.",
+            "why": "Heat is the same amount of energy but produces different temperature changes. That is the heat versus temperature idea, applied in a practical data table.",
+            "avoid": "Pairing the metal's mass with the water's 1.77 °C rise.",
+            "seconds": 120,
+            "ao_level": "AO3",
+            "syllabus_hook": "R1.1.4: apply Q = mcΔT, with R1.1.1's distinction between heat and temperature.",
+            "textbook_gap": "Books use Q = mcΔT once on one substance. Here it is used twice, with Q carried from water to metal."
+          },
+          "2_markscheme_logic": {
+            "short": "Final values 41.8 J and 0.446 earn all four marks.",
+            "why": "Two marks are given for each correct final value. Using the fallback energy, the answer 0.432 also earns full credit in part (b).",
+            "avoid": "Leaving c negative: −0.446 is capped at one mark (25N.1B.HL.6208.2).",
+            "seconds": 15,
+            "trigger_phrases": [
+              "41.8 J",
+              "0.446 J g⁻¹ K⁻¹",
+              "−73.23 temperature change"
+            ],
+            "trap_boundary": "A negative specific heat capacity earns one mark at most in part (b).",
+            "delta": "The magnitude alone earns partial credit. Full credit requires a positive c, and either 0.446 or 0.432 with the fallback.",
+            "evidence_ref": "25N.1B.HL.6208.2"
+          },
+          "3_novel_application": {
+            "short": "Beaker heat transfer replaces any chemical reaction.",
+            "why": "No reaction takes place, so there is no molar step. Only energy conservation between the system's parts links the two calculations.",
+            "avoid": "Looking for moles or a ΔH when the question needs a specific heat capacity.",
+            "seconds": 5,
+            "disguise": "A metal identification story hides two ordinary uses of Q = mcΔT.",
+            "heuristic": "Whatever cools gives Q to whatever warms. Write one line for each."
+          },
+          "4_command_terms": {
+            "short": "Determine: reach the one value, showing its basis.",
+            "why": "Each part awards marks for the final answer, but working can still attract credit. Show the substitution so an error has somewhere to be credited.",
+            "avoid": "Skipping part (b) when (a) fails; the question supplies a fallback value.",
+            "seconds": 5,
+            "command_term": "Determine",
+            "demands": "Obtain the energy, then the metal's c from that energy and its temperature drop.",
+            "score_mechanics": "Two marks per part for the correct final answer; fallback value accepted in (b)."
+          },
+          "5_time_efficiency": {
+            "short": "Write two lines: water, then metal.",
+            "why": "Keeping one line per substance removes the usual confusion over which mass and ΔT go together. It also makes the metal's value quick to get.",
+            "avoid": "Rereading the table each time; list each substance's mass and ΔT once.",
+            "seconds": 30,
+            "workflow": [
+              "Each substance, own ΔT",
+              "Water first gives Q",
+              "Heat lost equals heat gained",
+              "Specific heat stays positive"
+            ],
+            "fat_to_trim": "Do not convert to kJ or kelvin: J, g and a temperature change are enough."
+          },
+          "6_data_booklet": {
+            "short": "Q = mcΔT in section 1; the question also names section 2.",
+            "why": "The question directs you to the booklet for water's c, and to section 1 for the equation. Nothing else is required, so no searching is needed.",
+            "avoid": "Looking for metal values in the booklet instead of calculating them.",
+            "seconds": 5,
+            "sections": [
+              1
+            ],
+            "pattern": "Section 1: Q = mcΔT, used twice. The question directs you to section 2 for water's c.",
+            "memorise": "The idea that heat lost equals heat gained is NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Negative c and an energy near 0 are wrong.",
+            "why": "A specific heat capacity is a property, so it is always positive. Any answer using the wrong ΔT will also be far off.",
+            "avoid": "Accepting a negative because you calculated −73.23 for the metal's change.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "a negative specific heat capacity",
+                "rule": "c is a positive physical property."
+              },
+              {
+                "target": "metal's ΔT of 1.77",
+                "rule": "That is the water's rise; the metal fell from 100.00 °C."
+              },
+              {
+                "target": "Q using 1.28 g",
+                "rule": "Part (a) needs the water's mass with water's c."
+              }
+            ]
+          }
+        },
+        "answer": "(a) Q = 5.65 × 4.18 × 1.77 = 41.8 J. (b) Metal's ΔT = 100.00 − 26.77 = 73.23 °C, so c = 41.8 ÷ (1.28 × 73.23) = 0.446 J g⁻¹ K⁻¹.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.4 and R1.1.1: one energy transfer, two temperature changes.",
+          "textbook_gap": "Books rarely chain Q = mcΔT across two substances, while Paper 1B presents this as practical data."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "41.8 J",
+            "0.446 J g⁻¹ K⁻¹"
+          ],
+          "trap_boundaries": [
+            "−0.446 earns only one mark (25N.1B.HL.6208.2).",
+            "The fallback value leads to 0.432 and full credit."
+          ],
+          "delta": "Full credit requires a positive c. A negative c shows the mcΔT work but loses a mark."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Identifying an unknown metal from its c.",
+            "A heating stage from an unspecified energy source.",
+            "Direct 1000 J, 50 g, 44 K version (21M.2.SL.TZ1.3)."
+          ],
+          "heuristic": "Cooling thing gives Q to warming thing; one line per substance."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Determine",
+            "Calculate",
+            "State"
+          ],
+          "score_mechanics": "Two marks per calculation with credit for the final answer; given fallback values keep later parts available."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "List mass and ΔT",
+            "Find Q from water",
+            "Solve for c",
+            "Drop the negative sign"
+          ],
+          "fat_to_trim": "Do not change units or draw energy diagrams."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "Section 1 gives Q = mcΔT. Questions direct you to section 2 for water's c. Heat balance is NOT in the booklet."
+        },
+        "7_elimination": {
+          "rules": [
+            "Any negative c is wrong.",
+            "Any calculation pairing metal's mass with the water's ΔT is wrong.",
+            "A sample's temperature change depends on its mass and c, so same-Q does not mean same ΔT."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25N.1B.HL.6208.2",
+          "kind": "markscheme",
+          "note": "Awards 41.8 J and 0.446, accepts 0.432 with fallback, caps −0.446 at one mark."
+        },
+        {
+          "ref": "21M.2.SL.TZ1.3",
+          "kind": "markscheme",
+          "note": "Direct rearrangement: c = q ÷ (m × ΔT) = 0.45 J g⁻¹ K⁻¹."
+        },
+        {
+          "ref": "21M.2.HL.TZ1.3",
+          "kind": "markscheme",
+          "note": "Same specific heat rearrangement at HL."
+        },
+        {
+          "ref": "19M.1.HL.TZ1.14",
+          "kind": "mcq",
+          "note": "Equal masses and energy: 66% could relate c to the temperature rise."
+        }
+      ],
+      "difficulty_signal": "2025 Paper 1B item worth four marks; 19M related MCQ 66% correct and handled better by higher scorers.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-05",
+      "title": "Same heat, more solution: heat and temperature rise are different",
+      "understandings": [
+        "R1.1.1",
+        "R1.1.4"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "12M.1.HL.TZ1.15",
+        "question": "Two experiments start with all solutions at 25 °C. In experiment 1, 50 cm³ of 1.0 mol dm⁻³ NaOH(aq) goes into 50 cm³ of 1.0 mol dm⁻³ HCl(aq). In experiment 2, 50 cm³ of 1.0 mol dm⁻³ NaOH(aq) goes into 100 cm³ of 1.0 mol dm⁻³ HCl(aq). Which statement is true?\nA. Experiment 1 reaches a lower peak temperature than experiment 2.\nB. Both experiments reach the same peak temperature.\nC. Experiment 1 gives out less heat than experiment 2.\nD. Both experiments give out the same amount of heat.",
+        "marks": 1,
+        "key_idea": "Limiting moles set the heat; total mass then sets the temperature rise.",
+        "question_type": "Mixing: compare heat and temperature rise",
+        "careful": "Separate heat released from temperature reached before comparing.",
+        "procedure": [
+          "Find moles of each reactant in each experiment.",
+          "Identify the limiting reactant in each experiment.",
+          "Compare the heat released, using limiting moles.",
+          "Compare total mass of solution.",
+          "Use ΔT = Q ÷ mc to compare temperature rises."
+        ],
+        "tricks": [
+          "Double both volumes at same concentrations: heat doubles, ΔT unchanged.",
+          "Check each option as a heat claim or a temperature claim."
+        ],
+        "if_lost": [
+          "How many moles of each reactant are in each experiment?",
+          "Which reactant runs out?",
+          "Does extra unreacted acid release any more heat?",
+          "What does extra solution do to the temperature rise?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "A no-calculation reasoning item on heat versus temperature.",
+            "why": "It tests whether you treat heat and temperature as different quantities. The same heat in more solution produces a smaller rise, which options deliberately blur.",
+            "avoid": "Assuming more acid must mean more heat: it does not when the NaOH runs out.",
+            "seconds": 60,
+            "ao_level": "AO3",
+            "syllabus_hook": "R1.1.1: understand the difference between heat and temperature; R1.1.4 applies Q = mcΔT.",
+            "textbook_gap": "Books calculate one value for one experiment. This compares two setups, with no numbers to crunch."
+          },
+          "2_markscheme_logic": {
+            "short": "Equal limiting moles mean equal heat: D.",
+            "why": "The neutralisation stops when the 0.050 mol of NaOH is used. Excess acid is simply extra mass to warm, so it cannot add heat.",
+            "avoid": "Choosing B because the reaction is the same; the larger mass in experiment 2 lowers the rise.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "heat produced in both is equal"
+            ],
+            "trap_boundary": "Equal heat does not mean equal peak temperature.",
+            "delta": "B confuses temperature with heat. D is correct because heat depends on moles reacted only.",
+            "evidence_ref": "12M.1.HL.TZ1.15"
+          },
+          "3_novel_application": {
+            "short": "Two beakers look like a volume effect only.",
+            "why": "The change of volume affects both reagent amounts and the total mass. Sorting those two effects separately reveals exactly which statement stays true.",
+            "avoid": "Answering from intuition that a bigger reaction is a hotter reaction.",
+            "seconds": 5,
+            "disguise": "A picture of two beakers hides a limiting reactant comparison.",
+            "heuristic": "Heat follows moles reacted; temperature follows heat per gram."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem: pick the only true statement.",
+            "why": "Statements mix heat and temperature claims. The question rewards the distinction itself, so test each one on its own terms.",
+            "avoid": "Stopping at the first statement that sounds reasonable.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Judge four statements on heat or temperature.",
+            "score_mechanics": "All or nothing: one mark for the correct statement."
+          },
+          "5_time_efficiency": {
+            "short": "Label each option H or T, then judge.",
+            "why": "Labelling avoids mixing the quantities. Moles settle H, and mass settles T, so you need no calculator and only one fact per option.",
+            "avoid": "Calculating actual temperatures in both experiments.",
+            "seconds": 20,
+            "workflow": [
+              "Limiting moles set heat",
+              "Total mass sets rise",
+              "Label options heat or temperature"
+            ],
+            "fat_to_trim": "Skip Q and ΔT numbers: a comparison of moles and mass is enough."
+          },
+          "6_data_booklet": {
+            "short": "n = CV and Q = mcΔT are both in section 1.",
+            "why": "Those equations already state the reasoning: n fixes the heat at a given ΔH, then Q = mcΔT shows the effect of larger m.",
+            "avoid": "Looking for a neutralisation value; none is needed for a comparison.",
+            "seconds": 3,
+            "sections": [
+              1
+            ],
+            "pattern": "Section 1: n = CV gives moles; Q = mcΔT shows ΔT falling as m rises.",
+            "memorise": "That heat depends on the limiting reactant is NOT in the booklet."
+          },
+          "7_elimination": {
+            "short": "Same heat in more solution rules out three options.",
+            "why": "Experiment 2 has the same limiting moles but more mass. So heat cannot be lower in experiment 1, and peak temperatures cannot match or be reversed.",
+            "avoid": "Thinking excess acid can react further once NaOH is gone.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "More solution to warm with the same heat gives a smaller rise, so experiment 2 is not hotter."
+              },
+              {
+                "target": "B",
+                "rule": "Equal heat in different masses cannot give equal rises."
+              },
+              {
+                "target": "C",
+                "rule": "NaOH limits both, so the heat is the same."
+              }
+            ]
+          }
+        },
+        "answer": "D. NaOH is limiting in both (0.050 mol), so the same heat is released. Experiment 2 warms more solution, so its temperature rise is smaller.",
+        "try_next": [
+          "08M.1.HL.TZ1.20"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1A"
+          ],
+          "syllabus_hook": "R1.1.1 heat versus temperature; R1.1.4.",
+          "textbook_gap": "Books compute. Exam MCQs compare setups, testing the difference between energy and temperature."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "heat produced equal",
+            "limiting reactant sets heat"
+          ],
+          "trap_boundaries": [
+            "Equal heat does not imply equal peak temperature.",
+            "Scaling volumes and moles together keeps ΔT the same (08M.1.HL.TZ1.20)."
+          ],
+          "delta": "The correct answer treats heat and temperature rise as separate outcomes."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Different volumes with one reagent in excess.",
+            "Scaled volumes that look like they raise the temperature rise.",
+            "A very dilute solution where the rise becomes too small to measure (17M.3.SL.TZ1.5)."
+          ],
+          "heuristic": "Heat follows moles reacted; temperature follows heat per gram."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Suggest",
+            "Explain"
+          ],
+          "score_mechanics": "MCQ is all or nothing. Related Paper 3-type items credit the point that the rise would be too small to measure."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Limiting moles set heat",
+            "Total mass sets rise",
+            "Label each option"
+          ],
+          "fat_to_trim": "Do not calculate actual temperatures."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "n = CV and Q = mcΔT, both section 1, carry all the reasoning. The limiting reactant idea is NOT there."
+        },
+        "7_elimination": {
+          "rules": [
+            "If the limiting moles match, reject any option saying heat differs.",
+            "If the masses differ and the heat matches, reject any option saying temperature rises match.",
+            "Check the excess reactant first: it adds mass, not heat."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "12M.1.HL.TZ1.15",
+          "kind": "mcq",
+          "note": "47.97% correct; in the top 20% of challenging questions on its paper."
+        },
+        {
+          "ref": "08M.1.HL.TZ1.20",
+          "kind": "mcq",
+          "note": "Double both volumes at the same concentrations: same temperature rise."
+        },
+        {
+          "ref": "17M.3.SL.TZ1.5",
+          "kind": "markscheme",
+          "note": "A much more dilute solution gives too small a temperature rise to measure accurately."
+        },
+        {
+          "ref": "19M.1.HL.TZ1.14",
+          "kind": "mcq",
+          "note": "Same energy, different temperature rises: 66% correct."
+        }
+      ],
+      "difficulty_signal": "48% correct on 12M, listed among the sub-topic's hardest items. It discriminated well, at 0.43.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-06",
+      "title": "Classify the change: condensation and neutralisation catch students out",
+      "understandings": [
+        "R1.1.2"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "15N.1.HL.TZ0.14",
+        "question": "Consider three changes:\nI. Sulfuric acid reacts with sodium hydroxide solution to give sodium sulfate solution and water.\nII. Gaseous octane burns in limited oxygen: 2C₈H₁₈(g) + 17O₂(g) → 16CO(g) + 18H₂O(g).\nIII. Octane vapour turns to liquid octane.\nWhich of these release heat?\nA. I and II only\nB. I and III only\nC. II and III only\nD. I, II and III",
+        "marks": 1,
+        "key_idea": "Forming bonds or attractions releases heat, including condensation.",
+        "question_type": "Classify processes: exothermic or endothermic",
+        "careful": "Check state changes; condensing and freezing release heat.",
+        "procedure": [
+          "Identify each change as reaction or physical change.",
+          "Recall the direction for that kind of change.",
+          "Mark each statement as exothermic or endothermic.",
+          "Select the option matching all marks."
+        ],
+        "tricks": [
+          "Neutralisation and combustion: always exothermic. No exceptions at this level.",
+          "Gas to liquid to solid: exothermic. Solid to liquid to gas: endothermic."
+        ],
+        "if_lost": [
+          "What type of reaction is statement I?",
+          "Does making CO instead of CO₂ change what kind of reaction II is?",
+          "In statement III, are attractions forming or breaking?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Recall-style item that mixes chemical and physical changes.",
+            "why": "Students revise reactions and overlook that a state change also has an energy direction. The third statement exists to test this exact gap.",
+            "avoid": "Treating III as not a reaction, so not exothermic; many missed that condensation is exothermic (15N.1.HL.TZ0.14).",
+            "seconds": 30,
+            "ao_level": "AO1",
+            "syllabus_hook": "R1.1.2: reactions are endothermic or exothermic, depending on the direction of energy transfer.",
+            "textbook_gap": "Books list reactions as examples. Exams add physical changes and unusual combustion to the same list."
+          },
+          "2_markscheme_logic": {
+            "short": "All three release heat, so the answer is all three.",
+            "why": "Neutralisation and combustion, including incomplete combustion, release heat. Condensing forms intermolecular attractions, which releases heat as well.",
+            "avoid": "Dropping II because it forms CO: incomplete combustion still releases energy.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "condensation is exothermic",
+              "neutralisation exothermic"
+            ],
+            "trap_boundary": "Ice melting is endothermic, but condensing is not: direction of state change matters (10M.1.HL.TZ2.14).",
+            "delta": "A is the tempting answer. D adds the condensation statement that many students missed.",
+            "evidence_ref": "15N.1.HL.TZ0.14"
+          },
+          "3_novel_application": {
+            "short": "Octane appears in two different roles here.",
+            "why": "Statements II and III share a molecule but describe different changes. Reading the formula alone won't help: you must see what happens to it.",
+            "avoid": "Grouping II and III together because they are both about octane.",
+            "seconds": 3,
+            "disguise": "Unfamiliar stoichiometry and CO as a product make combustion look unusual.",
+            "heuristic": "Name the change first: neutralisation, combustion, condensing."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem with roman numeral statements.",
+            "why": "The combination format means one misjudged statement loses the mark, so each one needs a decision before the options are viewed.",
+            "avoid": "Reading the options first and looking for what feels likely.",
+            "seconds": 3,
+            "command_term": "none",
+            "demands": "Judge each statement, then match the combination.",
+            "score_mechanics": "All or nothing: every statement must be judged correctly."
+          },
+          "5_time_efficiency": {
+            "short": "Tick each statement, then read the options.",
+            "why": "These are instant facts, so a judgement takes seconds. Keep the time saved here for the calorimetry calculations elsewhere on the paper.",
+            "avoid": "Calculating anything: this needs no bond enthalpies or formation values.",
+            "seconds": 15,
+            "workflow": [
+              "Name each change",
+              "Tick if exothermic",
+              "Match the combination"
+            ],
+            "fat_to_trim": "Do not balance or analyse the octane equation."
+          },
+          "6_data_booklet": {
+            "short": "The sections supplied do not help: this is recall.",
+            "why": "No listed equation gives a direction of heat flow for types of change. Those classifications must be stored in memory.",
+            "avoid": "Searching the booklet for a list of exothermic processes.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; rely on the type of change.",
+            "memorise": "NOT in the booklet: neutralisation and combustion are exothermic; condensing and freezing are exothermic; melting, boiling and bond breaking are endothermic."
+          },
+          "7_elimination": {
+            "short": "Each exothermic statement removes the option missing it.",
+            "why": "Since all three are exothermic, any combination omitting one is out. A single recognised exothermic statement already removes one option, so it scales well.",
+            "avoid": "Concluding II is endothermic because combustion is incomplete.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "It omits III, but condensing releases heat."
+              },
+              {
+                "target": "B",
+                "rule": "It omits II, but incomplete combustion still releases heat."
+              },
+              {
+                "target": "C",
+                "rule": "It omits I, but neutralisation releases heat."
+              }
+            ]
+          }
+        },
+        "answer": "D. Neutralisation (I), combustion even when incomplete (II) and condensation (III) are all exothermic.",
+        "try_next": [
+          "13M.1.HL.TZ1.15",
+          "13N.1.HL.TZ0.15",
+          "10M.1.HL.TZ2.14"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO1",
+          "papers": [
+            "1A"
+          ],
+          "syllabus_hook": "R1.1.2: direction of energy transfer decides endothermic or exothermic.",
+          "textbook_gap": "Textbooks group reactions as exothermic. Exam lists mix them with state changes and bond processes."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "neutralisation is exothermic",
+            "combustion is exothermic",
+            "condensation is exothermic"
+          ],
+          "trap_boundaries": [
+            "Bond breaking is endothermic (11M.1.HL.TZ1.18).",
+            "Ionisation is endothermic (13M.1.HL.TZ1.15).",
+            "A first electron gain by chlorine is exothermic (18N.1.HL.TZ0.17)."
+          ],
+          "delta": "Partial knowledge of reactions alone misses the physical change that decides the option."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Incomplete combustion producing CO.",
+            "Neutralisation of a weak acid with a base (13N.1.HL.TZ0.15).",
+            "Atomisation of chlorine, which is bond breaking (13N.1.HL.TZ0.15)."
+          ],
+          "heuristic": "Name the change first, then recall: attractions forming release heat."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)"
+          ],
+          "score_mechanics": "All or nothing, and every statement matters in combination formats."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Name each change",
+            "Tick if exothermic",
+            "Match the combination"
+          ],
+          "fat_to_trim": "No calculations and no bond enthalpy lookups."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Nothing in sections 1 or 4 gives these. They are NOT in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "Options without neutralisation or combustion in an exothermic list are wrong.",
+            "Bond breaking listed as exothermic is wrong.",
+            "Bond making and condensing are exothermic, regardless of the substance."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "15N.1.HL.TZ0.14",
+          "kind": "mcq",
+          "note": "52% correct; many did not realise condensation is exothermic."
+        },
+        {
+          "ref": "10M.1.SL.TZ1.15",
+          "kind": "examiner",
+          "note": "45% correct; neutralisation's exothermic nature was challenged as subtle."
+        },
+        {
+          "ref": "13M.1.HL.TZ1.15",
+          "kind": "mcq",
+          "note": "Gas-phase ionisation is the endothermic process."
+        },
+        {
+          "ref": "10M.1.HL.TZ2.14",
+          "kind": "mcq",
+          "note": "Melting excluded from the exothermic list."
+        },
+        {
+          "ref": "18N.1.HL.TZ0.17",
+          "kind": "mcq",
+          "note": "Stronger candidates identified chlorine's first electron affinity as exothermic."
+        },
+        {
+          "ref": "13N.1.HL.TZ0.15",
+          "kind": "mcq",
+          "note": "Bond breaking in Cl₂ excluded; combustion and neutralisation included."
+        }
+      ],
+      "difficulty_signal": "52% and 45% correct on 15N and 10M; high discrimination on 18N. Listed among hardest items at 45%.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-07",
+      "title": "The exothermic pair: temperature up, enthalpy down",
+      "understandings": [
+        "R1.1.2",
+        "R1.1.3"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6219.20",
+        "question": "Pick the correct description of an exothermic reaction.\nA. The temperature falls and products have more enthalpy than reactants.\nB. The temperature falls and products have less enthalpy than reactants.\nC. The temperature rises and products have more enthalpy than reactants.\nD. The temperature rises and products have less enthalpy than reactants.",
+        "marks": 1,
+        "key_idea": "Energy leaves the system: surroundings warm, products end lower and more stable.",
+        "question_type": "Energy change: link temperature, enthalpy, stability",
+        "careful": "The temperature measured is the surroundings', not the system's enthalpy.",
+        "procedure": [
+          "Decide which way energy moves between system and surroundings.",
+          "Deduce what happens to the surroundings' temperature.",
+          "Deduce whether products end up lower or higher in enthalpy.",
+          "Lower enthalpy means more stable.",
+          "Match both parts to one option."
+        ],
+        "tricks": [
+          "Say: exo = hot and low; endo = cold and high.",
+          "Judge the two halves separately; each distractor gets one half right."
+        ],
+        "if_lost": [
+          "What does the prefix exo tell you about energy direction?",
+          "If the surroundings receive energy, what does a thermometer show?",
+          "Does the system end up with more or less stored energy?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "A 2025 two-part statement testing system versus surroundings.",
+            "why": "Each option pairs a temperature claim with an enthalpy claim. Examiners built half-right distractors, so knowing only one part leaves a coin toss.",
+            "avoid": "Thinking energy lost by the system means a cooler mixture; a significant number said the temperature fell (25M.1A.HL.6219.20).",
+            "seconds": 20,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.2: temperature increases with exothermic and decreases with endothermic reactions. R1.1.3 links stability.",
+            "textbook_gap": "Books define each term separately. Exams join temperature and stability in one option to test both."
+          },
+          "2_markscheme_logic": {
+            "short": "Both halves must hold: temperature up, products lower.",
+            "why": "The energy the products lost appears in the surroundings as a temperature rise. One process explains both halves, so they can never be mixed.",
+            "avoid": "Picking a half-right pair: 13% and 11% did so on the endothermic version (25M.1A.SL.TZ2.15).",
+            "seconds": 5,
+            "trigger_phrases": [
+              "temperature increases",
+              "products have lower enthalpy"
+            ],
+            "trap_boundary": "One correct half scores nothing: the mark needs both parts.",
+            "delta": "Options B and C are each half right. Only D has the matching pair.",
+            "evidence_ref": "25M.1A.HL.6219.20"
+          },
+          "3_novel_application": {
+            "short": "No diagram: just words about a familiar definition.",
+            "why": "Removing the graph removes your visual anchor, so you must reason from energy flow. The same pair appears in tables, profiles and bond statements.",
+            "avoid": "Reading 'releases energy' as the mixture getting colder.",
+            "seconds": 3,
+            "disguise": "Plain sentences that look like recall but actually test two linked ideas.",
+            "heuristic": "Picture a thermometer in the surroundings, then an arrow going down in energy."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem with paired claims.",
+            "why": "A paired option needs one reasoning chain, not two facts. Getting the direction of flow right gives both halves together.",
+            "avoid": "Deciding on the first half only and guessing the second.",
+            "seconds": 2,
+            "command_term": "none",
+            "demands": "Select the option where both claims are correct.",
+            "score_mechanics": "All or nothing: a half-right pair scores zero."
+          },
+          "5_time_efficiency": {
+            "short": "Two yes-no checks and you are done.",
+            "why": "The two checks cut four options to one. This takes seconds, and needs no drawing once the pair is memorised.",
+            "avoid": "Sketching a profile for a question this direct.",
+            "seconds": 10,
+            "workflow": [
+              "Exo: hot and low",
+              "Endo: cold and high",
+              "Check both halves"
+            ],
+            "fat_to_trim": "Do not think about activation energy or bond values."
+          },
+          "6_data_booklet": {
+            "short": "Nothing useful in the booklet; this is reasoning.",
+            "why": "Sections 1 and 4 give calculations and unit conversions, not definitions. The word exothermic itself contains what you need.",
+            "avoid": "Looking for sign conventions in section 1.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; reason from energy flow.",
+            "memorise": "NOT in the booklet: exo means energy to surroundings, temperature up, products lower and more stable."
+          },
+          "7_elimination": {
+            "short": "Any falling temperature or higher products is out.",
+            "why": "Temperature fall contradicts energy entering the surroundings. Higher-enthalpy products contradict energy leaving the system. Together those remove three options at once.",
+            "avoid": "Keeping C because the temperature half is right.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "Both parts describe an endothermic change."
+              },
+              {
+                "target": "B",
+                "rule": "An exothermic change warms the surroundings."
+              },
+              {
+                "target": "C",
+                "rule": "Products lose energy in an exothermic change."
+              }
+            ]
+          }
+        },
+        "answer": "D. In an exothermic reaction energy moves to the surroundings, so the temperature rises and products have lower enthalpy.",
+        "try_next": [
+          "18M.1.HL.TZ1.15"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.2 and R1.1.3: direction of energy, temperature change and stability.",
+          "textbook_gap": "Separate definitions in books become paired claims in exams, often with an energy profile or a table."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "temperature of surroundings",
+            "products more stable",
+            "reactants more stable"
+          ],
+          "trap_boundaries": [
+            "Half-right pairs are the standard distractors (25M.1A.SL.TZ2.15).",
+            "Saying a reaction is endothermic because heat was released is a flagged confusion (05M.2.SL.TZ0.1)."
+          ],
+          "delta": "Partial knowledge gets one half; full credit requires temperature and enthalpy agreeing."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A profile with a table of stability and temperature (25M.1A.HL.6213.18).",
+            "Correct sign but temperature of a solution (08M.1.SL.TZ0.17).",
+            "Bond strength version: endothermic has stronger reactant bonds (07M.1.SL.TZ0.18)."
+          ],
+          "heuristic": "Thermometer in surroundings; arrow on the energy axis."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Deduce",
+            "Explain"
+          ],
+          "score_mechanics": "MCQ pairs are all or nothing. Written explanations need the link to bonds (07N.2.SL.TZ0.5)."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Exo: hot and low",
+            "Endo: cold and high",
+            "Check both halves"
+          ],
+          "fat_to_trim": "No sketch and no activation energy."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "NOT in the booklet: these are concepts. Memorise the two pairs."
+        },
+        "7_elimination": {
+          "rules": [
+            "Exothermic with temperature fall is wrong.",
+            "Endothermic with products more stable is wrong (18M.1.HL.TZ1.15).",
+            "Lower enthalpy always means more stable at this level."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6219.20",
+          "kind": "mcq",
+          "note": "Just over 50% correct; a significant number said the temperature fell."
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.15",
+          "kind": "examiner",
+          "note": "70% correct; 13% and 11% chose half-right pairs."
+        },
+        {
+          "ref": "25M.1A.HL.6213.18",
+          "kind": "mcq",
+          "note": "76% correct; weaker students got temperature but missed reactant stability."
+        },
+        {
+          "ref": "08M.1.SL.TZ0.17",
+          "kind": "examiner",
+          "note": "Correct sign but thought the solution's temperature rose for an endothermic change."
+        },
+        {
+          "ref": "05M.2.SL.TZ0.1",
+          "kind": "examiner",
+          "note": "Some confused exothermic with endothermic despite heat being released."
+        },
+        {
+          "ref": "18M.1.HL.TZ1.15",
+          "kind": "mcq",
+          "note": "Endothermic products are less stable; reversible Ea link."
+        }
+      ],
+      "difficulty_signal": "2025 data: just over 50% (6219.20) and 70–76% on profile versions. A persistent half-right distractor pattern.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-08",
+      "title": "Read ΔH from the plateaus, not the peak",
+      "understandings": [
+        "R1.1.3"
+      ],
+      "priority": 5,
+      "walkthrough": {
+        "question_ref": "14M.1.HL.TZ2.14",
+        "question": "An enthalpy profile for an exothermic reaction has three heights marked, x highest, then y, then z lowest. The reactants sit at y. The curve climbs to a peak at x, then falls to the products at z. What is ΔH?\nA. y − z\nB. z − y\nC. x − z\nD. z − x",
+        "marks": 1,
+        "key_idea": "ΔH = products' level minus reactants' level; the peak plays no part.",
+        "question_type": "Energy profile: read ΔH and Ea",
+        "careful": "Subtract in the order products minus reactants.",
+        "procedure": [
+          "Find the reactants' level and the products' level.",
+          "Write ΔH = products − reactants.",
+          "Check the sign against exothermic or endothermic.",
+          "If Ea is asked, measure from reactants to peak."
+        ],
+        "tricks": [
+          "Exothermic: the answer must come out negative.",
+          "Check whether the peak letter appears; if so, it is not ΔH."
+        ],
+        "if_lost": [
+          "Which height shows the reactants, and which the products?",
+          "Which height is only reached during the reaction?",
+          "Should ΔH be positive or negative here?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Reading a profile: the syllabus sketch-and-interpret skill.",
+            "why": "The 2025 syllabus requires sketching and interpreting profiles, with potential energy on the y-axis and reaction coordinate on the x-axis.",
+            "avoid": "Labelling the y-axis as ΔH: this was a flagged error (09M.2.SL.TZ2.4).",
+            "seconds": 15,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.3: sketch and interpret energy profiles; axes are reaction coordinate and potential energy.",
+            "textbook_gap": "Books mark ΔH with an arrow. This item removes it and asks you to write it algebraically from labelled heights."
+          },
+          "2_markscheme_logic": {
+            "short": "Products minus reactants gives z − y: option B.",
+            "why": "ΔH compares start and end only, regardless of the route. Since products are lower, the value is negative, which is what an exothermic reaction needs.",
+            "avoid": "Writing a positive difference such as y − z, which gives the size but the wrong sign.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "z − y"
+            ],
+            "trap_boundary": "y − z has the correct size but is positive, so it does not describe an exothermic ΔH.",
+            "delta": "A and B have the same size. Only B subtracts in the right order, giving a negative value.",
+            "evidence_ref": "14M.1.HL.TZ2.14"
+          },
+          "3_novel_application": {
+            "short": "Letters replace numbers, so the sign needs thinking.",
+            "why": "With numbers you would simply see the size. Letters force the correct order of subtraction, which is what the distractor pair depends on.",
+            "avoid": "Assuming a difference must be written with the bigger letter first.",
+            "seconds": 3,
+            "disguise": "Algebraic labels hide a simple subtraction of two plateaus.",
+            "heuristic": "End minus start, always. Use the peak only for Ea."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem; a single expression wins.",
+            "why": "The options test sign and which height matters. Knowing the definition settles both without any further steps.",
+            "avoid": "Spending time estimating the values of the letters.",
+            "seconds": 2,
+            "command_term": "none",
+            "demands": "Select the expression equal to ΔH.",
+            "score_mechanics": "All or nothing: one mark for one expression."
+          },
+          "5_time_efficiency": {
+            "short": "Ignore the peak, then write end minus start.",
+            "why": "Two options contain the peak letter, so they vanish at once. The last choice is a single sign check.",
+            "avoid": "Redrawing the profile; the labels are enough.",
+            "seconds": 10,
+            "workflow": [
+              "Ignore the peak",
+              "End minus start",
+              "Check the sign"
+            ],
+            "fat_to_trim": "Skip any reasoning about catalysts or Ea here."
+          },
+          "6_data_booklet": {
+            "short": "No section helps; this is a definition.",
+            "why": "Sections 1 and 4 hold no definition of a profile. The guide fixes the axis labels, which are not printed in those sections.",
+            "avoid": "Applying the section 1 formation-enthalpy formula when no formation values are given.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; read levels from the diagram.",
+            "memorise": "NOT in the booklet: ΔH = products − reactants on a profile; x-axis reaction coordinate, y-axis potential energy."
+          },
+          "7_elimination": {
+            "short": "Peak letter out; positive difference out.",
+            "why": "The peak is a transition, not an end state, so x can't feature. Then y − z is positive, contradicting the exothermic label given in the stem.",
+            "avoid": "Keeping D because it comes out negative; it uses the peak.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "y is above z, so this is positive; an exothermic ΔH is negative."
+              },
+              {
+                "target": "C",
+                "rule": "It uses the peak height, which plays no part in ΔH."
+              },
+              {
+                "target": "D",
+                "rule": "It uses the peak height, which plays no part in ΔH."
+              }
+            ]
+          }
+        },
+        "answer": "B. ΔH = products − reactants = z − y, which is negative because z lies below y.",
+        "try_next": [
+          "14M.1.HL.TZ1.14",
+          "17N.1.HL.TZ0.20"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.3: sketch and interpret profiles.",
+          "textbook_gap": "Old papers label y as enthalpy; the 2025 guidance says potential energy. Use the 2025 labels when you sketch."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "endothermic sketch",
+            "axes labelled reaction coordinate and potential energy",
+            "activation energy labelled"
+          ],
+          "trap_boundaries": [
+            "A y-axis labelled ΔH was marked as wrong (09M.2.SL.TZ2.4).",
+            "An endothermic sketch for an exothermic reaction loses the shape mark (09M.2.SL.TZ2.4)."
+          ],
+          "delta": "In a sketch, marks need shape, labelled axes and a labelled Ea, not shape alone (21M.2.HL.TZ2.1)."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Letter labels instead of values.",
+            "Catalysed and uncatalysed curves together (17N.1.HL.TZ0.20).",
+            "Ea drawn from the products' level, so you need to add z (17N.1.HL.TZ0.20)."
+          ],
+          "heuristic": "End minus start for ΔH; start to peak for Ea."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Sketch",
+            "Annotate",
+            "none (MCQ)"
+          ],
+          "score_mechanics": "MCQ all or nothing. Sketch marks go per feature: shape, axes, Ea."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Ignore the peak",
+            "End minus start",
+            "Check the sign"
+          ],
+          "fat_to_trim": "No redrawing in MCQs; label axes first in a sketch."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Profile labels are NOT in the booklet. Memorise: reaction coordinate on x, potential energy on y."
+        },
+        "7_elimination": {
+          "rules": [
+            "Any ΔH expression using the peak is wrong.",
+            "A positive ΔH for an exothermic change is wrong.",
+            "Ea from the reactants' plateau never goes down: it must be positive."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "14M.1.HL.TZ2.14",
+          "kind": "mcq",
+          "note": "ΔH is the lower plateau minus the reactants' plateau."
+        },
+        {
+          "ref": "17N.1.HL.TZ0.20",
+          "kind": "mcq",
+          "note": "Catalysed profile: ΔH is z; Ea combines x and z."
+        },
+        {
+          "ref": "14M.1.HL.TZ1.14",
+          "kind": "mcq",
+          "note": "Endothermic profile: reactants more stable and heat absorbed."
+        },
+        {
+          "ref": "09M.2.SL.TZ2.4",
+          "kind": "examiner",
+          "note": "Missing labels; axis wrongly labelled; endothermic drawn instead of exothermic."
+        },
+        {
+          "ref": "21M.2.HL.TZ2.1",
+          "kind": "markscheme",
+          "note": "Sketch marks: endothermic shape, labelled axes, labelled activation energy."
+        }
+      ],
+      "difficulty_signal": "Findings: energy profiles well prepared in May 2025 and May 2016. Marks now lost on labels rather than ideas.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-09",
+      "title": "Temperature–time graphs: what the rise and the fall each mean",
+      "understandings": [
+        "R1.1.2",
+        "R1.1.3"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "11N.1.HL.TZ0.15",
+        "question": "A temperature probe tracks a reaction mixture over time. The graph, with no numbers, holds level at first, climbs to a maximum, then falls gradually back to about the starting temperature. Which conclusions can be drawn?\nI. The reaction is exothermic.\nII. The products are more stable than the reactants.\nIII. The reactants' bonds are stronger than the products' bonds.\nA. I and II only\nB. I and III only\nC. II and III only\nD. I, II and III",
+        "marks": 1,
+        "key_idea": "The rise means exothermic; the fall afterwards is only cooling.",
+        "question_type": "Temperature–time graph: deduce what it shows",
+        "careful": "The fall after the peak is heat loss, not an endothermic reaction.",
+        "procedure": [
+          "Identify when the reaction starts on the graph.",
+          "Use the temperature rise to decide exothermic or endothermic.",
+          "Translate to relative stability of products and reactants.",
+          "Translate to relative bond strength.",
+          "If calculating, extrapolate cooling back to the start of reaction."
+        ],
+        "tricks": [
+          "Stronger bonds mean more stable: statements about stability and bonds must agree.",
+          "In calculations, use the extrapolated temperature, not the graph's highest reading."
+        ],
+        "if_lost": [
+          "What does a temperature rise in the mixture tell you?",
+          "Why does the mixture cool again later?",
+          "Where do the products sit compared with reactants in energy?",
+          "Which side then has stronger bonds?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Graph reading tied to energy direction and stability.",
+            "why": "Candidates must chain ideas: rise means exothermic, so products are more stable. The report says the need to combine ideas is exactly what this tests.",
+            "avoid": "Reading the fall as a second, endothermic stage; two G2 comments reported the graph as confusing (11N.1.HL.TZ0.15).",
+            "seconds": 45,
+            "ao_level": "AO3",
+            "syllabus_hook": "R1.1.2 temperature changes; R1.1.3 relative stability decides endothermic or exothermic.",
+            "textbook_gap": "Books show clean rises only. Real graphs fall afterwards as the mixture cools, which exam graphs keep."
+          },
+          "2_markscheme_logic": {
+            "short": "Exothermic and products more stable: I and II only.",
+            "why": "Heat out means products are lower in energy, so more stable. Their bonds are therefore stronger overall, so statement III is reversed and must be rejected.",
+            "avoid": "Taking the bond statement as equivalent to stability; it says the reactants' bonds are stronger, which is backwards.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "reaction is exothermic",
+              "products more stable than reactants"
+            ],
+            "trap_boundary": "Statement III is the reverse of the exothermic case; it suits endothermic reactions (07M.1.SL.TZ0.18).",
+            "delta": "A and D differ only over III. III fails because exothermic products have the stronger bonds.",
+            "evidence_ref": "11N.1.HL.TZ0.15"
+          },
+          "3_novel_application": {
+            "short": "An unlabelled graph replaces any stated reaction.",
+            "why": "No reaction is named, so the graph carries all the information. Interpreting only shape forces you to use the rise rather than recognised chemistry.",
+            "avoid": "Hunting for numbers on the axes; none are needed.",
+            "seconds": 3,
+            "disguise": "A shape with no scale looks as if nothing can be deduced.",
+            "heuristic": "Rise: heat leaves the reaction. Fall: heat leaves the mixture."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem built on deductions.",
+            "why": "Each statement must follow from the graph. A true statement that the graph does not support would also fail in this format.",
+            "avoid": "Accepting a statement just because it is a familiar fact.",
+            "seconds": 2,
+            "command_term": "none",
+            "demands": "Choose only statements the graph supports.",
+            "score_mechanics": "All or nothing: one wrong judgement loses the mark."
+          },
+          "5_time_efficiency": {
+            "short": "Decide exothermic, then test the bond statement.",
+            "why": "Once the rise is read, stability follows automatically. Testing III settles the choice between the only two options that keep both I and II.",
+            "avoid": "Analysing the fall in detail for this MCQ.",
+            "seconds": 15,
+            "workflow": [
+              "Rise means exothermic",
+              "Exothermic means products stable",
+              "Stronger bonds in products"
+            ],
+            "fat_to_trim": "Ignore the falling section for this question; it is only cooling."
+          },
+          "6_data_booklet": {
+            "short": "No section helps; the graph provides everything.",
+            "why": "Bond values could be looked up elsewhere for a named reaction, but none is named here. The relationship between stability and heat flow is memorised.",
+            "avoid": "Searching for bond data for an unnamed reaction.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; deduce from the graph's shape.",
+            "memorise": "NOT in the booklet: exothermic means products more stable with stronger bonds overall."
+          },
+          "7_elimination": {
+            "short": "Statement III is false, which removes three options.",
+            "why": "All three options containing III fall away together. This leaves one option without any need to discuss statements I and II further.",
+            "avoid": "Accepting D because it lists every statement and sounds comprehensive.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "B",
+                "rule": "It includes III, which is reversed for an exothermic reaction."
+              },
+              {
+                "target": "C",
+                "rule": "It includes III, and omits I despite the temperature rise."
+              },
+              {
+                "target": "D",
+                "rule": "It includes III, which is reversed for an exothermic reaction."
+              }
+            ]
+          }
+        },
+        "answer": "A. The rise shows an exothermic reaction, so products are more stable. Statement III is reversed: exothermic products have the stronger bonds overall.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1A",
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.2, R1.1.3, with practical data handling.",
+          "textbook_gap": "Exam graphs include cooling and mixing delay, so reaction start and maximum may not be where books show them."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "temperature reached if reaction instantaneous",
+            "without heat loss",
+            "rate of heat production equals rate of heat loss"
+          ],
+          "trap_boundaries": [
+            "The highest recorded point is not the temperature for calculating: the extrapolated value is (19M.3.HL.TZ1.2).",
+            "Extrapolating to the wrong time gave a 6.6 °C error (11M.2.HL.TZ2.1).",
+            "Using the line equation with t = 0 instead of the zinc's addition time loses marks (10N.2.SL.TZ0.1)."
+          ],
+          "delta": "Partial credit: reading the maximum. Full credit: extrapolating the cooling line back to the time of mixing."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "No numbers on the axes.",
+            "Zinc added after a baseline period, so the start isn't at t = 0.",
+            "Questions asking why the highest reading is below the true value."
+          ],
+          "heuristic": "Rise: heat leaves the reaction. Fall: heat leaves the mixture."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Deduce",
+            "Determine",
+            "Explain"
+          ],
+          "score_mechanics": "MCQ all or nothing. Extended data questions award separate marks for value and reasoning."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Find reaction start",
+            "Extend cooling line back",
+            "Read temperature there"
+          ],
+          "fat_to_trim": "Do not fit an equation by hand if a line can be read directly."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Nothing here is printed. Extrapolation and stability links are NOT in the booklet."
+        },
+        "7_elimination": {
+          "rules": [
+            "A rise followed by a fall is not two reactions.",
+            "Stronger bonds on the reactants' side belong to endothermic reactions, not exothermic.",
+            "The graph's highest reading is not the corrected final temperature, unless heat loss is negligible."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "11N.1.HL.TZ0.15",
+          "kind": "mcq",
+          "note": "64% correct; ideas must combine; graph reported as confusing."
+        },
+        {
+          "ref": "11N.1.SL.TZ0.14",
+          "kind": "examiner",
+          "note": "55% correct at SL for the same deduction."
+        },
+        {
+          "ref": "07M.1.SL.TZ0.18",
+          "kind": "examiner",
+          "note": "Endothermic: reactant bonds stronger than product bonds; about 48% correct."
+        },
+        {
+          "ref": "19M.3.HL.TZ1.2",
+          "kind": "markscheme",
+          "note": "Highest reading is when heat production equals heat loss; extrapolate to 73 °C."
+        },
+        {
+          "ref": "19M.3.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Under half chose the extrapolated temperature; the commonest answer was the maximum."
+        },
+        {
+          "ref": "10N.2.SL.TZ0.1",
+          "kind": "examiner",
+          "note": "Misread Tfinal and Tinitial; did not allow for zinc being added after t = 0."
+        },
+        {
+          "ref": "11M.2.HL.TZ2.1",
+          "kind": "examiner",
+          "note": "Many could not extrapolate accurately; 6.6 °C was the commonest wrong change."
+        }
+      ],
+      "difficulty_signal": "Findings: May 2019 flags compensation for heat loss as difficult. Interpreting graphs appears as an error signal; 55–64% correct on 11N.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-10",
+      "title": "State an assumption the calculation really used",
+      "understandings": [
+        "R1.1.4"
+      ],
+      "priority": 4,
+      "walkthrough": {
+        "question_ref": "18N.2.HL.TZ0.1",
+        "question": "Iron powder reacts with 80.0 cm³ of 0.200 mol dm⁻³ copper(II) sulfate solution in a calorimeter, and the temperature rises by 7.5 °C. You calculated ΔH by assuming the solution absorbed all the heat released. State one other assumption your calculation needed. [1]",
+        "marks": 1,
+        "key_idea": "Each number you plugged in hides an assumption; name it.",
+        "question_type": "Calorimetry: state an assumption",
+        "careful": "Name the property and link it to water's value.",
+        "procedure": [
+          "List what you put into Q = mcΔT.",
+          "Ask what each value assumed about the solution.",
+          "Ask whether all reactant actually reacted.",
+          "State one assumption specifically, excluding what the stem already gave."
+        ],
+        "tricks": [
+          "Scan your working: m used density, c used water's value.",
+          "Exclude any assumption the question has already stated."
+        ],
+        "if_lost": [
+          "What value of c did you use, and for which substance?",
+          "How did you turn a volume into a mass?",
+          "Did every particle of limiting reactant have to react?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "A one-mark practical point that follows a calculation.",
+            "why": "The mark tests whether you understood what the calculation assumed. Reports say candidates do better when they connect the question to lab experience.",
+            "avoid": "Repeating 'no heat loss', already given in the stem; the question asks for another.",
+            "seconds": 15,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.4: enthalpy change from a temperature change, with Tool-style evaluation of the method.",
+            "textbook_gap": "Books mention heat loss above all. Markschemes also credit density, c and completion of reaction."
+          },
+          "2_markscheme_logic": {
+            "short": "Density, c of water, completion, or no side reaction.",
+            "why": "Each is what was silently used in the calculation. The answer must be specific: name the property and tie it to the value used.",
+            "avoid": "Saying the water was pure: that misses that c of the solution was taken as water's (19M.3.HL.TZ1.2).",
+            "seconds": 5,
+            "trigger_phrases": [
+              "density of solution is 1.00 g cm⁻³",
+              "specific heat capacity of solution is that of water",
+              "reaction goes to completion"
+            ],
+            "trap_boundary": "The answer must be another assumption, not the one about all heat being absorbed.",
+            "delta": "Vague statements about accuracy score nothing. One named property with the value or comparison scores the mark.",
+            "evidence_ref": "18N.2.HL.TZ0.1"
+          },
+          "3_novel_application": {
+            "short": "A displacement reaction, yet the same assumptions apply.",
+            "why": "The assumptions come from the method, not from the reaction. So a neutralisation, a displacement or a dissolving all share them.",
+            "avoid": "Writing something specific to iron that the calculation never used.",
+            "seconds": 3,
+            "disguise": "Unfamiliar metal chemistry suggests a chemistry-specific answer.",
+            "heuristic": "Point to a number in your working; what did it assume?"
+          },
+          "4_command_terms": {
+            "short": "State: one brief, specific answer, no reasoning.",
+            "why": "State needs a short answer without explanation. Writing a list risks a contradiction, as reported in similar practical parts.",
+            "avoid": "Writing several assumptions hoping that one scores; a contradiction can cost you (17M.3.HL.TZ1.5).",
+            "seconds": 5,
+            "command_term": "State",
+            "demands": "Give one further assumption made in the calculation.",
+            "score_mechanics": "One mark for any one accepted assumption."
+          },
+          "5_time_efficiency": {
+            "short": "Write one line: the specific heat capacity assumption.",
+            "why": "The c assumption is the safest and always applies in solution calorimetry. It takes one line and needs no rereading of the stem.",
+            "avoid": "Explaining the effect of the assumption, which the command term doesn't request.",
+            "seconds": 10,
+            "workflow": [
+              "Point at each value",
+              "Name its assumption",
+              "Write one line"
+            ],
+            "fat_to_trim": "Skip how the assumption changes ΔH: only State is asked."
+          },
+          "6_data_booklet": {
+            "short": "The booklet value of c creates the assumption.",
+            "why": "The value you read belongs to pure water, yet you used it for a solution. Spotting that mismatch gives you the mark.",
+            "avoid": "Thinking a printed value must be exact for the solution too.",
+            "seconds": 3,
+            "sections": [
+              1
+            ],
+            "pattern": "Section 1 has Q = mcΔT. The question directs you to section 2 for c, which is water's value.",
+            "memorise": "Water's density, 1.00 g cm⁻³, is NOT in section 1; memorise it."
+          },
+          "7_elimination": {
+            "short": "Ignore answers about heat absorbed or pure water.",
+            "why": "The first is excluded by the wording. The second was reported as what students wrote, rather than saying the solution's c equals water's.",
+            "avoid": "Answering 'more accurate thermometer': that is an improvement, not an assumption.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "all heat absorbed by the solution",
+                "rule": "The stem already states this, and asks for another."
+              },
+              {
+                "target": "an improvement to the method",
+                "rule": "An improvement is not an assumption of the calculation."
+              }
+            ]
+          }
+        },
+        "answer": "Any one: solution's density is 1.00 g cm⁻³; solution's c is 4.18 J g⁻¹ K⁻¹ (same as water); the reaction goes to completion; iron or CuSO₄ does not react with anything else.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.4 with practical evaluation in Tool 1 style.",
+          "textbook_gap": "Books stress heat loss. Markschemes credit solution density and c, and completion of the reaction."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "density equal to that of water",
+            "specific heat capacity equal to that of water",
+            "reaction goes to completion",
+            "heat capacity of container zero/negligible"
+          ],
+          "trap_boundaries": [
+            "If the stem gives no heat loss, it won't earn credit as another assumption.",
+            "In open assumption questions, no heat lost is accepted (25N.1B.HL.6220.2).",
+            "Saying water was pure instead of naming c misses the point (19M.3.HL.TZ1.2)."
+          ],
+          "delta": "Marks go to the named property with its value or comparison to water, not a general statement."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Two marks for two assumptions in a neutralisation (25N.1B.HL.6220.2).",
+            "Container heat capacity ignored (17M.3.SL.TZ1.5).",
+            "Reaction details that tempt a chemistry-specific answer."
+          ],
+          "heuristic": "Point to a number in your working; what did it assume?"
+        },
+        "4_command_terms": {
+          "terms": [
+            "State",
+            "Suggest"
+          ],
+          "score_mechanics": "One mark per assumption, up to the number asked, and contradictions can cost marks."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Point at each value",
+            "Name its assumption",
+            "Write one line"
+          ],
+          "fat_to_trim": "Do not describe the effect unless the question asks."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "Section 1 has Q = mcΔT. Water's density is NOT there. Questions direct you to section 2 for c, which belongs to water."
+        },
+        "7_elimination": {
+          "rules": [
+            "Rewording the stem's assumption earns nothing.",
+            "Improvements are not assumptions.",
+            "Exception: a stem without a stated assumption can accept no heat lost."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "markscheme",
+          "note": "Accepts density, c of solution, completion, or no reaction with other substances."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "examiner",
+          "note": "Most could identify an assumption such as the solution's c equals water's."
+        },
+        {
+          "ref": "25N.1B.HL.6220.2",
+          "kind": "markscheme",
+          "note": "Accepts c, density, container heat capacity negligible, no heat lost, completion."
+        },
+        {
+          "ref": "17M.3.SL.TZ1.5",
+          "kind": "markscheme",
+          "note": "Lists container heat capacity ignored, density and c assumed same as water."
+        },
+        {
+          "ref": "19M.3.HL.TZ1.2",
+          "kind": "examiner",
+          "note": "Most named water's c but said pure water rather than the solution's c."
+        },
+        {
+          "ref": "17M.3.HL.TZ1.5",
+          "kind": "examiner",
+          "note": "Many had difficulty stating another assumption; often not linked to practical work."
+        }
+      ],
+      "difficulty_signal": "Appears in 2025 Paper 1B and legacy Paper 3. Reports note these parts are often poorly linked to practical work.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-11",
+      "title": "Heat loss is the big error: say where, how to fix and its effect",
+      "understandings": [
+        "R1.1.4"
+      ],
+      "priority": 4,
+      "walkthrough": {
+        "question_ref": "15M.1.HL.TZ1.15",
+        "question": "Equal volumes of HCl(aq) and NaOH(aq) of equal concentration are mixed in a glass beaker. An alcohol thermometer records the highest temperature reached. What is the largest source of error in finding the heat change this way?\nA. Heat taken up by the glass thermometer\nB. Random error when reading the thermometer\nC. Heat escaping to the surroundings\nD. Systematic error in the volumes measured with burettes",
+        "marks": 1,
+        "key_idea": "An uninsulated beaker loses heat, so the measured rise is too small.",
+        "question_type": "Calorimetry: identify error and its effect",
+        "careful": "Name where heat goes; never write only 'heat loss'.",
+        "procedure": [
+          "Identify what absorbs or loses heat in the setup.",
+          "Compare the size of each possible error.",
+          "Name the largest and where the heat goes.",
+          "Predict the effect on measured temperature and ΔH.",
+          "Suggest a specific improvement, such as insulation or a lid."
+        ],
+        "tricks": [
+          "Glass beaker, no lid: the answer is nearly always heat loss.",
+          "Heat loss makes ΔH less negative for an exothermic reaction."
+        ],
+        "if_lost": [
+          "Is the beaker insulated?",
+          "Where can energy go instead of into the solution?",
+          "How big is that effect compared with a burette's tiny error?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "The standard practical error for any calorimetry setup.",
+            "why": "An open glass beaker lets significant heat escape, while burette volumes and thermometer readings are comparatively small errors. The report lists a beaker as a large systematic error.",
+            "avoid": "Choosing the burette because 'systematic' sounds serious (10M.1.HL.TZ1.40).",
+            "seconds": 15,
+            "ao_level": "AO3",
+            "syllabus_hook": "R1.1.4: determining heat change from temperature change, assessed with experimental evaluation.",
+            "textbook_gap": "Books say heat is lost. Exams want where it goes, its effect on ΔH and a specific improvement."
+          },
+          "2_markscheme_logic": {
+            "short": "Heat loss to surroundings is largest: C.",
+            "why": "This error is much larger than instrument precision in this setup. Markschemes elsewhere also require naming the route or the object losing heat.",
+            "avoid": "Writing just 'heat loss' in written papers; 25N.1B.HL.6208.2 does not accept it alone.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "heat loss to the surroundings"
+            ],
+            "trap_boundary": "In written answers, 'heat loss' alone gets no mark; name its source or route.",
+            "delta": "C is the tempting answer and correct here. Written versions need the extra detail on where heat is lost.",
+            "evidence_ref": "15M.1.HL.TZ1.15"
+          },
+          "3_novel_application": {
+            "short": "Thermometer and burette details act as decoys.",
+            "why": "Listing named instruments directs you to instrument errors. Yet a lid-free beaker exposes the solution, so the setup description matters more than the tools.",
+            "avoid": "Calling any thermometer reading a major error; the report treats these as minor.",
+            "seconds": 3,
+            "disguise": "Technical error vocabulary makes smaller errors sound more serious.",
+            "heuristic": "Ask: is the container insulated? If not, heat loss wins."
+          },
+          "4_command_terms": {
+            "short": "An MCQ stem comparing sizes of errors.",
+            "why": "The question compares error sizes rather than identifying an error type. All four are real, so choose the biggest, not merely a true one.",
+            "avoid": "Stopping at the first true statement.",
+            "seconds": 2,
+            "command_term": "none",
+            "demands": "Choose the largest source of error.",
+            "score_mechanics": "All or nothing: all four are real errors, and only the biggest scores."
+          },
+          "5_time_efficiency": {
+            "short": "Spot the uninsulated beaker, then answer.",
+            "why": "A quick look at the container decides it. Written parts extend this with the effect and a fix, so memorise that chain.",
+            "avoid": "Calculating burette uncertainties in an MCQ.",
+            "seconds": 8,
+            "workflow": [
+              "Check the insulation",
+              "Name where heat goes",
+              "Give effect on ΔH"
+            ],
+            "fat_to_trim": "Do not compare numeric uncertainties for this kind of question."
+          },
+          "6_data_booklet": {
+            "short": "No section helps; this is practical knowledge.",
+            "why": "Experimental error patterns aren't printed in the sections supplied. You have to carry them from lab experience.",
+            "avoid": "Hunting for uncertainty values in the booklet.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; reason from the setup.",
+            "memorise": "NOT in the booklet: heat loss lowers the measured ΔT and makes exothermic ΔH less negative."
+          },
+          "7_elimination": {
+            "short": "Tiny instrument and glass effects cannot beat open-air loss.",
+            "why": "Thermometer heat capacity and burette errors are small in this setup, and a reading error is small too. The open beaker's heat loss remains the main one.",
+            "avoid": "Assuming the word 'systematic' must make D the largest.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "A thermometer's heat uptake is tiny in an open beaker setup."
+              },
+              {
+                "target": "B",
+                "rule": "A reading error is small compared with heat escaping."
+              },
+              {
+                "target": "D",
+                "rule": "Burettes are precise; their error is small here."
+              }
+            ]
+          }
+        },
+        "answer": "C. Heat loss to the surroundings from the uninsulated beaker is much the largest error, far greater than thermometer or burette errors.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1A",
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.4 with practical evaluation.",
+          "textbook_gap": "Books stop at heat loss. Marks require location, direction of effect and a precise improvement."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "loss of heat from metal during transfer",
+            "loss of heat from beaker to surroundings",
+            "using polystyrene cup or a lid",
+            "lower/less exothermic with heat loss"
+          ],
+          "trap_boundaries": [
+            "'Heat loss' alone is not accepted (25N.1B.HL.6208.2).",
+            "An error giving the opposite effect is not accepted (25N.1B.HL.6208.2).",
+            "Water bath and closed system not accepted as fixes (25N.1B.HL.6220.2)."
+          ],
+          "delta": "Partial credit names heat loss. Full credit adds the location, effect on the value and a specific fix."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Metal moved between beakers, losing heat in transit.",
+            "A smaller measured rise in a thermometric titration (17M.3.SL.TZ1.5).",
+            "Comparison of two students' apparatus (25N.1B.HL.6220.2)."
+          ],
+          "heuristic": "Follow the heat: where can it escape, and when?"
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Suggest",
+            "Explain",
+            "Outline"
+          ],
+          "score_mechanics": "Written: one mark per specific point; two-mark items need two distinct sources. Do not repeat a point."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Check the insulation",
+            "Name where heat goes",
+            "Give effect on ΔH"
+          ],
+          "fat_to_trim": "Do not list several irrelevant errors (14M.2.SL.TZ1.1); the mark goes to relevant ones."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Practical errors are NOT in the booklet. Memorise the chain: loss, lower ΔT, less exothermic."
+        },
+        "7_elimination": {
+          "rules": [
+            "An error that would make ΔH larger cannot explain a low exothermic value.",
+            "Instrument error options lose to heat loss in open containers.",
+            "Exception: with very small temperature changes, the percentage error from the thermometer also becomes large."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "15M.1.HL.TZ1.15",
+          "kind": "mcq",
+          "note": "Heat loss chosen as the largest error."
+        },
+        {
+          "ref": "25N.1B.HL.6208.2",
+          "kind": "markscheme",
+          "note": "Rejects 'heat loss' alone and an error giving the opposite effect."
+        },
+        {
+          "ref": "25N.1B.HL.6220.2",
+          "kind": "markscheme",
+          "note": "Accepts improved insulation; rejects a water bath and closed/isolated system."
+        },
+        {
+          "ref": "17M.3.SL.TZ1.5",
+          "kind": "markscheme",
+          "note": "Heat loss gives a smaller rise; fixes are polystyrene cup, insulation, lid."
+        },
+        {
+          "ref": "19M.3.HL.TZ1.2",
+          "kind": "markscheme",
+          "note": "Heat loss makes ΔH lower, less negative."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Heat loss was common, but many did not say how to prevent it by insulation."
+        },
+        {
+          "ref": "14M.2.SL.TZ1.1",
+          "kind": "examiner",
+          "note": "Most said heat loss but added irrelevant errors."
+        },
+        {
+          "ref": "10M.1.HL.TZ1.40",
+          "kind": "examiner",
+          "note": "78% saw that a beaker neutralisation has a large systematic error."
+        }
+      ],
+      "difficulty_signal": "Findings: students recognise heat loss well (May 2015). Marks now go on specificity: 2025 markschemes reject the bare phrase.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-12",
+      "title": "Deduce exothermic or endothermic from what heating does",
+      "understandings": [
+        "R1.1.2"
+      ],
+      "priority": 6,
+      "walkthrough": {
+        "question_ref": "25M.2.HL.6209.2",
+        "question": "Hydrated cobalt(II) ions and chloride ions are at equilibrium: [Co(H₂O)₆]²⁺(aq, pink) + 4Cl⁻(aq) ⇌ [CoCl₄]²⁻(aq, blue) + 6H₂O(l). A pink equilibrium mixture turns purplish-blue when warmed. Deduce, with a reason, whether forming [CoCl₄]²⁻ is exothermic or endothermic. [1]",
+        "marks": 1,
+        "key_idea": "Heating favours the endothermic direction; the colour shows which way it shifted.",
+        "question_type": "Equilibrium shift on heating: deduce exo or endo",
+        "careful": "Give both the classification and the shift; one alone scores nothing.",
+        "procedure": [
+          "Match the observed colour change to one side of the equation.",
+          "Decide which direction the equilibrium shifted.",
+          "Heating favours the endothermic direction.",
+          "State the classification and the shift together."
+        ],
+        "tricks": [
+          "Colour towards products means the forward reaction was favoured.",
+          "Cooling works the other way: favours the exothermic direction."
+        ],
+        "if_lost": [
+          "Which side of the equation is blue?",
+          "Which way did the equilibrium move on warming?",
+          "Which direction does added heat favour in general?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Direction of energy transfer, tested through a colour observation.",
+            "why": "This links R1.1.2 to equilibrium. The sign of the reaction is deduced from a shift, which is a common way that exams use energy direction.",
+            "avoid": "Reasoning from warming itself: the mixture was heated from outside, not by the reaction.",
+            "seconds": 40,
+            "ao_level": "AO3",
+            "syllabus_hook": "R1.1.2: reactions are endothermic or exothermic, by direction of energy transfer.",
+            "textbook_gap": "Books teach exothermic through thermometer readings. Here no temperature change is measured; a colour shift carries the information."
+          },
+          "2_markscheme_logic": {
+            "short": "Endothermic and shifts right: both needed for one mark.",
+            "why": "The single mark needs the conclusion and its reason, linked by AND. The forward reaction absorbs the added heat, so that is why it is favoured.",
+            "avoid": "Writing just 'endothermic': the question asks for a reason, and the mark is for both.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "endothermic AND equilibrium shifts right",
+              "forward reaction removes heat",
+              "more products formed"
+            ],
+            "trap_boundary": "The classification without the shift or forward-favoured reason does not meet the AND requirement.",
+            "delta": "Conclusion alone earns nothing. The conclusion plus the shift earns the single mark.",
+            "evidence_ref": "25M.2.HL.6209.2"
+          },
+          "3_novel_application": {
+            "short": "A cobalt colour change disguises an energy-direction question.",
+            "why": "The complex looks like transition metal chemistry, but no ligand theory is needed. Only the colour-to-side match and the rule on heating matter.",
+            "avoid": "Explaining the colours with d-orbital ideas.",
+            "seconds": 3,
+            "disguise": "A transition-metal complex and colours suggest a different topic.",
+            "heuristic": "Hot favours endothermic. Which way did it go?"
+          },
+          "4_command_terms": {
+            "short": "Deduce, giving a reason: conclusion and reason both.",
+            "why": "Deduce means reach a conclusion from the data. 'Giving a reason' is why the markscheme links both points with AND.",
+            "avoid": "Giving a Le Chatelier statement without saying which way this equilibrium moved.",
+            "seconds": 5,
+            "command_term": "Deduce",
+            "demands": "Conclude exo or endo from the colour shift, and give the reason.",
+            "score_mechanics": "One mark for the conclusion and the reason together."
+          },
+          "5_time_efficiency": {
+            "short": "One line: endothermic, because the equilibrium shifts right.",
+            "why": "The mark needs two facts, not a paragraph. Writing more wastes time and risks a statement that contradicts the point you just made.",
+            "avoid": "Drawing energy profiles or discussing rates.",
+            "seconds": 10,
+            "workflow": [
+              "Colour shows the side",
+              "Hot favours endothermic",
+              "Write conclusion AND reason"
+            ],
+            "fat_to_trim": "Skip explanations of colours and rate effects."
+          },
+          "6_data_booklet": {
+            "short": "No section helps; the rule is memorised.",
+            "why": "The sections supplied contain no statement of how temperature affects equilibrium. That rule must come from memory and from R2.3.",
+            "avoid": "Reaching for ΔG or K equations; no values are given.",
+            "seconds": 2,
+            "sections": [],
+            "pattern": "No table applies; deduce from the observation.",
+            "memorise": "NOT in the booklet: raising temperature favours the endothermic direction."
+          },
+          "7_elimination": {
+            "short": "Exothermic is out: heating moved it to the blue side.",
+            "why": "Heating an exothermic forward reaction would shift it left, keeping pink. The observed blue shift rules that out without any numbers.",
+            "avoid": "Thinking warmed means the reaction itself gives out heat.",
+            "seconds": 3,
+            "definitely_wrong": [
+              {
+                "target": "exothermic",
+                "rule": "Heating would shift an exothermic forward reaction left, not towards blue."
+              },
+              {
+                "target": "a conclusion with no shift stated",
+                "rule": "The mark needs the reason as well."
+              }
+            ]
+          }
+        },
+        "answer": "Endothermic, because the equilibrium shifts to the right on heating (the forward reaction is favoured and removes the added heat).",
+        "try_next": [
+          "17N.1.HL.TZ0.19"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "R1.1.2 with a link to equilibrium in R2.3.",
+          "textbook_gap": "Books present ΔH first and predict shifts. Exams can reverse it: observe a shift and deduce the sign."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "endothermic AND equilibrium shifts right",
+            "forward reaction is favoured"
+          ],
+          "trap_boundaries": [
+            "AND means both parts are required for the single mark.",
+            "A temperature fall that shifts left means the forward reaction is endothermic (17M.2.SL.TZ2.3).",
+            "Exothermic forward: temperature rise shifts it left and K falls (22M.2.HL.TZ2.6)."
+          ],
+          "delta": "A conclusion without the shift scores nothing; both together score the mark."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Cobalt complex colours.",
+            "A concentration graph showing a temperature change (17M.2.SL.TZ2.3).",
+            "Solubility rising with temperature for a dissolving with positive ΔH (17N.1.HL.TZ0.19)."
+          ],
+          "heuristic": "Hot favours endothermic. Which way did it go?"
+        },
+        "4_command_terms": {
+          "terms": [
+            "Deduce",
+            "Predict",
+            "Explain"
+          ],
+          "score_mechanics": "Often one mark for a conclusion and reason together, or two when reasoning is split."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Colour shows the side",
+            "Hot favours endothermic",
+            "Write conclusion AND reason"
+          ],
+          "fat_to_trim": "Skip explanations of colours and collision ideas."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "The temperature rule is NOT in the booklet. Memorise it with R2.3."
+        },
+        "7_elimination": {
+          "rules": [
+            "Exothermic forward cannot gain products on heating.",
+            "A K value does not change with added reagent, only with temperature (25M.2.HL.6209.2).",
+            "Applies to the equilibrium position; do not apply this to rate questions, where k rises with temperature in every case (25M.1A.HL.6213.28)."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6209.2",
+          "kind": "markscheme",
+          "note": "Endothermic AND shift right; alternatives accepted."
+        },
+        {
+          "ref": "17M.2.SL.TZ2.3",
+          "kind": "markscheme",
+          "note": "Endothermic: cooling shifts left; K decreases."
+        },
+        {
+          "ref": "22M.2.HL.TZ2.6",
+          "kind": "markscheme",
+          "note": "Exothermic forward: equilibrium shifts left and K decreases."
+        },
+        {
+          "ref": "17N.1.HL.TZ0.19",
+          "kind": "mcq",
+          "note": "Positive ΔH dissolving: solubility rises with temperature; 83% correct."
+        },
+        {
+          "ref": "25M.1A.HL.6213.28",
+          "kind": "examiner",
+          "note": "13% wrongly linked rate constant rise to endothermic reactions only."
+        }
+      ],
+      "difficulty_signal": "2025 Paper 2 HL item. Lower priority for pure R1.1; 17M version reported as challenging, with only a handful able to link shift to temperature.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "R1.1-13",
+      "title": "Carry ΔT's percentage uncertainty through to ΔH",
+      "understandings": [
+        "R1.1.4"
+      ],
+      "priority": 4,
+      "walkthrough": {
+        "question_ref": "18N.2.HL.TZ0.1",
+        "question": "Iron powder (3.26 g) is stirred into 80.0 cm³ of 0.200 mol dm⁻³ copper(II) sulfate solution in a calorimeter:\nFe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)\nThe solution warms by at most 7.5 °C, which gives ΔH = −1.6 × 10² kJ for the reaction as written.\nThe temperature rise has an uncertainty of ±0.2 °C. Treat this as the only significant uncertainty.\nCalculate the absolute uncertainty in ΔH.",
+        "marks": 2,
+        "key_idea": "ΔH is proportional to ΔT, so apply ΔT's percentage uncertainty to ΔH.",
+        "question_type": "Uncertainty: propagate ΔT through to ΔH",
+        "careful": "Multiply the percentage by ΔH; stopping at the percentage loses a mark.",
+        "procedure": [
+          "Find the absolute uncertainty in the temperature change.",
+          "Divide it by the temperature change itself.",
+          "Take other quantities as exact unless uncertainties are given.",
+          "Multiply this fraction by the size of ΔH.",
+          "State the result as ± with ΔH's units."
+        ],
+        "tricks": [
+          "Same % on ΔT and ΔH; fails if mass or moles also carry uncertainty.",
+          "Size check: small percentage on ΔT means ± is a small part of ΔH."
+        ],
+        "if_lost": [
+          "Which measured quantity has an uncertainty stated in the question?",
+          "Does the question want a percentage or an absolute uncertainty?",
+          "If ΔT were doubled, what would happen to ΔH?",
+          "Once you have a percentage, which value do you apply it to?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Practical skill: ΔT's percentage uncertainty carries through to ΔH.",
+            "why": "ΔH comes from mcΔT divided by moles, so any doubt in ΔT scales directly into ΔH. That link makes this a data-processing step, not a new formula.",
+            "avoid": "Treating the uncertainty as a separate calculation unrelated to the ΔH already found.",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "R1.1.4: enthalpy change is determined from a temperature change by applying Q = mcΔT and ΔH = −Q/n.",
+            "textbook_gap": "Books teach Q = mcΔT as giving one answer. This question asks how far that answer can be trusted, using one stated uncertainty."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for ΔT's percentage; one for applying it to ΔH.",
+            "why": "The two ticks separate finding the relative uncertainty from using it. Examiners report many candidates stopped at the first, so the second tick is where marks go.",
+            "avoid": "Stopping at 0.2/7.5: 18N.2.HL.TZ0.1 examiners report many found it, then never multiplied by their molar enthalpy.",
+            "seconds": 15,
+            "trigger_phrases": [
+              "0.2/7.5 × 100 = 3% (or 0.03)",
+              "0.03 × 160 kJ = ±5 kJ"
+            ],
+            "trap_boundary": "The percentage alone earns one mark. The second mark needs the absolute ± value on ΔH.",
+            "delta": "Partial: 3% or 0.03 stated only. Full: that fraction multiplied by ΔH, giving ±5 kJ.",
+            "evidence_ref": "18N.2.HL.TZ0.1"
+          },
+          "3_novel_application": {
+            "short": "Same proportional step works whichever reaction or calorimeter appears.",
+            "why": "Only the numbers change: any ΔH computed from mcΔT scales with ΔT. The step holds for combustion, neutralisation or displacement when ΔT carries the only stated uncertainty.",
+            "avoid": "Using the 3.26 g of iron, the volume or the concentration; no uncertainty is stated for them.",
+            "seconds": 10,
+            "disguise": "It sits inside a displacement and limiting-reagent question, so it looks like more stoichiometry rather than an uncertainty step.",
+            "heuristic": "Ask: which measured value carries the ±, and is ΔH proportional to it? If yes, copy its percentage over."
+          },
+          "4_command_terms": {
+            "short": "Calculate: show both the percentage and the absolute value.",
+            "why": "Calculate means a numerical answer with stages shown. With two separate marks, a visible percentage can earn its own mark even if the final multiplication goes wrong.",
+            "avoid": "Giving only a final figure: a wrong one with no working leaves nothing to credit.",
+            "seconds": 5,
+            "command_term": "Calculate",
+            "demands": "A numerical absolute uncertainty in ΔH with the percentage step visible.",
+            "score_mechanics": "2 marks, one per step: the percentage or fraction for ΔT, then that fraction times ΔH. Not all or nothing."
+          },
+          "5_time_efficiency": {
+            "short": "Two lines of working: percentage, then multiply.",
+            "why": "With ΔH already found, this needs one division and one multiplication. Recalculating ΔH at both ends of the temperature range reaches a similar result far more slowly.",
+            "avoid": "Reworking mcΔT at 7.7 °C and 7.3 °C; the proportional step is quicker.",
+            "seconds": 40,
+            "workflow": [
+              "Uncertainty ÷ ΔT gives percentage",
+              "Percentage times ΔH, never stop",
+              "Write the answer with ±"
+            ],
+            "fat_to_trim": "Skip the iron mass and the moles: ΔH is already given, and they add nothing to this step."
+          },
+          "6_data_booklet": {
+            "short": "Booklet gives Q = mcΔT; uncertainty rules are not in it.",
+            "why": "Section 1 shows ΔT as a direct factor in Q, which justifies the proportional step. Nothing in the sections provided tells you how to combine uncertainties.",
+            "avoid": "Hunting the booklet for an uncertainty formula: the sections provided here give none.",
+            "seconds": 5,
+            "sections": [
+              1
+            ],
+            "pattern": "Read Q = mcΔT in section 1: ΔT is a single multiplying factor, so Q and ΔH scale with it.",
+            "memorise": "Percentage uncertainty = absolute uncertainty ÷ value × 100, and ΔH = −Q/n. Neither is in the booklet sections provided."
+          },
+          "7_elimination": {
+            "short": "Rule out any answer that is not a small ± in kJ.",
+            "why": "Absolute uncertainty shares ΔH's units and, with a small percentage on ΔT, must be a small fraction of ΔH. Checking that rules out these answers without arithmetic.",
+            "avoid": "Writing ±0.2 kJ by transferring the temperature figure directly onto the enthalpy.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A bare percentage as the final answer",
+                "rule": "An absolute uncertainty in ΔH must be an energy value, not a percentage."
+              },
+              {
+                "target": "±0.2 kJ",
+                "rule": "This copies the temperature uncertainty into energy units; °C and kJ are different scales."
+              },
+              {
+                "target": "A ± value close to or larger than ΔH",
+                "rule": "The uncertainty is a small part of ΔT, so it must be a small part of ΔH."
+              }
+            ]
+          }
+        },
+        "answer": "0.2/7.5 × 100 = 3% (0.03), then 0.03 × 160 kJ = ±5 kJ. The markscheme rounds to 3% first; unrounded, 2.67% gives about ±4.3 kJ.",
+        "try_next": []
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "Paper 2",
+            "Paper 1B"
+          ],
+          "syllabus_hook": "R1.1.4: ΔH is determined from a temperature change using Q = mcΔT and ΔH = −Q/n.",
+          "textbook_gap": "Books stop at a single ΔH value. Exams go on to ask how much a stated uncertainty in ΔT affects that value."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "Relative uncertainty in ΔT: 0.2/7.5 × 100 = 3% (or 0.03)",
+            "Apply it to ΔH: 0.03 × 160 kJ = ±5 kJ",
+            "Percentage uncertainty uses the change: 2/(33−22) × 100 = 18%"
+          ],
+          "trap_boundaries": [
+            "Stopping at the percentage earns one of the two marks (18N.2.HL.TZ0.1).",
+            "The fraction is taken over the temperature change, not over a single temperature reading (25N.1B.HL.6220.2).",
+            "25N.1B.HL.6220.2 accepts 20% and answers in the range 15–18% for a value read from the candidate's graph."
+          ],
+          "delta": "Partial credit finds ΔT's percentage uncertainty. Full credit also multiplies that fraction by ΔH to give an absolute ± value."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "A final part of a displacement and limiting-reagent question.",
+            "A ΔT read from a graph's intersecting lines in a thermometric experiment, with a ± read from that graph.",
+            "Different names for the same thing: relative, percentage or fractional uncertainty."
+          ],
+          "heuristic": "Find the quantity with the ±, check that ΔH is directly proportional to it, then carry its percentage straight across."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate"
+          ],
+          "score_mechanics": "Two marks in 18N.2.HL.TZ0.1: one for the relative uncertainty in ΔT, one for multiplying by ΔH. The part's original command term is not in the pack."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Uncertainty ÷ ΔT gives percentage",
+            "Percentage times ΔH, never stop",
+            "Write the answer with ±"
+          ],
+          "fat_to_trim": "Do not rework mcΔT at the extremes of the temperature range, and do not revisit the limiting reagent once ΔH is known."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1
+          ],
+          "hack": "Section 1 gives Q = mcΔT, showing that Q scales with ΔT. Uncertainty rules and ΔH = −Q/n are NOT in the booklet sections provided and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "A percentage alone cannot be an absolute uncertainty in ΔH.",
+            "±0.2 kJ just copies the temperature figure across, so it is wrong unless ΔH happens to be numerically equal to ΔT.",
+            "With a small percentage on ΔT, a ± close to or above ΔH is wrong. This check fails if ΔT itself is very small, so its percentage uncertainty is large."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "question",
+          "note": "Supplies the reaction, the amounts and the 7.5 °C rise. The wording of part (b)(iii) is not in the pack; the ±0.2 °C comes from the markscheme and examiner report."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "markscheme",
+          "note": "Part b.iii gives two ticks: 0.2/7.5 as 3% or 0.03, then 0.03 × 160 kJ = ±5 kJ. Part b.i gives ΔH = −1.6 × 10² kJ."
+        },
+        {
+          "ref": "18N.2.HL.TZ0.1",
+          "kind": "examiner",
+          "note": "Many earned one mark for the relative uncertainty but did not then multiply by their molar enthalpy."
+        },
+        {
+          "ref": "25N.1B.HL.6220.2",
+          "kind": "markscheme",
+          "note": "2025-era evidence: percentage uncertainty in ΔT found by dividing ±2 °C by the change 33−22, with a range of answers accepted."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Calculating the percentage error in heat absorbed by water was poorly done and needs more practice."
+        }
+      ],
+      "difficulty_signal": "No % correct in the pack. 18N.2.HL.TZ0.1 examiners report many stopping after one mark, and November 2018 calorimetry calculations are listed as difficult. 25N.1B.HL.6220.2 shows the percentage step in a 2025 paper.",
+      "status": {
+        "needs_review": false
+      }
+    }
+  ],
+  "cross_links": [
+    {
+      "sub_topic": "R1.2",
+      "note": "The pack's formation equations, standard state definitions, Hess's law cycles, lattice and hydration items (15M.1.HL.TZ2.16, 14N.1.HL.TZ0.14, 13N.1.HL.TZ0.17, 17M.1.HL.TZ2.17) are better taught in energy cycles, so they have no card here."
+    },
+    {
+      "sub_topic": "R2.3",
+      "note": "Card R1.1-12 uses the rule that heating favours the endothermic direction; the equilibrium mechanics belong there."
+    },
+    {
+      "sub_topic": "R2.2",
+      "note": "Activation energy on profiles (card R1.1-08) and rate constants rising with temperature regardless of ΔH (25M.1A.HL.6213.28) link to rate theory."
+    },
+    {
+      "sub_topic": "S1.4",
+      "note": "Moles and limiting reactants (card R1.1-02) use n = m/M and n = CV from that strand."
+    }
+  ],
+  "sub_topic": "R1.1",
+  "title": "Measuring enthalpy changes",
+  "schema_version": 2,
+  "generated_by": "claude-code:opus",
+  "excluded_no_markscheme": [
+    "07M.1.HL.TZ0.16",
+    "07N.1.HL.TZ0.15",
+    "10N.2.HL.TZ0.1",
+    "12M.1.HL.TZ2.15",
+    "18N.1.HL.TZ0.15",
+    "24M.1.HL.TZ1.14",
+    "24M.1.HL.TZ1.15",
+    "01M.1.HL.TZ0.8",
+    "01N.1.HL.TZ0.17",
+    "01N.2.HL.TZ0.1",
+    "02N.1.HL.TZ0.18",
+    "03N.1.HL.TZ0.17",
+    "04M.1.HL.TZ0.15",
+    "05M.1.HL.TZ0.15",
+    "06N.1.HL.TZ0.16",
+    "06N.1.HL.TZ0.17",
+    "08M.1.HL.TZ1.18",
+    "08M.1.HL.TZ2.18",
+    "10M.1.HL.TZ1.15",
+    "12N.1.HL.TZ0.14",
+    "12N.1.HL.TZ0.40",
+    "13M.1.HL.TZ1.14",
+    "21M.1.HL.TZ1.14",
+    "21M.1.HL.TZ2.14",
+    "22M.1.HL.TZ1.14",
+    "22M.1.HL.TZ1.15",
+    "23N.1.HL.TZ1.14",
+    "10M.1.HL.TZ1.40",
+    "15N.2.HL.TZ0.3",
+    "02N.1.HL.TZ0.20",
+    "04N.1.HL.TZ0.16",
+    "06M.1.HL.TZ0.20",
+    "10M.1.HL.TZ1.16",
+    "23M.1.HL.TZ1.14",
+    "23M.1.HL.TZ1.16",
+    "23M.1.HL.TZ2.14",
+    "24M.1.HL.TZ2.17"
+  ],
+  "evidence_base": {
+    "questions": 91,
+    "questions_with_markscheme": 54,
+    "era_2025": 12,
+    "trap_lines": 37,
+    "examiner_error_sentences": 123
+  },
+  "validation_issues": []
+}

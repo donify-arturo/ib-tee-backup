@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#0E9384"
+backgroundColor = "#F4F6FA"
+secondaryBackgroundColor = "#EEF1F6"
+textColor = "#0F1B2D"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# This computer only. "Open IB TEE on home Wi-Fi.bat" opens it to other devices, and only on a Wi-Fi you have confirmed is home.
+address = "localhost"

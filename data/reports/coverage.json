@@ -1,0 +1,252 @@
+{
+  "total_chunks": 12608,
+  "orphan_answer_keys": 1007,
+  "tagged_pct": 57.1,
+  "tagged_pct_excluding_orphan_keys": 62.1,
+  "by_source_type": {
+    "syllabus": 165,
+    "data_booklet": 27,
+    "textbook": 126,
+    "textbook_answers": 34,
+    "markscheme": 2780,
+    "past_paper": 1968,
+    "examiner_overview": 973,
+    "examiner_finding": 2873,
+    "examiner_report": 3662
+  },
+  "untagged_by_source_type": {
+    "data_booklet": 2,
+    "textbook": 1,
+    "markscheme": 1386,
+    "past_paper": 355,
+    "examiner_overview": 973,
+    "examiner_finding": 1658,
+    "examiner_report": 1030
+  },
+  "tag_methods": {
+    "syllabus": 165,
+    "data_booklet_map": 27,
+    "null": 3987,
+    "running_header": 125,
+    "regex_header": 34,
+    "ref_link": 848,
+    "classifier_lexical": 5406,
+    "unclassifiable": 946,
+    "cross_cutting_skill": 121,
+    "legacy_option": 349,
+    "scan_book_q": 600
+  },
+  "per_sub_topic": {
+    "R1.1": {
+      "syllabus": 4,
+      "textbook": 22,
+      "textbook_answers": 7,
+      "markscheme": 62,
+      "past_paper": 82,
+      "examiner_finding": 11,
+      "examiner_report": 60
+    },
+    "R1.2": {
+      "syllabus": 5,
+      "data_booklet": 3,
+      "textbook": 29,
+      "textbook_answers": 9,
+      "markscheme": 74,
+      "past_paper": 123,
+      "examiner_finding": 65,
+      "examiner_report": 70
+    },
+    "R1.3": {
+      "syllabus": 5,
+      "textbook": 24,
+      "textbook_answers": 10,
+      "markscheme": 29,
+      "past_paper": 37,
+      "examiner_report": 140,
+      "examiner_finding": 54
+    },
+    "R1.4": {
+      "syllabus": 4,
+      "textbook": 24,
+      "textbook_answers": 8,
+      "markscheme": 71,
+      "past_paper": 115,
+      "examiner_finding": 23,
+      "examiner_report": 50
+    },
+    "R2.1": {
+      "syllabus": 5,
+      "textbook": 26,
+      "markscheme": 18,
+      "past_paper": 70,
+      "examiner_report": 58,
+      "examiner_finding": 48
+    },
+    "R2.2": {
+      "syllabus": 13,
+      "markscheme": 143,
+      "past_paper": 141,
+      "examiner_report": 234,
+      "examiner_finding": 92
+    },
+    "R2.3": {
+      "syllabus": 7,
+      "markscheme": 51,
+      "past_paper": 66,
+      "examiner_report": 63,
+      "examiner_finding": 75
+    },
+    "R3.1": {
+      "syllabus": 17,
+      "data_booklet": 1,
+      "markscheme": 157,
+      "past_paper": 172,
+      "examiner_finding": 98,
+      "examiner_report": 194
+    },
+    "R3.2": {
+      "syllabus": 16,
+      "data_booklet": 1,
+      "markscheme": 115,
+      "past_paper": 145,
+      "examiner_finding": 103,
+      "examiner_report": 241
+    },
+    "R3.3": {
+      "syllabus": 3,
+      "markscheme": 12,
+      "past_paper": 10,
+      "examiner_report": 49,
+      "examiner_finding": 24
+    },
+    "R3.4": {
+      "syllabus": 13,
+      "markscheme": 51,
+      "past_paper": 46,
+      "examiner_finding": 48,
+      "examiner_report": 117
+    },
+    "S1.1": {
+      "syllabus": 3,
+      "markscheme": 33,
+      "past_paper": 30,
+      "examiner_report": 107,
+      "examiner_finding": 71
+    },
+    "S1.2": {
+      "syllabus": 3,
+      "data_booklet": 1,
+      "markscheme": 29,
+      "past_paper": 17,
+      "examiner_finding": 62,
+      "examiner_report": 59
+    },
+    "S1.3": {
+      "syllabus": 7,
+      "data_booklet": 5,
+      "markscheme": 46,
+      "past_paper": 49,
+      "examiner_report": 71,
+      "examiner_finding": 85
+    },
+    "S1.4": {
+      "syllabus": 6,
+      "data_booklet": 2,
+      "markscheme": 84,
+      "past_paper": 72,
+      "examiner_report": 83,
+      "examiner_finding": 60
+    },
+    "S1.5": {
+      "syllabus": 4,
+      "markscheme": 40,
+      "past_paper": 36,
+      "examiner_finding": 14,
+      "examiner_report": 28
+    },
+    "S2.1": {
+      "syllabus": 3,
+      "data_booklet": 3,
+      "markscheme": 23,
+      "past_paper": 25,
+      "examiner_report": 24,
+      "examiner_finding": 12
+    },
+    "S2.2": {
+      "syllabus": 16,
+      "data_booklet": 1,
+      "markscheme": 126,
+      "past_paper": 121,
+      "examiner_report": 249,
+      "examiner_finding": 82
+    },
+    "S2.3": {
+      "syllabus": 3,
+      "data_booklet": 1,
+      "markscheme": 33,
+      "past_paper": 30,
+      "examiner_report": 20,
+      "examiner_finding": 24
+    },
+    "S2.4": {
+      "syllabus": 6,
+      "data_booklet": 1,
+      "markscheme": 9,
+      "past_paper": 3,
+      "examiner_finding": 38,
+      "examiner_report": 91
+    },
+    "S3.1": {
+      "syllabus": 10,
+      "data_booklet": 3,
+      "markscheme": 95,
+      "past_paper": 117,
+      "examiner_finding": 50,
+      "examiner_report": 263
+    },
+    "S3.2": {
+      "syllabus": 12,
+      "data_booklet": 3,
+      "markscheme": 93,
+      "past_paper": 106,
+      "examiner_report": 361,
+      "examiner_finding": 76
+    }
+  },
+  "linking": {
+    "questions": 672,
+    "questions_with_markscheme": 445,
+    "markschemes": 1785,
+    "markschemes_without_question": 1340,
+    "variant_aliases_learned": {
+      "25M.2.HL.TZ3": "6221"
+    }
+  },
+  "examiner_reports": {
+    "report_comments": 3662,
+    "linked_to_question": 274,
+    "linked_to_markscheme_only": 514,
+    "answer_conflicts": 0,
+    "questions_with_report": 266,
+    "variant_aliases": {
+      "25M.2.HL.TZ3": "6221",
+      "25M.2.HL.TZ2": "6215",
+      "25M.1A.HL.TZ3": "6219",
+      "25M.1A.HL.TZ2": "6213",
+      "25M.1B.HL.TZ3": "6220",
+      "_confidence": {
+        "25M.2.HL.TZ3": "high",
+        "25M.2.HL.TZ2": "high",
+        "25M.1A.HL.TZ3": "high",
+        "25M.1A.HL.TZ2": "high",
+        "25M.1B.HL.TZ3": "high"
+      }
+    }
+  },
+  "textbook_answer_links": 43,
+  "classified": 4456,
+  "propagated": 1448,
+  "missing_markschemes": 226,
+  "classifier": "lexical",
+  "parser": "local"
+}

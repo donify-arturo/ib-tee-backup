@@ -1,0 +1,1027 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "517",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Write the equilibrium constant expression for 2NH3(g) ⇌ N2(g) + 3H2(g).",
+   "options": [],
+   "answer": "K = [N2][H2]³ / [NH3]²",
+   "steps": [
+    "Products go on top, each raised to its coefficient: [N2] and [H2]³.",
+    "Reactant goes below: [NH3]²."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "517",
+   "understanding": "R2.3.2",
+   "kind": "calculation",
+   "question": "For 2NH3(g) ⇌ N2(g) + 3H2(g) at 475 K, the equilibrium concentrations are [N2] = 0.50, [H2] = 1.50 and [NH3] = 1.00 mol dm⁻³. Calculate K.",
+   "options": [],
+   "answer": "K ≈ 1.7",
+   "steps": [
+    "K = [N2][H2]³ / [NH3]²",
+    "K = 0.50 × 1.50³ / 1.00²",
+    "K = 0.50 × 3.375 = 1.69 ≈ 1.7 (the reciprocal of 0.59 for the forward reaction)"
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "520",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For N2(g) + 3H2(g) ⇌ 2NH3(g), state the effect on the equilibrium position and on K of increasing the concentration of nitrogen.",
+   "options": [],
+   "answer": "The equilibrium position shifts to the right; K is not affected.",
+   "steps": [
+    "Extra reactant is partly used up, favouring the forward reaction.",
+    "K depends only on temperature."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "520",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For N2(g) + 3H2(g) ⇌ 2NH3(g), state the effect on the equilibrium position and on K of decreasing the concentration of ammonia.",
+   "options": [],
+   "answer": "The equilibrium position shifts to the right; K is not affected.",
+   "steps": [
+    "Removing product makes the forward reaction more favoured.",
+    "K depends only on temperature."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "521",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "State the effect of increasing pressure on the equilibrium position and on K for N2O4(g) ⇌ 2NO2(g).",
+   "options": [],
+   "answer": "The equilibrium position shifts to the left; K is not affected.",
+   "steps": [
+    "1 gas molecule on the left, 2 on the right.",
+    "Higher pressure favours the side with fewer gas molecules, so left."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "521",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "State the effect of increasing pressure on the equilibrium position and on K for SO2(g) + NO2(g) ⇌ SO3(g) + NO(g).",
+   "options": [],
+   "answer": "Neither the equilibrium position nor K is affected.",
+   "steps": [
+    "2 gas molecules on each side.",
+    "So pressure has no effect on the position, and K is unchanged."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "521",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "State the effect of increasing pressure on the equilibrium position and on K for 4HCl(g) + O2(g) ⇌ 2H2O(g) + 2Cl2(g).",
+   "options": [],
+   "answer": "The equilibrium position shifts to the right; K is not affected.",
+   "steps": [
+    "5 gas molecules on the left, 4 on the right.",
+    "Higher pressure favours fewer gas molecules, so right."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "521",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "State the effect of increasing pressure on the equilibrium position and on K for SO2(g) + H2O(l) ⇌ H2SO3(aq).",
+   "options": [],
+   "answer": "The equilibrium position shifts to the right; K is not affected.",
+   "steps": [
+    "Only gases count: 1 gas molecule on the left, none on the right.",
+    "Higher pressure favours the side with fewer gas molecules, so right."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "526",
+   "understanding": "R2.3.5",
+   "kind": "calculation",
+   "question": "For 2NO2(g) ⇌ N2O4(g) at 283 K, K = 11.5. A mixture contains 0.025 mol dm⁻³ NO2 and 0.10 mol dm⁻³ N2O4. Determine the direction of the spontaneous reaction.",
+   "options": [],
+   "answer": "Q = 160 > K, so the reverse reaction is favoured.",
+   "steps": [
+    "Q = [N2O4] / [NO2]²",
+    "Q = 0.10 / 0.025² = 160",
+    "160 > 11.5, so there is too much product: the reverse reaction is favoured."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "527",
+   "understanding": "R2.3.6",
+   "kind": "calculation",
+   "question": "For 2NO2(g) ⇌ N2O4(g) at 283 K, K = 11.5. At equilibrium [N2O4] = 0.041 mol dm⁻³. Calculate the equilibrium concentration of NO2.",
+   "options": [],
+   "answer": "[NO2]eq ≈ 0.060 mol dm⁻³",
+   "steps": [
+    "[NO2]² = [N2O4] / K = 0.041 / 11.5 = 0.00357",
+    "[NO2] = √0.00357 ≈ 0.060 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "527",
+   "understanding": "R2.3.6",
+   "kind": "calculation",
+   "question": "For 2NO2(g) ⇌ N2O4(g) at 283 K, K = 11.5. At equilibrium [N2O4] = 0.041 mol dm⁻³ and [NO2] = 0.060 mol dm⁻³. Calculate the initial concentration of NO2 (no N2O4 at the start).",
+   "options": [],
+   "answer": "[NO2]initial ≈ 0.142 mol dm⁻³",
+   "steps": [
+    "Each mole of N2O4 formed used 2 mol NO2: 2 × 0.041 = 0.082 mol dm⁻³ consumed.",
+    "Initial = 0.060 + 0.082 = 0.142 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "530",
+   "understanding": "R2.3.6",
+   "kind": "calculation",
+   "question": "Phenylamine ionizes: C6H5NH2(aq) + H2O(l) ⇌ C6H5NH3⁺(aq) + OH⁻(aq), with K = 7.41 × 10⁻¹⁰ at 298 K. Find [OH⁻] in a 0.100 mol dm⁻³ solution of phenylamine.",
+   "options": [],
+   "answer": "[OH⁻] ≈ 8.61 × 10⁻⁶ mol dm⁻³",
+   "steps": [
+    "Assume [C6H5NH2]eq ≈ 0.100 mol dm⁻³ since K is tiny.",
+    "[C6H5NH3⁺] = [OH⁻], so K = [OH⁻]² / 0.100",
+    "[OH⁻]² = 7.41 × 10⁻¹¹",
+    "[OH⁻] ≈ 8.61 × 10⁻⁶ mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.1",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct?",
+   "options": [
+    "A. Changes at equilibrium stop at the microscopic level but not at the macroscopic level.",
+    "B. Changes at equilibrium stop at both the macroscopic and microscopic levels.",
+    "C. The rates of the forward and reverse reactions at equilibrium are both zero.",
+    "D. The equilibrium constant expression can be deduced from the reaction stoichiometry."
+   ],
+   "answer": "D. The equilibrium constant expression can be deduced from the reaction stoichiometry.",
+   "steps": [
+    "Equilibrium is dynamic: changes continue microscopically, so A, B and C are false.",
+    "The K expression comes from the balanced equation."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.4",
+   "kind": "multiple_choice",
+   "question": "Which factors increase the rates of both forward and reverse reactions in any system at equilibrium? I. Increase in temperature; II. Increase in pressure; III. Addition of a catalyst.",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "Higher temperature speeds up both reactions.",
+    "A catalyst speeds up both equally.",
+    "Pressure only matters if gases are involved, so it does not apply to every system."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.4",
+   "kind": "multiple_choice",
+   "question": "For SO2(g) + H2O(l) ⇌ H⁺(aq) + HSO3⁻(aq) at equilibrium, what happens if the pressure decreases?",
+   "options": [
+    "A. Position shifts left and [H⁺] increases",
+    "B. Position shifts right and [H⁺] increases",
+    "C. Position shifts left and [H⁺] decreases",
+    "D. Position shifts right and [H⁺] decreases"
+   ],
+   "answer": "C. Position shifts left and [H⁺] decreases",
+   "steps": [
+    "Only SO2 is a gas, on the left.",
+    "Lower pressure favours the side with more gas molecules: left.",
+    "Shifting left reduces [H⁺]."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.5",
+   "kind": "multiple_choice",
+   "question": "What is true for any system at equilibrium?",
+   "options": [
+    "A. K = 1",
+    "B. Q = 1",
+    "C. Q = K",
+    "D. ΔG⦵ = 0"
+   ],
+   "answer": "C. Q = K",
+   "steps": [
+    "At equilibrium the reaction quotient equals K.",
+    "K need not be 1, and ΔG⦵ is zero only if K = 1."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.5",
+   "kind": "multiple_choice",
+   "question": "For a reversible reaction in a closed system, Q > K. Which change occurs as the system approaches equilibrium at constant temperature?",
+   "options": [
+    "A. Q will decrease",
+    "B. K will increase",
+    "C. Concentrations of reactants will decrease",
+    "D. Concentrations of products will increase"
+   ],
+   "answer": "A. Q will decrease",
+   "steps": [
+    "Q > K means the reverse reaction is favoured.",
+    "Products are used up and reactants form, so Q falls to K.",
+    "K only changes with temperature."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.7",
+   "kind": "multiple_choice",
+   "question": "At 1000 K the forward reaction 2NO2(g) ⇌ 2NO(g) + O2(g) has a negative ΔG⦵. Which expression is correct at equilibrium at this temperature?",
+   "options": [
+    "A. [NO2]² > [NO]²[O2]",
+    "B. [NO2] < [NO]",
+    "C. [NO] = 2[O2]",
+    "D. K > 1"
+   ],
+   "answer": "D. K > 1",
+   "steps": [
+    "Negative ΔG⦵ means K > 1.",
+    "So [NO]²[O2] > [NO2]², which rules out A."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for 3O2(g) ⇌ 2O3(g).",
+   "options": [],
+   "answer": "K = [O3]² / [O2]³",
+   "steps": [
+    "Product over reactant, each raised to its coefficient."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for 2NO2(g) ⇌ 2NO(g) + O2(g).",
+   "options": [],
+   "answer": "K = [NO]²[O2] / [NO2]²",
+   "steps": [
+    "Products on top with their powers; reactant below squared."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for NO2(g) ⇌ NO(g) + 0.5O2(g).",
+   "options": [],
+   "answer": "K = [NO][O2]^0.5 / [NO2]",
+   "steps": [
+    "The coefficient 0.5 becomes the power of [O2]."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for CH3COOH(aq) ⇌ CH3COO⁻(aq) + H⁺(aq).",
+   "options": [],
+   "answer": "K = [CH3COO⁻][H⁺] / [CH3COOH]",
+   "steps": [
+    "Both ions are products and go in the numerator."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for NH3(aq) + H2O(l) ⇌ NH4⁺(aq) + OH⁻(aq).",
+   "options": [],
+   "answer": "K = [NH4⁺][OH⁻] / [NH3]",
+   "steps": [
+    "Water is the solvent, so it is left out."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "Deduce the equilibrium constant expression for CaCO3(s) ⇌ CaO(s) + CO2(g).",
+   "options": [],
+   "answer": "K = [CO2]",
+   "steps": [
+    "Solids are not included in the K expression."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.3",
+   "kind": "calculation",
+   "question": "At a certain temperature K = 0.81 for 2NO2(g) ⇌ 2NO(g) + O2(g). Deduce K for NO2(g) ⇌ NO(g) + 0.5O2(g) at the same temperature.",
+   "options": [],
+   "answer": "K' = 0.90",
+   "steps": [
+    "Coefficients are halved, so K' = √K.",
+    "√0.81 = 0.90"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.2",
+   "kind": "calculation",
+   "question": "For H2(g) + I2(g) ⇌ 2HI(g) at 760 K, the equilibrium concentrations are [H2] = 0.012, [I2] = 0.015 and [HI] = 0.091 mol dm⁻³. Write the K expression and calculate K.",
+   "options": [],
+   "answer": "K = [HI]² / ([H2][I2]) ≈ 46",
+   "steps": [
+    "K = [HI]² / ([H2][I2])",
+    "K = 0.091² / (0.012 × 0.015)",
+    "K = 0.008281 / 0.00018 ≈ 46"
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "534",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For H2(g) + I2(g) ⇌ 2HI(g), K is about 46 at 760 K and 48.0 at 715 K. Deduce the sign of ΔH⦵ for the forward reaction.",
+   "options": [],
+   "answer": "ΔH⦵ < 0 (exothermic)",
+   "steps": [
+    "K increases as temperature decreases.",
+    "Cooling favours the exothermic direction, so the forward reaction is exothermic."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2CO(g) + O2(g) ⇌ 2CO2(g), ΔH⦵ = −566 kJ mol⁻¹. State the effect on the equilibrium position and K of a decrease in pressure.",
+   "options": [],
+   "answer": "Equilibrium position shifts to the left; K is not affected.",
+   "steps": [
+    "3 gas molecules on the left, 2 on the right.",
+    "Lower pressure favours more gas molecules: left.",
+    "K depends only on temperature."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2CO(g) + O2(g) ⇌ 2CO2(g), ΔH⦵ = −566 kJ mol⁻¹. State the effect on the equilibrium position and K of an increase in temperature.",
+   "options": [],
+   "answer": "Equilibrium position shifts to the left; K decreases.",
+   "steps": [
+    "The forward reaction is exothermic.",
+    "Heating favours the endothermic reverse reaction, lowering K."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2CO(g) + O2(g) ⇌ 2CO2(g), ΔH⦵ = −566 kJ mol⁻¹. State the effect on the equilibrium position and K of an increase in the concentration of oxygen.",
+   "options": [],
+   "answer": "Equilibrium position shifts to the right; K is not affected.",
+   "steps": [
+    "More reactant favours the forward reaction.",
+    "K unchanged."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2CO(g) + O2(g) ⇌ 2CO2(g), ΔH⦵ = −566 kJ mol⁻¹. State the effect on the equilibrium position and K of a decrease in the concentration of carbon monoxide.",
+   "options": [],
+   "answer": "Equilibrium position shifts to the left; K is not affected.",
+   "steps": [
+    "Less reactant favours the reverse reaction.",
+    "K unchanged."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2CO(g) + O2(g) ⇌ 2CO2(g), ΔH⦵ = −566 kJ mol⁻¹. State the effect on the equilibrium position and K of adding a catalyst.",
+   "options": [],
+   "answer": "Neither the equilibrium position nor K is affected.",
+   "steps": [
+    "A catalyst speeds up forward and reverse reactions equally."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "The decomposition 2NH3(g) ⇌ N2(g) + 3H2(g) is run without a catalyst, and the concentrations are plotted against time. Describe how the concentration–time curves would change for the same reaction with a catalyst.",
+   "options": [],
+   "answer": "The final concentrations of all species are unchanged, but equilibrium is reached sooner (steeper curves that level off at the same values).",
+   "steps": [
+    "A catalyst speeds up forward and reverse reactions by the same factor.",
+    "So the equilibrium position and K stay the same.",
+    "The curves are steeper but flatten at the original levels."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.6",
+   "kind": "calculation",
+   "question": "CH3COOH(org) + CH3CH2OH(org) ⇌ CH3COOCH2CH3(org) + H2O(org) in an inert organic solvent. 1.00 mol ethanoic acid and 2.00 mol ethanol make 1.00 dm³ of solution, heated at 50 °C with an acid catalyst. At equilibrium there is 1.40 mol ethanol. Calculate K at 50 °C.",
+   "options": [],
+   "answer": "K ≈ 0.64",
+   "steps": [
+    "Ethanol fell by 0.60 mol, so acid fell 0.60 mol; ester and water each rose 0.60 mol.",
+    "Equilibrium: acid 0.40, ethanol 1.40, ester 0.60, water 0.60 mol dm⁻³.",
+    "Water is not the solvent here, so it is included: K = (0.60 × 0.60) / (0.40 × 1.40) ≈ 0.64"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.5",
+   "kind": "short_answer",
+   "question": "For the esterification in question 13 (K ≈ 0.64 at 50 °C), which direction is spontaneous in a mixture where all four species have equal concentrations?",
+   "options": [],
+   "answer": "Q = 1 > K, so the reverse reaction is favoured.",
+   "steps": [
+    "Equal concentrations give Q = 1.",
+    "Q > 0.64, so the reverse reaction is favoured."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.6",
+   "kind": "calculation",
+   "question": "Benzoic acid dissociates: C6H5COOH(aq) ⇌ C6H5COO⁻(aq) + H⁺(aq), K = 6.31 × 10⁻⁵ at 298 K. Determine [H⁺] in a 0.0200 mol dm⁻³ solution.",
+   "options": [],
+   "answer": "[H⁺] ≈ 0.00112 mol dm⁻³",
+   "steps": [
+    "Assume [C6H5COOH]eq ≈ 0.0200 mol dm⁻³.",
+    "[H⁺] = [C6H5COO⁻], so [H⁺]² = 6.31 × 10⁻⁵ × 0.0200 = 1.262 × 10⁻⁶",
+    "[H⁺] ≈ 0.00112 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.7",
+   "kind": "calculation",
+   "question": "For C6H5COOH(aq) ⇌ C6H5COO⁻(aq) + H⁺(aq), K = 6.31 × 10⁻⁵ at 298 K. Calculate ΔG⦵ in kJ mol⁻¹ for the forward reaction.",
+   "options": [],
+   "answer": "ΔG⦵ ≈ +23.9 kJ mol⁻¹",
+   "steps": [
+    "ΔG⦵ = −RT ln K",
+    "= −8.31 × 298 × ln(6.31 × 10⁻⁵)",
+    "≈ 23 949 J mol⁻¹ ≈ 23.9 kJ mol⁻¹ (positive: dissociation not favoured, a weak acid)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.2",
+   "kind": "calculation",
+   "question": "N2O4(g) ⇌ 2NO2(g), ΔH⦵ = +58 kJ mol⁻¹. At 320 K, a concentration–time graph shows equilibrium concentrations of NO2 = 0.800 and N2O4 = 0.400 mol dm⁻³. State the K expression and calculate K at 320 K.",
+   "options": [],
+   "answer": "K = [NO2]² / [N2O4] = 1.60",
+   "steps": [
+    "K = [NO2]² / [N2O4]",
+    "K = 0.800² / 0.400 = 1.60"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.7",
+   "kind": "calculation",
+   "question": "For N2O4(g) ⇌ 2NO2(g) at 320 K, K = 1.60. Calculate ΔG⦵ in kJ mol⁻¹ for the forward reaction.",
+   "options": [],
+   "answer": "ΔG⦵ ≈ −1.25 kJ mol⁻¹",
+   "steps": [
+    "ΔG⦵ = −RT ln K",
+    "= −8.31 × 320 × ln 1.60",
+    "≈ −1250 J mol⁻¹ = −1.25 kJ mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "535",
+   "understanding": "R2.3.5",
+   "kind": "calculation",
+   "question": "For N2O4(g) ⇌ 2NO2(g) at 320 K, K = 1.60. A mixture has 0.50 mol dm⁻³ N2O4 and 0.10 mol dm⁻³ NO2. Which direction is spontaneous?",
+   "options": [],
+   "answer": "Q = 0.020 < K, so the forward reaction is spontaneous.",
+   "steps": [
+    "Q = [NO2]² / [N2O4] = 0.10² / 0.50 = 0.020",
+    "0.020 < 1.60, so the forward reaction is favoured."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.2",
+   "kind": "short_answer",
+   "question": "For 2NH3(g) ⇌ N2(g) + 3H2(g), deduce the K expression.",
+   "options": [],
+   "answer": "K = [N2][H2]³ / [NH3]²",
+   "steps": [
+    "Products over reactant, each to the power of its coefficient."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.3",
+   "kind": "short_answer",
+   "question": "The K value for 2NH3(g) ⇌ N2(g) + 3H2(g) increases with temperature. State the sign of ΔH⦵ for this reaction.",
+   "options": [],
+   "answer": "ΔH⦵ > 0 (endothermic)",
+   "steps": [
+    "K rises on heating, so the forward reaction is favoured by heat.",
+    "That means the forward reaction is endothermic."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.4",
+   "kind": "short_answer",
+   "question": "For 2NH3(g) ⇌ N2(g) + 3H2(g), describe how the concentration–time curves would change if a catalyst were added under the same conditions.",
+   "options": [],
+   "answer": "All curves become steeper but level off at the original concentrations; equilibrium is reached faster with the same position.",
+   "steps": [
+    "A catalyst raises forward and reverse rates by the same factor.",
+    "So the equilibrium composition is unchanged, only reached sooner."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.5",
+   "kind": "multiple_choice",
+   "question": "For a reversible reaction, Q = 0.12 and K = 0.28. What is correct at this stage?",
+   "options": [
+    "A. The forward and reverse reactions proceed at the same rate.",
+    "B. The forward reaction is faster than the reverse reaction.",
+    "C. The forward reaction is slower than the reverse reaction.",
+    "D. At equilibrium, all reactants and products have equal concentrations."
+   ],
+   "answer": "B. The forward reaction is faster than the reverse reaction.",
+   "steps": [
+    "Q < K, so there is too little product.",
+    "The forward reaction is favoured and runs faster."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.6",
+   "kind": "multiple_choice",
+   "question": "1 mol of X and 2 mol of Y are mixed in a sealed 1.0 dm³ vessel. At equilibrium there is 0.25 mol of Z: 2X(g) + Y(g) ⇌ Z(g). What is K?",
+   "options": [
+    "A. 0.25",
+    "B. 0.28",
+    "C. 0.57",
+    "D. 1.75"
+   ],
+   "answer": "C. 0.57",
+   "steps": [
+    "Z = 0.25 mol, so X used 0.50 mol and Y used 0.25 mol.",
+    "Equilibrium: X 0.50, Y 1.75, Z 0.25 mol dm⁻³.",
+    "K = 0.25 / (0.50² × 1.75) ≈ 0.57"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.7",
+   "kind": "calculation",
+   "question": "For 2SO2(g) + O2(g) ⇌ 2SO3(g), ΔG⦵ = −25.2 kJ mol⁻¹ at 650 °C. Calculate K.",
+   "options": [],
+   "answer": "K ≈ 26.7",
+   "steps": [
+    "T = 650 + 273 = 923 K; ΔG⦵ = −25 200 J mol⁻¹.",
+    "ln K = 25 200 / (8.31 × 923) = 3.285",
+    "K = e^3.285 ≈ 26.7"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "144",
+   "understanding": "R2.3.7",
+   "kind": "short_answer",
+   "question": "What is the value of ΔG (not ΔG⦵) when the reaction quotient equals the equilibrium constant, Q = K?",
+   "options": [],
+   "answer": "ΔG = 0, because the system is at equilibrium and neither direction is favoured.",
+   "steps": [
+    "Q = K means equilibrium.",
+    "ΔG is zero here, but ΔG⦵ is generally not zero."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "517",
+   "understanding": "R2.3.2",
+   "title": "Calculating K for ammonia synthesis",
+   "problem": "For N2(g) + 3H2(g) ⇌ 2NH3(g) at 475 K, equilibrium concentrations are [N2] = 0.50, [H2] = 1.50 and [NH3] = 1.00 mol dm⁻³. Calculate K.",
+   "steps": [
+    {
+     "hint": "Write the K expression from the equation.",
+     "work": "K = [NH3]² / ([N2][H2]³)"
+    },
+    {
+     "hint": "Put in the equilibrium concentrations.",
+     "work": "K = 1.00² / (0.50 × 1.50³)"
+    },
+    {
+     "hint": "Evaluate.",
+     "work": "K = 1.00 / 1.6875 = 0.59"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "518",
+   "understanding": "R2.3.3",
+   "title": "K for reversed and halved equations",
+   "problem": "At 475 K, K = 0.59 for N2(g) + 3H2(g) ⇌ 2NH3(g). Find K′ for (a) 2NH3(g) ⇌ N2(g) + 3H2(g) and (b) NH3(g) ⇌ 0.5N2(g) + 1.5H2(g).",
+   "steps": [
+    {
+     "hint": "Decide how equation (a) relates to the original.",
+     "work": "(a) is the original reversed, so K′ = 1/K."
+    },
+    {
+     "hint": "Calculate K′ for (a).",
+     "work": "K′ = 1/0.59 ≈ 1.7"
+    },
+    {
+     "hint": "Compare (b) with (a).",
+     "work": "(b) has all coefficients of (a) halved, so K′ = √(K of a)."
+    },
+    {
+     "hint": "Calculate K′ for (b).",
+     "work": "K′ = √1.7 ≈ 1.3"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "526",
+   "understanding": "R2.3.5",
+   "title": "Reaction quotient and direction",
+   "problem": "At 475 K, K = 0.59 for N2(g) + 3H2(g) ⇌ 2NH3(g). Each species has concentration 0.50 mol dm⁻³. Calculate Q and predict the favoured reaction.",
+   "steps": [
+    {
+     "hint": "Use the K expression with the actual concentrations.",
+     "work": "Q = [NH3]² / ([N2][H2]³)"
+    },
+    {
+     "hint": "Substitute and evaluate.",
+     "work": "Q = 0.50² / (0.50 × 0.50³) = 0.25 / 0.0625 = 4"
+    },
+    {
+     "hint": "Compare Q with K.",
+     "work": "Q = 4 > K = 0.59: too much product, so the reverse reaction is favoured."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "527",
+   "understanding": "R2.3.6",
+   "title": "Equilibrium and initial concentrations for SO2/O2",
+   "problem": "2SO2(g) + O2(g) ⇌ 2SO3(g), K = 3.0 at 1000 K. At equilibrium [SO2] = 0.12 and [SO3] = 0.18 mol dm⁻³. (a) Calculate [O2] at equilibrium. (b) Find the initial [SO2] and [O2].",
+   "steps": [
+    {
+     "hint": "Write the K expression.",
+     "work": "K = [SO3]² / ([O2][SO2]²)"
+    },
+    {
+     "hint": "Rearrange for [O2] and substitute.",
+     "work": "3.0 = 0.18² / ([O2] × 0.12²), so [O2] = 0.75 mol dm⁻³"
+    },
+    {
+     "hint": "Use the stoichiometry to find the amounts consumed.",
+     "work": "0.18 mol dm⁻³ SO3 formed used 0.18 SO2 and 0.090 O2."
+    },
+    {
+     "hint": "Add the consumed amounts back to the equilibrium values.",
+     "work": "[SO2]initial = 0.12 + 0.18 = 0.30 mol dm⁻³"
+    },
+    {
+     "hint": "Do the same for oxygen.",
+     "work": "[O2]initial = 0.75 + 0.09 = 0.84 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "530",
+   "understanding": "R2.3.6",
+   "title": "Weak acid equilibrium with approximation",
+   "problem": "CH3COOH(aq) ⇌ CH3COO⁻(aq) + H⁺(aq), K = 1.74 × 10⁻⁵ at 298 K. Find the equilibrium concentrations in a 0.100 mol dm⁻³ solution.",
+   "steps": [
+    {
+     "hint": "Use the small K to simplify the acid concentration.",
+     "work": "[CH3COOH]eq ≈ 0.100 mol dm⁻³"
+    },
+    {
+     "hint": "Write K and substitute.",
+     "work": "1.74 × 10⁻⁵ = [CH3COO⁻][H⁺] / 0.100"
+    },
+    {
+     "hint": "Use the fact that the two ions are formed in equal amounts.",
+     "work": "[CH3COO⁻] = [H⁺], so [H⁺]² = 1.74 × 10⁻⁶"
+    },
+    {
+     "hint": "Take the square root.",
+     "work": "[CH3COO⁻] ≈ [H⁺] ≈ 0.00132 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "532",
+   "understanding": "R2.3.7",
+   "title": "ΔG⦵ from K and ΔGf of N2O2",
+   "problem": "For 2NO(g) ⇌ N2O2(g) at 298 K, K = 1.39 × 10⁻⁵. (a) Find ΔG⦵ in kJ mol⁻¹. (b) Find ΔGf⦵ of N2O2(g) given ΔGf⦵ of NO(g) = +87.6 kJ mol⁻¹.",
+   "steps": [
+    {
+     "hint": "Use the Gibbs energy equation with R in J K⁻¹ mol⁻¹.",
+     "work": "ΔG⦵ = −RT ln K = −8.31 × 298 × ln(1.39 × 10⁻⁵)"
+    },
+    {
+     "hint": "Evaluate and convert to kJ.",
+     "work": "ΔG⦵ ≈ 27 700 J mol⁻¹ = 27.7 kJ mol⁻¹"
+    },
+    {
+     "hint": "Write the cycle: products minus reactants.",
+     "work": "ΔG⦵ = ΔGf⦵(N2O2) − 2 × ΔGf⦵(NO)"
+    },
+    {
+     "hint": "Substitute and solve for ΔGf⦵(N2O2).",
+     "work": "27.7 = ΔGf⦵(N2O2) − 175.2, so ΔGf⦵(N2O2) ≈ +202.9 kJ mol⁻¹"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "140",
+   "understanding": "R2.3.2",
+   "title": "K expression and value for SO3 synthesis",
+   "problem": "2SO2(g) + O2(g) ⇌ 2SO3(g). (a) Deduce the K expression. (b) At equilibrium [SO2] = [SO3] = 0.10 and [O2] = 0.24 mol dm⁻³. Calculate K.",
+   "steps": [
+    {
+     "hint": "Put product on top, reactants below, with powers.",
+     "work": "K = [SO3]² / ([SO2]²[O2])"
+    },
+    {
+     "hint": "Substitute the equilibrium values.",
+     "work": "K = 0.10² / (0.10² × 0.24)"
+    },
+    {
+     "hint": "Cancel and evaluate.",
+     "work": "K = 1 / 0.24 ≈ 4.2"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "142",
+   "understanding": "R2.3.5",
+   "title": "Direction of reaction in Haber mixture",
+   "problem": "At 475 K, K = 0.59 for N2(g) + 3H2(g) ⇌ 2NH3(g). Each species is at 0.50 mol dm⁻³. Determine which reaction is favoured.",
+   "steps": [
+    {
+     "hint": "Write Q with the K-type expression.",
+     "work": "Q = [NH3]² / ([N2][H2]³)"
+    },
+    {
+     "hint": "Substitute and evaluate.",
+     "work": "Q = 0.50² / (0.50 × 0.50³) = 4"
+    },
+    {
+     "hint": "Compare with K.",
+     "work": "Q = 4 > 0.59, so the reverse reaction is favoured."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "143",
+   "understanding": "R2.3.6",
+   "title": "NO2/N2O4 equilibrium and initial concentrations",
+   "problem": "2NO2(g) ⇌ N2O4(g), K = 11.5 at 283 K (+10 °C). (a) Deduce the K expression. (b) Calculate [NO2] at equilibrium if [N2O4] = 0.041 mol dm⁻³. (c) Calculate the initial [NO2].",
+   "steps": [
+    {
+     "hint": "Write the expression for K.",
+     "work": "K = [N2O4] / [NO2]²"
+    },
+    {
+     "hint": "Rearrange for [NO2]².",
+     "work": "[NO2]² = 0.041 / 11.5 = 0.00357"
+    },
+    {
+     "hint": "Take the square root.",
+     "work": "[NO2]eq = 0.060 mol dm⁻³"
+    },
+    {
+     "hint": "Use the 2 : 1 ratio to find NO2 consumed.",
+     "work": "NO2 used = 2 × 0.041 = 0.082 mol dm⁻³"
+    },
+    {
+     "hint": "Add the amount used to the equilibrium value.",
+     "work": "[NO2]initial = 0.060 + 0.082 = 0.142 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "531",
+   "understanding": "R2.3.7",
+   "tag": "Activity",
+   "prompt": "A reversible reaction has ΔG⦵ = −3.9 kJ mol⁻¹ at 298 K. Calculate its equilibrium constant, K, and say what the value tells you.",
+   "model_answer": [
+    "Convert ΔG⦵ to J mol⁻¹: −3900 J mol⁻¹.",
+    "Use ΔG⦵ = −RT ln K: −3900 = −8.31 × 298 × ln K.",
+    "ln K = 3900 / 2476 ≈ 1.575.",
+    "K = e^1.575 ≈ 4.83.",
+    "K > 1 agrees with the negative ΔG⦵: products are favoured."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "529",
+   "understanding": "R2.3.5",
+   "tag": "Skills question",
+   "prompt": "In the spreadsheet model for N2 + 3H2 ⇌ 2NH3, Q is computed with the formula =F7^2/(D7*E7^3)*B2^2. Why is the volume term B2^2 included?",
+   "model_answer": [
+    "The formula calculates the reaction quotient Q.",
+    "Q is defined with concentrations, so each amount in mol must be divided by the volume V.",
+    "Putting n/V into the Q expression, two of the V's cancel and two are left over.",
+    "This leaves V² in the numerator, which is the B2^2 term."
+   ],
+   "answer_from": "book"
+  }
+ ],
+ "sub_topic": "R2.3",
+ "title": "How far? The extent of chemical change",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 14 (Course Companion p534): copies the book",
+  "worked 9 (IB Prepared p143): numbers not on the cited page: 11.5"
+ ]
+}

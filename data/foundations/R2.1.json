@@ -1,0 +1,1239 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "463",
+   "understanding": "R2.1.3",
+   "kind": "short_answer",
+   "question": "Butane burns as 2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(l). A mixture contains 20 molecules of C4H10 and 100 molecules of O2. Which is the limiting reactant?",
+   "options": [],
+   "answer": "O2 (100 molecules)",
+   "steps": [
+    "Mole ratio C4H10 : O2 needed = 2 : 13, so 6.5 O2 per C4H10.",
+    "20 C4H10 would need 20 × 6.5 = 130 O2.",
+    "Only 100 O2 are present, so O2 runs out first."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "463",
+   "understanding": "R2.1.3",
+   "kind": "short_answer",
+   "question": "For 2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(l), a mixture contains 0.20 mol of C4H10 and 2.6 mol of O2. Which is the limiting reactant?",
+   "options": [],
+   "answer": "C4H10 (0.20 mol)",
+   "steps": [
+    "0.20 mol C4H10 needs 0.20 × 6.5 = 1.3 mol O2.",
+    "2.6 mol O2 is present, more than 1.3 mol.",
+    "So O2 is in excess and C4H10 is limiting."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "463",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "For 2C4H10(g) + 13O2(g) → 8CO2(g) + 10H2O(l), a mixture contains 8.72 g of C4H10 and 28.8 g of O2. Which is the limiting reactant? (M(C4H10) = 58.14 g mol⁻¹, M(O2) = 32.00 g mol⁻¹)",
+   "options": [],
+   "answer": "O2 (28.8 g)",
+   "steps": [
+    "n(C4H10) = 8.72 / 58.14 = 0.150 mol.",
+    "n(O2) = 28.8 / 32.00 = 0.900 mol.",
+    "0.150 mol C4H10 needs 0.150 × 6.5 = 0.975 mol O2, but only 0.900 mol is present, so O2 is limiting."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "465",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Hydrogen gas and chlorine gas react to give hydrogen chloride gas. Write the balanced equation with state symbols.",
+   "options": [],
+   "answer": "H2(g) + Cl2(g) → 2HCl(g)",
+   "steps": [
+    "Write the formulas: H2, Cl2, HCl.",
+    "Two HCl are needed to balance one H2 and one Cl2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "465",
+   "understanding": "R2.1.3",
+   "kind": "short_answer",
+   "question": "A mixture of 4.54 dm³ of H2(g) and 2.27 dm³ of Cl2(g) is heated until reaction is complete (H2 + Cl2 → 2HCl, all volumes at STP). Which reactant is limiting?",
+   "options": [],
+   "answer": "Cl2(g)",
+   "steps": [
+    "Gas volumes at the same conditions are proportional to amounts.",
+    "H2 and Cl2 react in equal volumes (1 : 1).",
+    "There is only 2.27 dm³ of Cl2 against 4.54 dm³ of H2, so Cl2 runs out first."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "465",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "4.54 dm³ of H2(g) and 2.27 dm³ of Cl2(g) react completely by H2(g) + Cl2(g) → 2HCl(g). All volumes are at STP. Give the volume of each substance in the final mixture.",
+   "options": [],
+   "answer": "H2 2.27 dm³; Cl2 0 dm³; HCl 4.54 dm³",
+   "steps": [
+    "Cl2 is limiting, so 2.27 dm³ of it reacts with 2.27 dm³ of H2.",
+    "H2 left = 4.54 − 2.27 = 2.27 dm³.",
+    "HCl formed = 2 × 2.27 = 4.54 dm³ (volume ratio 1 : 1 : 2)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "467",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Potassium hydroxide solution neutralizes sulfuric acid to give potassium sulfate solution and water. Write the balanced equation with state symbols.",
+   "options": [],
+   "answer": "2KOH(aq) + H2SO4(aq) → K2SO4(aq) + 2H2O(l)",
+   "steps": [
+    "Sulfuric acid has two H⁺ to give, so two KOH are needed.",
+    "Check K, S, O and H balance."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "467",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "Equal volumes of 0.100 mol dm⁻³ KOH(aq) and 0.100 mol dm⁻³ H2SO4(aq) are mixed: 2KOH + H2SO4 → K2SO4 + 2H2O. Assume volumes add. Find the concentrations of all solutes in the final solution.",
+   "options": [],
+   "answer": "c(H2SO4) = c(K2SO4) = 0.025 mol dm⁻³",
+   "steps": [
+    "Take 1.00 dm³ of each: n(KOH) = n(H2SO4) = 0.100 mol.",
+    "KOH is limiting (needs only 0.050 mol H2SO4): 0.050 mol H2SO4 is left and 0.050 mol K2SO4 forms.",
+    "Final volume = 2.00 dm³, so each is 0.050 / 2.00 = 0.025 mol dm⁻³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "468",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "Complete neutralization of 10.0 cm³ of sodium hydroxide solution needed 9.10 cm³ of 0.500 mol dm⁻³ hydrochloric acid. What is the concentration of the NaOH solution?",
+   "options": [],
+   "answer": "0.455 mol dm⁻³",
+   "steps": [
+    "n(HCl) = 0.00910 dm³ × 0.500 mol dm⁻³ = 0.00455 mol.",
+    "NaOH and HCl react 1 : 1, so n(NaOH) = 0.00455 mol.",
+    "c(NaOH) = 0.00455 / 0.0100 = 0.455 mol dm⁻³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "471",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "9.443 g of aluminium reacts with 7.945 dm³ (STP) of oxygen: 4Al(s) + 3O2(g) → 2Al2O3(s). What is the theoretical yield of aluminium oxide in g? (Ar(Al) = 26.98, M(Al2O3) = 101.96 g mol⁻¹, Vm = 22.7 dm³ mol⁻¹)",
+   "options": [],
+   "answer": "17.84 g of Al2O3",
+   "steps": [
+    "n(Al) = 9.443 / 26.98 = 0.3500 mol; n(O2) = 7.945 / 22.7 = 0.350 mol.",
+    "0.3500 mol Al needs only 0.2625 mol O2, so Al is limiting.",
+    "n(Al2O3) = 0.3500 / 2 = 0.1750 mol; mass = 0.1750 × 101.96 = 17.84 g."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "471",
+   "understanding": "R2.1.4",
+   "kind": "calculation",
+   "question": "The reaction of 9.443 g of aluminium with 7.945 dm³ (STP) of oxygen has a theoretical yield of 17.84 g Al2O3. If 17.13 g of Al2O3 was obtained, what is the percentage yield?",
+   "options": [],
+   "answer": "96.00%",
+   "steps": [
+    "percentage yield = experimental / theoretical × 100%.",
+    "17.13 / 17.84 × 100% = 96.0%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "476",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Phenylamine, C6H5NH2(l), reacts with dimethyl carbonate, (CH3O)2CO(l), to give N-methylphenylamine, C6H5NHCH3(l), with methanol CH3OH(l) and CO2(g) as by-products. Write the balanced equation.",
+   "options": [],
+   "answer": "C6H5NH2(l) + (CH3O)2CO(l) → C6H5NHCH3(l) + CH3OH(l) + CO2(g)",
+   "steps": [
+    "Count atoms: both sides have C 9, H 13... check: left C6H7N + C3H6O3 = C9H13NO3; right C7H9N + CH4O + CO2 = C9H13NO3.",
+    "So all coefficients are 1."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "476",
+   "understanding": "R2.1.5",
+   "kind": "calculation",
+   "question": "Calculate the percentage atom economy of C6H5NH2(l) + (CH3O)2CO(l) → C6H5NHCH3(l) + CH3OH(l) + CO2(g), where C6H5NHCH3 is the target product. (M: C6H5NH2 93.14, (CH3O)2CO 90.09, C6H5NHCH3 107.17 g mol⁻¹)",
+   "options": [],
+   "answer": "58.5%",
+   "steps": [
+    "Total reactant molar mass = 93.14 + 90.09 = 183.23.",
+    "atom economy = 107.17 / 183.23 × 100% ≈ 58.5%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "476",
+   "understanding": "R2.1.5",
+   "kind": "short_answer",
+   "question": "In making N-methylphenylamine from phenylamine and dimethyl carbonate, methanol is a by-product. Using the dimethyl carbonate synthesis 4CH3OH + 2CO + O2 → 2(CH3O)2CO + 2H2O, how could the atom economy of the overall process be improved?",
+   "options": [],
+   "answer": "Recycle the by-product methanol as a starting material for making more dimethyl carbonate.",
+   "steps": [
+    "Methanol is a reactant in the dimethyl carbonate synthesis.",
+    "Reusing it means less waste, so the by-product is no longer lost."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Using what you learned in this topic, explain how chemical equations let us work out reacting ratios.",
+   "options": [],
+   "answer": "The coefficients give the mole ratio of reactants and products; this ratio gives changes in amount, mass, gas volume and solution concentration, and also the atom economy.",
+   "steps": [
+    "Coefficients show how many moles react or form.",
+    "Convert amounts to masses (n = m/M), gas volumes (n = V/Vm) or concentrations (n = cV).",
+    "Molar masses and the ratio also give the atom economy."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.2",
+   "kind": "multiple_choice",
+   "question": "Pyrite reacts as 4FeS2(s) + 11O2(g) → 2Fe2O3(s) + 8SO2(g). What mass of SO2(g), in g, is made from 0.25 mol of FeS2?",
+   "options": [
+    "A. 16",
+    "B. 32",
+    "C. 64",
+    "D. 128"
+   ],
+   "answer": "B. 32",
+   "steps": [
+    "FeS2 : SO2 = 4 : 8 = 1 : 2, so n(SO2) = 0.50 mol.",
+    "m = 0.50 mol × 64.07 g mol⁻¹ ≈ 32 g."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.3",
+   "kind": "multiple_choice",
+   "question": "In which mixture is sulfuric acid the limiting reactant?",
+   "options": [
+    "A. 0.10 mol H2SO4 + 0.20 mol KOH",
+    "B. 0.20 mol H2SO4 + 0.10 mol KOH",
+    "C. 0.10 mol H2SO4 + 0.20 mol Ca(OH)2",
+    "D. 0.20 mol H2SO4 + 0.10 mol Ca(OH)2"
+   ],
+   "answer": "C. 0.10 mol H2SO4 + 0.20 mol Ca(OH)2",
+   "steps": [
+    "Each H2SO4 reacts with 2 KOH or with 1 Ca(OH)2.",
+    "A is an exact match, so neither is in excess; B and D leave acid over.",
+    "In C, 0.10 mol H2SO4 needs only 0.10 mol Ca(OH)2, so the acid is used up first."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.4",
+   "kind": "multiple_choice",
+   "question": "For C2H4(g) + H2(g) → C2H6(g), what is the percentage yield when 18 dm³ of ethane is obtained from 20 dm³ of ethene? Volumes are at STP.",
+   "options": [
+    "A. 10%",
+    "B. 20%",
+    "C. 80%",
+    "D. 90%"
+   ],
+   "answer": "D. 90%",
+   "steps": [
+    "Mole ratio 1 : 1, so 20 dm³ ethene gives 20 dm³ ethane in theory.",
+    "18 / 20 × 100% = 90%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.5",
+   "kind": "multiple_choice",
+   "question": "For CH3OH(l) + 0.5O2(g) → HCHO(g) + H2O(l) with 100% yield, which expressions give the atom economy of making HCHO? I: M(HCHO) / [M(CH3OH) + M(HCHO)]; II: M(HCHO) / [M(CH3OH) + 0.5 × M(O2)]; III: M(HCHO) / [M(HCHO) + M(H2O)].",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "C. II and III only",
+   "steps": [
+    "Atom economy = M(target) / total M of reactants, which equals total M of products.",
+    "II is the reactants total; III is the products total.",
+    "I adds a product to a reactant, which is not valid."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Potassium superoxide, KO2(s), reacts with carbon dioxide to give oxygen and potassium carbonate, K2CO3(s). Write the balanced equation.",
+   "options": [],
+   "answer": "4KO2(s) + 2CO2(g) → 2K2CO3(s) + 3O2(g)",
+   "steps": [
+    "Balance K: 2 K2CO3 needs 4 KO2.",
+    "Balance C: 2 CO2.",
+    "Balance O: 8 + 4 = 12 on the left; 6 + 6 = 12 on the right, so 3 O2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "4KO2(s) + 2CO2(g) → 2K2CO3(s) + 3O2(g). 28.44 g of KO2 (M = 71.10 g mol⁻¹) is mixed with 6.81 dm³ of CO2 at STP (Vm = 22.7 dm³ mol⁻¹). Which reactant is limiting?",
+   "options": [],
+   "answer": "KO2",
+   "steps": [
+    "n(KO2) = 28.44 / 71.10 = 0.400 mol; n(CO2) = 6.81 / 22.7 = 0.300 mol.",
+    "KO2 : CO2 = 2 : 1, so 0.300 mol CO2 would need 0.600 mol KO2.",
+    "Only 0.400 mol KO2 is present, so KO2 is limiting."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "4KO2(s) + 2CO2(g) → 2K2CO3(s) + 3O2(g). 0.400 mol KO2 reacts with 0.300 mol CO2 (KO2 limiting). What mass of K2CO3 forms? (M = 138.21 g mol⁻¹)",
+   "options": [],
+   "answer": "27.6 g",
+   "steps": [
+    "KO2 : K2CO3 = 4 : 2, so n(K2CO3) = 0.200 mol.",
+    "m = 0.200 × 138.21 ≈ 27.6 g."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "4KO2(s) + 2CO2(g) → 2K2CO3(s) + 3O2(g). 0.400 mol KO2 reacts completely with excess CO2. What volume of O2 forms at STP (Vm = 22.7 dm³ mol⁻¹)?",
+   "options": [],
+   "answer": "6.81 dm³",
+   "steps": [
+    "KO2 : O2 = 4 : 3, so n(O2) = 0.300 mol.",
+    "V = 0.300 × 22.7 ≈ 6.81 dm³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "MnO2(s) + 4HCl(aq) → MnCl2(aq) + Cl2(g) + 2H2O(l). 17.4 g of MnO2 (M = 86.94 g mol⁻¹) is added to 0.100 dm³ of 10.0 mol dm⁻³ HCl. Which reactant is limiting?",
+   "options": [],
+   "answer": "MnO2",
+   "steps": [
+    "n(MnO2) = 17.4 / 86.94 = 0.200 mol; n(HCl) = 0.100 × 10.0 = 1.00 mol.",
+    "MnO2 : HCl = 1 : 4, so 1.00 mol HCl could react with 0.250 mol MnO2.",
+    "Only 0.200 mol MnO2 is present, so MnO2 is limiting."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "478",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "0.200 mol of MnO2 reacts with excess HCl(aq): MnO2 + 4HCl → MnCl2 + Cl2(g) + 2H2O. What volume of Cl2 forms at STP (Vm = 22.7 dm³ mol⁻¹)?",
+   "options": [],
+   "answer": "4.54 dm³",
+   "steps": [
+    "MnO2 : Cl2 = 1 : 1, so n(Cl2) = 0.200 mol.",
+    "V = 0.200 × 22.7 = 4.54 dm³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "17.4 g of MnO2 (0.200 mol) reacts completely with 0.100 dm³ of 10.0 mol dm⁻³ HCl (1.00 mol): MnO2 + 4HCl → MnCl2 + Cl2(g) + 2H2O. Assuming the volume stays 0.100 dm³, give the concentrations of all solutes in the final solution.",
+   "options": [],
+   "answer": "c(HCl) = 2.00 mol dm⁻³; c(MnCl2) = 2.00 mol dm⁻³",
+   "steps": [
+    "MnO2 limiting: HCl used = 0.800 mol, so HCl left = 0.200 mol.",
+    "MnCl2 formed = 0.200 mol; Cl2 escapes as gas.",
+    "Each: 0.200 mol / 0.100 dm³ = 2.00 mol dm⁻³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Barium hydroxide solution is neutralized by hydrochloric acid, giving barium chloride solution and water. Write the balanced equation.",
+   "options": [],
+   "answer": "Ba(OH)2(aq) + 2HCl(aq) → BaCl2(aq) + 2H2O(l)",
+   "steps": [
+    "Two OH⁻ need two H⁺, so 2HCl.",
+    "Chlorine: 2 Cl on each side; water: 2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "A 10.0 cm³ sample of Ba(OH)2(aq) of unknown concentration needed 11.7 cm³ of 0.100 mol dm⁻³ HCl for neutralization (Ba(OH)2 + 2HCl → BaCl2 + 2H2O). Find the concentration of Ba(OH)2.",
+   "options": [],
+   "answer": "0.0585 mol dm⁻³",
+   "steps": [
+    "n(HCl) = 0.100 × 0.0117 = 0.00117 mol.",
+    "Ba(OH)2 : HCl = 1 : 2, so n(Ba(OH)2) = 0.000585 mol (the booklet stops at this amount).",
+    "c = 0.000585 / 0.0100 dm³ = 0.0585 mol dm⁻³."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Solid sodium hydrogencarbonate decomposes on heating to sodium carbonate, carbon dioxide and water. Write the balanced equation with state symbols (water as steam).",
+   "options": [],
+   "answer": "2NaHCO3(s) → Na2CO3(s) + CO2(g) + H2O(g)",
+   "steps": [
+    "Na2CO3 needs two Na, so 2NaHCO3.",
+    "C, H and O then balance with one CO2 and one H2O."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "Find the theoretical mass of CO2 from heating 10.0 g of NaHCO3 (2NaHCO3 → Na2CO3 + CO2 + H2O). M(NaHCO3) = 84.01, M(CO2) = 44.01 g mol⁻¹.",
+   "options": [],
+   "answer": "2.62 g",
+   "steps": [
+    "n(NaHCO3) = 10.0 / 84.01 = 0.119 mol.",
+    "NaHCO3 : CO2 = 2 : 1, so n(CO2) = 0.0595 mol.",
+    "m = 0.0595 × 44.01 ≈ 2.62 g."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "Heating 10.0 g of NaHCO3 (0.119 mol) can give 0.0595 mol of CO2 in theory. What is the theoretical volume of CO2 at STP (Vm = 22.7 dm³ mol⁻¹)?",
+   "options": [],
+   "answer": "1.35 dm³",
+   "steps": [
+    "V = 0.0595 mol × 22.7 dm³ mol⁻¹ ≈ 1.35 dm³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.4",
+   "kind": "calculation",
+   "question": "Decomposing 10.0 g of NaHCO3 gave 1.20 dm³ of CO2 at STP, while the theoretical volume is 1.35 dm³. Find the percentage yield.",
+   "options": [],
+   "answer": "88.8%",
+   "steps": [
+    "Percentage yield = experimental / theoretical × 100%.",
+    "1.20 / 1.35 × 100% ≈ 88.8% (using unrounded n gives the same)."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "10.0 g of NaHCO3 (0.119 mol) was heated by 2NaHCO3 → Na2CO3 + CO2 + H2O and gave 1.20 dm³ of CO2 at STP. Find the masses of the solids in the final mixture. (M: NaHCO3 84.01, Na2CO3 105.99 g mol⁻¹)",
+   "options": [],
+   "answer": "NaHCO3 ≈ 1.09 g; Na2CO3 ≈ 5.61 g",
+   "steps": [
+    "n(CO2) = 1.20 / 22.7 = 0.0529 mol = n(Na2CO3).",
+    "NaHCO3 decomposed = 2 × 0.0529 = 0.106 mol, so 0.119 − 0.106 = 0.013 mol remains.",
+    "Masses: 0.013 × 84.01 ≈ 1.09 g and 0.0529 × 105.99 ≈ 5.61 g (the booklet rounds n to 0.013; unrounded gives about 1.1 g)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Copper(I) sulfide reacts with oxygen at high temperature to give copper metal and sulfur dioxide gas. Write the balanced equation.",
+   "options": [],
+   "answer": "Cu2S(s) + O2(g) → 2Cu(s) + SO2(g)",
+   "steps": [
+    "Two Cu come from one Cu2S.",
+    "One S gives one SO2, and its two O come from one O2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "What is the theoretical yield, in kg, of copper from 1.00 ton (1000 kg) of ore containing 75.3% Cu2S, by Cu2S + O2 → 2Cu + SO2? Other components do not react. (M(Cu2S) = 159.17, Ar(Cu) = 63.55)",
+   "options": [],
+   "answer": "601 kg",
+   "steps": [
+    "m(Cu2S) = 753 kg = 7.53 × 10⁵ g, so n = 4730 mol.",
+    "n(Cu) = 2 × 4730 = 9460 mol.",
+    "m(Cu) = 9460 × 63.55 ≈ 6.01 × 10⁵ g = 601 kg."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.4",
+   "kind": "calculation",
+   "question": "The theoretical yield of copper from a ton of ore is 601 kg. If 506 kg of copper was actually obtained, what is the percentage yield?",
+   "options": [],
+   "answer": "84.2%",
+   "steps": [
+    "506 / 601 × 100% ≈ 84.2%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.5",
+   "kind": "calculation",
+   "question": "Calculate the atom economy of CH3CH2OH(l) → H2C=CH2(g) + H2O(l), taking ethene as the target product. (M: ethanol 46.08, ethene 28.06 g mol⁻¹)",
+   "options": [],
+   "answer": "60.9%",
+   "steps": [
+    "Only one reactant, so total reactant mass = 46.08.",
+    "28.06 / 46.08 × 100% ≈ 60.9%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.5",
+   "kind": "calculation",
+   "question": "Calculate the atom economy of 6CO2(g) + 6H2O(l) → C6H12O6(aq) + 6O2(g), taking glucose as the target. (M: CO2 44.01, H2O 18.02, glucose 180.18 g mol⁻¹)",
+   "options": [],
+   "answer": "48.4%",
+   "steps": [
+    "Reactants: 6 × 44.01 + 6 × 18.02 = 372.18.",
+    "180.18 / 372.18 × 100% ≈ 48.4%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.5",
+   "kind": "short_answer",
+   "question": "What is the atom economy of the addition polymerization nH2C=CH2(g) → (–CH2–CH2–)n(s) to poly(ethene)?",
+   "options": [],
+   "answer": "100%",
+   "steps": [
+    "All atoms of the monomer end up in the polymer, with no by-product."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Nitrogen monoxide reacts with oxygen to make nitrogen dioxide. Write the balanced equation.",
+   "options": [],
+   "answer": "2NO(g) + O2(g) → 2NO2(g)",
+   "steps": [
+    "Two NO2 contain 2 N and 4 O; 2 NO plus one O2 supply these."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.5",
+   "kind": "short_answer",
+   "question": "What is the theoretical atom economy of 2NO(g) + O2(g) → 2NO2(g)?",
+   "options": [],
+   "answer": "100%",
+   "steps": [
+    "The single product contains every atom of the reactants."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "1.00 dm³ of NO(g) is mixed with 1.00 dm³ of O2(g), same conditions, by 2NO + O2 → 2NO2. What is the theoretical yield of NO2 in dm³?",
+   "options": [],
+   "answer": "1.00 dm³",
+   "steps": [
+    "O2 is in excess (only 0.50 dm³ needed), so NO is limiting.",
+    "NO : NO2 = 1 : 1 by volume, so 1.00 dm³ of NO2 is possible."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.4",
+   "kind": "calculation",
+   "question": "In an experiment, 0.700 dm³ of NO2 was made when the theoretical yield was 1.00 dm³. What is the percentage yield?",
+   "options": [],
+   "answer": "70.0%",
+   "steps": [
+    "0.700 / 1.00 × 100% = 70.0%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "479",
+   "understanding": "R2.1.5",
+   "kind": "short_answer",
+   "question": "For the NO2 synthesis with 100% theoretical atom economy and a 70.0% yield, what is the actual atom economy?",
+   "options": [],
+   "answer": "70.0%",
+   "steps": [
+    "With no by-product, the actual atom economy equals the percentage yield."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "125",
+   "understanding": "R2.1.2",
+   "kind": "multiple_choice",
+   "question": "Excess dilute nitric acid reacts with copper: 8HNO3(aq) + 3Cu(s) → 3Cu(NO3)2(aq) + 2NO(g) + 4H2O(l). What volume of NO(g) in dm³ at STP forms from 0.75 mol of Cu?",
+   "options": [
+    "A. 11.4",
+    "B. 17.0",
+    "C. (value unreadable in the scan)",
+    "D. 34.1"
+   ],
+   "answer": "A. 11.4",
+   "steps": [
+    "Cu : NO = 3 : 2, so n(NO) = 0.75 × 2/3 = 0.50 mol.",
+    "V = 0.50 × 22.7 = 11.35 ≈ 11.4 dm³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.4",
+   "kind": "multiple_choice",
+   "question": "For 2CH4(g) → C2H2(g) + 3H2(g), what is the percentage yield when 6.0 dm³ of ethyne is made from 16 dm³ of methane? Volumes at STP.",
+   "options": [
+    "A. 25%",
+    "B. 38%",
+    "C. 60%",
+    "D. 75%"
+   ],
+   "answer": "D. 75%",
+   "steps": [
+    "CH4 : C2H2 = 2 : 1, so 16 dm³ gives 8.0 dm³ in theory.",
+    "6.0 / 8.0 × 100% = 75%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "4.00 g of propane, C3H8, burns in 68.2 g of oxygen. Write a balanced equation with state symbols (water as liquid).",
+   "options": [],
+   "answer": "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(l)",
+   "steps": [
+    "Three C give 3CO2; eight H give 4H2O.",
+    "O needed: 6 + 4 = 10, so 5O2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "4.00 g of propane (M = 44.11 g mol⁻¹) burns in 68.2 g of oxygen (M = 32.00 g mol⁻¹): C3H8 + 5O2 → 3CO2 + 4H2O. Which reactant is limiting?",
+   "options": [],
+   "answer": "Propane",
+   "steps": [
+    "n(C3H8) = 4.00 / 44.11 = 0.0907 mol; n(O2) = 68.2 / 32.00 = 2.13 mol.",
+    "Complete burning needs 5 × 0.0907 ≈ 0.454 mol O2.",
+    "2.13 mol is more than this, so propane is limiting."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.3",
+   "kind": "calculation",
+   "question": "Propane (0.0907 mol, limiting) burns: C3H8 + 5O2 → 3CO2 + 4H2O. What is the theoretical yield of CO2 in g? (M(CO2) = 44.01 g mol⁻¹)",
+   "options": [],
+   "answer": "12.0 g",
+   "steps": [
+    "n(CO2) = 3 × 0.0907 = 0.272 mol.",
+    "m = 0.272 × 44.01 ≈ 12.0 g."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.1",
+   "kind": "short_answer",
+   "question": "Aqueous sodium hydroxide neutralizes hydrochloric acid. Write the balanced equation with state symbols.",
+   "options": [],
+   "answer": "NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)",
+   "steps": [
+    "1 : 1 reaction forming a salt and water."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "20.0 cm³ of 0.200 mol dm⁻³ NaOH(aq) is mixed with 30.0 cm³ of 0.100 mol dm⁻³ HCl(aq). Assuming volumes add, find the concentrations of the aqueous species in the final solution.",
+   "options": [],
+   "answer": "c(NaCl) = 0.0600 mol dm⁻³; c(NaOH) = 0.0200 mol dm⁻³ (or as ions: Na⁺ 0.0800, Cl⁻ 0.0600, OH⁻ 0.0200 mol dm⁻³)",
+   "steps": [
+    "n(NaOH) = 0.00400 mol; n(HCl) = 0.00300 mol, so HCl is limiting.",
+    "NaCl formed = 0.00300 mol; NaOH left = 0.00100 mol.",
+    "Final volume 50.0 cm³ = 0.0500 dm³: NaCl 0.0600, NaOH 0.0200 mol dm⁻³."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.2",
+   "kind": "calculation",
+   "question": "6.55 g of gallium reacts with excess hydrochloric acid at 32 °C and 90.5 kPa: 2Ga + 6HCl → 2GaCl3 + 3H2. What volume of hydrogen forms, in cm³? (Ar(Ga) = 69.72, R = 8.31 J K⁻¹ mol⁻¹)",
+   "options": [],
+   "answer": "about 3.94 × 10³ cm³ (3940 cm³)",
+   "steps": [
+    "n(Ga) = 6.55 / 69.72 = 0.0939 mol; n(H2) = 1.5 × 0.0939 = 0.141 mol.",
+    "T = 305 K, p = 9.05 × 10⁴ Pa.",
+    "V = nRT/p = 0.141 × 8.31 × 305 / 9.05×10⁴ ≈ 3.94 × 10⁻³ m³ = 3.94 dm³ = 3940 cm³."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.5",
+   "kind": "calculation",
+   "question": "Calculate the atom economy of CH3C(O)Cl(l) + H2NCH3(g) → CH3C(O)NHCH3(s) + HCl(g), taking the amide as the target. (M: CH3COCl 78.50, CH3NH2 31.07, CH3CONHCH3 73.11 g mol⁻¹)",
+   "options": [],
+   "answer": "66.7%",
+   "steps": [
+    "Reactants total = 78.50 + 31.07 = 109.57.",
+    "73.11 / 109.57 × 100% ≈ 66.7%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.5",
+   "kind": "calculation",
+   "question": "Calculate the atom economy of 2CH3OH(l) → CH3OCH3(g) + H2O(l), taking the ether as the target. (M: CH3OH 32.05, CH3OCH3 46.08 g mol⁻¹)",
+   "options": [],
+   "answer": "71.9%",
+   "steps": [
+    "Reactants total = 2 × 32.05 = 64.10.",
+    "46.08 / 64.10 × 100% ≈ 71.9%."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "126",
+   "understanding": "R2.1.5",
+   "kind": "short_answer",
+   "question": "What is the atom economy of the addition polymerization nF2C=CF2(g) → (–CF2–CF2–)n(s)?",
+   "options": [],
+   "answer": "100%",
+   "steps": [
+    "All atoms from the monomer end up in the polymer, so there is no by-product."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "464",
+   "understanding": "R2.1.3",
+   "title": "Two-stage reaction with limiting reactants",
+   "problem": "16.0 g of CaC2(s) is heated with 19.3 dm³ of O2 (STP) until it all becomes CaO(s) and CO2(g). On cooling, CaO and CO2 combine to give CaCO3(s). Find the mass of CaCO3 and the volumes of the gases left. All reactions go to completion.",
+   "steps": [
+    {
+     "hint": "Write the balanced equation for the first reaction.",
+     "work": "CaC2(s) + 2.5O2(g) → CaO(s) + 2CO2(g)"
+    },
+    {
+     "hint": "Convert mass and gas volume to amounts.",
+     "work": "n(CaC2) = 16.0 / 64.10 = 0.250 mol; n(O2) = 19.3 / 22.7 = 0.850 mol"
+    },
+    {
+     "hint": "Compare the actual ratio with the equation ratio to find the limiting reactant.",
+     "work": "Needed 1 : 2.5, present 1 : 3.4, so CaC2 is limiting. O2 used = 0.625 mol, left = 0.225 mol; CaO = 0.250 mol; CO2 = 0.500 mol."
+    },
+    {
+     "hint": "Repeat the comparison for the second reaction, CaO + CO2 → CaCO3.",
+     "work": "1 : 1 needed, present 0.250 : 0.500, so CaO is limiting; CaCO3 = 0.250 mol, CO2 left = 0.250 mol."
+    },
+    {
+     "hint": "Convert final amounts to mass and volumes.",
+     "work": "m(CaCO3) = 0.250 × 100.09 ≈ 25.0 g; V(CO2) = 0.250 × 22.7 ≈ 5.68 dm³; V(O2) = 0.225 × 22.7 ≈ 5.11 dm³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "466",
+   "understanding": "R2.1.2",
+   "title": "Final concentrations after mixing HCl and NaOH",
+   "problem": "1.00 dm³ of 0.500 mol dm⁻³ HCl is mixed with 1.00 dm³ of 0.200 mol dm⁻³ NaOH. Write the equation and find the final concentrations of all solutes, assuming volumes add.",
+   "steps": [
+    {
+     "hint": "Write the balanced equation.",
+     "work": "HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)"
+    },
+    {
+     "hint": "Find the initial amounts using n = Vc.",
+     "work": "n(HCl) = 1.00 × 0.500 = 0.500 mol; n(NaOH) = 1.00 × 0.200 = 0.200 mol"
+    },
+    {
+     "hint": "Decide which reactant runs out, using the 1 : 1 ratio.",
+     "work": "NaOH is limiting. Final: HCl 0.300 mol, NaCl 0.200 mol, NaOH 0."
+    },
+    {
+     "hint": "Add the volumes to get the final volume.",
+     "work": "V = 1.00 + 1.00 = 2.00 dm³"
+    },
+    {
+     "hint": "Divide each final amount by the volume.",
+     "work": "c(HCl) = 0.300 / 2.00 = 0.150 mol dm⁻³; c(NaCl) = 0.200 / 2.00 = 0.100 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "467",
+   "understanding": "R2.1.2",
+   "title": "SO2 absorbed by sodium hydroxide solution",
+   "problem": "2.84 dm³ of SO2 (STP) is absorbed by 2.00 dm³ of 0.400 mol dm⁻³ NaOH, forming Na2SO3. Write the equations and find the concentrations of all solutes. Assume the volume stays 2.00 dm³.",
+   "steps": [
+    {
+     "hint": "Write the equations for reaction with water and with excess NaOH.",
+     "work": "SO2(g) + H2O(g) → H2SO3(aq); SO2(g) + 2NaOH(aq) → Na2SO3(aq) + H2O(l)"
+    },
+    {
+     "hint": "Convert gas volume and solution to amounts.",
+     "work": "n(SO2) = 2.84 / 22.7 = 0.125 mol; n(NaOH) = 2.00 × 0.400 = 0.800 mol"
+    },
+    {
+     "hint": "Compare NaOH needed with NaOH present.",
+     "work": "0.125 mol SO2 needs 0.250 mol NaOH; 0.800 mol is present, so SO2 is limiting."
+    },
+    {
+     "hint": "Build the amounts table for the 1 : 2 : 1 reaction.",
+     "work": "NaOH left = 0.800 − 0.250 = 0.550 mol; Na2SO3 formed = 0.125 mol"
+    },
+    {
+     "hint": "Divide by the final volume.",
+     "work": "c(NaOH) = 0.550 / 2.00 = 0.275 mol dm⁻³; c(Na2SO3) = 0.125 / 2.00 = 0.0625 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "468",
+   "understanding": "R2.1.2",
+   "title": "Titration of sulfuric acid with NaOH",
+   "problem": "20.0 cm³ of H2SO4 of unknown concentration was titrated with 0.200 mol dm⁻³ NaOH; the indicator changed colour at 14.3 cm³. Write the equation and find c(H2SO4).",
+   "steps": [
+    {
+     "hint": "Write the balanced neutralization equation.",
+     "work": "H2SO4(aq) + 2NaOH(aq) → Na2SO4(aq) + 2H2O(l)"
+    },
+    {
+     "hint": "Convert the NaOH volume to dm³ and find its amount.",
+     "work": "V = 0.0143 dm³; n(NaOH) = 0.0143 × 0.200 = 0.00286 mol"
+    },
+    {
+     "hint": "Use the 1 : 2 ratio to get the acid amount.",
+     "work": "n(H2SO4) = 0.00286 / 2 = 0.00143 mol"
+    },
+    {
+     "hint": "Divide by the acid volume in dm³.",
+     "work": "c(H2SO4) = 0.00143 / 0.0200 = 0.0715 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "471",
+   "understanding": "R2.1.4",
+   "title": "Theoretical and percentage yield of CaS",
+   "problem": "10.0 g of calcium and 9.62 g of sulfur were heated and gave 17.0 g of CaS. Find the theoretical yield in g and the percentage yield.",
+   "steps": [
+    {
+     "hint": "Write the equation, then find the amounts of reactants.",
+     "work": "Ca + S → CaS; n(Ca) = 10.0 / 40.08 ≈ 0.250 mol; n(S) = 9.62 / 32.07 ≈ 0.300 mol"
+    },
+    {
+     "hint": "Use the 1 : 1 ratio to pick the limiting reactant.",
+     "work": "Ca is limiting, so the theoretical amount of CaS is 0.250 mol."
+    },
+    {
+     "hint": "Convert the theoretical amount to mass.",
+     "work": "m = 0.250 × 72.15 ≈ 18.0 g"
+    },
+    {
+     "hint": "Compare actual with theoretical.",
+     "work": "17.0 / 18.0 × 100% = 94.4% (same as 0.236 / 0.250 using amounts)"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "476",
+   "understanding": "R2.1.5",
+   "title": "Atom economy of dimethyl carbonate synthesis",
+   "problem": "Calculate the atom economy of 4CH3OH(l) + 2CO(g) + O2(g) → 2(CH3O)2CO(l) + 2H2O(l), assuming 100% yield.",
+   "steps": [
+    {
+     "hint": "Decide which total mass can serve as the denominator.",
+     "work": "Total mass of products equals total mass of reactants, so either works."
+    },
+    {
+     "hint": "Add the molar masses of the reactants with coefficients.",
+     "work": "4 × 32.05 + 2 × 28.01 + 32.00 = 216.22 g mol⁻¹"
+    },
+    {
+     "hint": "Find the mass of the target product from the equation.",
+     "work": "2 × 90.09 = 180.18 g mol⁻¹"
+    },
+    {
+     "hint": "Divide and convert to a percentage.",
+     "work": "180.18 / 216.22 × 100% = 83.33%"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "121",
+   "understanding": "R2.1.3",
+   "title": "NaHCO3 and H2SO4 mixture",
+   "problem": "50.0 cm³ of 0.500 mol dm⁻³ NaHCO3(aq) is mixed with 50.0 cm³ of 0.500 mol dm⁻³ H2SO4(aq). Write the balanced equation, find the limiting reactant, the volume of gas formed at STP and the final solute concentrations (volumes add).",
+   "steps": [
+    {
+     "hint": "Balance Na, C and H in turn.",
+     "work": "2NaHCO3(aq) + H2SO4(aq) → Na2SO4(aq) + 2CO2(g) + 2H2O(l)"
+    },
+    {
+     "hint": "Compare the initial amounts with the 2 : 1 ratio.",
+     "work": "n = 0.0500 × 0.500 = 0.0250 mol of each; 2 NaHCO3 per H2SO4, so NaHCO3 is limiting."
+    },
+    {
+     "hint": "Use the ratio to get CO2, then its volume.",
+     "work": "n(CO2) = 0.0250 mol; V = 0.0250 × 22.7 = 0.568 dm³"
+    },
+    {
+     "hint": "Find what is left and what forms.",
+     "work": "H2SO4 left = 0.0125 mol; Na2SO4 formed = 0.0125 mol"
+    },
+    {
+     "hint": "Divide by the total volume.",
+     "work": "V = 0.100 dm³; c(H2SO4) = c(Na2SO4) = 0.0125 / 0.100 = 0.125 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "123",
+   "understanding": "R2.1.4",
+   "title": "Percentage yield of ammonia",
+   "problem": "5.25 kg of H2 reacts with 28.2 kg of N2 to give 15.5 kg of NH3. Write the balanced equation, find the limiting reactant, the theoretical yield (3 sf) and the percentage yield.",
+   "steps": [
+    {
+     "hint": "Balance N first, then H.",
+     "work": "3H2(g) + N2(g) → 2NH3(g)"
+    },
+    {
+     "hint": "Convert kg to g, then to amounts.",
+     "work": "n(H2) = 5.25×10³ / 2.02 = 2.60×10³ mol; n(N2) = 2.82×10⁴ / 28.02 = 1.01×10³ mol"
+    },
+    {
+     "hint": "Find the H2 needed for all the N2.",
+     "work": "1.01×10³ mol N2 needs 3.03×10³ mol H2; only 2.60×10³ mol available, so H2 is limiting."
+    },
+    {
+     "hint": "Use the 3 : 2 ratio for the theoretical NH3.",
+     "work": "n(NH3) = 2/3 × 2.60×10³ = 1.73×10³ mol; m = 1.73×10³ × 17.04 = 2.95×10⁴ g = 29.5 kg"
+    },
+    {
+     "hint": "Compare actual to theoretical mass.",
+     "work": "15.5 / 29.5 × 100% ≈ 52.5%"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "469",
+   "understanding": "R2.1.2",
+   "tag": "Skills question",
+   "prompt": "How would you design and process a back titration to find the percentage by mass of calcium carbonate in eggshells, given HCl, NaOH, phenolphthalein and standard glassware?",
+   "model_answer": [
+    "React crushed, weighed eggshell with a known excess volume of standard HCl.",
+    "Titrate the leftover acid against standard NaOH; do a rough titration first, then repeat until values agree (concordant).",
+    "Moles of NaOH give moles of leftover HCl; subtract from the initial HCl to get the HCl that reacted with the eggshell.",
+    "Use the 2 : 1 ratio (CaCO3 + 2HCl) to get moles and then mass of CaCO3, then the percentage by mass of the shell.",
+    "Assumptions to state: no other base or carbonate reacts with acid, and the shell was dry when weighed."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "470",
+   "understanding": "R2.1.2",
+   "tag": "Activity",
+   "prompt": "Using worked example 2, find the total masses of the initial and final mixtures. Does the result agree with the law of conservation of mass?",
+   "model_answer": [
+    "Initial: 16.0 g CaC2 plus 0.850 mol × 32.00 = 27.2 g O2, total 43.2 g.",
+    "Final: 25.0 g CaCO3, 0.250 mol × 44.01 ≈ 11.0 g CO2, and 0.225 mol × 32.00 = 7.2 g O2.",
+    "Final total = 25.0 + 11.0 + 7.2 = 43.2 g.",
+    "The masses match, so mass is conserved."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "472",
+   "understanding": "R2.1.4",
+   "tag": "Data-based question",
+   "prompt": "For the three aspirin syntheses, work out the amounts of salicylic acid and ethanoic anhydride, the limiting reactant, and the percentage yield in each experiment.",
+   "model_answer": [
+    "Amounts of salicylic acid: 0.0149, 0.0186, 0.0170 mol; ethanoic anhydride: 0.0244, 0.0279, 0.0305 mol.",
+    "In all three, salicylic acid is limiting (the reaction is 1 : 1 and the anhydride is in excess).",
+    "Aspirin amounts: 0.0190, 0.0128, 0.0104 mol.",
+    "Percentage yields: about 128%, 69% and 61%."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "472",
+   "understanding": "R2.1.4",
+   "tag": "Data-based question",
+   "prompt": "Which aspirin experiment gave an impossible yield, and what evidence in the table suggests why?",
+   "model_answer": [
+    "Experiment 1 gave a yield above 100%, which cannot be real.",
+    "The sample is probably impure, with extra mass from impurities (for example leftover reactants or solvent).",
+    "Its melting point (122–128 °C) is well below the literature 136 °C.",
+    "The melting range is broad (6 °C) rather than the usual 1–2 °C."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "472",
+   "understanding": "R2.1.4",
+   "tag": "Data-based question",
+   "prompt": "Which experiment probably gave the purest aspirin, and why?",
+   "model_answer": [
+    "Experiment 3 is the best candidate.",
+    "Its melting point (135–136 °C) is closest to the literature value of 136 °C.",
+    "Its melting range (about 2 °C) is the narrowest of the three.",
+    "It was also recrystallized twice, which fits with its lower yield."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "473",
+   "understanding": "R2.1.3",
+   "tag": "Skills question",
+   "prompt": "25 cm³ of 0.50 mol dm⁻³ CaCl2 is mixed with 15 cm³ of 1.0 mol dm⁻³ Na2CO3. Which reactant is limiting, and what is the theoretical yield of CaCO3 (M = 100.09 g mol⁻¹)?",
+   "model_answer": [
+    "n(CaCl2) = 0.025 dm³ × 0.50 = 0.0125 mol.",
+    "n(Na2CO3) = 0.015 dm³ × 1.0 = 0.015 mol.",
+    "They react 1 : 1, so CaCl2 is limiting and Na2CO3 is in excess.",
+    "Theoretical yield = 0.0125 × 100.09 ≈ 1.25 g (about 1.3 g to 2 sf)."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "473",
+   "understanding": "R2.1.4",
+   "tag": "Skills question",
+   "prompt": "How could you improve the efficiency of the CaCO3 precipitation practical?",
+   "model_answer": [
+    "Dry the precipitate more thoroughly, breaking up clumps, and weigh until the mass is constant.",
+    "Transfer the suspension from the beaker to the filter paper more carefully, rinsing well.",
+    "Both changes reduce the loss or extra mass that distort the percentage yield."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "R2.1.3",
+   "tag": "Tool 1, Inquiry 1, 2, 3",
+   "prompt": "What errors could make the experimental yield higher, and what could make it lower, than the theoretical yield?",
+   "model_answer": [
+    "Higher: product not fully dry, so it holds water or solvent; weigh to constant mass to check.",
+    "Higher: impurities such as unreacted starting material or by-products, shown by a low or broad melting range.",
+    "Higher: weighing errors, such as a balance not tared or wet filter paper.",
+    "Lower: reaction incomplete, side reactions, or an equilibrium that does not go to completion.",
+    "Lower: product lost in transfers, filtering, washing, recrystallization or dissolved in the solution.",
+    "Systematic errors (like wrong calibration) are reduced by checking equipment; random errors by repeating and averaging."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "R2.1",
+ "title": "How much? The amount of chemical change",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 3 (Course Companion p463): numbers not on the cited page: 58.14",
+  "practice 10 (Course Companion p471): numbers not on the cited page: 101.96",
+  "practice 11 (Course Companion p471): numbers not on the cited page: 17.84",
+  "practice 13 (Course Companion p476): numbers not on the cited page: 93.14, 107.17",
+  "practice 21 (Course Companion p478): numbers not on the cited page: 71.10",
+  "practice 24 (Course Companion p478): numbers not on the cited page: 86.94",
+  "practice 35 (Course Companion p479): numbers not on the cited page: 159.17",
+  "practice 37 (Course Companion p479): numbers not on the cited page: 46.08, 28.06",
+  "practice 38 (Course Companion p479): numbers not on the cited page: 18.02, 180.18",
+  "practice 48 (IB Prepared p126): numbers not on the cited page: 44.11",
+  "practice 53 (IB Prepared p126): numbers not on the cited page: 78.50, 31.07, 73.11",
+  "practice 54 (IB Prepared p126): numbers not on the cited page: 32.05, 46.08"
+ ]
+}

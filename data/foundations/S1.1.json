@@ -1,0 +1,651 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Using what you learned in this topic, answer as fully as you can: how can we model the particulate nature of matter?",
+   "options": [],
+   "answer": "Matter is modelled as particles (atoms) whose behaviour is described by successively richer models: the ideal gas model (tiny, non-interacting, elastically colliding particles), the kinetic molecular theory (adds intermolecular forces to explain states and changes of state), collision theory (reactions) and quantum theory (interaction with light, energy levels).",
+   "steps": [
+    "Start with the atomic idea: all matter is made of atoms.",
+    "Add the kinetic molecular theory: particle motion and attractions explain solid, liquid, gas and changes of state.",
+    "Mention that other models (collision theory, quantum theory) extend these for reactions and spectra."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.1",
+   "kind": "multiple_choice",
+   "question": "Which of these are homogeneous mixtures? I. Air  II. Steel  III. Aqueous potassium manganate(VII), KMnO4(aq).",
+   "options": [
+    "A. II only",
+    "B. III only",
+    "C. I and II only",
+    "D. I, II and III"
+   ],
+   "answer": "D. I, II and III",
+   "steps": [
+    "A homogeneous mixture has uniform composition throughout.",
+    "Air is an even mixture of gases, steel is an alloy, and a solution is uniform.",
+    "So all three qualify."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "multiple_choice",
+   "question": "Which row correctly describes the sublimation of dry ice (solid carbon dioxide): is it exothermic or endothermic, and which equation represents it?",
+   "options": [
+    "A. exothermic; CO2(s) → CO2(g)",
+    "B. exothermic; CO2(s) → C(g) + O2(g)",
+    "C. endothermic; CO2(s) → CO2(g)",
+    "D. endothermic; CO2(s) → C(g) + O2(g)"
+   ],
+   "answer": "C. endothermic; CO2(s) → CO2(g)",
+   "steps": [
+    "Going from a more condensed state to a gas absorbs energy, so it is endothermic.",
+    "Sublimation is a physical change: the molecules stay as CO2, they do not break into atoms."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.1",
+   "kind": "multiple_choice",
+   "question": "Which methods could be used to obtain solid sodium chloride from a solution of sodium chloride in water? I. evaporation  II. filtration  III. distillation",
+   "options": [
+    "A. I only",
+    "B. I and II only",
+    "C. I and III only",
+    "D. I, II and III"
+   ],
+   "answer": "C. I and III only",
+   "steps": [
+    "Evaporation leaves the solid salt behind.",
+    "Distillation boils off the water, leaving salt in the flask.",
+    "Filtration cannot separate a dissolved solute from its solvent."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "multiple_choice",
+   "question": "Which pair of changes of state are opposites of each other?",
+   "options": [
+    "A. melting and condensation",
+    "B. vaporization and deposition",
+    "C. deposition and sublimation",
+    "D. sublimation and freezing"
+   ],
+   "answer": "C. deposition and sublimation",
+   "steps": [
+    "Sublimation is solid → gas; deposition is gas → solid.",
+    "Melting reverses with freezing, and vaporization with condensation."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "multiple_choice",
+   "question": "Which statement about the states of matter is incorrect?",
+   "options": [
+    "A. solids and liquids are almost incompressible",
+    "B. particles in both solids and liquids are mobile",
+    "C. liquids and gases have no fixed shape",
+    "D. particles in solids, liquids and gases can vibrate"
+   ],
+   "answer": "B. particles in both solids and liquids are mobile",
+   "steps": [
+    "In a solid, particles vibrate about fixed positions and do not move around.",
+    "So the claim that particles in solids are mobile is false."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.1",
+   "kind": "multiple_choice",
+   "question": "Which pair of elements can be separated from each other by physical methods?",
+   "options": [
+    "A. oxygen and nitrogen in air",
+    "B. hydrogen and oxygen in water",
+    "C. carbon and oxygen in dry ice",
+    "D. magnesium and sulfur in magnesium sulfide"
+   ],
+   "answer": "A. oxygen and nitrogen in air",
+   "steps": [
+    "Air is a mixture, so its components can be separated physically.",
+    "Water, carbon dioxide and magnesium sulfide are compounds; splitting them needs a chemical reaction."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.3",
+   "kind": "multiple_choice",
+   "question": "Which change on the Celsius scale equals a temperature increase of 20 K?",
+   "options": [
+    "A. decrease by 20 °C",
+    "B. increase by 20 °C",
+    "C. decrease by 293.15 °C",
+    "D. increase by 293.15 °C"
+   ],
+   "answer": "B. increase by 20 °C",
+   "steps": [
+    "A kelvin step and a Celsius degree are the same size.",
+    "So a rise of 20 K is a rise of 20 °C."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.3",
+   "kind": "short_answer",
+   "question": "Explain why Kelvin temperature is directly proportional to average kinetic energy but Celsius temperature is not, even though a one-degree step is the same size on both scales. [2]",
+   "options": [],
+   "answer": "0 K corresponds to zero kinetic energy, but 0 °C is an arbitrary point (273.15 K), so only the Kelvin value is proportional to average kinetic energy.",
+   "steps": [
+    "The Kelvin scale starts at absolute zero, where there is no kinetic energy to transfer.",
+    "The Celsius zero is the freezing point of water, chosen arbitrarily.",
+    "Example: 20 °C → 40 °C is 293 K → 313 K, a factor of only about 1.07.",
+    "To double the kinetic energy you must double the kelvin value, 293 K → 586 K (313 °C)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Molten lead(II) bromide is electrolysed. The unbalanced ionic equation is Pb2+ + Br– → Pb + X. One product is lead, Pb. State the formula of product X. [1]",
+   "options": [],
+   "answer": "Br2",
+   "steps": [
+    "Bromide ions are oxidised at the anode.",
+    "Bromine exists as diatomic molecules."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Balance the equation Pb2+ + Br– → Pb + Br2 (ignore state symbols). [1]",
+   "options": [],
+   "answer": "Pb2+ + 2Br– → Pb + Br2",
+   "steps": [
+    "Two Br– ions are needed to make one Br2 molecule.",
+    "Check charge: left 2+ and 2− gives 0, right is 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "18",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Electrolysis of molten lead(II) bromide is carried out at 380 °C. Using melting and boiling point data, deduce the state of matter of each species in Pb2+ + 2Br– → Pb + Br2 at this temperature and rewrite the equation with state symbols. [2]",
+   "options": [],
+   "answer": "Pb2+ + 2Br– → Pb(l) + Br2(g)",
+   "steps": [
+    "Lead melts at about 327 °C, so it is liquid at 380 °C.",
+    "Bromine boils at about 59 °C, so it is a gas at 380 °C.",
+    "The ions in the molten electrolyte are normally written without state symbols."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.3",
+   "kind": "calculation",
+   "question": "Kinetic energy is Ek = ½mv². By what factor does the speed of the molecules of a pure gas increase when the Kelvin temperature is doubled? [2]",
+   "options": [],
+   "answer": "By a factor of √2 (about 1.41)",
+   "steps": [
+    "Ek is proportional to T, so doubling T doubles Ek.",
+    "Ek is proportional to v², so v² doubles.",
+    "Therefore v increases by a factor of √2 ≈ 1.41."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.3",
+   "kind": "calculation",
+   "question": "Pure caffeine melts at 235 °C. State its melting point in kelvin. [1]",
+   "options": [],
+   "answer": "508 K",
+   "steps": [
+    "Add 273.15 to the Celsius value: 235 + 273.15 = 508.15.",
+    "Round to 508 K."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "calculation",
+   "question": "A chemist extracts caffeine by Method 1, 2 and 3 and obtains 0.229 g, 0.094 g and 0.380 g. Calculate the mean and the range of these masses. [2]",
+   "options": [],
+   "answer": "Mean = 0.234 g; range = 0.286 g",
+   "steps": [
+    "Sum = 0.229 + 0.094 + 0.380 = 0.703 g; divide by 3 → 0.234 g.",
+    "Range = largest − smallest = 0.380 − 0.094 = 0.286 g."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "calculation",
+   "question": "The theoretical yield of caffeine is 0.960 g and Method 1 gave 0.229 g. Calculate the percentage yield, to an appropriate number of significant figures. [2]",
+   "options": [],
+   "answer": "23.9%",
+   "steps": [
+    "Percentage yield = actual ÷ theoretical × 100 = 0.229 ÷ 0.960 × 100.",
+    "= 23.85%, rounded to 3 s.f. (the data have 3 s.f.) → 23.9%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Pure caffeine melts at 235 °C. Product melting ranges were: Method 1 190–220 °C, Method 2 229–233 °C, Method 3 188–201 °C. Which method gave the purest caffeine, and why? [1]",
+   "options": [],
+   "answer": "Method 2: its melting range is the narrowest and closest to the true value of 235 °C.",
+   "steps": [
+    "Impurities lower the melting point and widen the melting range.",
+    "Method 2 has the narrowest range, closest to 235 °C."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "A chemist compares three caffeine extraction methods, each done once. Suggest one way to reduce the random error in the experiment. [1]",
+   "options": [],
+   "answer": "Repeat the trials and calculate a mean (or use more precise equipment).",
+   "steps": [
+    "Repeating gives several results whose random errors average out."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Dilute sulfuric acid reacts with excess copper(II) oxide to give copper(II) sulfate and water. Write the balanced chemical equation with state symbols. [2]",
+   "options": [],
+   "answer": "H2SO4(aq) + CuO(s) → CuSO4(aq) + H2O(l)",
+   "steps": [
+    "Formulas: H2SO4, CuO, CuSO4, H2O; it is already balanced.",
+    "CuO is insoluble, so (s); the acid and the salt are dissolved, so (aq); water is (l)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Excess copper(II) oxide powder sits at the bottom of a copper(II) sulfate solution. Suggest, with a reason, a method to remove the excess oxide. [2]",
+   "options": [],
+   "answer": "Filtration, because copper(II) oxide is insoluble in water while copper(II) sulfate dissolves and passes through the filter.",
+   "steps": [
+    "The solid is insoluble and the product is dissolved.",
+    "Filter, so the solid stays on the paper and the solution is the filtrate."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Describe a method to obtain pure, dry crystals of copper(II) sulfate from its solution. [3]",
+   "options": [],
+   "answer": "Heat the solution in an evaporating dish until the saturation point (crystals form on a drop placed on a cold tile or rod), leave it to cool slowly so crystals form, then filter and pat dry with filter paper.",
+   "steps": [
+    "Evaporate some water by heating in an evaporating dish.",
+    "Test for the saturation point with a drop on a cold surface.",
+    "Cool slowly for crystals to grow.",
+    "Filter off the liquid and dry the crystals between filter paper."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "In a heating curve for ice, energy is supplied constantly, yet the temperature stays at 0 °C for a while. Explain why. [2]",
+   "options": [],
+   "answer": "During melting the temperature is constant because the energy goes into overcoming the attractions between the molecules, not into raising their average kinetic energy.",
+   "steps": [
+    "Temperature measures average kinetic energy.",
+    "Energy during a change of state weakens the intermolecular forces instead."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "A solution of 5.00 g NaCl in 100.0 g pure water has melting point –3 °C and boiling point 101 °C. Describe how the heating curve for this solution differs from the one for pure water. [2]",
+   "options": [],
+   "answer": "It has the same shape as the water curve but with the melting plateau at –3 °C and the boiling plateau at 101 °C instead of 0 °C and 100 °C.",
+   "steps": [
+    "Keep the sequence of rising sections and two flat plateaus.",
+    "Set the lower plateau at –3 °C and the upper at 101 °C."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Iodine, I2, is a solid at room temperature. It forms vapour when gently heated, deposits as a solid on cold surfaces, and melts at 114 °C under increased pressure. Write equations for all three changes of state. [3]",
+   "options": [],
+   "answer": "Gentle heating: I2(s) → I2(g); cooling: I2(g) → I2(s); heating under pressure: I2(s) → I2(l)",
+   "steps": [
+    "Vapour from solid is sublimation.",
+    "Solid from gas is deposition.",
+    "Melting under pressure gives the liquid."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.3",
+   "kind": "calculation",
+   "question": "Iodine melts at 114 °C under increased pressure. State this melting point in kelvin. [1]",
+   "options": [],
+   "answer": "387 K",
+   "steps": [
+    "114 + 273.15 = 387.15, so about 387 K."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "19",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Suggest how liquid iodine can be obtained from gaseous iodine. [1]",
+   "options": [],
+   "answer": "Pressurise the gas at a temperature above 114 °C until it condenses: I2(g) → I2(l).",
+   "steps": [
+    "At high enough pressure and above the melting point, the gas condenses to liquid rather than depositing."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "4",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Suggest a separation method for brine (aqueous sodium chloride) that collects the water.",
+   "options": [],
+   "answer": "Simple distillation.",
+   "steps": [
+    "Heating makes the water evaporate, then condense in the condenser into the receiver.",
+    "Sodium chloride stays behind in the flask.",
+    "Evaporation alone would lose the water."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "4",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Suggest a separation method for vinegar (aqueous ethanoic acid).",
+   "options": [],
+   "answer": "Fractional distillation.",
+   "steps": [
+    "Water and ethanoic acid are miscible liquids with different boiling points.",
+    "They can be collected in separate receivers."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "4",
+   "understanding": "S1.1.1",
+   "kind": "short_answer",
+   "question": "Suggest a separation method for road grit, a mixture of sodium chloride and fine-grained rock.",
+   "options": [],
+   "answer": "Dissolve in water, filter, then evaporate the filtrate.",
+   "steps": [
+    "Only sodium chloride dissolves in water.",
+    "Filtration removes the undissolved rock, which is washed and dried.",
+    "Evaporating the water leaves sodium chloride crystals."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "4",
+   "understanding": "S1.1.2",
+   "kind": "short_answer",
+   "question": "Formulate a balanced equation, with state symbols, for the reaction of nitric acid with calcium hydroxide.",
+   "options": [],
+   "answer": "2HNO3(aq) + Ca(OH)2(aq) → Ca(NO3)2(aq) + 2H2O(l)",
+   "steps": [
+    "Products are calcium nitrate and water.",
+    "Ca(NO3)2 needs two nitrate ions, so use 2HNO3; this gives two OH–, hence 2H2O.",
+    "The book notes Ca(OH)2 is sparingly soluble, so (s) or (aq) are both acceptable."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "4",
+   "understanding": "S1.1.2",
+   "kind": "multiple_choice",
+   "question": "Which physical process is endothermic?",
+   "options": [
+    "A. Formation of clouds from water vapour.",
+    "B. Formation of snowflakes in the clouds.",
+    "C. Melting of snow on a warm surface.",
+    "D. Deposition of ice on a cold surface."
+   ],
+   "answer": "C. Melting of snow on a warm surface.",
+   "steps": [
+    "Endothermic changes go from a more condensed to a less condensed state.",
+    "Melting is solid → liquid, so it absorbs energy; the others release it."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "prepared",
+   "page": "3",
+   "understanding": "S1.1.2",
+   "title": "Balanced equation with state symbols: KOH and H3PO4",
+   "problem": "Formulate a balanced equation, with state symbols, for the reaction of potassium hydroxide, KOH, with phosphoric acid, H3PO4, in aqueous solution.",
+   "steps": [
+    {
+     "hint": "Write the correct formulas of reactants and products.",
+     "work": "KOH + H3PO4 → K3PO4 + H2O"
+    },
+    {
+     "hint": "Balance the potassium by adjusting a coefficient.",
+     "work": "3KOH + H3PO4 → K3PO4 + H2O"
+    },
+    {
+     "hint": "Balance hydrogen and oxygen using the water coefficient.",
+     "work": "Left has 3 + 3 = 6 H and 3 + 4 = 7 O; 3H2O on the right gives 6 H and 4 + 3 = 7 O. So 3KOH + H3PO4 → K3PO4 + 3H2O"
+    },
+    {
+     "hint": "Add state symbols: aqueous for dissolved species, liquid for water.",
+     "work": "3KOH(aq) + H3PO4(aq) → K3PO4(aq) + 3H2O(l)"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "7",
+   "understanding": "S1.1.1",
+   "tag": "Data-based questions",
+   "prompt": "Substance A (red) rose in mass from 26.12 g to 26.62 g on heating and turned black. Substance B (green) fell from 27.05 g to 25.76 g and turned black. Work out each change in mass, decide whether the changes are physical or chemical, and say whether A and B must be elements. Can you conclude both gave the same black product?",
+   "model_answer": [
+    "Change in mass: A +0.50 ± 0.02 g (increase); B −1.29 ± 0.02 g (decrease).",
+    "Qualitative observations: A red to black, B green to black.",
+    "Both are chemical changes: the colour and mass changed, which suggests new substances formed.",
+    "A gains mass, so a new compound formed; A could be an element or a compound. B loses mass, so it must be a compound, since elements cannot be chemically broken down.",
+    "No: different substances can look alike, so further analysis is needed to identify the black products."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "8",
+   "understanding": "S1.1.1",
+   "tag": "Skills question",
+   "prompt": "In the melting point experiment on two organic solids A and B and their mixture, what data should you record, how do the pure and mixed samples compare, and what can melting point data tell you about an organic synthesis?",
+   "model_answer": [
+    "Record qualitative data (appearance of the solids and liquids) and quantitative data (temperatures where melting starts and finishes).",
+    "Compare the melting points of pure A and pure B with that of the mixture (impure).",
+    "Structural formulas give the molar mass and functional groups, which suggest the nature and strength of intermolecular forces, explaining melting point differences.",
+    "A product's melting point and range indicate its purity, but its identity cannot be confirmed without further analysis such as spectroscopy."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "10",
+   "understanding": "S1.1.1",
+   "tag": "Data-based questions",
+   "prompt": "Using the 2D paper chromatogram (figure 9), which coloured spot has the strongest affinity for both solvents, and what does the movement of the yellow, orange and pink spots show about their affinities for each solvent and for the paper?",
+   "model_answer": [
+    "Purple: it moved furthest with both solvent 1 and solvent 2.",
+    "Yellow and orange moved far with solvent 1 but little with solvent 2, so they have a stronger affinity for solvent 1.",
+    "Pink moved little with solvent 1, so its attraction to the paper's water was stronger than to solvent 1.",
+    "Pink moved well with solvent 2, so its attraction to solvent 2 is greater than to the paper."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "14",
+   "understanding": "S1.1.2",
+   "tag": "Skills question",
+   "prompt": "For the cornstarch–water (non-Newtonian fluid) investigation, how would you organise your observations of the three substances, what variables could you choose for a research question, and what other examples of such fluids exist?",
+   "model_answer": [
+    "Describe colour, texture and state of matter of the powder, the water and the mixture, organised in a table.",
+    "Independent variables could be the cornstarch:water ratio, starch brand, temperature or dissolved impurities.",
+    "Dependent variables could be crater depth made by a falling marble or flow rate.",
+    "Other non-Newtonian fluids include tomato sauce, cream and slime."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.1.1",
+   "tag": "Tool 1",
+   "prompt": "What factors should you consider when choosing a method to separate the components of a mixture?",
+   "model_answer": [
+    "Whether the mixture is homogeneous or heterogeneous, and the physical states of the components (solid–liquid needs filtration, liquid–liquid needs distillation).",
+    "Differences in properties: solubility, boiling point, magnetism, or affinity for a solvent and paper.",
+    "Whether the solid or the liquid (or both) must be recovered, since evaporation loses the liquid but distillation keeps it.",
+    "Whether components are sensitive to heat and how pure the result must be.",
+    "Safety, cost, time and scale."
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.1.1",
+   "tag": "Tool 1",
+   "prompt": "How can the products of a reaction be purified?",
+   "model_answer": [
+    "Filter off insoluble solids (such as excess copper(II) oxide) from the solution.",
+    "Evaporate to the saturation point and cool slowly so crystals of the product form, then filter and dry.",
+    "Recrystallize: dissolve in hot solvent, cool, and filter, leaving more soluble impurities in solution.",
+    "Distill to separate liquids with different boiling points.",
+    "Check purity by melting point: a sharp melting point close to the literature value shows a purer product."
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "S1.1",
+ "title": "Introduction to the particulate nature of matter",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 2 (Course Companion p18): copies the book",
+  "practice 4 (Course Companion p18): copies the book",
+  "practice 12 (Course Companion p18): copies the book",
+  "practice 26 (Course Companion p19): copies the book",
+  "practice 30 (IB Prepared p4): copies the book",
+  "worked 1 (IB Prepared p3): copies the book"
+ ]
+}

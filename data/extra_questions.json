@@ -1,0 +1,19 @@
+{
+  "_about": "Library questions read and checked by hand, shown in the Questionbank beyond the deck's cards. `card` supplies the method shown after answering (null if none fits). `source` is the evidence pack holding the question.",
+  "questions": [
+    {"ref": "25M.1A.HL.6219.21", "topic": "R1.1", "source": "R1.1", "card": "R1.1-01"},
+    {"ref": "19M.1.HL.TZ1.14", "topic": "R1.1", "source": "R1.1", "card": "R1.1-03"},
+    {"ref": "08M.1.HL.TZ1.20", "topic": "R1.1", "source": "R1.1", "card": "R1.1-05"},
+    {"ref": "09M.1.HL.TZ2.17", "topic": "R1.1", "source": "R1.1", "card": "R1.1-03"},
+    {"ref": "10M.1.HL.TZ2.14", "topic": "R1.1", "source": "R1.1", "card": "R1.1-06"},
+    {"ref": "11M.1.HL.TZ1.18", "topic": "R1.1", "source": "R1.1", "card": null},
+    {"ref": "12M.1.HL.TZ1.14", "topic": "R1.1", "source": "R1.1", "card": null},
+    {"ref": "13M.1.HL.TZ2.14", "topic": "R1.1", "source": "R1.1", "card": "R1.1-03"},
+    {"ref": "14M.1.HL.TZ1.14", "topic": "R1.1", "source": "R1.1", "card": "R1.1-07"},
+    {"ref": "15M.1.HL.TZ1.14", "topic": "R1.1", "source": "R1.1", "card": "R1.1-03"},
+    {"ref": "13M.1.HL.TZ2.18", "topic": "R1.2", "source": "R1.1", "card": "R1.2-13"},
+    {"ref": "13N.1.HL.TZ0.17", "topic": "R1.2", "source": "R1.1", "card": "R1.2-13"},
+    {"ref": "08M.1.HL.TZ1.21", "topic": "R1.2", "source": "R1.1", "card": "R1.2-13"},
+    {"ref": "15M.1.HL.TZ2.14", "topic": "R1.2", "source": "R1.1", "card": "R1.2-04"}
+  ]
+}

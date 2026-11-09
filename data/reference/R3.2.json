@@ -1,0 +1,356 @@
+{
+ "notes": [
+  {
+   "heading": "Four ways to describe redox",
+   "understanding": "R3.2.1",
+   "points": [
+    "Oxidation: gain of oxygen, loss of hydrogen, loss of electrons, or increase in oxidation state. Reduction is the opposite in each case.",
+    "OIL RIG: Oxidation Is Loss of electrons, Reduction Is Gain of electrons.",
+    "Oxidation state treats shared electrons as fully given to the more electronegative atom. Write the sign first: +1, not 1+.",
+    "Oxidizing agent is reduced and takes electrons; reducing agent is oxidized. Name whole species (HBr), not single atoms (H).",
+    "Disproportionation: one substance is oxidized and reduced in the same reaction, e.g. KClO3 forming KClO4 and KCl."
+   ]
+  },
+  {
+   "heading": "Half-equations and balancing",
+   "understanding": "R3.2.2",
+   "points": [
+    "A half-equation shows only oxidation or only reduction, with electrons on the right for oxidation and the left for reduction.",
+    "Electrons per half-equation equal the size of the oxidation state change; multiply so electrons lost equal electrons gained, then cancel.",
+    "In acid, balance O with H2O and then H with H+. In neutral or basic solution, use OH− for O and H2O for H.",
+    "Finish by checking total charge is equal on both sides, e.g. 6Fe2+ + Cr2O7 2− + 14H+ → 6Fe3+ + 2Cr3+ + 7H2O."
+   ]
+  },
+  {
+   "heading": "Ease of oxidation and reduction",
+   "understanding": "R3.2.3",
+   "points": [
+    "Halogens act as oxidizing agents; ease of reduction increases up the group, so F2 is strongest, I2 weakest.",
+    "A more reactive halogen oxidizes the halide ions of a less reactive one: Cl2 + 2Br− → 2Cl− + Br2.",
+    "Group 1 metals are reducing agents; ease of oxidation increases going down the group.",
+    "If a metal reacts with another metal's ion solution, it is more easily oxidized and a stronger reducing agent. Order metals by these results."
+   ]
+  },
+  {
+   "heading": "Acids with reactive metals",
+   "understanding": "R3.2.4",
+   "points": [
+    "Reactive metals (Mg, Zn, Fe) react with dilute strong acids to give a salt plus hydrogen gas.",
+    "Metal is oxidized (reducing agent); H+ is reduced (oxidizing agent): 2H+ + 2e− → H2.",
+    "Metals below hydrogen in the reactivity series, such as copper and silver, do not react with dilute acids.",
+    "Hydrogen is detected by a lit splint giving a pop."
+   ]
+  },
+  {
+   "heading": "Anode and cathode",
+   "understanding": "R3.2.5",
+   "points": [
+    "Oxidation occurs at the anode; reduction at the cathode (RED CAT).",
+    "Electrons flow through the external wire from the oxidation site to the reduction site.",
+    "Without a salt bridge, charge builds up (polarization) and the reaction stops."
+   ]
+  },
+  {
+   "heading": "Primary (voltaic) cells",
+   "understanding": "R3.2.6",
+   "points": [
+    "A primary cell turns energy from a spontaneous redox reaction into electrical energy; its reaction is not reversible.",
+    "Parts: two half-cells (metal in its ion solution), wire to voltmeter, and a salt bridge completing the circuit.",
+    "Salt bridge ions flow to balance charge: cations toward the cathode half-cell, anions toward the anode half-cell.",
+    "Cell diagram: anode on left, cathode on right, salt bridge as ||, e.g. Zn(s) | Zn2+(aq) || Cu2+(aq) | Cu(s).",
+    "Zn anode gets thinner and Cu cathode gets coated; blue Cu2+ colour fades."
+   ]
+  },
+  {
+   "heading": "Secondary cells and fuel cells",
+   "understanding": "R3.2.7",
+   "points": [
+    "Secondary cells have reversible redox reactions: an applied electric current recharges them. Charging reverses the discharge reactions.",
+    "Compared with primary cells, they meet higher current demands but self-discharge faster.",
+    "Lead–acid discharge: Pb anode oxidized, PbO2 cathode reduced, overall Pb + PbO2 + 2H2SO4 → 2PbSO4 + 2H2O.",
+    "Lithium-ion: Li oxidized at the anode on discharge; electrolyte must be non-aqueous because lithium reacts with water.",
+    "Fuel cells need a continuous fuel and oxygen supply, are not rechargeable, and run indefinitely; hydrogen ones make no greenhouse gases but use costly catalysts and pure hydrogen."
+   ]
+  },
+  {
+   "heading": "Electrolytic cells",
+   "understanding": "R3.2.8",
+   "points": [
+    "An electrolytic cell turns electrical energy into chemical energy by driving non-spontaneous reactions (electrolysis).",
+    "Parts: electrolyte (molten or aqueous ionic compound), two electrodes, and a DC power source.",
+    "Cathode is connected to the negative terminal: cations are reduced there. Anions are oxidized at the anode.",
+    "Molten NaCl: cathode Na+ + e− → Na; anode 2Cl− → Cl2 + 2e−."
+   ]
+  },
+  {
+   "heading": "Oxidation of organic compounds",
+   "understanding": "R3.2.9",
+   "points": [
+    "Secondary alcohol is oxidized to a ketone; primary alcohol to an aldehyde and then a carboxylic acid.",
+    "Reflux with excess oxidizing agent and acid gives the carboxylic acid; vapours condense back into the flask.",
+    "Distillation with alcohol in excess removes the aldehyde as it forms, preventing further oxidation.",
+    "Tertiary alcohols are not oxidized this way because the carbon with OH has no hydrogen to remove."
+   ]
+  },
+  {
+   "heading": "Reduction of organic compounds",
+   "understanding": "R3.2.10",
+   "points": [
+    "Ketone is reduced to a secondary alcohol; carboxylic acid is reduced via an aldehyde to a primary alcohol.",
+    "Reduction adds hydrogen atoms to the carbonyl group, written [H] for the reducing agent.",
+    "The aldehyde intermediate from a carboxylic acid usually cannot be isolated.",
+    "LiAlH4 reduces all of these; NaBH4 reduces only aldehydes and ketones, though specific agents are not assessed."
+   ]
+  },
+  {
+   "heading": "Reducing unsaturated compounds",
+   "understanding": "R3.2.11",
+   "points": [
+    "Adding hydrogen to a C=C or C≡C bond is reduction and lowers the degree of unsaturation.",
+    "Alkyne to alkene needs a deactivated palladium catalyst.",
+    "Alkene to alkane needs a Ni or Pt catalyst; excess hydrogen takes an alkyne straight to alkane."
+   ]
+  },
+  {
+   "heading": "Standard hydrogen electrode",
+   "understanding": "R3.2.12",
+   "points": [
+    "The SHE is H+(aq) + e− ⇌ ½H2(g), with E⦵ = 0 V by convention, using an inert platinum electrode.",
+    "More negative E⦵ means easier oxidation and a stronger reducing agent; more positive means easier reduction.",
+    "Standard conditions: 298 K, 100 kPa, and 1.0 mol dm−3 for all aqueous species.",
+    "Standard reduction potentials are in section 19 of the data booklet."
+   ]
+  },
+  {
+   "heading": "Standard cell potential",
+   "understanding": "R3.2.13",
+   "points": [
+    "E⦵cell = E⦵(cathode) − E⦵(anode), which equals E⦵(reduced species) − E⦵(oxidized species).",
+    "A spontaneous reaction has positive E⦵cell. Reduction is at the more positive electrode.",
+    "Do not multiply E⦵ when doubling a half-equation to balance electrons.",
+    "Example: Fe/Cu cell gives +0.34 − (−0.45) = 0.79 V."
+   ]
+  },
+  {
+   "heading": "Gibbs energy and cell potential",
+   "understanding": "R3.2.14",
+   "points": [
+    "ΔG⦵ = −nFE⦵cell, where n is the electrons transferred in the balanced equation.",
+    "F = 9.65×10^4 C mol−1; the equation and F are in the data booklet.",
+    "Positive E⦵cell gives negative ΔG⦵, so the reaction is spontaneous.",
+    "Units: J mol−1; divide by 1000 for kJ mol−1. Example: n = 2, 0.76 V gives −147 kJ mol−1."
+   ]
+  },
+  {
+   "heading": "Electrolysis of aqueous solutions",
+   "understanding": "R3.2.15",
+   "points": [
+    "Water competes with ions: reduction H2O + e− → ½H2 + OH− (−0.83 V); oxidation H2O → ½O2 + 2H+ + 2e−.",
+    "At cathode, if the cation's E⦵ is more negative than −0.83 V, water is reduced and hydrogen forms.",
+    "Concentrated NaCl(aq): H2 at cathode, Cl2 at anode (high Cl− beats water); dilute gives mixed O2 and Cl2; very dilute gives O2.",
+    "CuSO4(aq), inert electrodes: Cu at cathode; sulfate cannot be oxidized (S already +6), so O2 forms at anode."
+   ]
+  },
+  {
+   "heading": "Electroplating",
+   "understanding": "R3.2.16",
+   "points": [
+    "Electroplating coats an object, made the cathode, with a thin layer of metal by electrolysis.",
+    "The anode is the plating metal; it oxidizes to cations that travel through the solution and are reduced onto the cathode.",
+    "Copper plating: anode Cu → Cu2+ + 2e−; cathode Cu2+ + 2e− → Cu. Electrolyte concentration stays constant.",
+    "With impure copper as anode, pure copper plates onto the cathode, which purifies it."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Oxidation",
+   "definition": "Loss of electrons, or an increase in oxidation state. Also gain of oxygen or loss of hydrogen.",
+   "must_say": [
+    "loss of electrons",
+    "increase in oxidation state"
+   ],
+   "trap": "Giving only electron loss when the question asks for oxidation numbers."
+  },
+  {
+   "term": "Reduction",
+   "definition": "Gain of electrons, or a decrease in oxidation state. Also loss of oxygen or gain of hydrogen.",
+   "must_say": [
+    "gain of electrons",
+    "decrease in oxidation state"
+   ],
+   "trap": "Mixing it up with oxidation; use OIL RIG."
+  },
+  {
+   "term": "Oxidizing agent",
+   "definition": "A species that accepts electrons from another species, causing its oxidation, and is itself reduced.",
+   "must_say": [
+    "accepts/gains electrons",
+    "is itself reduced"
+   ],
+   "trap": "Naming the atom rather than the whole compound, e.g. H instead of HBr."
+  },
+  {
+   "term": "Reducing agent",
+   "definition": "A species that donates electrons to another species, causing its reduction, and is itself oxidized.",
+   "must_say": [
+    "donates/loses electrons",
+    "is itself oxidized"
+   ],
+   "trap": "Swapping it with oxidizing agent; the reducing agent is the one oxidized."
+  },
+  {
+   "term": "Oxidation state",
+   "definition": "The charge an atom would have in a compound if all bonds were treated as ionic, with shared electrons given to the more electronegative atom.",
+   "must_say": [
+    "charge atom would have",
+    "bonds treated as ionic"
+   ],
+   "trap": "Writing the sign after the number (1+) or treating it as a real charge."
+  },
+  {
+   "term": "Half-equation",
+   "definition": "An equation showing only the oxidation or only the reduction process, with the electrons lost or gained.",
+   "must_say": [
+    "oxidation or reduction only",
+    "electrons shown"
+   ],
+   "trap": "Leaving electrons out or putting them on the wrong side."
+  },
+  {
+   "term": "Disproportionation",
+   "definition": "A reaction in which the same substance is simultaneously oxidized and reduced.",
+   "must_say": [
+    "same substance",
+    "oxidized and reduced"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Anode",
+   "definition": "The electrode in an electrochemical cell where oxidation occurs.",
+   "must_say": [
+    "oxidation occurs"
+   ],
+   "trap": "Calling the anode positive in every cell; it is negative in a voltaic cell but positive in an electrolytic cell."
+  },
+  {
+   "term": "Cathode",
+   "definition": "The electrode in an electrochemical cell where reduction occurs.",
+   "must_say": [
+    "reduction occurs"
+   ],
+   "trap": "Remember RED CAT: reduction at the cathode in both cell types."
+  },
+  {
+   "term": "Salt bridge",
+   "definition": "A tube or strip containing an ionic salt solution that connects the half-cells, letting ions flow to balance charge and complete the circuit.",
+   "must_say": [
+    "ions flow",
+    "complete the circuit",
+    "balance charge"
+   ],
+   "trap": "Saying electrons flow through the salt bridge; electrons use the wire."
+  },
+  {
+   "term": "Primary (voltaic) cell",
+   "definition": "An electrochemical cell that converts energy from a spontaneous redox reaction into electrical energy; its reaction is not reversible.",
+   "must_say": [
+    "spontaneous redox",
+    "chemical to electrical energy"
+   ],
+   "trap": "Confusing it with a secondary cell, which can be recharged."
+  },
+  {
+   "term": "Secondary (rechargeable) cell",
+   "definition": "A cell whose redox reactions can be reversed by applying electrical energy, so it can be recharged.",
+   "must_say": [
+    "reversed",
+    "electrical energy"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Electrolytic cell",
+   "definition": "An electrochemical cell that converts electrical energy to chemical energy by driving non-spontaneous redox reactions.",
+   "must_say": [
+    "electrical to chemical energy",
+    "non-spontaneous"
+   ],
+   "trap": "Mixing up its electrode charges with a voltaic cell."
+  },
+  {
+   "term": "Electrolysis",
+   "definition": "The use of an external DC electrical source to bring about non-spontaneous chemical change in an electrolyte.",
+   "must_say": [
+    "electrical energy",
+    "non-spontaneous"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Standard hydrogen electrode (SHE)",
+   "definition": "A half-cell of H+(aq) at 1.0 mol dm−3 and H2 gas at standard pressure on inert platinum, assigned E⦵ = 0 V.",
+   "must_say": [
+    "H+ 1.0 mol dm−3",
+    "H2 gas",
+    "platinum electrode",
+    "0 V"
+   ],
+   "trap": "Omitting that it is the reference and that conditions are standard."
+  },
+  {
+   "term": "Standard electrode potential, E⦵",
+   "definition": "The potential of a half-cell, under standard conditions with 1.0 mol dm−3 solutions, measured relative to the standard hydrogen electrode.",
+   "must_say": [
+    "relative to SHE",
+    "standard conditions",
+    "1.0 mol dm−3"
+   ],
+   "trap": "Leaving out the standard hydrogen electrode or the standard conditions, which examiners often mark as incomplete."
+  },
+  {
+   "term": "Standard cell potential, E⦵cell",
+   "definition": "The voltage of a cell under standard conditions, found as E⦵(cathode) − E⦵(anode); positive for a spontaneous reaction.",
+   "must_say": [
+    "standard conditions",
+    "E cathode − E anode"
+   ],
+   "trap": "Multiplying E⦵ by the coefficient used to balance electrons."
+  },
+  {
+   "term": "Electroplating",
+   "definition": "Coating an object with a thin layer of metal by electrolysis, with the object as the cathode.",
+   "must_say": [
+    "thin layer of metal",
+    "object is cathode",
+    "electrolysis"
+   ],
+   "trap": "Putting the object at the anode."
+  },
+  {
+   "term": "Fuel cell",
+   "definition": "An electrochemical cell that converts the chemical energy of a continuously supplied fuel and oxygen directly into electrical energy.",
+   "must_say": [
+    "continuous fuel supply",
+    "oxygen"
+   ],
+   "trap": "Calling it rechargeable; it is not, it just keeps being fed."
+  },
+  {
+   "term": "Reflux",
+   "definition": "Heating a reaction mixture with a condenser fitted so vapours cool and return to the flask, giving complete oxidation.",
+   "must_say": [
+    "heating with condenser",
+    "vapours return to mixture"
+   ],
+   "trap": "Mixing it up with distillation, which removes the product."
+  }
+ ],
+ "sub_topic": "R3.2",
+ "title": "Electron transfer reactions",
+ "generated_by": "sonnet",
+ "issues": [
+  "definition copies the book: Electrolytic cell"
+ ]
+}

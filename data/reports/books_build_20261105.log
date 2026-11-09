@@ -1,0 +1,98 @@
+R1.1: 19 practice, 4 worked, 3 investigations, 12 issues
+  ! practice 1 (p393): copies the book
+  ! practice 2 (p394): copies the book
+  ! practice 4 (p394): copies the book
+  ! practice 7 (p396): copies the book
+  ! practice 9 (p402): copies the book
+  ! practice 11 (p402): copies the book
+  ! practice 14 (p403): copies the book
+  ! practice 15 (p403): copies the book
+  ! practice 16 (p403): copies the book
+  ! practice 19 (p403): numbers not on the cited page: 0.0424
+  ! worked 1 (p395): copies the book
+  ! worked 2 (p395): copies the book
+R1.2: 42 practice, 5 worked, 0 investigations, 12 issues
+  ! practice 7 (p410): copies the book
+  ! practice 11 (p411): numbers not on the cited page: 0.02
+  ! practice 26 (p417): numbers not on the cited page: 1790
+  ! practice 28 (p417): numbers not on the cited page: 74, 242, 111
+  ! practice 30 (p417): numbers not on the cited page: 1411
+  ! practice 31 (p417): numbers not on the cited page: 1561
+  ! practice 34 (p422): copies the book
+  ! practice 38 (p423): numbers not on the cited page: 93
+  ! practice 39 (p423): copies the book
+  ! practice 40 (p423): numbers not on the cited page: 498, 463
+  ! practice 41 (p423): copies the book
+  ! practice 41 (p423): numbers not on the cited page: 414, 346, 498, 804, 463
+R1.1: 4 note groups, 12 definitions, 5 issues
+  ! point copies the book: ΔH⦵ is heat transferred at constant pressure under
+  ! definition copies the book: Heat
+  ! definition copies the book: Exothermic reaction
+  ! definition copies the book: Standard enthalpy change, ΔH⦵
+  ! definition copies the book: Specific heat capacity, c
+R1.2: 6 note groups, 10 definitions, 4 issues
+  ! definition copies the book: Standard enthalpy change of combustion
+  ! definition copies the book: Standard enthalpy change of formation
+  ! definition copies the book: Enthalpy of atomization
+  ! definition copies the book: Lattice enthalpy
+R1.3: 6 note groups, 9 definitions, 6 issues
+  ! point copies the book: Non-metals form non-metal oxides: non-metal + oxyg
+  ! point copies the book: Alkanes: CnH2n+2 + (3n+1)/2 O2 → nCO2 + (n+1)H2O. 
+  ! point copies the book: Alkane to CO: CnH2n+2 + (2n+1)/2 O2 → nCO + (n+1)H
+  ! point too long: Methanol cell anode: CH3OH + H2O → CO2 + 6H+ + 6e.
+  ! definition copies the book: Fuel cell
+  ! definition copies the book: Volatility
+R1.4: 5 note groups, 8 definitions, 0 issues
+R2.1: 6 note groups, 11 definitions, 3 issues
+  ! point copies the book: Coefficients can be fractions, e.g. CaC2(s) + 2.5O
+  ! point copies the book: Atom economy = (molar mass of desired product / to
+  ! definition copies the book: Theoretical yield
+R2.2: 13 note groups, 15 definitions, 1 issues
+  ! point copies the book: Two-point form: ln(k1/k2) = (Ea/R)(1/T2 − 1/T1). A
+R2.3: 7 note groups, 10 definitions, 1 issues
+  ! point copies the book: For aA + bB ⇌ xX + yY: K = [X]^x[Y]^y / ([A]^a[B]^
+R3.1: 17 note groups, 17 definitions, 4 issues
+  ! point copies the book: Net ionic carbonate equation: CO3^2–(aq) + 2H+(aq)
+  ! point copies the book: The stronger the acid, the weaker its conjugate ba
+  ! definition copies the book: Conjugate acid–base pair
+  ! definition copies the book: Amphoteric
+R3.2: 16 note groups, 20 definitions, 1 issues
+  ! definition copies the book: Electrolytic cell
+R3.3: 5 note groups, 7 definitions, 1 issues
+  ! point copies the book: Substitution replaces an atom or group in an organ
+R3.4: 13 note groups, 15 definitions, 3 issues
+  ! point copies the book: AlCl3 can act as both a Lewis acid and a Lewis bas
+  ! point copies the book: Bond enthalpies (kJ/mol): C-F 492, C-Cl 324, C-Br 
+  ! definition copies the book: Nucleophilic substitution
+S1.1: 5 note groups, 12 definitions, 0 issues
+S1.2: 5 note groups, 6 definitions, 0 issues
+S1.3: 7 note groups, 11 definitions, 2 issues
+  ! point too long: Level n has n types of sublevel: n = 1 has s only,
+  ! point too long: First IE of one atom: find f from c = fλ, then E =
+S1.4: 6 note groups, 9 definitions, 3 issues
+  ! point copies the book: The empirical formula also shows the mole ratio of
+  ! definition copies the book: Relative molecular mass
+  ! definition copies the book: Avogadro's law
+S1.5: 4 note groups, 6 definitions, 1 issues
+  ! definition copies the book: Avogadro's law
+S2.1: 5 note groups, 11 definitions, 3 issues
+  ! point copies the book: Losing electrons is oxidation, gaining is reductio
+  ! point copies the book: Ionic bonding is non-directional: each ion attract
+  ! definition copies the book: Electronegativity
+S2.2: 16 note groups, 30 definitions, 5 issues
+  ! point copies the book: Molecular polarity depends on both bond polarity a
+  ! point copies the book: Hybridization is mixing atomic orbitals to form ne
+  ! definition copies the book: Bond order
+  ! definition copies the book: Formal charge
+  ! definition copies the book: Hybridization
+S2.3: 4 note groups, 5 definitions, 3 issues
+  ! point copies the book: The lattice is made of closely packed positive ion
+  ! definition copies the book: Malleability
+  ! definition copies the book: Ductility
+S2.4: 7 note groups, 10 definitions, 3 issues
+  ! definition copies the book: Repeating unit
+  ! definition copies the book: Semiconductor
+  ! definition copies the book: Biodegradation
+S3.1: 10 note groups, 13 definitions, 0 issues
+S3.2: 12 note groups, 18 definitions, 0 issues
+done

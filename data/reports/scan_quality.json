@@ -1,0 +1,7832 @@
+{
+  "checks": {
+    "rapid_has_no_copy": 69,
+    "key_report_conflict": 7,
+    "key_report_agree": 34,
+    "key_library_agree": 235
+  },
+  "figures": {
+    "attached_diagram": 20,
+    "described": 18,
+    "described_on_library_copy": 16,
+    "attached_table": 10,
+    "figure_without_question": 2
+  },
+  "reviewed": 1,
+  "merge": {
+    "question_new": 1277,
+    "question_library_already_has": 164,
+    "question_repairs_library": 22,
+    "ms_fills_gap": 1133,
+    "ms_library_already_has": 336,
+    "question_wording_differs": 11
+  },
+  "kept_by_quality": {
+    "amber": 2166,
+    "green": 248,
+    "red": 18
+  },
+  "flags": {
+    "bad_options": 261,
+    "rapid_only": 2116,
+    "no_markscheme": 231,
+    "lost_operator": 63,
+    "unbalanced_equation": 61,
+    "needs_figure": 113,
+    "engines_disagree": 39,
+    "unknown_element": 13,
+    "lost_species": 6,
+    "key_conflict": 7,
+    "figure_undescribed": 1,
+    "ref_conflict": 11,
+    "marks_mismatch": 5,
+    "header_inferred": 2,
+    "arithmetic_mismatch": 26
+  },
+  "needs_review": [
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 1,
+      "ref": "14N.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 3,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 2,
+      "ref": "14M.1.HL.TZ2.1",
+      "kind": "past_paper",
+      "page": 4,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 3,
+      "ref": "14M.1.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 5,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 4,
+      "ref": "13N.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 6,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 5,
+      "ref": "13M.1.HL.TZ2.3",
+      "kind": "past_paper",
+      "page": 8,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 6,
+      "ref": "13M.1.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 9,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 8,
+      "ref": "12M.1.HL.TZ2.3",
+      "kind": "past_paper",
+      "page": 11,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 8,
+      "ref": "12M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 11,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 9,
+      "ref": "12M.1.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 12,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 10,
+      "ref": "11N.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 13,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 10,
+      "ref": "11N.1.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 13,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 10,
+      "ref": "11N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 14,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 11,
+      "ref": "11M.1.HL.TZ2.3",
+      "kind": "past_paper",
+      "page": 15,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 12,
+      "ref": "11M.1.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 15,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 12,
+      "ref": "11M.1.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 15,
+      "topic": 1,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 13,
+      "ref": "10N.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 16,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 13,
+      "ref": "10N.1.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 16,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 13,
+      "ref": "10N.1.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 17,
+      "topic": 1,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 14,
+      "ref": "10M.1.HL.TZ2.3",
+      "kind": "past_paper",
+      "page": 18,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 15,
+      "ref": "10M.1.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 18,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 16,
+      "ref": "09N.1.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 20,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 16,
+      "ref": "09N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 21,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 17,
+      "ref": "09M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 22,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 18,
+      "ref": "09M.1.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 23,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 19,
+      "ref": "08N.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 24,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 21,
+      "ref": "08M.1.HL.TZ1.15",
+      "kind": "past_paper",
+      "page": 25,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 22,
+      "ref": "08M.1.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 26,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 23,
+      "ref": "14N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 27,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 24,
+      "ref": "14M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 27,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 25,
+      "ref": "14M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 28,
+      "topic": 2,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 26,
+      "ref": "13N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 27,
+      "ref": "13M.1.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 28,
+      "ref": "13M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 30,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 29,
+      "ref": "12M.1.HL.TZ2.6",
+      "kind": "past_paper",
+      "page": 30,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 30,
+      "ref": "12M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 31,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 30,
+      "ref": "12M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 31,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 30,
+      "ref": "12M.1.HL.TZ1.8",
+      "kind": "past_paper",
+      "page": 31,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 32,
+      "ref": "11M.1.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 32,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 33,
+      "ref": "11M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 33,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 34,
+      "ref": "10N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 33,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 36,
+      "ref": "10M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 34,
+      "topic": 2,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 36,
+      "ref": "10M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 34,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 37,
+      "ref": "09M.1.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 35,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 37,
+      "ref": "09M.1.HL.TZ2.6",
+      "kind": "past_paper",
+      "page": 35,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 37,
+      "ref": "09M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 35,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 38,
+      "ref": "09M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 38,
+      "ref": "09M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 39,
+      "ref": "08N.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 2,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 40,
+      "ref": "08M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 40,
+      "ref": "08M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 41,
+      "ref": "08M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 42,
+      "ref": "14N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 42,
+      "ref": "14N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 43,
+      "ref": "14M.1.HL.TZ2.6",
+      "kind": "past_paper",
+      "page": 39,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 43,
+      "ref": "14M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 39,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 44,
+      "ref": "14M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 40,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 44,
+      "ref": "14M.1.HL.TZ1.7",
+      "kind": "past_paper",
+      "page": 40,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 45,
+      "ref": "13N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 41,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 45,
+      "ref": "13N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 41,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 45,
+      "ref": "13N.1.HL.TZ0.9",
+      "kind": "past_paper",
+      "page": 41,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 46,
+      "ref": "13M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 42,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 46,
+      "ref": "13M.1.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 42,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 47,
+      "ref": "13M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 42,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 47,
+      "ref": "13M.1.HL.TZ1.7",
+      "kind": "past_paper",
+      "page": 43,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 47,
+      "ref": "13M.1.HL.TZ1.8",
+      "kind": "past_paper",
+      "page": 43,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 47,
+      "ref": "13M.1.HL.TZ1.9",
+      "kind": "past_paper",
+      "page": 43,
+      "topic": 3,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 48,
+      "ref": "12N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 44,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 48,
+      "ref": "12N.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 45,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 48,
+      "ref": "12N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 45,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 48,
+      "ref": "12N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 45,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 49,
+      "ref": "12M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 46,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 50,
+      "ref": "12M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 46,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 52,
+      "ref": "11N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 52,
+      "ref": "11N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 3,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 53,
+      "ref": "11M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 48,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 55,
+      "ref": "10N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 51,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 55,
+      "ref": "10N.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 51,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 55,
+      "ref": "10N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 52,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 56,
+      "ref": "10M.1.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 53,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 57,
+      "ref": "10M.1.HL.TZ1.8",
+      "kind": "past_paper",
+      "page": 54,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 61,
+      "ref": "08N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 58,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 62,
+      "ref": "08N.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 59,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 62,
+      "ref": "08N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 60,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 63,
+      "ref": "08N.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 62,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 64,
+      "ref": "08M.1.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 62,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 65,
+      "ref": "08M.1.HL.TZ1.9",
+      "kind": "past_paper",
+      "page": 64,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 66,
+      "ref": "14N.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 66,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 67,
+      "ref": "14M.1.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 66,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 67,
+      "ref": "14M.1.HL.TZ2.13",
+      "kind": "past_paper",
+      "page": 67,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 68,
+      "ref": "14M.1.HL.TZ1.10",
+      "kind": "past_paper",
+      "page": 68,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 70,
+      "ref": "13N.1.HL.TZ0.11",
+      "kind": "past_paper",
+      "page": 71,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 70,
+      "ref": "13N.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 72,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 72,
+      "ref": "13M.1.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 73,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 72,
+      "ref": "13M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 74,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 73,
+      "ref": "13M.1.HL.TZ1.10",
+      "kind": "past_paper",
+      "page": 74,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 74,
+      "ref": "13M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 75,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 75,
+      "ref": "12N.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 77,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 76,
+      "ref": "12M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 80,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 77,
+      "ref": "12M.1.HL.TZ1.9",
+      "kind": "past_paper",
+      "page": 81,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 79,
+      "ref": "11M.1.HL.TZ1.10",
+      "kind": "past_paper",
+      "page": 85,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 79,
+      "ref": "11M.1.HL.TZ1.11",
+      "kind": "past_paper",
+      "page": 86,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 79,
+      "ref": "11M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 86,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 80,
+      "ref": "10N.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 88,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 80,
+      "ref": "10N.1.HL.TZ0.13",
+      "kind": "past_paper",
+      "page": 88,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 81,
+      "ref": "10M.1.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 89,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 81,
+      "ref": "10M.1.HL.TZ2.11",
+      "kind": "past_paper",
+      "page": 89,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 81,
+      "ref": "10M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 89,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 81,
+      "ref": "10M.1.HL.TZ2.13",
+      "kind": "past_paper",
+      "page": 90,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 82,
+      "ref": "10M.1.HL.TZ1.11",
+      "kind": "past_paper",
+      "page": 90,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 83,
+      "ref": "09N.1.HL.TZ0.11",
+      "kind": "past_paper",
+      "page": 91,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 83,
+      "ref": "09N.1.HL.TZ0.13",
+      "kind": "past_paper",
+      "page": 92,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 83,
+      "ref": "09N.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 92,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 84,
+      "ref": "09M.1.HL.TZ2.11",
+      "kind": "past_paper",
+      "page": 92,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 84,
+      "ref": "09M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 93,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 84,
+      "ref": "09M.1.HL.TZ2.15",
+      "kind": "past_paper",
+      "page": 94,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 85,
+      "ref": "09M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 95,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 87,
+      "ref": "08M.1.HL.TZ1.14",
+      "kind": "past_paper",
+      "page": 97,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 89,
+      "ref": "14M.1.HL.TZ2.18",
+      "kind": "past_paper",
+      "page": 101,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 93,
+      "ref": "13M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 110,
+      "topic": 5,
+      "flags": [
+        "no_markscheme",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 96,
+      "ref": "11N.1.HL.TZ0.10",
+      "kind": "past_paper",
+      "page": 113,
+      "topic": 5,
+      "flags": [
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 96,
+      "ref": "11N.1.HL.TZ0.11",
+      "kind": "past_paper",
+      "page": 113,
+      "topic": 5,
+      "flags": [
+        "bad_options"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 96,
+      "ref": "11N.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 113,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 96,
+      "ref": "11N.1.HL.TZ0.13",
+      "kind": "past_paper",
+      "page": 114,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "lost_operator"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 96,
+      "ref": "11N.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 114,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 99,
+      "ref": "11M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 119,
+      "topic": 5,
+      "flags": [
+        "no_markscheme",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 100,
+      "ref": "10N.1.HL.TZ0.17",
+      "kind": "past_paper",
+      "page": 120,
+      "topic": 5,
+      "flags": [
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 101,
+      "ref": "10M.1.HL.TZ2.19",
+      "kind": "past_paper",
+      "page": 122,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 101,
+      "ref": "10M.1.HL.TZ2.20",
+      "kind": "past_paper",
+      "page": 123,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 102,
+      "ref": "10M.1.HL.TZ1.17",
+      "kind": "past_paper",
+      "page": 123,
+      "topic": 5,
+      "flags": [
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 102,
+      "ref": "10M.1.HL.TZ1.18",
+      "kind": "past_paper",
+      "page": 124,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "engines_disagree",
+        "no_markscheme",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 103,
+      "ref": "09N.1.HL.TZ0.17",
+      "kind": "past_paper",
+      "page": 125,
+      "topic": 5,
+      "flags": [
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 106,
+      "ref": "08N.1.HL.TZ0.16",
+      "kind": "past_paper",
+      "page": 129,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 109,
+      "ref": "14N.1.HL.TZ0.19",
+      "kind": "past_paper",
+      "page": 134,
+      "topic": 6,
+      "flags": [
+        "lost_species"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 111,
+      "ref": "14M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 138,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 111,
+      "ref": "14M.1.HL.TZ1.21",
+      "kind": "past_paper",
+      "page": 139,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 112,
+      "ref": "13N.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 140,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 112,
+      "ref": "13N.1.HL.TZ0.21",
+      "kind": "past_paper",
+      "page": 140,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 112,
+      "ref": "13N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 141,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 113,
+      "ref": "13M.1.HL.TZ2.19",
+      "kind": "past_paper",
+      "page": 141,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 113,
+      "ref": "13M.1.HL.TZ2.20",
+      "kind": "past_paper",
+      "page": 142,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 113,
+      "ref": "13M.1.HL.TZ2.22",
+      "kind": "past_paper",
+      "page": 143,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 114,
+      "ref": "13M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 143,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 114,
+      "ref": "13M.1.HL.TZ1.20",
+      "kind": "past_paper",
+      "page": 144,
+      "topic": 6,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 114,
+      "ref": "13M.1.HL.TZ1.21",
+      "kind": "past_paper",
+      "page": 144,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 115,
+      "ref": "12N.1.HL.TZ0.19",
+      "kind": "past_paper",
+      "page": 145,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 115,
+      "ref": "12N.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 145,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 116,
+      "ref": "12M.1.HL.TZ2.16",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 116,
+      "ref": "12M.1.HL.TZ2.18",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 116,
+      "ref": "12M.1.HL.TZ2.19",
+      "kind": "past_paper",
+      "page": 148,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 117,
+      "ref": "12M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 149,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 117,
+      "ref": "12M.1.HL.TZ1.20",
+      "kind": "past_paper",
+      "page": 150,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 117,
+      "ref": "12M.1.HL.TZ1.22",
+      "kind": "past_paper",
+      "page": 151,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 118,
+      "ref": "11N.1.HL.TZ0.19",
+      "kind": "past_paper",
+      "page": 152,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 118,
+      "ref": "11N.1.HL.TZ0.21",
+      "kind": "past_paper",
+      "page": 153,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 118,
+      "ref": "11N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 154,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 119,
+      "ref": "11M.1.HL.TZ2.20",
+      "kind": "past_paper",
+      "page": 155,
+      "topic": 6,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 119,
+      "ref": "11M.1.HL.TZ2.22",
+      "kind": "past_paper",
+      "page": 156,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 120,
+      "ref": "11M.1.HL.TZ1.20",
+      "kind": "past_paper",
+      "page": 156,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 121,
+      "ref": "10N.1.HL.TZ0.19",
+      "kind": "past_paper",
+      "page": 158,
+      "topic": 6,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 122,
+      "ref": "10M.1.HL.TZ2.22",
+      "kind": "past_paper",
+      "page": 159,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 123,
+      "ref": "10M.1.HL.TZ1.20",
+      "kind": "past_paper",
+      "page": 160,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 123,
+      "ref": "10M.1.HL.TZ1.21",
+      "kind": "past_paper",
+      "page": 161,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 123,
+      "ref": "10M.1.HL.TZ1.22",
+      "kind": "past_paper",
+      "page": 161,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "lost_species",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 124,
+      "ref": "09N.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 162,
+      "topic": 6,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 125,
+      "ref": "09M.1.HL.TZ2.23",
+      "kind": "past_paper",
+      "page": 164,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 125,
+      "ref": "09M.1.HL.TZ2.24",
+      "kind": "past_paper",
+      "page": 164,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 125,
+      "ref": "09M.1.HL.TZ2.25",
+      "kind": "past_paper",
+      "page": 164,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 126,
+      "ref": "09M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 164,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 126,
+      "ref": "09M.1.HL.TZ1.21",
+      "kind": "past_paper",
+      "page": 165,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 127,
+      "ref": "08N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 167,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 127,
+      "ref": "08N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 168,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 129,
+      "ref": "08M.1.HL.TZ1.22",
+      "kind": "past_paper",
+      "page": 170,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 129,
+      "ref": "08M.1.HL.TZ1.25",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 130,
+      "ref": "14N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 7,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 130,
+      "ref": "14N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 131,
+      "ref": "14M.1.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 172,
+      "topic": 7,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 133,
+      "ref": "14M.1.HL.TZ1.22",
+      "kind": "past_paper",
+      "page": 172,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 137,
+      "ref": "12N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 175,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 141,
+      "ref": "11M.1.HL.TZ1.24",
+      "kind": "past_paper",
+      "page": 176,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 142,
+      "ref": "10N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 176,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 143,
+      "ref": "10M.1.HL.TZ2.23",
+      "kind": "past_paper",
+      "page": 177,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 145,
+      "ref": "09N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 177,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 146,
+      "ref": "09M.1.HL.TZ1.24",
+      "kind": "past_paper",
+      "page": 178,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 147,
+      "ref": "08N.1.HL.TZ0.25",
+      "kind": "past_paper",
+      "page": 178,
+      "topic": 7,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 150,
+      "ref": "14N.1.HL.TZ0.27",
+      "kind": "past_paper",
+      "page": 180,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 151,
+      "ref": "14M.1.HL.TZ2.29",
+      "kind": "past_paper",
+      "page": 182,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 151,
+      "ref": "14M.1.HL.TZ2.30",
+      "kind": "past_paper",
+      "page": 183,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 152,
+      "ref": "14M.1.HL.TZ1.26",
+      "kind": "past_paper",
+      "page": 184,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 152,
+      "ref": "14M.1.HL.TZ1.27",
+      "kind": "past_paper",
+      "page": 184,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 152,
+      "ref": "14M.1.HL.TZ1.28",
+      "kind": "past_paper",
+      "page": 187,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 153,
+      "ref": "13N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 189,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 153,
+      "ref": "13N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 189,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 154,
+      "ref": "13M.1.HL.TZ2.26",
+      "kind": "past_paper",
+      "page": 190,
+      "topic": 8,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 155,
+      "ref": "13M.1.HL.TZ1.25",
+      "kind": "past_paper",
+      "page": 191,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 155,
+      "ref": "13M.1.HL.TZ1.29",
+      "kind": "past_paper",
+      "page": 193,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 157,
+      "ref": "12M.1.HL.TZ2.23",
+      "kind": "past_paper",
+      "page": 195,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 157,
+      "ref": "12M.1.HL.TZ2.25",
+      "kind": "past_paper",
+      "page": 196,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 157,
+      "ref": "12M.1.HL.TZ2.27",
+      "kind": "past_paper",
+      "page": 197,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 158,
+      "ref": "12M.1.HL.TZ1.24",
+      "kind": "past_paper",
+      "page": 198,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 158,
+      "ref": "12M.1.HL.TZ1.25",
+      "kind": "past_paper",
+      "page": 198,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 158,
+      "ref": "12M.1.HL.TZ1.29",
+      "kind": "past_paper",
+      "page": 199,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 159,
+      "ref": "11N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 200,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 160,
+      "ref": "11M.1.HL.TZ2.25",
+      "kind": "past_paper",
+      "page": 201,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 160,
+      "ref": "11M.1.HL.TZ2.26",
+      "kind": "past_paper",
+      "page": 201,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 160,
+      "ref": "11M.1.HL.TZ2.28",
+      "kind": "past_paper",
+      "page": 202,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 160,
+      "ref": "11M.1.HL.TZ2.29",
+      "kind": "past_paper",
+      "page": 202,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 162,
+      "ref": "10N.1.HL.TZ0.26",
+      "kind": "past_paper",
+      "page": 204,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 163,
+      "ref": "10M.1.HL.TZ2.24",
+      "kind": "past_paper",
+      "page": 206,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 163,
+      "ref": "10M.1.HL.TZ2.26",
+      "kind": "past_paper",
+      "page": 206,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 164,
+      "ref": "10M.1.HL.TZ1.26",
+      "kind": "past_paper",
+      "page": 208,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 164,
+      "ref": "10M.1.HL.TZ1.28",
+      "kind": "past_paper",
+      "page": 208,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 164,
+      "ref": "10M.1.HL.TZ1.29",
+      "kind": "past_paper",
+      "page": 209,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 166,
+      "ref": "09M.1.HL.TZ2.25",
+      "kind": "past_paper",
+      "page": 210,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 166,
+      "ref": "09M.1.HL.TZ2.28",
+      "kind": "past_paper",
+      "page": 211,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 167,
+      "ref": "09M.1.HL.TZ1.26",
+      "kind": "past_paper",
+      "page": 212,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 167,
+      "ref": "09M.1.HL.TZ1.27",
+      "kind": "past_paper",
+      "page": 212,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 167,
+      "ref": "09M.1.HL.TZ1.28",
+      "kind": "past_paper",
+      "page": 212,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 167,
+      "ref": "09M.1.HL.TZ1.29",
+      "kind": "past_paper",
+      "page": 213,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 168,
+      "ref": "08N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 213,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 169,
+      "ref": "08M.1.HL.TZ2.29",
+      "kind": "past_paper",
+      "page": 215,
+      "topic": 8,
+      "flags": [
+        "lost_species",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 169,
+      "ref": "08M.1.HL.TZ2.31",
+      "kind": "past_paper",
+      "page": 215,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 170,
+      "ref": "08M.1.HL.TZ1.28",
+      "kind": "past_paper",
+      "page": 216,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 171,
+      "ref": "14N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 217,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 172,
+      "ref": "14M.1.HL.TZ2.31",
+      "kind": "past_paper",
+      "page": 219,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 172,
+      "ref": "14M.1.HL.TZ2.32",
+      "kind": "past_paper",
+      "page": 219,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 173,
+      "ref": "14M.1.HL.TZ1.30",
+      "kind": "past_paper",
+      "page": 220,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 173,
+      "ref": "14M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 221,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 173,
+      "ref": "14M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 221,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 173,
+      "ref": "14M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 221,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 174,
+      "ref": "13N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 222,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 175,
+      "ref": "13M.1.HL.TZ2.30",
+      "kind": "past_paper",
+      "page": 223,
+      "topic": 9,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 176,
+      "ref": "13M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 225,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 177,
+      "ref": "12N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 225,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 177,
+      "ref": "12N.1.HL.TZ0.31",
+      "kind": "past_paper",
+      "page": 225,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 177,
+      "ref": "12N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 226,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 178,
+      "ref": "12M.1.HL.TZ2.28",
+      "kind": "past_paper",
+      "page": 227,
+      "topic": 9,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 178,
+      "ref": "12M.1.HL.TZ2.29",
+      "kind": "past_paper",
+      "page": 227,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 179,
+      "ref": "12M.1.HL.TZ1.30",
+      "kind": "past_paper",
+      "page": 228,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 179,
+      "ref": "12M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 228,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 180,
+      "ref": "11N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 229,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 180,
+      "ref": "11N.1.HL.TZ0.31",
+      "kind": "past_paper",
+      "page": 230,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 181,
+      "ref": "11M.1.HL.TZ2.30",
+      "kind": "past_paper",
+      "page": 230,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 181,
+      "ref": "11M.1.HL.TZ2.31",
+      "kind": "past_paper",
+      "page": 231,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 181,
+      "ref": "11M.1.HL.TZ2.32",
+      "kind": "past_paper",
+      "page": 231,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 181,
+      "ref": "11M.1.HL.TZ2.33",
+      "kind": "past_paper",
+      "page": 231,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 182,
+      "ref": "11M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 232,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 183,
+      "ref": "10N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 233,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 183,
+      "ref": "10N.1.HL.TZ0.31",
+      "kind": "past_paper",
+      "page": 233,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 186,
+      "ref": "09N.1.HL.TZ0.29",
+      "kind": "past_paper",
+      "page": 236,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 187,
+      "ref": "09M.1.HL.TZ2.30",
+      "kind": "past_paper",
+      "page": 238,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 187,
+      "ref": "09M.1.HL.TZ2.31",
+      "kind": "past_paper",
+      "page": 238,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 188,
+      "ref": "09M.1.HL.TZ1.30",
+      "kind": "past_paper",
+      "page": 239,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 188,
+      "ref": "09M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 239,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 188,
+      "ref": "09M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 240,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 189,
+      "ref": "08N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 240,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 189,
+      "ref": "08N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 241,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 190,
+      "ref": "08M.1.HL.TZ2.34",
+      "kind": "past_paper",
+      "page": 242,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 190,
+      "ref": "08M.1.HL.TZ2.35",
+      "kind": "past_paper",
+      "page": 242,
+      "topic": 9,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 191,
+      "ref": "08M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 242,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 191,
+      "ref": "08M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 243,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 191,
+      "ref": "08M.1.HL.TZ1.34",
+      "kind": "past_paper",
+      "page": 243,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 191,
+      "ref": "08M.1.HL.TZ1.35",
+      "kind": "past_paper",
+      "page": 243,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 244,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 244,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.36",
+      "kind": "past_paper",
+      "page": 244,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 245,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.38",
+      "kind": "past_paper",
+      "page": 245,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 192,
+      "ref": "14N.1.HL.TZ0.39",
+      "kind": "past_paper",
+      "page": 245,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.34",
+      "kind": "past_paper",
+      "page": 247,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.35",
+      "kind": "past_paper",
+      "page": 247,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.36",
+      "kind": "past_paper",
+      "page": 248,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.37",
+      "kind": "past_paper",
+      "page": 248,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.38",
+      "kind": "past_paper",
+      "page": 249,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 194,
+      "ref": "14M.1.HL.TZ1.39",
+      "kind": "past_paper",
+      "page": 249,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 196,
+      "ref": "13M.1.HL.TZ2.34",
+      "kind": "past_paper",
+      "page": 251,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 196,
+      "ref": "13M.1.HL.TZ2.38",
+      "kind": "past_paper",
+      "page": 252,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 196,
+      "ref": "13M.1.HL.TZ2.39",
+      "kind": "past_paper",
+      "page": 253,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 199,
+      "ref": "12N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 256,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 200,
+      "ref": "12M.1.HL.TZ2.33",
+      "kind": "past_paper",
+      "page": 257,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 200,
+      "ref": "12M.1.HL.TZ2.37",
+      "kind": "past_paper",
+      "page": 259,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 200,
+      "ref": "12M.1.HL.TZ2.38",
+      "kind": "past_paper",
+      "page": 259,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 201,
+      "ref": "12M.1.HL.TZ1.35",
+      "kind": "past_paper",
+      "page": 260,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 201,
+      "ref": "12M.1.HL.TZ1.38",
+      "kind": "past_paper",
+      "page": 261,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 201,
+      "ref": "12M.1.HL.TZ1.39",
+      "kind": "past_paper",
+      "page": 261,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 202,
+      "ref": "11N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 262,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 202,
+      "ref": "11N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 262,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 202,
+      "ref": "11N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 263,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 202,
+      "ref": "11N.1.HL.TZ0.39",
+      "kind": "past_paper",
+      "page": 263,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 204,
+      "ref": "11M.1.HL.TZ1.37",
+      "kind": "past_paper",
+      "page": 268,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 207,
+      "ref": "10M.1.HL.TZ1.37",
+      "kind": "past_paper",
+      "page": 274,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 207,
+      "ref": "10M.1.HL.TZ1.39",
+      "kind": "past_paper",
+      "page": 275,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 208,
+      "ref": "09N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 275,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 208,
+      "ref": "09N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 276,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 208,
+      "ref": "09N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 276,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 208,
+      "ref": "09N.1.HL.TZ0.39",
+      "kind": "past_paper",
+      "page": 277,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 209,
+      "ref": "09M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 277,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 210,
+      "ref": "08N.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 280,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 213,
+      "ref": "14N.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 283,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 216,
+      "ref": "13N.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 284,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 218,
+      "ref": "13M.1.HL.TZ1.40",
+      "kind": "past_paper",
+      "page": 285,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 225,
+      "ref": "10M.1.HL.TZ2.40",
+      "kind": "past_paper",
+      "page": 288,
+      "topic": 11,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 229,
+      "ref": "09M.1.HL.TZ2.35",
+      "kind": "past_paper",
+      "page": 290,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 229,
+      "ref": "09M.1.HL.TZ2.37",
+      "kind": "past_paper",
+      "page": 291,
+      "topic": 11,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 47,
+      "ref": "13M.1.HL.TZ1.4",
+      "kind": "markscheme",
+      "page": 294,
+      "topic": 3,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 30,
+      "ref": "12M.1.HL.TZ1.7",
+      "kind": "markscheme",
+      "page": 294,
+      "topic": 2,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 50,
+      "ref": "12M.1.HL.TZ1.7",
+      "kind": "markscheme",
+      "page": 294,
+      "topic": 3,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 113,
+      "ref": "13M.1.HL.TZ2.21",
+      "kind": "markscheme",
+      "page": 298,
+      "topic": 6,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 123,
+      "ref": "10M.1.HL.TZ1.20",
+      "kind": "markscheme",
+      "page": 299,
+      "topic": 6,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 183,
+      "ref": "10N.1.HL.TZ0.33",
+      "kind": "markscheme",
+      "page": 302,
+      "topic": 9,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 178,
+      "ref": "12M.1.HL.TZ2.30",
+      "kind": "markscheme",
+      "page": 302,
+      "topic": 9,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2008_2014",
+      "book_q": 178,
+      "ref": "12M.1.HL.TZ2.31",
+      "kind": "markscheme",
+      "page": 302,
+      "topic": 9,
+      "flags": [
+        "key_conflict",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 3,
+      "ref": "19M.1.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 9,
+      "topic": 1,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 3,
+      "ref": "19M.1.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 9,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 6,
+      "ref": "18M.1.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 12,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 6,
+      "ref": "18M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 13,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 9,
+      "ref": "17M.1.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 15,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 9,
+      "ref": "17M.1.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 15,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 12,
+      "ref": "EXM.1.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 18,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 12,
+      "ref": "EXM.1.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 18,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only",
+        "unbalanced_equation",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 14,
+      "ref": "15M.1.HL.TZ2.3",
+      "kind": "past_paper",
+      "page": 20,
+      "topic": 1,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 16,
+      "ref": "19N.1.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 21,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 17,
+      "ref": "19M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 22,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 18,
+      "ref": "19M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 22,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 20,
+      "ref": "18M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 24,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 21,
+      "ref": "18M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 25,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 22,
+      "ref": "17N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 25,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 23,
+      "ref": "17M.1.HL.TZ2.4",
+      "kind": "past_paper",
+      "page": 26,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 24,
+      "ref": "17M.1.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 26,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 24,
+      "ref": "17M.1.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 27,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 24,
+      "ref": "17M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 27,
+      "topic": 2,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 26,
+      "ref": "16M.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 28,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 26,
+      "ref": "16M.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 2,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 26,
+      "ref": "16M.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 26,
+      "ref": "16M.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 28,
+      "ref": "19N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 30,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 30,
+      "ref": "19M.1.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 31,
+      "topic": 3,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 30,
+      "ref": "19M.1.HL.TZ1.7",
+      "kind": "past_paper",
+      "page": 32,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 30,
+      "ref": "19M.1.HL.TZ1.8",
+      "kind": "past_paper",
+      "page": 32,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 31,
+      "ref": "18N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 33,
+      "topic": 3,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 32,
+      "ref": "18M.1.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 33,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 32,
+      "ref": "18M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 34,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 33,
+      "ref": "18M.1.HL.TZ1.7",
+      "kind": "past_paper",
+      "page": 35,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 34,
+      "ref": "17N.1.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 35,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 34,
+      "ref": "17N.1.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 34,
+      "ref": "17N.1.HL.TZ0.9",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 34,
+      "ref": "17N.1.HL.TZ0.10",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 35,
+      "ref": "17M.1.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 35,
+      "ref": "17M.1.HL.TZ2.9",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 36,
+      "ref": "17M.1.HL.TZ1.7",
+      "kind": "past_paper",
+      "page": 39,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 37,
+      "ref": "16N.1.HL.TZ0.10",
+      "kind": "past_paper",
+      "page": 40,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 40,
+      "ref": "15N.1.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 45,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 40,
+      "ref": "15N.1.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 46,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 41,
+      "ref": "15M.1.HL.TZ2.6",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 3,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 41,
+      "ref": "15M.1.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 42,
+      "ref": "19N.1.HL.TZ0.13",
+      "kind": "past_paper",
+      "page": 48,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 43,
+      "ref": "19M.1.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 49,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 43,
+      "ref": "19M.1.HL.TZ2.12",
+      "kind": "past_paper",
+      "page": 49,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 44,
+      "ref": "19M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 51,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 44,
+      "ref": "19M.1.HL.TZ1.13",
+      "kind": "past_paper",
+      "page": 51,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 45,
+      "ref": "18N.1.HL.TZ0.9",
+      "kind": "past_paper",
+      "page": 52,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 45,
+      "ref": "18N.1.HL.TZ0.10",
+      "kind": "past_paper",
+      "page": 52,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 45,
+      "ref": "18N.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 53,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 46,
+      "ref": "18M.1.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 53,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 47,
+      "ref": "18M.1.HL.TZ1.11",
+      "kind": "past_paper",
+      "page": 56,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 47,
+      "ref": "18M.1.HL.TZ1.13",
+      "kind": "past_paper",
+      "page": 56,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 48,
+      "ref": "17N.1.HL.TZ0.13",
+      "kind": "past_paper",
+      "page": 57,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 48,
+      "ref": "17N.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 58,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 48,
+      "ref": "17N.1.HL.TZ0.15",
+      "kind": "past_paper",
+      "page": 58,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 49,
+      "ref": "17M.1.HL.TZ2.11",
+      "kind": "past_paper",
+      "page": 60,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 49,
+      "ref": "17M.1.HL.TZ2.15",
+      "kind": "past_paper",
+      "page": 60,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 50,
+      "ref": "17M.1.HL.TZ1.9",
+      "kind": "past_paper",
+      "page": 61,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 50,
+      "ref": "17M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 62,
+      "topic": 4,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 52,
+      "ref": "16M.1.HL.TZ0.12",
+      "kind": "past_paper",
+      "page": 65,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 52,
+      "ref": "16M.1.HL.TZ0.14",
+      "kind": "past_paper",
+      "page": 65,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 52,
+      "ref": "16M.1.HL.TZ0.15",
+      "kind": "past_paper",
+      "page": 65,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 55,
+      "ref": "15M.1.HL.TZ2.11",
+      "kind": "past_paper",
+      "page": 68,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 55,
+      "ref": "15M.1.HL.TZ2.13",
+      "kind": "past_paper",
+      "page": 69,
+      "topic": 4,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 56,
+      "ref": "15M.1.HL.TZ1.9",
+      "kind": "past_paper",
+      "page": 70,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 56,
+      "ref": "15M.1.HL.TZ1.10",
+      "kind": "past_paper",
+      "page": 70,
+      "topic": 4,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 56,
+      "ref": "15M.1.HL.TZ1.12",
+      "kind": "past_paper",
+      "page": 71,
+      "topic": 4,
+      "flags": [
+        "bad_options"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 56,
+      "ref": "15M.1.HL.TZ1.13",
+      "kind": "past_paper",
+      "page": 71,
+      "topic": 4,
+      "flags": [
+        "bad_options"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 57,
+      "ref": "19N.1.HL.TZ0.18",
+      "kind": "past_paper",
+      "page": 73,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "unbalanced_equation",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 58,
+      "ref": "19M.1.HL.TZ2.15",
+      "kind": "past_paper",
+      "page": 75,
+      "topic": 5,
+      "flags": [
+        "bad_options"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 64,
+      "ref": "17M.1.HL.TZ2.14",
+      "kind": "past_paper",
+      "page": 84,
+      "topic": 5,
+      "flags": [
+        "needs_figure"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 68,
+      "ref": "EXM.1.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 90,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 69,
+      "ref": "EXM.1.HL.TZ0.16",
+      "kind": "past_paper",
+      "page": 91,
+      "topic": 5,
+      "flags": [
+        "figure_undescribed"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 70,
+      "ref": "EXM.1.HL.TZ0.17",
+      "kind": "past_paper",
+      "page": 92,
+      "topic": 5,
+      "flags": [
+        "bad_options",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 70,
+      "ref": "EXM.1.HL.TZ0.18",
+      "kind": "past_paper",
+      "page": 92,
+      "topic": 5,
+      "flags": [
+        "bad_options"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 71,
+      "ref": "15N.1.HL.TZ0.19",
+      "kind": "past_paper",
+      "page": 94,
+      "topic": 5,
+      "flags": [
+        "needs_figure"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 74,
+      "ref": "19N.1.HL.TZ0.21",
+      "kind": "past_paper",
+      "page": 99,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 75,
+      "ref": "19M.1.HL.TZ2.18",
+      "kind": "past_paper",
+      "page": 101,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 76,
+      "ref": "19M.1.HL.TZ1.18",
+      "kind": "past_paper",
+      "page": 103,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 76,
+      "ref": "19M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 103,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 76,
+      "ref": "19M.1.HL.TZ1.20",
+      "kind": "past_paper",
+      "page": 104,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 81,
+      "ref": "17N.1.HL.TZ0.21",
+      "kind": "past_paper",
+      "page": 110,
+      "topic": 6,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 82,
+      "ref": "17M.1.HL.TZ2.20",
+      "kind": "past_paper",
+      "page": 111,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 83,
+      "ref": "17M.1.HL.TZ1.19",
+      "kind": "past_paper",
+      "page": 113,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 83,
+      "ref": "17M.1.HL.TZ1.21",
+      "kind": "past_paper",
+      "page": 114,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 84,
+      "ref": "16N.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 115,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 85,
+      "ref": "EXM.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 116,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 85,
+      "ref": "EXM.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 117,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "lost_species",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 85,
+      "ref": "EXM.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 117,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 86,
+      "ref": "15N.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 118,
+      "topic": 6,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 87,
+      "ref": "15M.1.HL.TZ2.19",
+      "kind": "past_paper",
+      "page": 119,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 89,
+      "ref": "19N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 121,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 94,
+      "ref": "18M.1.HL.TZ1.23",
+      "kind": "past_paper",
+      "page": 124,
+      "topic": 7,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 95,
+      "ref": "17N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 124,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 97,
+      "ref": "17M.1.HL.TZ1.22",
+      "kind": "past_paper",
+      "page": 125,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 98,
+      "ref": "16N.1.HL.TZ0.25",
+      "kind": "past_paper",
+      "page": 126,
+      "topic": 7,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 99,
+      "ref": "16M.1.HL.TZ0.20",
+      "kind": "past_paper",
+      "page": 127,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 99,
+      "ref": "16M.1.HL.TZ0.21",
+      "kind": "past_paper",
+      "page": 127,
+      "topic": 7,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 99,
+      "ref": "16M.1.HL.TZ0.22",
+      "kind": "past_paper",
+      "page": 128,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 99,
+      "ref": "16M.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 129,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 101,
+      "ref": "EXM.1.HL.TZ0.24",
+      "kind": "past_paper",
+      "page": 130,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 101,
+      "ref": "EXM.1.HL.TZ0.25",
+      "kind": "past_paper",
+      "page": 130,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 102,
+      "ref": "15N.1.HL.TZ0.23",
+      "kind": "past_paper",
+      "page": 131,
+      "topic": 7,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 105,
+      "ref": "19N.1.HL.TZ0.27",
+      "kind": "past_paper",
+      "page": 133,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 105,
+      "ref": "19N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 133,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 106,
+      "ref": "19M.1.HL.TZ2.26",
+      "kind": "past_paper",
+      "page": 134,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 107,
+      "ref": "19M.1.HL.TZ1.25",
+      "kind": "past_paper",
+      "page": 135,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 108,
+      "ref": "18N.1.HL.TZ0.27",
+      "kind": "past_paper",
+      "page": 136,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 109,
+      "ref": "18M.1.HL.TZ2.27",
+      "kind": "past_paper",
+      "page": 137,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 110,
+      "ref": "18M.1.HL.TZ1.25",
+      "kind": "past_paper",
+      "page": 139,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 111,
+      "ref": "17N.1.HL.TZ0.26",
+      "kind": "past_paper",
+      "page": 140,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 111,
+      "ref": "17N.1.HL.TZ0.27",
+      "kind": "past_paper",
+      "page": 141,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 111,
+      "ref": "17N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 141,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 113,
+      "ref": "17M.1.HL.TZ1.27",
+      "kind": "past_paper",
+      "page": 143,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 114,
+      "ref": "16N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 144,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 115,
+      "ref": "16M.1.HL.TZ0.27",
+      "kind": "past_paper",
+      "page": 145,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 115,
+      "ref": "16M.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 145,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 115,
+      "ref": "16M.1.HL.TZ0.29",
+      "kind": "past_paper",
+      "page": 146,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 116,
+      "ref": "EXM.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 116,
+      "ref": "EXM.1.HL.TZ0.29",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 117,
+      "ref": "15N.1.HL.TZ0.25",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 117,
+      "ref": "15N.1.HL.TZ0.26",
+      "kind": "past_paper",
+      "page": 148,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 117,
+      "ref": "15N.1.HL.TZ0.28",
+      "kind": "past_paper",
+      "page": 148,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 117,
+      "ref": "15N.1.HL.TZ0.29",
+      "kind": "past_paper",
+      "page": 148,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 118,
+      "ref": "15M.1.HL.TZ2.27",
+      "kind": "past_paper",
+      "page": 150,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 118,
+      "ref": "15M.1.HL.TZ2.28",
+      "kind": "past_paper",
+      "page": 150,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 119,
+      "ref": "15M.1.HL.TZ1.27",
+      "kind": "past_paper",
+      "page": 152,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 119,
+      "ref": "15M.1.HL.TZ1.29",
+      "kind": "past_paper",
+      "page": 152,
+      "topic": 8,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 119,
+      "ref": "15M.1.HL.TZ1.30",
+      "kind": "past_paper",
+      "page": 153,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 119,
+      "ref": "15M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 153,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 119,
+      "ref": "15M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 154,
+      "topic": 8,
+      "flags": [
+        "lost_operator",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 121,
+      "ref": "19M.1.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 154,
+      "topic": 9,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 121,
+      "ref": "19M.1.HL.TZ2.29",
+      "kind": "past_paper",
+      "page": 155,
+      "topic": 9,
+      "flags": [
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 123,
+      "ref": "19M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 156,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 127,
+      "ref": "17N.1.HL.TZ0.32",
+      "kind": "past_paper",
+      "page": 162,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 128,
+      "ref": "17M.1.HL.TZ2.28",
+      "kind": "past_paper",
+      "page": 162,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 128,
+      "ref": "17M.1.HL.TZ2.31",
+      "kind": "past_paper",
+      "page": 163,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 130,
+      "ref": "16N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 166,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 132,
+      "ref": "EXM.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 167,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 132,
+      "ref": "EXM.1.HL.TZ0.31",
+      "kind": "past_paper",
+      "page": 167,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 132,
+      "ref": "EXM.1.HL.TZ0.32",
+      "kind": "past_paper",
+      "page": 168,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 132,
+      "ref": "EXM.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 168,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 133,
+      "ref": "15N.1.HL.TZ0.30",
+      "kind": "past_paper",
+      "page": 169,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 133,
+      "ref": "15N.1.HL.TZ0.33",
+      "kind": "past_paper",
+      "page": 169,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 135,
+      "ref": "15M.1.HL.TZ1.30",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 135,
+      "ref": "15M.1.HL.TZ1.31",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 9,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 135,
+      "ref": "15M.1.HL.TZ1.32",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 135,
+      "ref": "15M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 171,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 136,
+      "ref": "19N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 172,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 136,
+      "ref": "19N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 173,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 136,
+      "ref": "19N.1.HL.TZ0.36",
+      "kind": "past_paper",
+      "page": 173,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 136,
+      "ref": "19N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 173,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 136,
+      "ref": "19N.1.HL.TZ0.38",
+      "kind": "past_paper",
+      "page": 173,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 137,
+      "ref": "19M.1.HL.TZ2.35",
+      "kind": "past_paper",
+      "page": 175,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 137,
+      "ref": "19M.1.HL.TZ2.37",
+      "kind": "past_paper",
+      "page": 175,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 142,
+      "ref": "18M.1.HL.TZ1.34",
+      "kind": "past_paper",
+      "page": 182,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 143,
+      "ref": "17N.1.HL.TZ0.11",
+      "kind": "past_paper",
+      "page": 183,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 143,
+      "ref": "17N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 184,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 143,
+      "ref": "17N.1.HL.TZ0.36",
+      "kind": "past_paper",
+      "page": 184,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 143,
+      "ref": "17N.1.HL.TZ0.38",
+      "kind": "past_paper",
+      "page": 185,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 146,
+      "ref": "17M.1.HL.TZ1.33",
+      "kind": "past_paper",
+      "page": 188,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 146,
+      "ref": "17M.1.HL.TZ1.36",
+      "kind": "past_paper",
+      "page": 189,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 147,
+      "ref": "16N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 190,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 147,
+      "ref": "16N.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 190,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 147,
+      "ref": "16N.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 191,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 147,
+      "ref": "16N.1.HL.TZ0.38",
+      "kind": "past_paper",
+      "page": 192,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 147,
+      "ref": "16N.1.HL.TZ0.39",
+      "kind": "past_paper",
+      "page": 192,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 149,
+      "ref": "EXM.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 192,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 149,
+      "ref": "EXM.1.HL.TZ0.35",
+      "kind": "past_paper",
+      "page": 193,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 149,
+      "ref": "EXM.1.HL.TZ0.36",
+      "kind": "past_paper",
+      "page": 193,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 149,
+      "ref": "EXM.1.HL.TZ0.37",
+      "kind": "past_paper",
+      "page": 193,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 150,
+      "ref": "15N.1.HL.TZ0.34",
+      "kind": "past_paper",
+      "page": 193,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 150,
+      "ref": "15N.1.HL.TZ0.39",
+      "kind": "past_paper",
+      "page": 195,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 152,
+      "ref": "15M.1.HL.TZ1.38",
+      "kind": "past_paper",
+      "page": 199,
+      "topic": 10,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 153,
+      "ref": "19N.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 200,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 154,
+      "ref": "19M.1.HL.TZ2.40",
+      "kind": "past_paper",
+      "page": 201,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "lost_operator",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 157,
+      "ref": "18M.1.HL.TZ2.38",
+      "kind": "past_paper",
+      "page": 203,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 158,
+      "ref": "18M.1.HL.TZ1.40",
+      "kind": "past_paper",
+      "page": 205,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 160,
+      "ref": "17M.1.HL.TZ2.39",
+      "kind": "past_paper",
+      "page": 208,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 161,
+      "ref": "17M.1.HL.TZ1.40",
+      "kind": "past_paper",
+      "page": 209,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 163,
+      "ref": "16M.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 210,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 165,
+      "ref": "15N.1.HL.TZ0.40",
+      "kind": "past_paper",
+      "page": 213,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p1_2015_2019",
+      "book_q": 167,
+      "ref": "15M.1.HL.TZ1.40",
+      "kind": "past_paper",
+      "page": 213,
+      "topic": 11,
+      "flags": [
+        "bad_options",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 2,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 6,
+      "topic": 1,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 17,
+      "ref": "16M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 17,
+      "topic": 1,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 19,
+      "ref": "15M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 21,
+      "topic": 1,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 24,
+      "ref": "EXM.2.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 25,
+      "topic": 2,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 25,
+      "ref": "16M.2.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 26,
+      "topic": 2,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 27,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 28,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 29,
+      "ref": "18N.2.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 29,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 30,
+      "ref": "18M.2.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 30,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 33,
+      "ref": "17M.2.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 31,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 38,
+      "ref": "15N.2.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 41,
+      "ref": "15M.2.HL.TZ2.9",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 42,
+      "ref": "15M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 3,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 43,
+      "ref": "15M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 3,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 47,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 40,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 48,
+      "ref": "19N.2.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 41,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 50,
+      "ref": "18M.2.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 44,
+      "topic": 4,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 53,
+      "ref": "18M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 4,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 58,
+      "ref": "17M.2.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 51,
+      "topic": 4,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 69,
+      "ref": "15M.2.HL.TZ2.9",
+      "kind": "past_paper",
+      "page": 62,
+      "topic": 4,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 70,
+      "ref": "15M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 64,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 76,
+      "ref": "15M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 66,
+      "topic": 4,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 77,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 67,
+      "topic": 5,
+      "flags": [
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 78,
+      "ref": "19N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 68,
+      "topic": 5,
+      "flags": [
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 80,
+      "ref": "18N.2.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 69,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "marks_mismatch"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 83,
+      "ref": "18M.2.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 71,
+      "topic": 5,
+      "flags": [
+        "header_inferred",
+        "marks_mismatch"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 85,
+      "ref": "17M.2.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 74,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "marks_mismatch",
+        "needs_figure"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 87,
+      "ref": "EXM.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 78,
+      "topic": 5,
+      "flags": [
+        "marks_mismatch"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 89,
+      "ref": "EXM.2.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 80,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 93,
+      "ref": "16M.2.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 82,
+      "topic": 5,
+      "flags": [
+        "header_inferred"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 100,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 89,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 101,
+      "ref": "19N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 90,
+      "topic": 6,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 102,
+      "ref": "18N.2.HL.TZ0.10",
+      "kind": "past_paper",
+      "page": 91,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 104,
+      "ref": "18M.2.HL.TZ1.4",
+      "kind": "past_paper",
+      "page": 93,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 105,
+      "ref": "17M.2.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 95,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 106,
+      "ref": "17M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 97,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 107,
+      "ref": "16N.2.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 101,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 109,
+      "ref": "16M.2.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 105,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 111,
+      "ref": "15N.2.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 108,
+      "topic": 6,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 120,
+      "ref": "EXM.2.HL.TZ0.2",
+      "kind": "past_paper",
+      "page": 115,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 121,
+      "ref": "16M.2.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 116,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 123,
+      "ref": "15M.2.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 118,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 124,
+      "ref": "15M.2.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 119,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 125,
+      "ref": "15M.2.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 120,
+      "topic": 7,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 126,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 121,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 127,
+      "ref": "19N.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 122,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 128,
+      "ref": "19N.2.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 123,
+      "topic": 8,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 129,
+      "ref": "18N.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 124,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 132,
+      "ref": "17M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 128,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 133,
+      "ref": "17M.2.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 130,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 135,
+      "ref": "16N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 133,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 142,
+      "ref": "15N.2.HL.TZ0.8",
+      "kind": "past_paper",
+      "page": 140,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 144,
+      "ref": "15M.2.HL.TZ2.7",
+      "kind": "past_paper",
+      "page": 144,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 146,
+      "ref": "15M.2.HL.TZ1.8",
+      "kind": "past_paper",
+      "page": 147,
+      "topic": 8,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 148,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 150,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 149,
+      "ref": "19N.2.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 153,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 153,
+      "ref": "18M.2.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 156,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 157,
+      "ref": "17M.2.HL.TZ1.3",
+      "kind": "past_paper",
+      "page": 159,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 161,
+      "ref": "EXM.2.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 163,
+      "topic": 9,
+      "flags": [
+        "lost_species",
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 165,
+      "ref": "15M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 168,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 166,
+      "ref": "15M.2.HL.TZ2.8",
+      "kind": "past_paper",
+      "page": 168,
+      "topic": 9,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 170,
+      "ref": "15M.2.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 172,
+      "topic": 9,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 171,
+      "ref": "19N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 173,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 184,
+      "ref": "EXM.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 184,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 186,
+      "ref": "EXM.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 186,
+      "topic": 10,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 190,
+      "ref": "15N.2.HL.TZ0.9",
+      "kind": "past_paper",
+      "page": 191,
+      "topic": 10,
+      "flags": [
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 191,
+      "ref": "15M.2.HL.TZ2.10",
+      "kind": "past_paper",
+      "page": 194,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 192,
+      "ref": "15M.2.HL.TZ2.5",
+      "kind": "past_paper",
+      "page": 199,
+      "topic": 10,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 196,
+      "ref": "19N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 203,
+      "topic": 11,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 197,
+      "ref": "19N.2.HL.TZ0.3",
+      "kind": "past_paper",
+      "page": 203,
+      "topic": 11,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 203,
+      "ref": "18M.2.HL.TZ1.1",
+      "kind": "past_paper",
+      "page": 206,
+      "topic": 11,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 205,
+      "ref": "EXM.2.HL.TZ0.7",
+      "kind": "past_paper",
+      "page": 209,
+      "topic": 11,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 206,
+      "ref": "16M.2.HL.TZ1.2",
+      "kind": "past_paper",
+      "page": 212,
+      "topic": 11,
+      "flags": [
+        "needs_figure",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 208,
+      "ref": "15N.2.HL.TZ0.1",
+      "kind": "past_paper",
+      "page": 215,
+      "topic": 11,
+      "flags": [
+        "no_markscheme",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 210,
+      "ref": "15M.2.HL.TZ2.9",
+      "kind": "past_paper",
+      "page": 216,
+      "topic": 11,
+      "flags": [
+        "no_markscheme",
+        "rapid_only",
+        "ref_conflict"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 1,
+      "ref": "19N.2.HL.TZ0.7",
+      "kind": "markscheme",
+      "page": 219,
+      "topic": null,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 16,
+      "ref": "EXM.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 223,
+      "topic": 1,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 17,
+      "ref": "16M.2.HL.TZ1.1",
+      "kind": "markscheme",
+      "page": 223,
+      "topic": 1,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 18,
+      "ref": "15N.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 224,
+      "topic": 1,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 19,
+      "ref": "15M.2.HL.TZ1.1",
+      "kind": "markscheme",
+      "page": 225,
+      "topic": 1,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 37,
+      "ref": "16M.2.HL.TZ1.4",
+      "kind": "markscheme",
+      "page": 230,
+      "topic": 3,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 45,
+      "ref": "15M.2.HL.TZ1.2",
+      "kind": "markscheme",
+      "page": 232,
+      "topic": 4,
+      "flags": [
+        "rapid_only",
+        "unbalanced_equation",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 79,
+      "ref": "18N.2.HL.TZ0.7",
+      "kind": "markscheme",
+      "page": 245,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 87,
+      "ref": "EXM.2.HL.TZ0.6",
+      "kind": "markscheme",
+      "page": 249,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 91,
+      "ref": "16M.2.HL.TZ1.1",
+      "kind": "markscheme",
+      "page": 250,
+      "topic": null,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 108,
+      "ref": "EXM.2.HL.TZ0.4",
+      "kind": "markscheme",
+      "page": 260,
+      "topic": 6,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 111,
+      "ref": "15N.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 261,
+      "topic": 6,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 113,
+      "ref": "15M.2.HL.TZ1.7",
+      "kind": "markscheme",
+      "page": 262,
+      "topic": 6,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 137,
+      "ref": "EXM.2.HL.TZ0.3",
+      "kind": "markscheme",
+      "page": 273,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 138,
+      "ref": "16M.2.HL.TZ1.2",
+      "kind": "markscheme",
+      "page": 274,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 142,
+      "ref": "15N.2.HL.TZ0.8",
+      "kind": "markscheme",
+      "page": 275,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 144,
+      "ref": "15M.2.HL.TZ1.7",
+      "kind": "markscheme",
+      "page": 276,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 145,
+      "ref": "15M.2.HL.TZ2.4",
+      "kind": "markscheme",
+      "page": 277,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 146,
+      "ref": "15M.2.HL.TZ1.8",
+      "kind": "markscheme",
+      "page": 278,
+      "topic": 8,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 149,
+      "ref": "19N.2.HL.TZ0.2",
+      "kind": "markscheme",
+      "page": 281,
+      "topic": 9,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 165,
+      "ref": "15M.2.HL.TZ1.8",
+      "kind": "markscheme",
+      "page": 285,
+      "topic": 9,
+      "flags": [
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 185,
+      "ref": "EXM.2.HL.TZ0.7",
+      "kind": "markscheme",
+      "page": 294,
+      "topic": 10,
+      "flags": [
+        "rapid_only",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 190,
+      "ref": "15N.2.HL.TZ0.9",
+      "kind": "markscheme",
+      "page": 296,
+      "topic": 10,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 191,
+      "ref": "15M.2.HL.TZ1.10",
+      "kind": "markscheme",
+      "page": 298,
+      "topic": 10,
+      "flags": [
+        "lost_species",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 197,
+      "ref": "19N.2.HL.TZ0.2",
+      "kind": "markscheme",
+      "page": 303,
+      "topic": 11,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 212,
+      "ref": "15N.2.HL.TZ0.9",
+      "kind": "markscheme",
+      "page": 309,
+      "topic": 11,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_2015_2019",
+      "book_q": 213,
+      "ref": "15M.2.HL.TZ1.7",
+      "kind": "markscheme",
+      "page": 312,
+      "topic": 11,
+      "flags": [
+        "arithmetic_mismatch",
+        "rapid_only"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 14,
+      "ref": "00N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 25,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "needs_figure",
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 18,
+      "ref": "12N.2.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 33,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "marks_mismatch"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 19,
+      "ref": "12N.2.HL.TZ0.5",
+      "kind": "past_paper",
+      "page": 36,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "needs_figure"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 20,
+      "ref": "12M.2.HL.TZ1.5",
+      "kind": "past_paper",
+      "page": 37,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 21,
+      "ref": "10N.2.HL.TZ0.4",
+      "kind": "past_paper",
+      "page": 38,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 25,
+      "ref": "09M.2.HL.TZ1.6",
+      "kind": "past_paper",
+      "page": 43,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 27,
+      "ref": "08M.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 46,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 28,
+      "ref": "07M.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 29,
+      "ref": "06N.2.HL.TZ0.9",
+      "kind": "past_paper",
+      "page": 47,
+      "topic": 5,
+      "flags": [
+        "needs_figure"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 32,
+      "ref": "01N.2.HL.TZ0.6",
+      "kind": "past_paper",
+      "page": 49,
+      "topic": 5,
+      "flags": [
+        "needs_figure",
+        "no_markscheme"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 2,
+      "ref": "11N.2.HL.TZ0.5",
+      "kind": "markscheme",
+      "page": 50,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 3,
+      "ref": "11M.2.HL.TZ1.1",
+      "kind": "markscheme",
+      "page": 51,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 6,
+      "ref": "06N.2.HL.TZ0.2",
+      "kind": "markscheme",
+      "page": 53,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch",
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 7,
+      "ref": "06M.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 53,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 8,
+      "ref": "05M.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 54,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch",
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 9,
+      "ref": "04N.2.HL.TZ0.3",
+      "kind": "markscheme",
+      "page": 54,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 10,
+      "ref": "03N.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 56,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 11,
+      "ref": "02N.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 57,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 12,
+      "ref": "01N.2.HL.TZ0.1",
+      "kind": "markscheme",
+      "page": 57,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "unbalanced_equation",
+        "unknown_element"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 17,
+      "ref": "13M.2.HL.TZ1.8",
+      "kind": "markscheme",
+      "page": 61,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 18,
+      "ref": "12N.2.HL.TZ0.5",
+      "kind": "markscheme",
+      "page": 62,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 19,
+      "ref": "12N.2.HL.TZ0.5",
+      "kind": "markscheme",
+      "page": 64,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 20,
+      "ref": "12M.2.HL.TZ1.5",
+      "kind": "markscheme",
+      "page": 64,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 21,
+      "ref": "10N.2.HL.TZ0.4",
+      "kind": "markscheme",
+      "page": 65,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 22,
+      "ref": "10N.2.HL.TZ0.7",
+      "kind": "markscheme",
+      "page": 67,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch",
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 23,
+      "ref": "10M.2.HL.TZ1.5",
+      "kind": "markscheme",
+      "page": 67,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 24,
+      "ref": "09N.2.HL.TZ0.7",
+      "kind": "markscheme",
+      "page": 68,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch",
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 26,
+      "ref": "08N.2.HL.TZ0.5",
+      "kind": "markscheme",
+      "page": 70,
+      "topic": 5,
+      "flags": [
+        "arithmetic_mismatch",
+        "engines_disagree",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 27,
+      "ref": "08M.2.HL.TZ0.6",
+      "kind": "markscheme",
+      "page": 72,
+      "topic": 5,
+      "flags": [
+        "engines_disagree",
+        "unbalanced_equation"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 30,
+      "ref": "05N.2.HL.TZ0.5",
+      "kind": "markscheme",
+      "page": 74,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    },
+    {
+      "doc_id": "smash_p2_t5_1999_2013",
+      "book_q": 31,
+      "ref": "04M.2.HL.TZ0.9",
+      "kind": "markscheme",
+      "page": 76,
+      "topic": 5,
+      "flags": [
+        "engines_disagree"
+      ]
+    }
+  ],
+  "coverage": {
+    "smash_p1_2008_2014": {
+      "question_blocks": 224,
+      "markscheme_blocks": 220,
+      "gaps": [
+        212
+      ],
+      "questions_without_markscheme": [
+        43,
+        133,
+        141,
+        146,
+        167,
+        173,
+        181,
+        191,
+        192,
+        194
+      ],
+      "markschemes_without_question": [
+        94,
+        193,
+        203,
+        211,
+        214,
+        219
+      ],
+      "unread_headers": []
+    },
+    "smash_p1_2015_2019": {
+      "question_blocks": 130,
+      "markscheme_blocks": 167,
+      "gaps": [],
+      "questions_without_markscheme": [],
+      "markschemes_without_question": [
+        4,
+        7,
+        10,
+        11,
+        13,
+        15,
+        19,
+        25,
+        27,
+        38,
+        39,
+        53,
+        60,
+        62,
+        78,
+        79,
+        93,
+        103,
+        104,
+        120,
+        122,
+        124,
+        125,
+        129,
+        131,
+        134,
+        138,
+        139,
+        140,
+        144,
+        148,
+        151,
+        155,
+        156,
+        159,
+        162,
+        164
+      ],
+      "unread_headers": []
+    },
+    "smash_p2_2015_2019": {
+      "question_blocks": 204,
+      "markscheme_blocks": 211,
+      "gaps": [],
+      "questions_without_markscheme": [
+        38,
+        78
+      ],
+      "markschemes_without_question": [
+        1,
+        7,
+        20,
+        46,
+        61,
+        91,
+        140,
+        150,
+        182
+      ],
+      "unread_headers": []
+    },
+    "smash_p2_t5_1999_2013": {
+      "question_blocks": 0,
+      "markscheme_blocks": 0,
+      "gaps": [],
+      "questions_without_markscheme": [],
+      "markschemes_without_question": [],
+      "unread_headers": []
+    }
+  }
+}

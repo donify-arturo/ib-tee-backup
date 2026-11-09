@@ -1,0 +1,13 @@
+skip R3.2: deck exists
+skip S1.5: deck exists
+=== S2.2 started 2026-11-05 21:01:49
+14 cards, 3 validation issues → data/techniques/S2.2.json
+S2.2 exit 0; window spend 2.33 of 6; 21:21:04
+skip S2.1: deck exists
+skip S3.2: deck exists
+skip R2.1: deck exists
+skip R3.4: deck exists
+=== R2.2 started 2026-11-05 21:21:04
+10 cards, 9 validation issues → data/techniques/R2.2.json
+R2.2 exit 0; window spend 4.27 of 6; 21:29:51
+=== R1.3 started 2026-11-05 21:29:51

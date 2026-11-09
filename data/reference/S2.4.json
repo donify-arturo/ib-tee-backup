@@ -1,0 +1,183 @@
+{
+ "notes": [
+  {
+   "heading": "Bonding continuum and the bonding triangle",
+   "understanding": "S2.4.1",
+   "points": [
+    "Real bonding is a continuum between ionic, covalent and metallic models, not three separate boxes.",
+    "A bonding triangle shows this, with ionic, covalent and metallic at the three corners; the data booklet provides it.",
+    "It merges the ionic–covalent continuum (electronegativity difference) with the metallic–covalent continuum (mean electronegativity).",
+    "Many materials don't behave typically for their bonding type; mixed bonding explains property variation within a category."
+   ]
+  },
+  {
+   "heading": "Locating a compound in the triangle",
+   "understanding": "S2.4.2",
+   "points": [
+    "Position depends on the relative contributions of ionic, covalent and metallic bonding to the overall bond.",
+    "Electronegativity difference Δχ = larger minus smaller value: the ionic–covalent parameter. Higher Δχ means more ionic.",
+    "Mean electronegativity χ = (sum of the two values) ÷ 2: the metallic–covalent parameter. Low χ means more metallic.",
+    "Electronegativity values come from the data booklet. Only binary compounds are considered; no percentage ionic character calculations.",
+    "Same atoms give the same position whatever the bond order or formula, e.g. NO and NO2 share one point.",
+    "Examples: CF4 (Δχ 1.4, χ 3.3) polar covalent; Si (Δχ 0, χ 1.9) between metallic and covalent; BaI2 ionic."
+   ]
+  },
+  {
+   "heading": "Properties of mixed-bonding substances",
+   "understanding": "S2.4.2",
+   "points": [
+    "Silicon, between metallic and covalent, is a lustrous, brittle, network-structured semiconductor whose conductivity rises with heat, light or impurities.",
+    "Partial covalent character makes experimental lattice enthalpy exceed the purely ionic theoretical value, as in AgCl compared with NaCl.",
+    "AlCl3 sits on the ionic/polar covalent boundary: low melting point, forms Al2Cl6 dimers, and dissolves in non-polar solvents.",
+    "So the triangle cannot always predict properties, especially for mixed bonding.",
+    "Silver halides (more covalent) have melting points depending on London forces; potassium halides (ionic) fall as anion size grows."
+   ]
+  },
+  {
+   "heading": "Alloys and their enhanced properties",
+   "understanding": "S2.4.3",
+   "points": [
+    "An alloy is a mixture of a metal with other metals or non-metals; the composition ratio can vary.",
+    "Alloys keep the delocalized electron sea, so they still conduct and are lustrous.",
+    "Atoms of different size disrupt the regular lattice, so layers slide less easily: alloys are harder and stronger than pure metals.",
+    "Examples: steel (iron and carbon), bronze (copper and tin), brass (copper and zinc), stainless steel (iron with at least 11% chromium, protective oxide layer)."
+   ]
+  },
+  {
+   "heading": "Polymers: monomers and repeating units",
+   "understanding": "S2.4.4",
+   "points": [
+    "Polymers are macromolecules made of many monomers joined end to end by covalent bonds; the process is polymerization.",
+    "Draw a repeating unit in brackets with bonds crossing the brackets and subscript n after it.",
+    "Natural polymers: starch, cellulose, proteins, DNA, silk. Synthetic: polyethene, nylon, PET, Kevlar.",
+    "Polymers are strong with low conductivity, and relatively high melting points because of many intermolecular forces and entangled chains.",
+    "Plastics resist biodegradation because they are inert and lack reactive groups; crosslinking limits microbial access."
+   ]
+  },
+  {
+   "heading": "Addition polymerization of alkenes",
+   "understanding": "S2.4.5",
+   "points": [
+    "Monomers contain a C=C double bond; one bond opens and each carbon bonds to a neighbouring monomer.",
+    "n CH2=CH2 gives poly(ethene), a chain of n repeating units; no other product forms.",
+    "Any monomer with a C=C bond can do this, e.g. chloroethene gives PVC and propene gives polypropene.",
+    "PVC is stronger than polyethene because polar C–Cl bonds add dipole–dipole forces to London forces.",
+    "To find a monomer from a polymer, take the repeating unit of two chain carbons and restore the double bond."
+   ]
+  },
+  {
+   "heading": "Condensation polymers and hydrolysis",
+   "understanding": "S2.4.6",
+   "points": [
+    "Monomers with two reactive functional groups react to form linkages, releasing a small molecule such as water or HCl each time.",
+    "Dicarboxylic acid plus diol gives a polyester with ester linkages, alternating ABAB; water is released.",
+    "Dicarboxylic acid plus diamine gives a polyamide (nylon-6,6) with amide linkages; water is released.",
+    "A monomer with two different end groups can polymerize with itself, e.g. 3-hydroxypentanoic acid.",
+    "2-Amino acids form polypeptides via amide (peptide) bonds, releasing water.",
+    "All biological macromolecules form by condensation and break down by hydrolysis, which adds water to split the linkage."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Alloy",
+   "definition": "A mixture of a metal with other metals or non-metals, which has enhanced properties compared with the pure metal.",
+   "must_say": [
+    "mixture",
+    "metal",
+    "other metals or non-metals"
+   ],
+   "trap": "Calling an alloy a compound; its component ratio can vary."
+  },
+  {
+   "term": "Polymer",
+   "definition": "A macromolecule, a very large molecule, made of many repeating subunits (monomers) joined by covalent bonds.",
+   "must_say": [
+    "large molecule",
+    "repeating subunits",
+    "monomers"
+   ],
+   "trap": "Forgetting that polymers are built from repeating monomer units."
+  },
+  {
+   "term": "Monomer",
+   "definition": "A small molecule that joins end to end with others in polymerization to form a polymer chain.",
+   "must_say": [
+    "small molecule",
+    "joins to form polymer"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Repeating unit",
+   "definition": "The group of atoms that appears repeatedly along a polymer chain, used to describe the polymer's structure.",
+   "must_say": [
+    "group of atoms",
+    "repeats along chain"
+   ],
+   "trap": "Drawing it without bonds crossing the brackets or without subscript n."
+  },
+  {
+   "term": "Addition polymerization",
+   "definition": "Monomers containing a C=C double bond join as the double bond breaks, forming a polymer with no other product.",
+   "must_say": [
+    "double bond breaks",
+    "monomers join"
+   ],
+   "trap": "Saying a small molecule is released; that is condensation."
+  },
+  {
+   "term": "Condensation polymerization",
+   "definition": "Monomers with reactive functional groups at each end react to form linkages, releasing a small molecule such as water for each link.",
+   "must_say": [
+    "functional groups react",
+    "small molecule released"
+   ],
+   "trap": "Omitting the small molecule that is lost at each linkage."
+  },
+  {
+   "term": "Hydrolysis",
+   "definition": "The reverse of condensation: a molecule of water splits the linkage formed by condensation.",
+   "must_say": [
+    "water splits linkage"
+   ],
+   "trap": "Confusing it with condensation, where water is released rather than added."
+  },
+  {
+   "term": "Bonding triangle",
+   "definition": "A triangular diagram showing bonding as a continuum between ionic, covalent and metallic, positioned by electronegativity difference and mean electronegativity.",
+   "must_say": [
+    "ionic, covalent, metallic",
+    "electronegativity difference",
+    "mean electronegativity"
+   ],
+   "trap": "Treating bond types as separate categories instead of a continuum."
+  },
+  {
+   "term": "Semiconductor",
+   "definition": "A material with electrical conductivity between conductors and insulators, which increases when heated, illuminated or in the presence of certain impurities.",
+   "must_say": [
+    "between conductor and insulator",
+    "conductivity increases"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Biodegradation",
+   "definition": "The breakdown of materials by microorganisms into small molecules.",
+   "must_say": [
+    "microorganisms",
+    "small molecules"
+   ],
+   "trap": "Confusing it with microplastics, which stay chemically unchanged."
+  }
+ ],
+ "sub_topic": "S2.4",
+ "title": "From models to materials",
+ "generated_by": "sonnet",
+ "issues": [
+  "definition copies the book: Repeating unit",
+  "definition copies the book: Semiconductor",
+  "definition copies the book: Biodegradation"
+ ]
+}

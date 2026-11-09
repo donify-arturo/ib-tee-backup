@@ -1,0 +1,1428 @@
+{
+  "cards": [
+    {
+      "card_id": "S1.2-01",
+      "title": "Nuclear symbol: mass number on top, and counting particles in atoms and ions",
+      "understandings": [
+        "S1.2.1"
+      ],
+      "priority": 1,
+      "walkthrough": {
+        "question_ref": "25M.2.HL.6215.2",
+        "question": "Thallium is a group 13 metal. 30% of its atoms have 122 neutrons and the other atoms have 124 neutrons. Part (a)(i): using section 7 of the data booklet, write the nuclear symbol of the isotope with 122 neutrons. [1]",
+        "marks": 1,
+        "key_idea": "Mass number (protons + neutrons) goes on top; atomic number goes below.",
+        "question_type": "Nuclear symbol: particle counts",
+        "careful": "Put A on top and Z below, unlike the booklet.",
+        "procedure": [
+          "Find the atomic number Z in the periodic table.",
+          "Add the neutrons to Z to get mass number A.",
+          "Write A at the top left of the symbol.",
+          "Write Z at the bottom left of the symbol.",
+          "For ions, change electrons only: electrons = protons minus charge."
+        ],
+        "tricks": [
+          "The top number is the bigger one; only hydrogen-1 has both equal.",
+          "Check: top minus bottom must equal the neutrons given."
+        ],
+        "if_lost": [
+          "What number does the periodic table give you for thallium?",
+          "Which particles count towards the mass number?",
+          "Which number sits on top in a nuclear symbol?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Read Z from section 7, then build this isotope's symbol.",
+            "why": "S1.2.1 expects you to move between symbol and particle counts. Here you go backwards, from neutrons to symbol, so you must know the layout.",
+            "avoid": "Treating it as an easy recall mark: about half lost it (25M.2.HL.6215.2).",
+            "seconds": 10,
+            "ao_level": "AO3",
+            "syllabus_hook": "S1.2.1: use the nuclear symbol to deduce protons, neutrons and electrons in atoms and ions.",
+            "textbook_gap": "Books go from symbol to counts. This goes from a neutron count to the symbol, with Z taken from the booklet."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark: 203 on top, 81 below, beside Tl.",
+            "why": "The mark needs both numbers in the right place. The report says about half inverted them, possibly because of how section 7 lays out its numbers.",
+            "avoid": "Writing 81 over 203, the error reported (25M.2.HL.6215.2).",
+            "seconds": 15,
+            "trigger_phrases": [
+              "203 over 81, beside Tl"
+            ],
+            "trap_boundary": "An inverted symbol has the right numbers but does not earn the mark.",
+            "delta": "No partial credit: one mark for the whole symbol, with both numbers in position.",
+            "evidence_ref": "25M.2.HL.6215.2"
+          },
+          "3_novel_application": {
+            "short": "You get neutrons, not a mass number, so you must add.",
+            "why": "The stem hides A. Adding protons from the table to the neutrons given rebuilds it, which is the only real step in this mark.",
+            "avoid": "Using the 30% figure or the booklet's Ar as the top number.",
+            "seconds": 10,
+            "disguise": "It is written as an abundance story about a heavy metal, with the neutron count given instead of a mass number.",
+            "heuristic": "Top counts nucleons, so it is whole. Bottom counts protons, so it fixes the element."
+          },
+          "4_command_terms": {
+            "short": "Deduce: use given data; one mark for the final symbol.",
+            "why": "Deduce means reaching a conclusion from information given. The information is the neutron count and the booklet's atomic number.",
+            "avoid": "Writing a calculation and leaving the symbol box unfinished.",
+            "seconds": 5,
+            "command_term": "Deduce",
+            "demands": "Reach the symbol from the neutron count and the atomic number in section 7.",
+            "score_mechanics": "One mark, all or nothing, for the complete symbol."
+          },
+          "5_time_efficiency": {
+            "short": "Twenty seconds: look up, add, write. Then move on.",
+            "why": "This is one mark with one addition. Spending time here only cuts into the two-mark calculation that follows.",
+            "avoid": "Working out the average mass before finishing this part.",
+            "seconds": 20,
+            "workflow": [
+              "Z from the table",
+              "Add neutrons for A",
+              "A on top, Z below"
+            ],
+            "fat_to_trim": "Skip the abundance data; it belongs to the next part."
+          },
+          "6_data_booklet": {
+            "short": "Section 7 shows Z above; the symbol wants Z below.",
+            "why": "Section 7 shows atomic number at the top and relative atomic mass below. The nuclear symbol uses the opposite order, and the report suggests this causes inversion.",
+            "avoid": "Copying the booklet's order of numbers straight into the symbol.",
+            "seconds": 10,
+            "sections": [
+              7
+            ],
+            "pattern": "The key in section 7 reads atomic number, element, relative atomic mass, from top to bottom.",
+            "memorise": "Nuclear symbol layout: mass number on top, atomic number below. This layout is not in the section 7 text."
+          },
+          "7_elimination": {
+            "short": "Rule out decimals on top and any top below bottom.",
+            "why": "A counts whole particles, so it cannot be a decimal. A includes all the protons, so it can never be smaller than Z.",
+            "avoid": "Using 204.38 as a mass number; report 03M.2.SL.TZ0.5 saw the same slip with 12.01.",
+            "seconds": 10,
+            "definitely_wrong": [
+              {
+                "target": "A top number smaller than the bottom number",
+                "rule": "Mass number includes every proton, so it cannot be below atomic number."
+              },
+              {
+                "target": "A decimal top number such as 204.38",
+                "rule": "That is an average Ar. Mass number counts particles, so it is whole."
+              },
+              {
+                "target": "A bottom number that changes between isotopes",
+                "rule": "All thallium atoms have the same number of protons."
+              }
+            ]
+          }
+        },
+        "answer": "The symbol has 203 on top and 81 below, to the left of Tl (²⁰³₈₁Tl). 81 protons + 122 neutrons = 203.",
+        "try_next": [
+          "22M.2.HL.TZ1.1",
+          "22M.2.SL.TZ1.1",
+          "25N.2.HL.6221.5"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2 to AO3",
+          "papers": [
+            "Paper 2 (May 2025 HL)",
+            "Legacy Papers 1, 2 and 3"
+          ],
+          "syllabus_hook": "S1.2.1: nuclear symbol to protons, neutrons and electrons in atoms and ions.",
+          "textbook_gap": "Books practise symbol to counts. The 2025 paper reverses this: neutrons to symbol, with Z taken from section 7, whose layout invites inversion."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "203 over 81, beside Tl",
+            "nitride ion: 7 protons, 7 neutrons, 10 electrons"
+          ],
+          "trap_boundaries": [
+            "Inverted A and Z was the reported error on the one available mark (25M.2.HL.6215.2).",
+            "A charge changes the electron count only: nitride still has 7 protons but 10 electrons (22M.2.HL.TZ1.1)."
+          ],
+          "delta": "The symbol mark is all or nothing: both numbers must be in position. Particle-count parts need all three counts to agree with the charge shown."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Neutron count given in place of mass number.",
+            "An ion instead of an atom: some counted particles for K rather than K⁺ (11M.2.SL.TZ1.2).",
+            "Stem wants a total of protons and electrons, not one count; many missed the word (15M.1.HL.TZ2.1).",
+            "Booklet Ar used as a mass number, such as 12.01 (03M.2.SL.TZ0.5)."
+          ],
+          "heuristic": "Top is nucleons and whole. Bottom is protons and fixes the element. Charge moves electrons only."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Deduce",
+            "State"
+          ],
+          "score_mechanics": "Usually one mark for a complete symbol or a full set of counts, with no credit for working."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Z from the table",
+            "Add neutrons for A",
+            "A on top, Z below"
+          ],
+          "fat_to_trim": "No electron configuration or explanation is needed. Keep any abundance data for the calculation part."
+        },
+        "6_data_booklet": {
+          "sections": [
+            7
+          ],
+          "hack": "Use section 7 for Z only. Its key has atomic number on top and relative atomic mass below, the reverse of a nuclear symbol. The symbol layout must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "A decimal cannot be a mass number; a decimal value is an Ar.",
+            "Mass number is never below atomic number; hydrogen-1 is the equal case.",
+            "A cation has fewer electrons than protons; an anion has more."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6215.2",
+          "kind": "markscheme",
+          "note": "Nuclear symbol with 203 over 81 for the one mark in (a)(i)."
+        },
+        {
+          "ref": "25M.2.HL.6215.2",
+          "kind": "examiner",
+          "note": "About 50% wrong through inverted A and Z, possibly linked to the section 7 layout."
+        },
+        {
+          "ref": "22M.2.HL.TZ1.1",
+          "kind": "markscheme",
+          "note": "Nitride ion counts: 7 protons, 7 neutrons, 10 electrons."
+        },
+        {
+          "ref": "16N.3.HL.TZ0.28",
+          "kind": "examiner",
+          "note": "Inverting A and Z named as the most common error."
+        },
+        {
+          "ref": "17M.3.HL.TZ2.26",
+          "kind": "examiner",
+          "note": "The same inversion reported again."
+        },
+        {
+          "ref": "15M.1.HL.TZ2.1",
+          "kind": "examiner",
+          "note": "Many missed the word total and did not add protons to electrons."
+        },
+        {
+          "ref": "11M.2.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Some counted for the K atom when the K⁺ ion was asked for."
+        },
+        {
+          "ref": "03M.2.SL.TZ0.5",
+          "kind": "examiner",
+          "note": "Relative atomic masses such as 12.01 offered where mass numbers were needed."
+        }
+      ],
+      "difficulty_signal": "Highest-value card: 50% correct on May 2025 Paper 2, and the May 2025 report lists atomic mass and number annotation as difficult. The same inversion appears in legacy reports.",
+      "status": {
+        "mastered": false,
+        "needs_review": true
+      }
+    },
+    {
+      "card_id": "S1.2-02",
+      "title": "Neutrons add mass but no charge: field deflection and isotope properties",
+      "understandings": [
+        "S1.2.1",
+        "S1.2.2"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6207.1",
+        "question": "A beam of protons, neutrons and electrons passes between two electrodes, positive at the top and negative at the bottom. The diagram shows three paths: x bends towards the positive electrode, y carries straight on and z bends towards the negative electrode. Which row identifies the particles, in the order protons, electrons, neutrons?\nA. y, z, x\nB. x, y, z\nC. z, x, y\nD. x, z, y",
+        "marks": 1,
+        "key_idea": "Only charge bends a path: neutrons go straight and opposite charges attract.",
+        "question_type": "Subatomic particles: charge and isotope properties",
+        "careful": "Positive particles move towards the negative electrode.",
+        "procedure": [
+          "Recall the relative charge of each particle.",
+          "Give the neutral particle the straight path.",
+          "Send the positive particle towards the negative electrode.",
+          "Send the negative particle towards the positive electrode.",
+          "Find the option row that matches."
+        ],
+        "tricks": [
+          "Neutron straight leaves two options; one proton check finishes it.",
+          "On isotope questions, ask whether the property depends on charge or on mass."
+        ],
+        "if_lost": [
+          "Which of the three particles has no charge?",
+          "What happens to an uncharged particle between the electrodes?",
+          "Do opposite charges attract or repel?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Link each particle's charge to the path it takes.",
+            "why": "S1.2.1 expects the relative charges to be known. The diagram tests whether you can use them, rather than just recite them.",
+            "avoid": "Reading the option columns as protons, neutrons, electrons; electrons come second here.",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "S1.2.1: nucleus of protons and neutrons, electrons outside; relative masses and charges should be known.",
+            "textbook_gap": "Books give a table of charges and masses. This question makes you apply them to movement in an electric field."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for protons z, electrons x, neutrons y.",
+            "why": "Each charge fixes one path, so only one row of the table can be right. There is nothing to calculate and no partial credit.",
+            "avoid": "Choosing D, which sends protons towards the positive electrode.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "Correct answer: C"
+            ],
+            "trap_boundary": "C and D both have neutrons on y; only the direction of the proton separates them.",
+            "delta": "D swaps protons and electrons. C sends the positive proton to the negative electrode, which is the right attraction.",
+            "evidence_ref": "25M.1A.HL.6207.1"
+          },
+          "3_novel_application": {
+            "short": "A physics-style diagram hides a simple table of charges.",
+            "why": "Electrodes look like physics, but only the sign of each particle matters. The same no-charge idea explains why neutrons do not change electron attraction.",
+            "avoid": "Thinking about particle speed or size; only the direction of each path is asked.",
+            "seconds": 10,
+            "disguise": "It shows a beam and electrodes rather than asking for charges, and the table uses letters rather than particle names.",
+            "heuristic": "Ask what each particle's charge makes it do. No charge means no bending."
+          },
+          "4_command_terms": {
+            "short": "MCQ stem: pick the one correct row of three identities.",
+            "why": "All three identities must be right in one row. Fixing two paths also fixes the third, so a third check is optional.",
+            "avoid": "Marking a row after checking only the neutron column.",
+            "seconds": 5,
+            "command_term": "none",
+            "demands": "Match all three particles to paths in a single option row.",
+            "score_mechanics": "One mark, all or nothing, for the correct letter."
+          },
+          "5_time_efficiency": {
+            "short": "Fix the neutron, check the proton, answer.",
+            "why": "The neutron removes two options straight away, and one more check separates the two left, so the whole question takes seconds.",
+            "avoid": "Checking all three particles against all four options.",
+            "seconds": 20,
+            "workflow": [
+              "Neutron goes straight",
+              "Proton to negative plate",
+              "Pick the row"
+            ],
+            "fat_to_trim": "Skip the sizes of the deflections and the particle masses; only direction matters."
+          },
+          "6_data_booklet": {
+            "short": "No booklet needed: know relative charges by heart.",
+            "why": "The syllabus says relative masses and charges should be known. Only the actual values are in the booklet, and they are not needed for a direction.",
+            "avoid": "Hunting through the booklet for particle data during this question.",
+            "seconds": 5,
+            "sections": [],
+            "pattern": "Nothing to read here. The sign of each charge is enough.",
+            "memorise": "Relative charges: proton +1, electron −1, neutron 0. Relative masses: proton and neutron about 1, electron negligible."
+          },
+          "7_elimination": {
+            "short": "A and B bend neutrons; D sends protons to positive.",
+            "why": "A neutral particle cannot bend, which removes A and B. Like charges repel, which removes D. No other reasoning is needed.",
+            "avoid": "Keeping an option where the neutron path bends.",
+            "seconds": 10,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "It puts neutrons on x, but an uncharged particle cannot bend."
+              },
+              {
+                "target": "B",
+                "rule": "It puts neutrons on z, but an uncharged particle cannot bend."
+              },
+              {
+                "target": "D",
+                "rule": "It sends positive protons towards the positive electrode, where they would be repelled."
+              }
+            ]
+          }
+        },
+        "answer": "C. Protons follow z, electrons follow x and neutrons follow y.",
+        "try_next": [
+          "19M.2.HL.TZ2.3",
+          "19M.2.SL.TZ2.3",
+          "21N.2.HL.TZ0.9"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO1 to AO3",
+          "papers": [
+            "Paper 1A (May 2025 HL)",
+            "Paper 2 (legacy, isotope properties)"
+          ],
+          "syllabus_hook": "S1.2.1 relative charges and masses; S1.2.2 isotopes are atoms of the same element with different numbers of neutrons, and differ in physical properties.",
+          "textbook_gap": "Books state that isotopes react the same way. Exams want the reason: neutrons have no charge, so nuclear charge, attraction and electron configuration do not change."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "same nuclear charge / number of protons",
+            "neutrons have no charge",
+            "same attraction for outer electrons",
+            "same electronic configuration / shielding"
+          ],
+          "trap_boundaries": [
+            "Isotopes of nitrogen have the same ionization energy; the reasons must be about protons, neutrons having no charge, or electron arrangement (19M.2.HL.TZ2.3).",
+            "In the field question, protons and electrons are told apart only by direction (25M.1A.HL.6207.1)."
+          ],
+          "delta": "Saying only that the values are similar earns less than giving different reasons from the list: report 19M.2.SL.TZ2.3 says the best answers concluded they are the same and gave two reasons."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Beam and electrode diagram instead of a table of charges.",
+            "Compare the ionization energy of two isotopes: many wrongly thought nuclear size changes it (19M.2.SL.TZ2.3).",
+            "Predict the radius of isotopes: most wrongly thought more neutrons shrink it (14N.2.HL.TZ0.8).",
+            "Name a differing physical property: number of neutrons was not credited (03N.2.HL.TZ0.3). Density or boiling point is safer than mass, which one report rejected (15M.2.SL.TZ1.4)."
+          ],
+          "heuristic": "Depends on charge or electrons: isotopes are the same. Depends on mass: isotopes differ."
+        },
+        "4_command_terms": {
+          "terms": [
+            "State",
+            "Explain",
+            "Deduce"
+          ],
+          "score_mechanics": "The field MCQ is one mark. In the 19M isotope part, marks come from separate reasons, so give distinct points rather than repeating one."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Charge or mass?",
+            "Charge means same",
+            "Mass means different"
+          ],
+          "fat_to_trim": "Do not explain nuclear stability or size. For a definition, say atoms of the same element, with the same protons and different neutrons."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Nothing to look up. S1.2.1 says relative masses and charges must be known; actual values are in the booklet, but that section is not in this pack and is not needed for direction or property logic."
+        },
+        "7_elimination": {
+          "rules": [
+            "A neutral particle cannot bend in an electric field.",
+            "Like charges repel, so protons do not go to the positive electrode.",
+            "Isotopes do not differ in protons or electrons: reports flag different electrons as a wrong idea (08N.2.SL.TZ0.2).",
+            "Calling an isotope an element rather than an atom lost marks (04M.2.SL.TZ0.2)."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6207.1",
+          "kind": "mcq",
+          "note": "Field deflection question with correct answer C."
+        },
+        {
+          "ref": "19M.2.HL.TZ2.3",
+          "kind": "markscheme",
+          "note": "Same ionization energy for isotopes, with the listed reasons."
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "kind": "markscheme",
+          "note": "Same reasons at SL."
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "kind": "examiner",
+          "note": "Many thought ionization energies differ because the size of the nucleus differs."
+        },
+        {
+          "ref": "21N.2.HL.TZ0.9",
+          "kind": "markscheme",
+          "note": "Positive nucleus repels positive helium ions, the same charge logic applied to the nucleus."
+        },
+        {
+          "ref": "14N.2.HL.TZ0.8",
+          "kind": "examiner",
+          "note": "Most predicted that more neutrons give a smaller radius."
+        },
+        {
+          "ref": "03N.2.HL.TZ0.3",
+          "kind": "examiner",
+          "note": "Number of neutrons not credited as a physical property; density and boiling point were accepted."
+        },
+        {
+          "ref": "15M.2.SL.TZ1.4",
+          "kind": "examiner",
+          "note": "States that mass is not a property; few explained identical chemical properties clearly."
+        },
+        {
+          "ref": "04M.2.SL.TZ0.2",
+          "kind": "examiner",
+          "note": "Marks lost by describing an isotope as an element rather than an atom."
+        },
+        {
+          "ref": "08N.2.SL.TZ0.2",
+          "kind": "examiner",
+          "note": "Some wrongly said isotopes have different numbers of electrons."
+        }
+      ],
+      "difficulty_signal": "The field MCQ has no reported percentage. The priority comes from isotope properties: the May 2025 and May 2019 reports list them as difficult, and definitions were repeatedly flagged. Reports disagree on whether mass counts, so give density or boiling point.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "S1.2-03",
+      "title": "Mass spectrum scaled to tallest peak = 100: divide by the sum of heights",
+      "understandings": [
+        "S1.2.3",
+        "S1.2.2"
+      ],
+      "priority": 3,
+      "walkthrough": {
+        "question_ref": "25M.1A.HL.6219.4",
+        "question": "An element's mass spectrum has an abundance axis marked 50 and 100 and an m/z axis marked from 2 to 12. The tallest peak reaches 100. The exact peaks are not in the available text, so read them from the figure in the paper. What is the relative atomic mass of the element?\nA. 10.2\nB. 10.5\nC. 10.8\nD. 11.0",
+        "marks": 1,
+        "key_idea": "Divide by the sum of peak heights, not by 100.",
+        "question_type": "Mass spectrum: find relative atomic mass",
+        "careful": "Divide by total height, not the tallest peak's 100.",
+        "procedure": [
+          "Read the m/z and height of every peak.",
+          "Multiply each m/z by its height.",
+          "Add the products.",
+          "Add the heights.",
+          "Divide the products total by the heights total."
+        ],
+        "tricks": [
+          "Ar sits nearer the tallest peak, so estimate before calculating.",
+          "Turn the heights into a small whole-number ratio first."
+        ],
+        "if_lost": [
+          "How many peaks are there, and at which m/z values?",
+          "How tall is each peak?",
+          "Do the heights add up to 100?",
+          "What must you divide by if they do not?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Same weighted mean, but the heights do not total 100.",
+            "why": "S1.2.3 uses spectra to find Ar. Here the axis scales the tallest peak to 100, so heights are relative values and not percentages.",
+            "avoid": "Reading heights as percentages. A teacher comment on this item raised the same issue (25M.1A.HL.6219.4).",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "S1.2.3: mass spectra are used to determine Ar from isotopic composition, interpreting identity and relative abundance.",
+            "textbook_gap": "Books mostly show percentages that total 100. This spectrum has the largest peak at 100, so you must total the heights yourself."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for C, with no credit for working.",
+            "why": "Only the letter scores, and the report says about 60% got it. A wrong denominator leads straight to a wrong option or to no option at all.",
+            "avoid": "Dividing by 100 after multiplying, because the heights are not percentages.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "Correct answer: C"
+            ],
+            "trap_boundary": "Dividing the same products by 100 gives a value far above any peak.",
+            "delta": "The right answer divides by the total of all heights. The tempting method divides by 100, the height of one peak.",
+            "evidence_ref": "25M.1A.HL.6219.4"
+          },
+          "3_novel_application": {
+            "short": "The tallest peak at 100 looks like 100% abundance.",
+            "why": "If one isotope really were 100%, there would be no other peak. Seeing a second peak tells you the axis must be relative.",
+            "avoid": "Ignoring the shorter peak because the tall one seems to be everything.",
+            "seconds": 10,
+            "disguise": "The familiar spectrum is scaled differently from the percentages usually practised, and the axis looks like a percentage axis.",
+            "heuristic": "Before dividing, add the peak heights. If the total is not 100, it becomes the denominator."
+          },
+          "4_command_terms": {
+            "short": "MCQ stem: only the letter scores.",
+            "why": "With no marks for method, a quick estimate to pick the option is as good as a full calculation.",
+            "avoid": "Writing out full working when the options are far enough apart to estimate.",
+            "seconds": 5,
+            "command_term": "none",
+            "demands": "Select the Ar that matches the peaks shown in the figure.",
+            "score_mechanics": "One mark, all or nothing, for the correct letter."
+          },
+          "5_time_efficiency": {
+            "short": "Read, make a ratio, estimate, and pick.",
+            "why": "A small ratio makes the arithmetic easy, so one line of working is enough to separate the options.",
+            "avoid": "Converting heights to percentages with decimals before you start.",
+            "seconds": 40,
+            "workflow": [
+              "Read every peak",
+              "Reduce to a ratio",
+              "Total the heights",
+              "Divide, then match"
+            ],
+            "fat_to_trim": "Skip how the spectrometer works: S1.2.3 says operational details are not assessed."
+          },
+          "6_data_booklet": {
+            "short": "Do not look up the answer: spectra may be invented.",
+            "why": "Section 7 lists boron at 10.81, which looks like this answer, but the spectrum in 24N.1.HL.TZ0.5 at the same m/z values gives 10.2. Only the spectrum decides.",
+            "avoid": "Choosing an option just because it resembles a value in section 7.",
+            "seconds": 10,
+            "sections": [
+              7
+            ],
+            "pattern": "Section 7 gives real Ar values such as B 10.81. Use them only as a loose check.",
+            "memorise": "The weighted-mean method is not in the booklet: sum of m/z × height, divided by sum of heights."
+          },
+          "7_elimination": {
+            "short": "Remove B if peaks are unequal, and D if there are several.",
+            "why": "Ar is pulled towards the taller peak and only reaches a peak's m/z if that is the sole isotope. The examiner comment confirms one largest peak among several.",
+            "avoid": "Assuming a midpoint answer without comparing peak heights.",
+            "seconds": 10,
+            "definitely_wrong": [
+              {
+                "target": "B",
+                "rule": "10.5 is a midpoint only for equal peaks at 10 and 11. The report describes one largest peak; check the figure."
+              },
+              {
+                "target": "D",
+                "rule": "A whole-number Ar suggests one isotope, but this spectrum has several peaks. Exception: peaks balanced either side of that value."
+              }
+            ]
+          }
+        },
+        "answer": "C. 10.8. Sum of (m/z × height) ÷ sum of heights. The peak values are not in the available text; peaks at 10 and 11 in a 1:4 ratio would give (10 + 44) ÷ 5 = 10.8, so check this against the figure.",
+        "try_next": [
+          "24N.1.HL.TZ0.5",
+          "18M.2.HL.TZ1.2",
+          "25N.2.HL.6221.5"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "Paper 1A (May 2025 HL)",
+            "Paper 1 (November 2024)",
+            "Paper 2 (May 2018, describing the method)"
+          ],
+          "syllabus_hook": "S1.2.3: use mass spectra to determine Ar and interpret isotope identity and relative abundance.",
+          "textbook_gap": "Books practise percentages that add up to 100. A 2025 item scaled the largest peak to 100 instead, so the total has to be found."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "multiply relative intensity by m/z value",
+            "sum of the products",
+            "weighted average"
+          ],
+          "trap_boundaries": [
+            "The method needs every peak's intensity and m/z, then a weighted average (18M.2.HL.TZ1.2).",
+            "Answers that referred to the furthest molecular ion peak or to fragmentation missed the point (18M.2.HL.TZ1.2)."
+          ],
+          "delta": "For a described method, full credit names both the multiplying of intensity by m/z and the summing or weighted average. Saying only that the peaks show isotopes is not enough."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Tallest peak set to 100 instead of percentages totalling 100.",
+            "Several peaks with a table-free reading, where inspection can be quicker than calculation (08N.1.SL.TZ0.6).",
+            "Asked to describe the method rather than perform it (18M.2.HL.TZ1.2)."
+          ],
+          "heuristic": "Add the heights first. If they do not total 100, that total is your denominator."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Outline"
+          ],
+          "score_mechanics": "The MCQ is one mark for the letter. In the worded 2018 method part, separate points were awarded for multiplying and for summing or averaging."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Read every peak",
+            "Reduce to a ratio",
+            "Total the heights",
+            "Divide, then match"
+          ],
+          "fat_to_trim": "Do not describe spectrometer stages: S1.2.3 says operational details are not assessed, so older spectrometer items are low value."
+        },
+        "6_data_booklet": {
+          "sections": [
+            7
+          ],
+          "hack": "Section 7 gives real Ar values, but items can use invented abundances (24N.1.HL.TZ0.5 gives 10.2, not boron's 10.81). Use only as a rough check. The method is not in the booklet."
+        },
+        "7_elimination": {
+          "rules": [
+            "Ar must lie between the lowest and highest m/z peaks.",
+            "Ar sits nearer the tallest peak.",
+            "A midpoint needs equal peaks.",
+            "A value equal to one peak's m/z needs a single isotope, or peaks balanced around it."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6219.4",
+          "kind": "mcq",
+          "note": "Correct answer C, about 60% correct, the hardest item in this sub-topic."
+        },
+        {
+          "ref": "25M.1A.HL.6219.4",
+          "kind": "examiner",
+          "note": "A teacher comment said peaks should total 100 rather than the largest being 100; this had little effect on accessibility."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.2",
+          "kind": "markscheme",
+          "note": "Method: multiply intensity by m/z, sum, weighted average."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.2",
+          "kind": "examiner",
+          "note": "Some referred to the furthest molecular ion peak or to fragmentation."
+        },
+        {
+          "ref": "08N.1.SL.TZ0.6",
+          "kind": "examiner",
+          "note": "Inspection of abundances was the easier route; a calculation was also possible."
+        },
+        {
+          "ref": "24N.1.HL.TZ0.5",
+          "kind": "mcq",
+          "note": "Spectrum at m/z 10 and 11 gives 10.2, so a similar spectrum need not match boron."
+        }
+      ],
+      "difficulty_signal": "Lowest percentage correct in the sub-topic among 2025-era items, at 60% on May 2025 Paper 1A. The scaling drew a teacher comment, though the report says it had little effect.",
+      "status": {
+        "mastered": false,
+        "needs_review": true
+      }
+    },
+    {
+      "card_id": "S1.2-04",
+      "title": "Calculate Ar from given abundances: never copy the booklet value, and obey the decimal places",
+      "understandings": [
+        "S1.2.2"
+      ],
+      "priority": 2,
+      "walkthrough": {
+        "question_ref": "25M.2.HL.6215.2",
+        "question": "Use the thallium data again: 30% of the atoms have 122 neutrons and the other atoms have 124 neutrons. Part (a)(ii): calculate the relative atomic mass of thallium, giving two decimal places. [2]",
+        "marks": 2,
+        "key_idea": "Use the question's own abundances; the booklet's Ar is never the answer here.",
+        "question_type": "Isotope abundances: calculate relative atomic mass",
+        "careful": "Give the requested decimal places; do not copy the booklet's Ar.",
+        "procedure": [
+          "Turn neutron numbers into mass numbers using Z.",
+          "Find every abundance; the remainder makes 100%.",
+          "Multiply each mass number by its fraction.",
+          "Add the products.",
+          "Round as the question demands, with no units."
+        ],
+        "tricks": [
+          "Shortcut: lighter mass + mass gap × heavier fraction.",
+          "The answer must lie nearer the more abundant isotope."
+        ],
+        "if_lost": [
+          "What is the mass number of each isotope?",
+          "What percentage of the atoms has 124 neutrons?",
+          "How do you average when the amounts are unequal?",
+          "How many decimal places does the question ask for?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Weighted mean, after turning neutron counts into mass numbers.",
+            "why": "S1.2.2 wants non-integer Ar from given data. The booklet holds Ar for the natural element, while this question sets its own abundances.",
+            "avoid": "Writing the booklet Ar after a correct calculation, as reported (25M.2.HL.6215.2).",
+            "seconds": 10,
+            "ao_level": "AO2",
+            "syllabus_hook": "S1.2.2: calculations involving non-integer relative atomic masses and isotope abundances from given data.",
+            "textbook_gap": "Books give mass numbers and percentages directly. Here you must find the masses from neutrons and Z, and the booklet value is a rejected answer."
+          },
+          "2_markscheme_logic": {
+            "short": "M1 for the weighted sum; M2 for exactly 204.40.",
+            "why": "The second mark rewards your own value to the requested precision. The markscheme names the booklet value as not accepted for M2.",
+            "avoid": "Giving 204.38 from the booklet, or dropping the last zero (25M.2.HL.6215.2).",
+            "seconds": 15,
+            "trigger_phrases": [
+              "(0.3 × 203) + (0.7 × 205)",
+              "204.40"
+            ],
+            "trap_boundary": "204.38 does not earn M2, even after a correct setup.",
+            "delta": "Partial: correct setup, then a wrong precision or the booklet value. Full: the setup and 204.40. A correct final answer alone earns both marks.",
+            "evidence_ref": "25M.2.HL.6215.2"
+          },
+          "3_novel_application": {
+            "short": "Neutron counts and 'the remainder' hide the usual data.",
+            "why": "Both masses and one abundance are missing from the stem. Rebuilding them is two quick steps, and then it is the familiar weighted mean.",
+            "avoid": "Multiplying 122 and 124 by the abundances; those are neutrons, not masses.",
+            "seconds": 10,
+            "disguise": "It gives neutrons rather than mass numbers, one abundance rather than two, and sits in a question about a heavy metal.",
+            "heuristic": "Ar needs masses and fractions. If either is missing, rebuild it first: protons + neutrons, and 100 minus the given percentage."
+          },
+          "4_command_terms": {
+            "short": "Calculate: show the stages; the precise value earns M2.",
+            "why": "Calculate means a numerical answer with relevant stages. Working protects M1 if the final value slips.",
+            "avoid": "Writing only a final number that may be wrong and could lose both marks.",
+            "seconds": 5,
+            "command_term": "Calculate",
+            "demands": "Show the weighted sum, then give the value to two decimal places.",
+            "score_mechanics": "M1 for working, M2 for the value. A correct final answer alone earns both."
+          },
+          "5_time_efficiency": {
+            "short": "One line of working, one exact answer, then stop.",
+            "why": "Two marks need one line. The shortcut 203 + 2 × 0.70 lets you check it in seconds.",
+            "avoid": "Looking up thallium's Ar to compare it with your answer.",
+            "seconds": 45,
+            "workflow": [
+              "Protons + neutrons = mass",
+              "Remainder gives abundance",
+              "Weighted sum",
+              "Obey decimal places"
+            ],
+            "fat_to_trim": "Skip units and any comment on why your value differs from the booklet."
+          },
+          "6_data_booklet": {
+            "short": "Take only Z from section 7, not its Ar.",
+            "why": "Section 7 sits right next to the answer line in your mind, but its Ar is for the natural element. The markscheme refuses it here.",
+            "avoid": "Using section 7's Ar as your final answer (25M.2.HL.6215.2).",
+            "seconds": 10,
+            "sections": [
+              7
+            ],
+            "pattern": "Section 7 key: atomic number on top, relative atomic mass below. Use the top number only.",
+            "memorise": "The weighted-mean calculation is not in the booklet."
+          },
+          "7_elimination": {
+            "short": "Rule out anything outside 203 to 205, or below 204.",
+            "why": "A weighted mean lies between its masses. With 70% heavy atoms, it must be above the midpoint, so these answers can be rejected on sight.",
+            "avoid": "Accepting a plain midpoint of 204, which ignores the abundances.",
+            "seconds": 10,
+            "definitely_wrong": [
+              {
+                "target": "A value outside 203 to 205",
+                "rule": "A weighted mean always lies between the isotope masses."
+              },
+              {
+                "target": "A value of 204 or lower",
+                "rule": "The heavier isotope is the more abundant, so the mean must be above the midpoint."
+              },
+              {
+                "target": "204.38",
+                "rule": "This is the booklet value, which the markscheme does not accept for M2."
+              },
+              {
+                "target": "A value with units",
+                "rule": "Relative atomic mass has no units; reports flag grams as an error (08M.2.SL.TZ0.2)."
+              }
+            ]
+          }
+        },
+        "answer": "Ar = (0.30 × 203) + (0.70 × 205) = 204.40.",
+        "try_next": [
+          "25N.2.HL.6221.5",
+          "19M.2.HL.TZ2.3",
+          "19M.2.SL.TZ2.3"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "Paper 2 (May and November 2025 HL)",
+            "Legacy Papers 1 and 2"
+          ],
+          "syllabus_hook": "S1.2.2: non-integer relative atomic masses and abundances of isotopes from given data.",
+          "textbook_gap": "Books treat this as simple arithmetic. Both 2025 Paper 2 markschemes name the booklet value as not accepted, so the real test is trusting your own calculation."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "weighted sum of mass × fraction",
+            "204.40",
+            "79.99"
+          ],
+          "trap_boundaries": [
+            "204.38, the booklet value, does not earn M2 (25M.2.HL.6215.2).",
+            "79.90, the booklet value, is not accepted (25N.2.HL.6221.5).",
+            "In 19M, M2 for the N₂O value was awarded independently, so Ar 14.01 still earned it (19M.2.SL.TZ2.3)."
+          ],
+          "delta": "Partial credit is a correct setup with a wrong final value. Full credit needs your calculated value at the requested precision. A correct final answer alone earns both."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Neutron counts instead of mass numbers (25M.2.HL.6215.2).",
+            "Isotopically altered sample, then Mr of a compound: apply the new Ar to the whole formula (19M.2.HL.TZ2.3).",
+            "Find the abundance from Ar in reverse: set up one equation in one unknown (07M.2.HL.TZ0.8).",
+            "Ar worked inside a compound, where both elements may have isotopes (06M.2.HL.TZ0.2)."
+          ],
+          "heuristic": "The stem's numbers beat the booklet. If abundances are given, calculate from them."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Determine"
+          ],
+          "score_mechanics": "Usually M1 for the weighted sum and M2 for the value to the stated precision. A correct final answer alone earns both marks."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Protons + neutrons = mass",
+            "Remainder gives abundance",
+            "Weighted sum",
+            "Obey decimal places"
+          ],
+          "fat_to_trim": "No units and no commentary. Rounding is the only finishing step: reports flag wrong precision repeatedly (10N.2.HL.TZ0.3, 04M.2.SL.TZ0.2)."
+        },
+        "6_data_booklet": {
+          "sections": [
+            7
+          ],
+          "hack": "Use section 7 only for Z. Its Ar applies to the natural element, so never give it as the answer when abundances are stated. The method is not in the booklet."
+        },
+        "7_elimination": {
+          "rules": [
+            "A weighted mean lies between the isotope masses.",
+            "It lies nearer the more abundant isotope.",
+            "The booklet Ar is not the answer when the stem gives abundances.",
+            "Ar has no units."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6215.2",
+          "kind": "markscheme",
+          "note": "Weighted sum, 204.40, and 204.38 not accepted for M2."
+        },
+        {
+          "ref": "25M.2.HL.6215.2",
+          "kind": "examiner",
+          "note": "Marks lost on two decimal places, and some gave the booklet Ar after correct working."
+        },
+        {
+          "ref": "25N.2.HL.6221.5",
+          "kind": "markscheme",
+          "note": "Bromine: 79.99, with 79.90 from the booklet not accepted."
+        },
+        {
+          "ref": "19M.2.HL.TZ2.3",
+          "kind": "markscheme",
+          "note": "Nitrogen sample 14.02, then Mr of N₂O 44.04."
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "kind": "examiner",
+          "note": "M2 awarded independently when Ar from the booklet was used for Mr."
+        },
+        {
+          "ref": "08M.2.SL.TZ0.2",
+          "kind": "examiner",
+          "note": "Marks lost for excess significant figures or units of grams; weakest candidates quoted the data book value."
+        },
+        {
+          "ref": "10N.2.HL.TZ0.3",
+          "kind": "examiner",
+          "note": "Marks lost for giving one or three decimal places despite the instruction."
+        },
+        {
+          "ref": "04M.2.SL.TZ0.2",
+          "kind": "examiner",
+          "note": "Answers often given to an inappropriate number of significant figures."
+        },
+        {
+          "ref": "07M.2.HL.TZ0.8",
+          "kind": "examiner",
+          "note": "Some could not set up the equation to find rubidium abundances."
+        },
+        {
+          "ref": "06M.2.HL.TZ0.2",
+          "kind": "examiner",
+          "note": "Most did not realise that both H and Br have isotopes when averaging HBr."
+        }
+      ],
+      "difficulty_signal": "Both 2025 Paper 2 markschemes carry the same rejection note. The method is listed as well prepared in many sessions, so marks are lost at the finish rather than in the arithmetic.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    },
+    {
+      "card_id": "S1.2-05",
+      "title": "Diatomic mass spectra: pair the isotopes and double the mixed pair",
+      "understandings": [
+        "S1.2.3"
+      ],
+      "priority": 4,
+      "walkthrough": {
+        "question_ref": "25N.1A.HL.6207.2",
+        "question": "Chlorine molecules are diatomic; its atoms are 75% chlorine-35 and 25% chlorine-37. Four graphs of relative abundance against m/z are offered, each with 35, 37, 70, 72 and 74 marked on the axis. The peak heights are not in the available text, so compare them in the paper. Which graph is the full mass spectrum of chlorine?\nA. Graph A\nB. Graph B\nC. Graph C\nD. Graph D",
+        "marks": 1,
+        "key_idea": "Pair isotopes by probability: 70, 72 and 74 peaks come in 9:6:1.",
+        "question_type": "Mass spectrum: diatomic molecule isotope peaks",
+        "careful": "The mixed pair counts twice, since it forms two ways.",
+        "procedure": [
+          "Write each isotope's fraction.",
+          "List all atom pairs and their masses.",
+          "Multiply the fractions for each pair.",
+          "Double the value for the mixed pair.",
+          "Compare the ratio with the graphs."
+        ],
+        "tricks": [
+          "For isotopes a:b, molecule peaks are a² : 2ab : b².",
+          "Equal isotopes give 1:2:1, the bromine pattern.",
+          "The pair of two minor isotopes always gives the smallest molecule peak."
+        ],
+        "if_lost": [
+          "How many kinds of atom pair can two chlorine atoms make?",
+          "What is the mass of each pair?",
+          "Which pair is least likely to form?",
+          "In how many ways can the mixed pair form?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Peaks show atoms and molecules, so count both sets.",
+            "why": "S1.2.3 asks you to interpret identity and abundance. Molecules add new peaks whose heights follow from the isotope abundances, not from new data.",
+            "avoid": "Looking only at the 35 and 37 peaks and stopping there.",
+            "seconds": 10,
+            "ao_level": "AO3",
+            "syllabus_hook": "S1.2.3: interpret mass spectra in terms of the identity and relative abundance of isotopes.",
+            "textbook_gap": "Books show chlorine atoms as a 3:1 pair. This needs the same abundances carried through to molecules, using probability."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for graph A only; no credit for reasoning.",
+            "why": "All four graphs share the same axis, so only the heights separate them. The ratio has to be right, not just the peak positions.",
+            "avoid": "Choosing a graph because the m/z values match; all four match.",
+            "seconds": 10,
+            "trigger_phrases": [
+              "Correct answer: A"
+            ],
+            "trap_boundary": "Correct peak positions do not separate the options, since all four share them.",
+            "delta": "The right pattern is 3:1 for atoms and 9:6:1 for molecules. Tempting shapes copy 3:1 into molecules or treat the mixed pair as one way.",
+            "evidence_ref": "25N.1A.HL.6207.2"
+          },
+          "3_novel_application": {
+            "short": "An element spectrum with molecular peaks: think probability.",
+            "why": "Two atoms join at random, so pair chances are products of fractions. The mixed pair can form in either order, which is the source of the doubling.",
+            "avoid": "Averaging to a single peak at 71, the mean molecular mass, a mistake like those in 15M.3.HL.TZ2.3.",
+            "seconds": 10,
+            "disguise": "The stem looks like a simple abundance question but expects molecule peaks, and all graphs look alike at first.",
+            "heuristic": "Diatomic element? Expect three molecule peaks. Then square, double the product, square."
+          },
+          "4_command_terms": {
+            "short": "MCQ stem: pick the single correct graph.",
+            "why": "With only the letter scoring, you need a ratio for comparison, not exact heights. A sketch of relative sizes is enough.",
+            "avoid": "Measuring peak heights precisely on the page.",
+            "seconds": 5,
+            "command_term": "none",
+            "demands": "Choose the graph whose peaks at all five m/z values fit the abundances.",
+            "score_mechanics": "One mark, all or nothing, for the correct letter."
+          },
+          "5_time_efficiency": {
+            "short": "Check 35 taller than 37; then 70 tallest, 74 smallest.",
+            "why": "Relative order alone usually removes options. The 9:6:1 ratio is only needed if two graphs have the same order.",
+            "avoid": "Calculating exact percentages for all pairs before looking at the graphs.",
+            "seconds": 40,
+            "workflow": [
+              "Atoms are 3:1",
+              "Square, double, square",
+              "Molecules are 9:6:1",
+              "Match the graph"
+            ],
+            "fat_to_trim": "Skip comparing atom peaks with molecule peaks unless needed; the stem gives no way to compare them."
+          },
+          "6_data_booklet": {
+            "short": "No booklet needed: the stem gives the abundances.",
+            "why": "All the data sit in the stem. Pair logic is a method to carry with you, and the periodic table cannot give isotope abundances.",
+            "avoid": "Looking up Ar to use instead of the given percentages.",
+            "seconds": 5,
+            "sections": [],
+            "pattern": "Nothing to read. Use the given 75% and 25%.",
+            "memorise": "Pair logic is not in the booklet: a² : 2ab : b² for a diatomic element with two isotopes."
+          },
+          "7_elimination": {
+            "short": "Reject graphs with 74 above 70, or 37 above 35.",
+            "why": "The less abundant isotope cannot give the bigger peak, and two minor atoms are least likely to pair. The graph letters are not in the text available.",
+            "avoid": "Treating the mixed peak at 72 as the largest; that only happens when isotopes are close to equal.",
+            "seconds": 10,
+            "definitely_wrong": [
+              {
+                "target": "Any graph with 37 taller than 35",
+                "rule": "Chlorine-37 is only 25% of the atoms."
+              },
+              {
+                "target": "Any graph with 74 taller than 70",
+                "rule": "Two chlorine-37 atoms are the least likely pair."
+              },
+              {
+                "target": "Any graph with 72 double the height of 70",
+                "rule": "That is the 1:2:1 pattern, which needs nearly equal isotopes."
+              }
+            ]
+          }
+        },
+        "answer": "A. Atom peaks 35:37 are 3:1 and molecule peaks 70:72:74 are 9:6:1. The graph shapes are not in the available text, so check this pattern against graph A.",
+        "try_next": [
+          "25N.2.HL.6221.5",
+          "20N.2.HL.TZ0.1",
+          "20N.2.SL.TZ0.1"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2 to AO3",
+          "papers": [
+            "Paper 1A (November 2025 HL)",
+            "Paper 2 (November 2025 HL)",
+            "Paper 2 (November 2020)"
+          ],
+          "syllabus_hook": "S1.2.3: interpret mass spectra in terms of the identity and relative abundance of isotopes.",
+          "textbook_gap": "Books teach the atom spectrum. November 2025 tested molecular peaks in both an MCQ and an explanation, with probability doing the work."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "79Br–79Br, 79Br–81Br, 81Br–81Br",
+            "mixed molecule is double",
+            "outer peaks nearly the same height",
+            "two chlorine-37 atoms",
+            "low probability"
+          ],
+          "trap_boundaries": [
+            "Identify each peak by the pair that forms it (25N.2.HL.6221.5).",
+            "The height explanation must use number, probability or abundance of molecules (25N.2.HL.6221.5).",
+            "The smallest Cl₂ peak needs both its composition and its low probability (20N.2.HL.TZ0.1)."
+          ],
+          "delta": "In the bromine part, any two of the listed points score: naming the pairs at 158, 160 and 162, equal outer abundance, and the doubled middle peak. Stating peak heights without pair reasoning falls short."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Chlorine MCQ with five m/z labels (25N.1A.HL.6207.2).",
+            "Explain the 158, 160 and 162 peaks of bromine (25N.2.HL.6221.5).",
+            "Explain why one Cl₂ peak is very small (20N.2.HL.TZ0.1).",
+            "A chlorine-containing compound: isotope peaks get missed and a molecular ion near 62.5 quoted (15M.3.HL.TZ2.3).",
+            "Bromine or iodine compounds: averages of 80 and 109 given instead of isotope peaks (14M.3.SL.TZ1.2)."
+          ],
+          "heuristic": "No real peak sits at an average mass. Peaks belong to actual combinations of isotopes."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)",
+            "Explain",
+            "Deduce"
+          ],
+          "score_mechanics": "The MCQ is one mark. The bromine part awards two marks from a list of three points, so give the pairs and the probability reasoning."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Atoms are 3:1",
+            "Square, double, square",
+            "Molecules are 9:6:1",
+            "Match the graph"
+          ],
+          "fat_to_trim": "Do not calculate percentages when a ratio will do. In worded parts, name each pair directly rather than describing the instrument."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Nothing to look up. Abundances come from the stem, and the pairing method is not in the booklet and must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "A less abundant isotope cannot give the taller atom peak.",
+            "The pair of two minor isotopes gives the smallest molecule peak.",
+            "A middle peak is double the outer ones only for nearly equal isotopes.",
+            "No peak appears at an average mass; a value like 71 is not a peak here."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25N.1A.HL.6207.2",
+          "kind": "mcq",
+          "note": "Full chlorine spectrum with correct answer A."
+        },
+        {
+          "ref": "25N.2.HL.6221.5",
+          "kind": "markscheme",
+          "note": "Bromine molecule pairs, the doubled mixed pair and nearly equal outer peaks."
+        },
+        {
+          "ref": "20N.2.HL.TZ0.1",
+          "kind": "markscheme",
+          "note": "Isotopes explain the extra peaks; the small peak is two chlorine-37 atoms, a low-probability pair."
+        },
+        {
+          "ref": "20N.2.SL.TZ0.1",
+          "kind": "markscheme",
+          "note": "The same chlorine reasoning at SL."
+        },
+        {
+          "ref": "15M.3.HL.TZ2.3",
+          "kind": "examiner",
+          "note": "Very few realised chlorine is a mixture of isotopes; peaks at 62.5 were usually quoted."
+        },
+        {
+          "ref": "14M.3.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "Bromine isotope peaks were harder; average values of 109 and 80 were given."
+        }
+      ],
+      "difficulty_signal": "No percentage is available for the 2025 MCQ, but it appears on both November 2025 papers. Reports list the effect of isotopes on spectra and recalling chlorine isotopes as difficult.",
+      "status": {
+        "mastered": false,
+        "needs_review": true
+      }
+    },
+    {
+      "card_id": "S1.2-06",
+      "title": "Ar from peak percentages: estimate from the dominant peak first",
+      "understandings": [
+        "S1.2.2",
+        "S1.2.3"
+      ],
+      "priority": 7,
+      "walkthrough": {
+        "question_ref": "24N.1.HL.TZ0.5",
+        "question": "An element's mass spectrum has two peaks: relative abundance 80.1 at m/z 10, and 19.9 at m/z 11. What is its relative atomic mass?\nA. 10.0\nB. 10.2\nC. 10.5\nD. 10.8",
+        "marks": 1,
+        "key_idea": "Ar sits close to the dominant peak; estimate, then check the options.",
+        "question_type": "Mass spectrum: find relative atomic mass",
+        "careful": "Weight towards the taller peak, not the mass midpoint.",
+        "procedure": [
+          "Read each peak's m/z and abundance.",
+          "Multiply each m/z by its fraction.",
+          "Add the products.",
+          "Match the total to an option."
+        ],
+        "tricks": [
+          "Ar = lower m/z + gap × heavier fraction.",
+          "Reverse logic: Ar below the midpoint means the lighter isotope is above 50%."
+        ],
+        "if_lost": [
+          "Which peak is taller?",
+          "Should Ar be nearer 10 or nearer 11?",
+          "What fraction of the atoms has mass 11?"
+        ],
+        "steps": {
+          "1_context": {
+            "short": "Read two peaks and take their weighted mean.",
+            "why": "The percentages already total 100, so this is the plain version of the skill. It is the base for the harder scaled and diatomic cards.",
+            "avoid": "Overworking it: nearly 90% got this right (24N.1.HL.TZ0.5).",
+            "seconds": 5,
+            "ao_level": "AO2",
+            "syllabus_hook": "S1.2.3: mass spectra determine Ar from isotopic composition. S1.2.2: non-integer Ar from given data.",
+            "textbook_gap": "Books calculate in full. The MCQ only needs the position of Ar between the two peaks."
+          },
+          "2_markscheme_logic": {
+            "short": "One mark for B; the letter is all that scores.",
+            "why": "The options are spaced widely, so a rough position is enough. Precision beyond one decimal place adds nothing to this mark.",
+            "avoid": "Picking D because it looks like a real element's Ar.",
+            "seconds": 5,
+            "trigger_phrases": [
+              "Correct answer: B"
+            ],
+            "trap_boundary": "10.8 reverses the weights, as if most atoms had mass 11.",
+            "delta": "B weights 80% at mass 10. D uses the same two masses with the weights swapped.",
+            "evidence_ref": "24N.1.HL.TZ0.5"
+          },
+          "3_novel_application": {
+            "short": "Looks like a calculation, but logic alone finishes it.",
+            "why": "Examiners made the same point about a bromine item: it appears to need calculating but yields to logic about where Ar sits (08M.1.SL.TZ0.6).",
+            "avoid": "Using a long method when the position alone settles it.",
+            "seconds": 5,
+            "disguise": "It looks like arithmetic with awkward values of 80.1 and 19.9, but only their approximate size matters.",
+            "heuristic": "Roughly 80:20 means about a fifth of the gap above the lower mass."
+          },
+          "4_command_terms": {
+            "short": "MCQ stem: choose the value; no working is marked.",
+            "why": "Only the letter scores, so an estimate that separates the options is a complete answer.",
+            "avoid": "Writing out a full sum and losing time.",
+            "seconds": 5,
+            "command_term": "none",
+            "demands": "Select the value that fits the two peaks.",
+            "score_mechanics": "One mark, all or nothing, for the correct letter."
+          },
+          "5_time_efficiency": {
+            "short": "Fifteen seconds: lower mass plus about one fifth of 1.",
+            "why": "10 + 0.2 lands directly on an option. There is nothing to gain from using 0.199 rather than 0.2.",
+            "avoid": "Multiplying 80.1 × 10 and 19.9 × 11 in full.",
+            "seconds": 15,
+            "workflow": [
+              "Spot the tall peak",
+              "Lower + heavy fraction",
+              "Match the option"
+            ],
+            "fat_to_trim": "Skip exact multiplication and any attempt to identify the element."
+          },
+          "6_data_booklet": {
+            "short": "Do not look up: section 7's boron value is D's trap.",
+            "why": "Section 7 lists B as 10.81, which resembles D. This spectrum gives 10.2, so the data in the question decide, not the table.",
+            "avoid": "Identifying the element as boron and copying its Ar.",
+            "seconds": 5,
+            "sections": [
+              7
+            ],
+            "pattern": "Section 7 shows B 10.81. It does not apply to this spectrum.",
+            "memorise": "The weighted-mean method is not in the booklet."
+          },
+          "7_elimination": {
+            "short": "A needs one isotope; C equal peaks; D reversed weights.",
+            "why": "The peak heights alone place Ar just above 10. Three options fail this before any arithmetic.",
+            "avoid": "Choosing C as a safe middle value.",
+            "seconds": 5,
+            "definitely_wrong": [
+              {
+                "target": "A",
+                "rule": "10.0 means every atom has mass 10, but a peak at 11 exists."
+              },
+              {
+                "target": "C",
+                "rule": "10.5 needs equal peaks, and these are about 4:1."
+              },
+              {
+                "target": "D",
+                "rule": "10.8 needs the heavier isotope to dominate, which is the reverse of this spectrum."
+              }
+            ]
+          }
+        },
+        "answer": "B. 10.2. (10 × 0.801) + (11 × 0.199) ≈ 10.2.",
+        "try_next": [
+          "25M.1A.HL.6219.4",
+          "18M.2.HL.TZ1.2",
+          "25N.2.HL.6221.5"
+        ]
+      },
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "Paper 1 (November 2024 HL and SL)",
+            "Legacy Paper 1"
+          ],
+          "syllabus_hook": "S1.2.2 calculations from given abundance data; S1.2.3 spectra to Ar.",
+          "textbook_gap": "Books calculate every time. Examiners note that older MCQs here can be solved faster by inspecting abundances or using logic."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "Correct answer: B",
+            "multiply intensity by m/z, then sum"
+          ],
+          "trap_boundaries": [
+            "Only the letter scores in the MCQ (24N.1.HL.TZ0.5).",
+            "In worded parts, the method must name multiplying and summing or a weighted average (18M.2.HL.TZ1.2)."
+          ],
+          "delta": "Right against tempting: B weights mass 10 at about 80%, while D has the weights reversed."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Awkward decimal abundances such as 80.1 and 19.9.",
+            "Find the % of an isotope from Ar: Ar below the midpoint means more of the lighter isotope, so one option survives (08M.1.SL.TZ0.6).",
+            "Three peaks where inspection of abundances beats calculating (08N.1.HL.TZ0.6)."
+          ],
+          "heuristic": "Before calculating, place Ar on a line between the masses using which side has more atoms."
+        },
+        "4_command_terms": {
+          "terms": [
+            "none (MCQ)"
+          ],
+          "score_mechanics": "One mark for the letter, with no credit for working."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Spot the tall peak",
+            "Lower + heavy fraction",
+            "Match the option"
+          ],
+          "fat_to_trim": "Exact multiplication is unnecessary when the options are spaced by 0.2 or more."
+        },
+        "6_data_booklet": {
+          "sections": [
+            7
+          ],
+          "hack": "Section 7 gives natural Ar values, but the spectrum may be made up: 10.81 for boron is a trap here. The method must be memorised."
+        },
+        "7_elimination": {
+          "rules": [
+            "A value equal to one peak's m/z needs a single isotope, or peaks balanced around it.",
+            "The midpoint needs equal abundances.",
+            "Ar lies on the side of the taller peak."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.1.HL.TZ0.5",
+          "kind": "mcq",
+          "note": "Correct answer B."
+        },
+        {
+          "ref": "24N.1.HL.TZ0.5",
+          "kind": "examiner",
+          "note": "Nearly 90% calculated Ar correctly from the spectrum."
+        },
+        {
+          "ref": "24N.1.SL.TZ0.5",
+          "kind": "examiner",
+          "note": "75% correct at SL, described as very well answered."
+        },
+        {
+          "ref": "08M.1.SL.TZ0.6",
+          "kind": "examiner",
+          "note": "Bromine isotope abundance can be answered by logic, not calculation; about 50% correct."
+        },
+        {
+          "ref": "08N.1.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "Inspection of abundances was the easiest route; better candidates took it."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.2",
+          "kind": "markscheme",
+          "note": "The method for worded answers: multiply, sum, weighted average."
+        }
+      ],
+      "difficulty_signal": "Low priority: 90% correct at HL and 75% at SL in November 2024, and the skill is listed as well prepared in many sessions. Its value lies in speed and as the base for cards 03 and 05.",
+      "status": {
+        "mastered": false,
+        "needs_review": false
+      }
+    }
+  ],
+  "cross_links": [
+    {
+      "sub_topic": "S1.3",
+      "note": "Isotopes have the same electron configuration; the reasoning for equal ionization energy (19M.2.HL.TZ2.3) connects to shells and nuclear charge."
+    },
+    {
+      "sub_topic": "S1.4",
+      "note": "A calculated Ar feeds into Mr and mole work: N₂O from an altered nitrogen sample (19M.2.HL.TZ2.3), and thallium compounds in 25M.2.HL.6215.2."
+    },
+    {
+      "sub_topic": "S3.1",
+      "note": "Number of protons and shielding explain trends in radius across a period (21N.2.HL.TZ0.2, 18M.2.SL.TZ2.3)."
+    }
+  ],
+  "sub_topic": "S1.2",
+  "title": "The nuclear atom",
+  "schema_version": 2,
+  "generated_by": "claude-code:opus",
+  "excluded_no_markscheme": [],
+  "evidence_base": {
+    "questions": 5,
+    "questions_with_markscheme": 5,
+    "era_2025": 5,
+    "trap_lines": 16,
+    "examiner_error_sentences": 209
+  },
+  "validation_issues": [
+    {
+      "card": "S1.2-01",
+      "issue": "trigger phrases share no words with the markscheme"
+    },
+    {
+      "card": "S1.2-03",
+      "issue": "needs a diagram or data the card doesn't have, so it can't be solved from the card"
+    },
+    {
+      "card": "S1.2-05",
+      "issue": "needs a diagram or data the card doesn't have, so it can't be solved from the card"
+    },
+    {
+      "card": "S1.2-05",
+      "issue": "MCQ elimination target 'Any graph with 37 taller than 35' is not an option letter"
+    },
+    {
+      "card": "S1.2-05",
+      "issue": "MCQ elimination target 'Any graph with 74 taller than 70' is not an option letter"
+    },
+    {
+      "card": "S1.2-05",
+      "issue": "MCQ elimination target 'Any graph with 72 double the height of 70' is not an option letter"
+    }
+  ]
+}

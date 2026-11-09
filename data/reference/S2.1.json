@@ -1,0 +1,168 @@
+{
+ "notes": [
+  {
+   "heading": "Cations, anions and ion formation",
+   "understanding": "S2.1.1",
+   "points": [
+    "Metal atoms lose electrons to form positive cations; non-metal atoms gain electrons to form negative anions.",
+    "A cation has more protons than electrons; an anion has more electrons than protons. Neutrons carry no charge.",
+    "Na (1s2 2s2 2p6 3s1) loses one electron to give Na+ (1s2 2s2 2p6), which has the same configuration as neon.",
+    "Group 1, 2, 13 form 1+, 2+, 3+; groups 15, 16, 17 form 3–, 2–, 1–; noble gases form no ions.",
+    "Losing electrons is oxidation, gaining is reduction, so making an ionic compound from its elements is a redox reaction."
+   ]
+  },
+  {
+   "heading": "Transition element ions with variable charge",
+   "understanding": "S2.1.1",
+   "points": [
+    "A transition element has a partially filled d sublevel and can form ions of more than one charge, e.g. Fe2+ and Fe3+.",
+    "In first-row transition elements, 4s electrons are lost before 3d electrons when ions form.",
+    "Most form 2+ ions by losing the two 4s electrons, e.g. Fe2+ is [Ar]3d6.",
+    "Variable charges occur because 4s and 3d are close in energy, shown by successive ionization energy data."
+   ]
+  },
+  {
+   "heading": "Ionic bonding, formulas and naming",
+   "understanding": "S2.1.2",
+   "points": [
+    "An ionic bond is the electrostatic attraction between oppositely charged ions.",
+    "Naming: cation first, then anion; a monatomic anion keeps the start of its parent name and ends in -ide.",
+    "Polyatomic ions to learn: NH4+, OH–, NO3–, HCO3–, CO3 2–, SO4 2–, PO4 3–.",
+    "To find a formula, balance ion numbers so net charge is zero (bar diagrams or criss-cross), then simplify the ratio.",
+    "Bracket a polyatomic ion when more than one is needed, e.g. Al(NO3)3, Ca3N2, Na2CO3."
+   ]
+  },
+  {
+   "heading": "Ionic lattices and lattice enthalpy",
+   "understanding": "S2.1.3",
+   "points": [
+    "Ionic compounds are continuous 3D lattices of repeating cations and anions; the formula is an empirical formula giving the ion ratio.",
+    "Ionic bonding is non-directional: each ion attracts all oppositely charged neighbours equally.",
+    "Lattice enthalpy is the enthalpy change to turn one mole of solid lattice into gaseous ions; it is endothermic, e.g. MX(s) → M+(g) + X–(g).",
+    "Larger lattice enthalpy means stronger ionic bonding, and it rises with higher ionic charge and falls with larger ionic radius.",
+    "Example: NaF (930 kJ mol–1) exceeds KF (829) due to smaller cation; CaF2 (2651) is mainly high because of the 2+ charge."
+   ]
+  },
+  {
+   "heading": "Properties of ionic compounds",
+   "understanding": "S2.1.3",
+   "points": [
+    "High melting and boiling points and low volatility, because strong electrostatic attractions must be overcome.",
+    "Solid ionic compounds do not conduct, as ions are fixed; molten or aqueous ones conduct because ions are mobile.",
+    "Usually soluble in polar solvents like water, where partial charges on water molecules pull ions out of the lattice.",
+    "Insoluble in non-polar solvents such as hexane, since there is no attraction between ions and solvent.",
+    "Insoluble if lattice attraction is stronger than ion–water attraction, e.g. calcium carbonate and silver chloride."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Cation",
+   "definition": "A positively charged ion formed when an atom loses electrons, so it has more protons than electrons.",
+   "must_say": [
+    "positive ion",
+    "loses electrons",
+    "more protons than electrons"
+   ],
+   "trap": "Saying cations gain protons; the number of protons never changes, only electrons."
+  },
+  {
+   "term": "Anion",
+   "definition": "A negatively charged ion formed when an atom gains electrons, so it has more electrons than protons.",
+   "must_say": [
+    "negative ion",
+    "gains electrons",
+    "more electrons than protons"
+   ],
+   "trap": "Mixing up cation and anion, or forgetting anions get the -ide ending."
+  },
+  {
+   "term": "Ionic bond",
+   "definition": "The electrostatic attraction between oppositely charged ions (cations and anions).",
+   "must_say": [
+    "electrostatic attraction",
+    "oppositely charged ions"
+   ],
+   "trap": "Defining it as electron transfer; the bond is the attraction, not the transfer."
+  },
+  {
+   "term": "Polyatomic ion",
+   "definition": "An ion made up of several atoms bonded together that carries an overall charge, such as NH4+ or SO4 2–.",
+   "must_say": [
+    "several atoms",
+    "overall charge"
+   ],
+   "trap": "Splitting the ion up or changing its formula when writing compounds."
+  },
+  {
+   "term": "Isoelectronic",
+   "definition": "Describes different species that have the same electron configuration.",
+   "must_say": [
+    "same electron configuration"
+   ],
+   "trap": "Saying they have the same number of protons; only the electrons match."
+  },
+  {
+   "term": "Transition element",
+   "definition": "An element with a partially filled d sublevel, which can form ions of different charges.",
+   "must_say": [
+    "partially filled d sublevel"
+   ],
+   "trap": "Calling zinc a transition element; it only forms 2+ ions."
+  },
+  {
+   "term": "Electronegativity",
+   "definition": "A measure of the ability of an atom to attract a pair of covalently bonded electrons.",
+   "must_say": [
+    "attract",
+    "bonded pair of electrons"
+   ],
+   "trap": "Omitting that it refers to atoms in a bond."
+  },
+  {
+   "term": "Lattice enthalpy",
+   "definition": "The standard enthalpy change when one mole of a solid ionic lattice forms gaseous ions; endothermic.",
+   "must_say": [
+    "one mole",
+    "solid lattice",
+    "gaseous ions"
+   ],
+   "trap": "Writing the reverse process (gaseous ions to lattice) or giving a negative value."
+  },
+  {
+   "term": "Ionic lattice",
+   "definition": "A continuous three-dimensional network of repeating positive and negative ions held by electrostatic attractions.",
+   "must_say": [
+    "three-dimensional",
+    "repeating",
+    "positive and negative ions"
+   ],
+   "trap": "Describing ionic compounds as separate molecules."
+  },
+  {
+   "term": "Empirical formula (ionic)",
+   "definition": "The simplest whole-number ratio of each type of ion in the lattice.",
+   "must_say": [
+    "simplest ratio",
+    "ions"
+   ],
+   "trap": "Treating the formula as a molecule, e.g. CaF2 molecules."
+  },
+  {
+   "term": "Volatility",
+   "definition": "The tendency of a substance to vaporize, turning into a gas.",
+   "must_say": [
+    "tendency to vaporize"
+   ],
+   "trap": "Saying ionic compounds are volatile; they are non-volatile."
+  }
+ ],
+ "sub_topic": "S2.1",
+ "title": "The ionic model",
+ "generated_by": "sonnet",
+ "issues": [
+  "point copies the book: Losing electrons is oxidation, gaining is reductio",
+  "point copies the book: Ionic bonding is non-directional: each ion attract",
+  "definition copies the book: Electronegativity"
+ ]
+}

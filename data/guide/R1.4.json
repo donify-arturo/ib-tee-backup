@@ -1,0 +1,201 @@
+{
+ "overview": "Reactivity 1.4 asks what decides the direction of chemical change. Entropy (S) measures how widely matter and energy are dispersed. The second law says a change is spontaneous when total entropy (system + surroundings) rises. Gibbs energy, ΔG = ΔH − TΔS, combines both effects into one quantity. At constant pressure a negative ΔG means spontaneous, and as a reaction approaches equilibrium ΔG rises to zero, which links ΔG° to the equilibrium constant K.",
+ "sections": [
+  {
+   "understanding": "R1.4.1",
+   "title": "Entropy as dispersal of matter and energy",
+   "explanation": "**Entropy, S**, is a measure of the dispersal or distribution of matter and/or energy in a system. The more ways the energy can be distributed, the higher the entropy. Popularly entropy is described as \"disorder\" or \"randomness\". The Companion calls this an oversimplification that can cause misconceptions, and uses dispersal of matter and energy instead. IB Prepared still uses \"disorder\" in places and says the more predictable the states of individual particles are, the lower the entropy.\n\nAn alternative, statistical view counts **microstates**, the number of ways molecular energy can be distributed. Boltzmann related entropy to the number of microstates (S = k log W). The thermodynamic and statistical views are complementary.\n\n**Physical states.** Under the same conditions, S(gas) > S(liquid) > S(solid).\n- In a solid lattice the particles have fixed positions and can only vibrate and rotate, so entropy is low.\n- Liquid particles have no fixed positions and move in random directions, so entropy is higher. They still interact and their separations vary only slightly, so the solid-to-liquid difference is relatively small.\n- Gas particles move freely, with widely varying distances and completely unpredictable positions and kinetic energies, so entropy is very high.\n- When a substance melts or boils it absorbs energy, the particles' kinetic energy rises, and the energy can be spread in more ways.\n\nIB Prepared's standard entropies at 298 K (J K⁻¹ mol⁻¹) show the trend:\n- Mg: solid 33, liquid 35, gas 149.\n- H₂O: solid 41, liquid 70, gas 189.\n- Ethanol: solid 129, liquid 161, gas 282.\n\nEntropy generally also increases with molecular complexity.\n\n**Heat and entropy.** Adding heat increases particle movement. The same amount of heat has a big effect on a cold system (ice at 0 °C melts) and a much smaller effect on a system that is already highly disordered (water at 60 °C).\n\n**Predicting the sign of ΔS for a reaction.**\n- Look at the states first, since entropy rises solid → liquid → gas.\n- Then compare the coefficients. Gases dominate, so ignore solids and liquids and compare the number of moles of gas.\n- More moles of gas in the products than the reactants means ΔS > 0, and fewer means ΔS < 0.\n- Examples: NH₄Cl(s) → NH₃(g) + HCl(g) has ΔS > 0 (1 mol solid becomes 2 mol gas). CaCO₃(s) → CaO(s) + CO₂(g) has ΔS > 0, actual +160 J K⁻¹ mol⁻¹. In 2C₂H₆(g) + 7O₂(g) → 4CO₂(g) + 6H₂O(l), gas falls from 9 mol to 4 mol, so ΔS < 0. C₂H₄(g) + H₂O(l) → CH₃CH₂OH(l) has ΔS < 0 (gas goes from 1 mol to 0).\n- If the number of moles of gas does not change, ΔS is small.\n\n**Calculating ΔS°.** Entropy is a state function, so ΔS° = ΣS°(products) − ΣS°(reactants). Multiply each S° by its coefficient. Use the value for the correct state: S°(H₂O(g)) = 189 but S°(H₂O(l)) = 70 J K⁻¹ mol⁻¹. Units are J K⁻¹ mol⁻¹. Standard entropy values are in the data booklet (section 13).\n\nExamples from the Companion:\n- H₂ + Cl₂ → 2HCl: (2 × 187) − (131 + 223) = +20 J K⁻¹ mol⁻¹. The value is small because the moles of gas do not change.\n- H₂(g) + ½O₂(g) → H₂O(l): 70 − (131 + 205/2) = −164 J K⁻¹ mol⁻¹. Gas becomes liquid.\n- N₂O₄(g) → 2NO₂(g): (2 × 240) − 304 = +176 J K⁻¹ mol⁻¹.\n- NH₄Cl(s) → NH₃(g) + HCl(g): (193 + 187) − 95 = +285 J K⁻¹ mol⁻¹.\n\nUse your prediction of the sign to check the calculation.\n\n**Absolute values.** Unlike enthalpy and Gibbs energy, absolute entropy can be determined for every substance. So elements in their standard states at 298 K have non-zero S°. As T approaches 0 K, thermal motion ceases and the entropy of an ideal (perfectly ordered) crystal falls to zero.",
+   "key_points": [
+    "Entropy measures dispersal of matter and energy: more ways to distribute energy means higher S.",
+    "S(gas) > S(liquid) > S(solid) under the same conditions.",
+    "Predict the sign of ΔS by counting moles of gas on each side; gases dominate.",
+    "ΔS° = ΣS°(products) − ΣS°(reactants), including coefficients, in J K⁻¹ mol⁻¹.",
+    "Elements have non-zero S° at 298 K; a perfect crystal at 0 K has S = 0."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔS° = ΣS°(products) − ΣS°(reactants)",
+     "meaning": "Standard entropy change of a reaction, in J K⁻¹ mol⁻¹ (multiply by coefficients; S° values are in the data booklet, section 13)."
+    },
+    {
+     "formula": "S = k log W",
+     "meaning": "Boltzmann's statistical definition: W is the number of microstates (for interest, from the Companion's TOK box)."
+    }
+   ],
+   "exam_tips": [
+    "Check each state symbol before looking up S°, because the liquid and gas values differ a lot.",
+    "Apply the stoichiometric coefficients to the S° values.",
+    "Predict the sign of ΔS first and use it to check your calculated answer.",
+    "Remember S° of elements is not zero, unlike ΔHf° of elements."
+   ],
+   "mistakes": [
+    "Using the wrong state's S° value (e.g. H₂O(g) instead of H₂O(l)).",
+    "Forgetting to multiply S° by coefficients.",
+    "Counting total moles instead of moles of gas when predicting the sign of ΔS.",
+    "Treating \"disorder\" as a perfect definition; the Companion calls it an oversimplification."
+   ],
+   "companion_pages": [
+    "443",
+    "444",
+    "445",
+    "446",
+    "447"
+   ],
+   "prepared_pages": [
+    "114",
+    "115"
+   ]
+  },
+  {
+   "understanding": "R1.4.2",
+   "title": "Gibbs energy, enthalpy, entropy and temperature",
+   "explanation": "Both enthalpy and entropy affect whether a reaction goes. Exothermic reactions (decrease in enthalpy) tend to be spontaneous because the products are more stable. An increase in entropy also favours spontaneity. A spontaneous (thermodynamically favourable) reaction can still be kinetically unfavourable if its activation energy is high.\n\nThe effect of heat on entropy depends on temperature (ice at 0 °C versus water at 60 °C), so temperature must be part of the picture.\n\n**Gibbs energy, G**, is a state function defined as G = H − TS. The **change in Gibbs energy** (Gibbs free energy change) is:\n\nΔG = ΔH − TΔS\n\nIt relates the energy that can be obtained from a reaction (the Companion says ΔG is the maximum energy obtainable from a system) to ΔH, ΔS and the absolute temperature T.\n\n**Units.** ΔH and ΔG are in kJ mol⁻¹ and ΔS is in J K⁻¹ mol⁻¹. T must be in kelvin (K = °C + 273 or 273.15). Convert ΔS to kJ K⁻¹ mol⁻¹ by dividing by 1000 before using ΔG = ΔH − TΔS. Alternatively, convert ΔH to J mol⁻¹. The units of ΔH and ΔS must correspond.\n\nThe Gibbs equation applies to a chemical or physical change, not to an individual substance. The ΔS in it is the entropy change of the process, not the absolute entropy of a substance.\n\n**Standard Gibbs energy.** ΔG° = ΔH° − TΔS° can use thermodynamic data from the data booklet (ΔH° from bond enthalpies, ΔHf°, or other methods, and ΔS° from S° values). ΔG° can also be found from standard Gibbs energies of formation: ΔG° = Σ ΔGf°(products) − Σ ΔGf°(reactants). The standard Gibbs energy of formation is the Gibbs energy change when one mole of a substance forms from its elements in their standard states. Elements in their standard states have ΔGf° = 0.\n\n**Effect of temperature.** At low T, |ΔH| ≫ |TΔS|, so ΔG has the same sign as ΔH. At high T, |ΔH| ≪ |TΔS|, so the sign of ΔG is opposite to that of ΔS.\n\nCompanion Table 2 / IB Prepared Table 9:\n- ΔH < 0 and ΔS > 0: ΔG always negative, spontaneous at any temperature.\n- ΔH > 0 and ΔS < 0: ΔG always positive, never spontaneous.\n- ΔH > 0 and ΔS > 0: ΔG positive at low T and negative at high T, so spontaneous only at high temperature.\n- ΔH < 0 and ΔS < 0: ΔG negative at low T and positive at high T, so spontaneous only at low temperature.\n\nAt the changeover, ΔG = 0, so 0 = ΔH − TΔS and T = ΔH/ΔS. For an endothermic reaction with ΔS > 0 this is the temperature above which the reaction becomes spontaneous.\n\n**Companion examples.**\n- Combustion of propane at 5 °C (278.15 K): ΔH = −2045 kJ mol⁻¹ (from ΔHf), ΔS = +103 J K⁻¹ mol⁻¹, so ΔG = −2045 − (278.15 × 0.103) = −2074 kJ mol⁻¹. Spontaneous. Using bond enthalpies the ΔH comes to −2034 kJ mol⁻¹, a slightly different value from the other method.\n- CH₄(g) + H₂O(g) → 3H₂(g) + CO(g), ΔH = +205 kJ mol⁻¹, ΔS = +216 J K⁻¹ mol⁻¹: ΔG at 298 K = 205 − (298 × 0.216) = +141 kJ mol⁻¹, non-spontaneous. It becomes spontaneous above T = 205/0.216 = 949 K.\n\n**PNIPAM example (Companion skills task).** Dissolving the polymer in water is exothermic (hydrogen bonds form) with a negative ΔS (water must be arranged regularly). It is favourable on enthalpy and unfavourable on entropy. At high T the TΔS term outweighs ΔH, ΔG becomes positive, and the polymer precipitates.",
+   "key_points": [
+    "ΔG = ΔH − TΔS (G = H − TS).",
+    "ΔH and ΔG in kJ mol⁻¹, ΔS in J K⁻¹ mol⁻¹: convert units so they match, and T in K.",
+    "Four sign combinations of ΔH and ΔS determine whether spontaneity depends on temperature.",
+    "At ΔG = 0, T = ΔH/ΔS gives the changeover temperature.",
+    "ΔG° can also be found from ΣΔGf°(products) − ΣΔGf°(reactants)."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔG° = ΔH° − TΔS°",
+     "meaning": "Standard Gibbs energy change in kJ mol⁻¹ (T in K; ΔS in kJ K⁻¹ mol⁻¹ after dividing J by 1000). Thermodynamic data values are in the data booklet."
+    },
+    {
+     "formula": "T = ΔH°/ΔS°",
+     "meaning": "Temperature in K at which ΔG° = 0 (the changeover temperature)."
+    },
+    {
+     "formula": "ΔG° = Σ ΔGf°(products) − Σ ΔGf°(reactants)",
+     "meaning": "Standard Gibbs energy change from formation values, kJ mol⁻¹."
+    }
+   ],
+   "exam_tips": [
+    "IB Prepared's Assessment tip: use the correct units for ΔG and temperature, convert °C to K, include stoichiometric coefficients, and make sure ΔH and ΔS units correspond (kJ mol⁻¹ with kJ K⁻¹ mol⁻¹, or J mol⁻¹ with J K⁻¹ mol⁻¹).",
+    "The ΔS in the Gibbs equation is the entropy change of the process, not the absolute entropy of a substance.",
+    "Give the final temperature in the unit asked for: a K answer must be converted to °C if °C is required (e.g. 377 K → 104 °C).",
+    "A worked answer that lost marks for inconsistent units and not stating ΔG = 0 at the changeover shows these are commonly checked."
+   ],
+   "mistakes": [
+    "Forgetting to convert J to kJ for ΔS (the Companion lists this explicitly).",
+    "Forgetting to convert °C to K.",
+    "Omitting negative signs.",
+    "Leaving out stoichiometric coefficients.",
+    "Giving the answer in K when °C is requested.",
+    "Using the Gibbs equation with the absolute entropy of one substance."
+   ],
+   "companion_pages": [
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "457",
+    "458"
+   ],
+   "prepared_pages": [
+    "115",
+    "116",
+    "117",
+    "118"
+   ]
+  },
+  {
+   "understanding": "R1.4.3",
+   "title": "Spontaneity and the sign of ΔG",
+   "explanation": "At constant pressure, a change is **spontaneous** if ΔG < 0. If ΔG > 0 it is non-spontaneous, and the reverse reaction is spontaneous. ΔG = 0 means equilibrium, where neither direction is favoured.\n\n**Why ΔG works.** It takes into account the direct entropy change of the system (from the transformation of the chemicals) and the indirect entropy change of the surroundings (from the transfer of heat energy).\n\n**Second law of thermodynamics.** A spontaneous change increases the total entropy: ΔS_total = ΔS_system + ΔS_surroundings.\n- ΔS_total > 0: spontaneous (forward reaction).\n- ΔS_total = 0: equilibrium.\n- ΔS_total < 0: non-spontaneous (the reverse reaction is spontaneous).\n- If the forward reaction has a negative entropy change, the reverse has a positive one.\n- The IB Prepared book adds that a spontaneous process increases the total entropy of the universe at the expense of energy available to do useful work.\n\n**Surroundings.** The entropy change of the surroundings is found indirectly from the heat the system gives out or takes in. If ΔH_system < 0, heat flows into the surroundings, their particle motion intensifies and ΔS_surr > 0. If ΔH_system > 0, ΔS_surr < 0. This is why ΔH enters the Gibbs equation.\n\n**Using signs to judge spontaneity.**\n- Exothermic with an increase in entropy: always spontaneous (ΔG < 0).\n- Endothermic with a decrease in entropy: never spontaneous (ΔG > 0).\n- Other combinations depend on temperature. In terms of the Companion, if TΔS > ΔH then ΔG is negative, and if TΔS < ΔH then ΔG is positive.\n\n**Examples.**\n- Dissolving NaCl in water makes the solution cool. It is spontaneous (ΔG < 0), endothermic (ΔH > 0) and has ΔS > 0, because aqueous ions are more dispersed than ions in the lattice. Since −TΔS is negative and larger than ΔH, a rise in temperature makes ΔG more negative, so solubility increases with temperature.\n- Ammonium chloride with hydrated barium hydroxide is strongly endothermic yet goes spontaneously: the system's entropy increases (solids become gas, aqueous solution and liquid), which outweighs the unfavourable ΔH (the Companion poses this as a question).\n- The Prepared Problem 3 asks why boiling points are higher than freezing points; this follows from the Gibbs equation (the sign of ΔG for each change flips at a temperature set by ΔH/ΔS).\n\n**Spontaneous is not the same as fast.** A spontaneous reaction may still have a high activation energy and so be kinetically unfavourable.",
+   "key_points": [
+    "At constant pressure ΔG < 0 means spontaneous; ΔG > 0 non-spontaneous; ΔG = 0 equilibrium.",
+    "Second law: spontaneous change has ΔS_total = ΔS_system + ΔS_surroundings > 0.",
+    "ΔG includes the system's entropy change directly and the surroundings' entropy change through ΔH.",
+    "Exothermic with ΔS > 0: always spontaneous. Endothermic with ΔS < 0: never.",
+    "Spontaneous does not mean fast."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔS_total = ΔS_system + ΔS_surroundings",
+     "meaning": "Total entropy change; positive for a spontaneous change (J K⁻¹ mol⁻¹)."
+    }
+   ],
+   "exam_tips": [
+    "Give the reason for each sign you predict (e.g. ΔH > 0 because the temperature falls; ΔS > 0 because ions are more dispersed in solution).",
+    "Use the signs of ΔH and ΔS and the Gibbs equation to reason about how temperature changes spontaneity.",
+    "State ΔG = 0 at equilibrium where the forward and reverse reactions are equally favourable (a marker in the Prepared answer was missed)."
+   ],
+   "mistakes": [
+    "Assuming every exothermic reaction is spontaneous or every endothermic one is not (MCQ 4 in the Companion tests this).",
+    "Confusing spontaneous with fast.",
+    "Assuming a negative ΔS_system makes a reaction impossible; the surroundings' entropy change must be included."
+   ],
+   "companion_pages": [
+    "444",
+    "447",
+    "448",
+    "449",
+    "450",
+    "452",
+    "459"
+   ],
+   "prepared_pages": [
+    "115",
+    "116",
+    "117",
+    "120"
+   ]
+  },
+  {
+   "understanding": "R1.4.4",
+   "title": "ΔG, Q, K and equilibrium",
+   "explanation": "As a reaction approaches equilibrium, ΔG becomes less negative and finally reaches zero.\n\n**Q and K.** The **reaction quotient, Q**, is the ratio of product to reactant concentrations (written like K) at any point in the reaction. The **equilibrium constant, K**, is the same ratio at equilibrium. Comparing them gives the direction of change:\n- Q < K: reactants are in excess of the equilibrium amount, so the forward reaction is favoured.\n- Q = K: equilibrium; forward and reverse rates are equal.\n- Q > K: products are in excess, so the reverse reaction is favoured.\n\n**Gibbs energy along the reaction.** From the start of a reversible reaction the Gibbs energy of the mixture changes as the ratio of reactants to products changes. It reaches a minimum at equilibrium, where ΔG = 0, and then rises. Before the minimum (region A in the Companion's figure) the forward reaction has ΔG < 0 and is spontaneous. Beyond it (region B) the forward reaction has ΔG > 0 and is non-spontaneous, so the reverse reaction is spontaneous, with the same magnitude of ΔG but the opposite sign. At equilibrium the mixture can stay unchanged unless it is disturbed.\n\n**The equations.** For any point in the reaction:\n\nΔG = ΔG° + RT ln Q\n\nwhere R = 8.31 J K⁻¹ mol⁻¹ and T is in K. At equilibrium ΔG = 0 and Q = K, which gives:\n\nΔG° = −RT ln K\n\nand rearranged, K = e^(−ΔG°/RT). Both equations are given in the data booklet, section 1. The units of R include J, so ΔG° must be converted from kJ to J before use.\n\n**Link between K and ΔG°** (Companion Table 5):\n- K = 1: neither side favoured, ΔG° = 0.\n- K > 1: products favoured, ΔG° < 0.\n- K < 1: reactants favoured, ΔG° > 0.\n\n**Examples.**\n- Ammonia synthesis: ΔH = −92 kJ mol⁻¹, ΔS = −202 J K⁻¹ mol⁻¹ at 298 K. ΔG° = −92 − 298 × (−0.202) = −31.8 kJ mol⁻¹. From ln K = 31800/(8.31 × 298), K = 3.77 × 10⁵, so the forward reaction is very favourable. With Q = 1 × 10⁶, ΔG = −31800 + 8.31 × 298 × ln(10⁶) = +2410 J mol⁻¹ = +2.41 kJ mol⁻¹, so the forward reaction is not spontaneous at that point (Q > K, the reverse reaction goes).\n- 2NO₂ ⇌ N₂O₄ at 25 °C, K = 6.98: ΔG° = −8.31 × 298 × ln 6.98 ≈ −4800 J mol⁻¹ = −4.8 kJ mol⁻¹, spontaneous under standard conditions. With [NO₂] = 0.040 and [N₂O₄] = 0.020 mol dm⁻³, Q = 0.020/0.040² = 12.5 and ΔG = −4800 + 8.31 × 298 × ln 12.5 ≈ +1500 J mol⁻¹ = +1.5 kJ mol⁻¹. The reverse reaction is spontaneous, which agrees with Q > K.\n\nThe Prepared book points to Reactivity 2.3 for K and Q and Reactivity 3.2 for the link ΔG° = −nFE°cell.",
+   "key_points": [
+    "ΔG falls to a minimum at equilibrium, where ΔG = 0 and Q = K.",
+    "ΔG = ΔG° + RT ln Q for any composition; ΔG° = −RT ln K at equilibrium.",
+    "K > 1 ↔ ΔG° < 0; K < 1 ↔ ΔG° > 0; K = 1 ↔ ΔG° = 0.",
+    "Q < K: forward favoured; Q > K: reverse favoured.",
+    "Convert ΔG° to J mol⁻¹ (R = 8.31 J K⁻¹ mol⁻¹) and T to K."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔG = ΔG° + RT ln Q",
+     "meaning": "Gibbs energy change at a given composition; R = 8.31 J K⁻¹ mol⁻¹, T in K, ΔG in J mol⁻¹ (in the data booklet)."
+    },
+    {
+     "formula": "ΔG° = −RT ln K",
+     "meaning": "Standard Gibbs energy change at equilibrium (in the data booklet); K = e^(−ΔG°/RT)."
+    }
+   ],
+   "exam_tips": [
+    "IB Prepared's Assessment tip: do not forget to convert ΔG° from kJ mol⁻¹ to J mol⁻¹ to match the units of R.",
+    "Use Kelvin for T in all of these calculations.",
+    "Compare Q with K as a quick check on the sign of ΔG."
+   ],
+   "mistakes": [
+    "Leaving ΔG° in kJ mol⁻¹ when using R in J K⁻¹ mol⁻¹.",
+    "Using °C instead of K.",
+    "Confusing ΔG (at any point) with ΔG° (standard).",
+    "Dropping negative signs when rearranging K = e^(−ΔG°/RT)."
+   ],
+   "companion_pages": [
+    "454",
+    "455",
+    "456",
+    "458",
+    "459"
+   ],
+   "prepared_pages": [
+    "116",
+    "118",
+    "119",
+    "120"
+   ]
+  }
+ ],
+ "sub_topic": "R1.4",
+ "title": "Entropy and spontaneity",
+ "guiding_question": "What determines the direction of chemical change?",
+ "generated_by": "sonnet",
+ "issues": []
+}

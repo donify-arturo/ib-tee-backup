@@ -1,0 +1,206 @@
+# IB-TEE source manifest. One [[source]] per PDF.
+#
+# doc_id       stable id used for cache files and chunk ids (never change it after ingesting)
+# path         where the PDF lives
+# source_type  syllabus | textbook | textbook_answers | past_paper | markscheme | data_booklet | official_papers
+#              (official_papers = combined IB question papers + markschemes; split per document)
+# profile      LlamaParse profile in ingest/profiles.py
+# origin       free text shown in the UI ("Oxford 2023", "IB official", "RevisionHub")
+# scope        optional: restrict the sub-topic classifier to these families/themes, e.g. ["R"] or ["R1","R2"]
+
+[settings]
+uploads_dir = "/mnt/user-data/uploads"
+
+[[source]]
+doc_id = "guide_2025"
+path = "46070285-Chemistry_Guide_2025.pdf"
+source_type = "syllabus"
+origin = "IB Chemistry guide (first assessment 2025)"
+
+[[source]]
+doc_id = "data_booklet_2025"
+path = "647e0f01-Chemistry_Data_Booklet.pdf"
+source_type = "data_booklet"
+profile = "data_booklet"
+origin = "IB Chemistry data booklet (first assessment 2025)"
+
+[[source]]
+doc_id = "oxford_2023_excerpt"
+path = "373ebc0b-Oxford_Resources_for_IB_DP_Chemistry_Course_Book_2023_Excerpt.pdf"
+source_type = "textbook"
+profile = "textbook"
+origin = "Oxford IB Chemistry 2023 (excerpt)"
+
+[[source]]
+doc_id = "oxford_2023_answers_r1"
+path = "0e71eec6-1793657347740_IB_CHEMISTRY_ANSWERS_R1.pdf"
+source_type = "textbook_answers"
+profile = "textbook_answers"
+origin = "Oxford IB Chemistry 2023 answers (Reactivity 1)"
+
+[[source]]
+doc_id = "ib_official_24n_25m"
+path = "008a30ab-Markschemes_PDF_repository_new_syllabus..pdf"
+source_type = "official_papers"
+profile = "ib_official"
+origin = "IB official papers + markschemes (Nov 2024, May 2025)"
+
+[[source]]
+doc_id = "revisionhub_qb_reactivity_hl"
+path = "Chemistry___Question_Bank___RevisionHub.pdf"
+source_type = "past_paper"
+profile = "question_bank"
+origin = "RevisionHub question bank (Reactivity, HL)"
+scope = ["R"]
+
+[[source]]
+doc_id = "qb_markschemes_1"
+path = "a1c50111-QuestionBank_Mark_Schemes.pdf"
+source_type = "markscheme"
+profile = "question_bank_markscheme"
+origin = "Question bank markschemes (part 1)"
+
+[[source]]
+doc_id = "qb_markschemes_2"
+path = "f86f3cfd-QuestionBank_Mark_Schemes_2.pdf"
+source_type = "markscheme"
+profile = "question_bank_markscheme"
+origin = "Question bank markschemes (part 2)"
+
+[[source]]
+doc_id = "subject_reports_2001_2025"
+path = "f9180509-ALL_SUBJECT_REPORTS.pdf"
+source_type = "subject_report"
+parser = "pdftotext"          # 1,962 text-born pages: poppler is instant and lossless here
+origin = "IB Chemistry subject reports (2001–2025)"
+
+[[source]]
+doc_id = "ib_official_09m_sl_p1_tz2_ms"
+path = "3502f626-Chemistry_paper_1_TZ2_SL_markscheme.pdf"
+source_type = "official_papers"
+profile = "ib_official"
+origin = "IB markscheme May 2009 SL Paper 1 TZ2"
+
+[[source]]
+doc_id = "ib_official_25m_25n"
+path = "1e1637a6-past_paper_w_markscheme_november_and_may_2025.pdf"
+source_type = "official_papers"
+profile = "ib_official"
+origin = "IB official papers + markschemes (May & Nov 2025)"
+# Pages 31–170 are screenshots (no text layer → OCR locally, vision in LlamaParse). Three May 2025
+# screenshot covers show no paper code; identified by matching their text to known variants.
+[[source.cover_override]]
+page = 31
+session = "25M"
+level = "HL"
+paper = "2"
+code = "6209"
+[[source.cover_override]]
+page = 70
+session = "25M"
+level = "HL"
+paper = "1B"
+code = "6208"
+[[source.cover_override]]
+page = 88
+session = "25M"
+level = "HL"
+paper = "1A"
+code = "6207"
+
+[[source]]
+doc_id = "ib_official_25n_hl_p1a_6219_ms"
+path = "7ecab008-Chemistry_paper_1A_TZ3_HL_markscheme_2.pdf"
+source_type = "official_papers"
+profile = "ib_official"
+origin = "IB markscheme November 2025 HL Paper 1A (8825-6219M)"
+
+# Scanned SmashingScience revision books: image pages, old-syllabus topic numbers. OCR with ingest.scan_ocr.
+# topic_pages / ms_topic_pages are PDF page numbers where topics 1-11 start (contents page + the book's page offset).
+[[source]]
+doc_id = "smash_p1_2008_2014"
+path = "C:/Users/Arturo/Documents/ib_tee/documents to process/IB ALL HL EQ P1 ALL topics 817Marks 4Students Formatted 305Pgs.pdf"
+source_type = "scan_book"
+origin = "SmashingScience HL Paper 1 revision book (2008-2014)"
+paper = "1"
+ms_start = 293
+topic_pages = [3, 27, 39, 65, 98, 134, 171, 179, 217, 244, 283]
+ms_topic_pages = [293, 294, 294, 295, 297, 298, 299, 300, 301, 302, 304]
+
+[[source]]
+doc_id = "smash_p1_2015_2019"
+path = "C:/Users/Arturo/Documents/ib_tee/documents to process/d26cc6_ea3b9c1ad11f49e597c9ea207927b013.pdf"
+source_type = "scan_book"
+origin = "SmashingScience HL Paper 1 revision book (2015-2019)"
+paper = "1"
+ms_start = 214
+topic_pages = [7, 21, 30, 48, 71, 99, 121, 133, 153, 172, 200]
+ms_topic_pages = [214, 214, 215, 216, 217, 219, 220, 220, 221, 222, 224]
+
+[[source]]
+doc_id = "smash_p2_2015_2019"
+path = "C:/Users/Arturo/Documents/ib_tee/documents to process/d26cc6_19a95dcd985145708ba0ef4ee43705f3.pdf"
+source_type = "scan_book"
+origin = "SmashingScience HL Paper 2 revision book (2015-2019)"
+paper = "2"
+ms_start = 219
+topic_pages = [5, 23, 28, 40, 67, 89, 111, 121, 150, 173, 202]
+ms_topic_pages = [219, 225, 226, 233, 245, 254, 263, 267, 280, 288, 302]
+
+# No markschemes and no time zone in its headers, so its questions can't be joined to anything yet:
+# OCR'd for later, emits no chunks.
+[[source]]
+doc_id = "smash_p2_t9_1999_2013"
+path = "C:/Users/Arturo/Documents/ib_tee/documents to process/IB 9 HL EQ All P2 13s to 99s incl winter 4Students.pdf"
+source_type = "scan_book"
+origin = "SmashingScience HL Paper 2 Topic 9 exam questions (1999-2013)"
+paper = "2"
+emit_chunks = false
+
+# Old-syllabus energetics, Paper 2, with markschemes from page 49 in the same order as the questions. Headers give only the session
+# ("HL B 12s"), so each block's code was worked out by matching its text to the library, or to the examiner report that discusses it.
+# Blocks 15 and 16 are from 1999, too old to name. 10M.2.HL.TZ1.5 is inferred: every other May paper in this book is TZ1.
+[[source]]
+doc_id = "smash_p2_t5_1999_2013"
+path = "C:/Users/Arturo/Documents/ib_tee/documents to process/IB HL 5 EQ Paper 2 s99 to s13 incl W 4Students.pdf"
+source_type = "scan_book"
+origin = "SmashingScience HL Paper 2 Topic 5 exam questions (1999-2013)"
+paper = "2"
+headers = "session"
+ms_start = 49
+topic_pages = [2, 2, 2, 2, 2]
+ms_topic_pages = [49, 49, 49, 49, 49, 76]
+[source.refs]
+1 = "11N.2.HL.TZ0.3"
+2 = "11N.2.HL.TZ0.5"
+3 = "11M.2.HL.TZ1.1"
+4 = "10N.2.HL.TZ0.1"
+5 = "09M.2.HL.TZ1.3"
+6 = "06N.2.HL.TZ0.2"
+7 = "06M.2.HL.TZ0.1"
+8 = "05M.2.HL.TZ0.1"
+9 = "04N.2.HL.TZ0.3"
+10 = "03N.2.HL.TZ0.1"
+11 = "02N.2.HL.TZ0.1"
+12 = "01N.2.HL.TZ0.1"
+13 = "01M.2.HL.TZ0.3"
+14 = "00N.2.HL.TZ0.4"
+17 = "13M.2.HL.TZ1.8"
+18 = "12N.2.HL.TZ0.5"
+19 = "12N.2.HL.TZ0.5"
+20 = "12M.2.HL.TZ1.5"
+21 = "10N.2.HL.TZ0.4"
+22 = "10N.2.HL.TZ0.7"
+23 = "10M.2.HL.TZ1.5"
+24 = "09N.2.HL.TZ0.7"
+25 = "09M.2.HL.TZ1.6"
+26 = "08N.2.HL.TZ0.5"
+27 = "08M.2.HL.TZ0.6"
+28 = "07M.2.HL.TZ0.6"
+29 = "06N.2.HL.TZ0.9"
+30 = "05N.2.HL.TZ0.5"
+31 = "04M.2.HL.TZ0.9"
+32 = "01N.2.HL.TZ0.6"
+33 = "01M.2.HL.TZ0.5"
+34 = "00N.2.HL.TZ0.6"
+35 = "00M.2.HL.TZ0.7"

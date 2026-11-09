@@ -1,0 +1,176 @@
+{
+ "notes": [
+  {
+   "heading": "Dynamic equilibrium in a closed system",
+   "understanding": "R2.3.1",
+   "points": [
+    "Dynamic equilibrium: forward and reverse processes continue at equal rates, so each species is made and used up at the same rate.",
+    "Concentrations and macroscopic properties (colour, density) stay constant; change stops only at the macroscopic level, not the microscopic.",
+    "Equilibrium can be reached from either direction and gives the same equilibrium concentrations at a fixed temperature.",
+    "Equilibrium holds in a closed system, and also in heterogeneous cases: Br2(l) ⇌ Br2(g), or excess solid ⇌ saturated solution."
+   ]
+  },
+  {
+   "heading": "Equilibrium law and the K expression",
+   "understanding": "R2.3.2",
+   "points": [
+    "For aA + bB ⇌ xX + yY: K = [X]^x[Y]^y / ([A]^a[B]^b), using equilibrium concentrations, products on top.",
+    "Each concentration is raised to the power of its coefficient in the balanced equation.",
+    "In aqueous solution, leave out water (solvent) from K; K is treated as unitless though concentrations are in mol dm⁻³.",
+    "Halve coefficients: K' = √K. Double them: K' = K². Reverse the equation: K' = 1/K. Add equations: K' = K1 × K2.",
+    "K depends only on temperature, not on concentration changes, pressure or catalyst."
+   ]
+  },
+  {
+   "heading": "Size of K and extent of reaction",
+   "understanding": "R2.3.3",
+   "points": [
+    "K > 1: products favoured, forward reaction goes until most reactants are converted. K < 1: reactants favoured at equilibrium.",
+    "K = 1: roughly equal concentrations of reactants and products, though the exact ratio depends on the coefficients.",
+    "K >> 1: reaction goes essentially to completion. K << 1: the forward reaction hardly occurs.",
+    "The value of K changes with temperature."
+   ]
+  },
+  {
+   "heading": "Le Châtelier's principle: predicting shifts",
+   "understanding": "R2.3.4",
+   "points": [
+    "A disturbed equilibrium shifts to oppose the change. Shift right raises product concentrations; shift left raises reactant concentrations.",
+    "Adding reactant or removing product shifts right; adding product or removing reactant shifts left. K is unchanged.",
+    "Pressure rise shifts towards the side with fewer gas molecules; a fall shifts towards more gas molecules. Equal gas moles: no shift. K unchanged. Count only gases.",
+    "Temperature rise: endothermic shifts right and K increases; exothermic shifts left and K decreases. Temperature is the only factor changing K.",
+    "A catalyst speeds forward and reverse reactions equally: equilibrium reached faster, but position and K unchanged."
+   ]
+  },
+  {
+   "heading": "Reaction quotient Q",
+   "understanding": "R2.3.5",
+   "points": [
+    "Q has the same form as the K expression but uses concentrations at any moment, not necessarily at equilibrium.",
+    "Q < K: forward reaction favoured, since there is too little product.",
+    "Q > K: reverse reaction favoured, since there is too much product.",
+    "Q = K: the system is at equilibrium."
+   ]
+  },
+  {
+   "heading": "Calculating equilibrium compositions",
+   "understanding": "R2.3.6",
+   "points": [
+    "Write the K expression, substitute known equilibrium values, and solve for the unknown concentration.",
+    "To find initial concentrations, use the stoichiometric ratio for the change, then add or subtract from equilibrium values (initial, change, equilibrium table).",
+    "When K is very small, assume [reactant]eq ≈ [reactant]initial, which avoids a quadratic equation.",
+    "For a weak acid HA ⇌ H⁺ + A⁻, [H⁺] ≈ [A⁻], so [H⁺] ≈ √(K × [HA]initial)."
+   ]
+  },
+  {
+   "heading": "Gibbs energy and the equilibrium constant",
+   "understanding": "R2.3.7",
+   "points": [
+    "ΔG⦵ = −RT ln K, with R = 8.31 J K⁻¹ mol⁻¹ and T in kelvin. The equation and R are in the data booklet.",
+    "Convert ΔG⦵ from kJ mol⁻¹ to J mol⁻¹ before using R, and change back afterwards.",
+    "K > 1 matches ΔG⦵ < 0 (forward favoured); K < 1 matches ΔG⦵ > 0; K = 1 matches ΔG⦵ = 0.",
+    "To find K, rearrange: K = e^(−ΔG⦵/RT)."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Dynamic equilibrium",
+   "definition": "State in a closed system where forward and reverse reaction rates are equal, so concentrations stay constant while both reactions continue.",
+   "must_say": [
+    "rates equal",
+    "forward and reverse",
+    "concentrations constant",
+    "closed system"
+   ],
+   "trap": "Saying reactions stop, or that concentrations of reactants and products are equal."
+  },
+  {
+   "term": "Equilibrium law",
+   "definition": "At constant temperature, the ratio of product to reactant equilibrium concentrations, each raised to its coefficient, is a constant, K.",
+   "must_say": [
+    "constant temperature",
+    "powers of coefficients",
+    "products over reactants"
+   ],
+   "trap": "Putting reactants on top, or including solvent water in an aqueous K expression."
+  },
+  {
+   "term": "Equilibrium constant, K",
+   "definition": "The value of the equilibrium expression at equilibrium; it shows the extent of reaction and depends only on temperature.",
+   "must_say": [
+    "equilibrium concentrations",
+    "depends only on temperature"
+   ],
+   "trap": "Claiming K changes with concentration, pressure or a catalyst."
+  },
+  {
+   "term": "Le Châtelier's principle",
+   "definition": "If a system at equilibrium is disturbed, the position shifts to counteract the change and restore equilibrium.",
+   "must_say": [
+    "disturbed",
+    "shifts to counteract"
+   ],
+   "trap": "Saying the system fully undoes the change, or that K changes with every shift."
+  },
+  {
+   "term": "Position of equilibrium",
+   "definition": "The relative amounts of reactants and products at equilibrium; shifting right increases products, shifting left increases reactants.",
+   "must_say": [
+    "relative concentrations",
+    "reactants and products"
+   ],
+   "trap": "Confusing a shift in position with a change in the value of K."
+  },
+  {
+   "term": "Reaction quotient, Q",
+   "definition": "The equilibrium expression calculated using non-equilibrium concentrations of reactants and products at a given moment.",
+   "must_say": [
+    "non-equilibrium concentrations",
+    "same expression as K"
+   ],
+   "trap": "Using equilibrium concentrations, which gives K rather than Q."
+  },
+  {
+   "term": "Heterogeneous equilibrium",
+   "definition": "An equilibrium in which the species are present in different phases, such as Br2(l) ⇌ Br2(g).",
+   "must_say": [
+    "different phases"
+   ],
+   "trap": "Including solids and liquids when predicting pressure effects; only gases count."
+  },
+  {
+   "term": "Saturated solution",
+   "definition": "A solution holding the highest possible concentration of solute under the given conditions, in dynamic equilibrium with undissolved solute.",
+   "must_say": [
+    "highest possible concentration",
+    "given conditions"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Solubility",
+   "definition": "The highest possible concentration of a solute in a solution under given conditions.",
+   "must_say": [
+    "highest possible concentration",
+    "given conditions"
+   ],
+   "trap": ""
+  },
+  {
+   "term": "Standard Gibbs energy change, ΔG⦵",
+   "definition": "The Gibbs energy change for converting reactants to products in their standard states at a given temperature, related to K by ΔG⦵ = −RT ln K.",
+   "must_say": [
+    "standard states",
+    "−RT ln K"
+   ],
+   "trap": "Forgetting to convert kJ mol⁻¹ to J mol⁻¹ when using R."
+  }
+ ],
+ "sub_topic": "R2.3",
+ "title": "How far? The extent of chemical change",
+ "generated_by": "sonnet",
+ "issues": [
+  "point copies the book: For aA + bB ⇌ xX + yY: K = [X]^x[Y]^y / ([A]^a[B]^"
+ ]
+}

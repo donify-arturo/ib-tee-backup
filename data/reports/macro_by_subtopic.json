@@ -1,0 +1,2452 @@
+{
+  "generated_from": [
+    "data_booklet_2025.jsonl",
+    "guide_2025.jsonl",
+    "ib_official_09m_sl_p1_tz2_ms.jsonl",
+    "ib_official_24n_25m.jsonl",
+    "ib_official_25m_25n.jsonl",
+    "ib_official_25n_hl_p1a_6219_ms.jsonl",
+    "oxford_2023_answers_r1.jsonl",
+    "oxford_2023_excerpt.jsonl",
+    "qb_markschemes_1.jsonl",
+    "qb_markschemes_2.jsonl",
+    "revisionhub_qb_reactivity_hl.jsonl",
+    "subject_reports_2001_2025.jsonl"
+  ],
+  "include_paper3": false,
+  "notes": [
+    "Examiner comments cover selected questions only (often the hardest), so % correct is biased low.",
+    "Sub-topic tags on report comments come from the question they are linked to when possible, otherwise from the classifier (keyword fallback in offline runs).",
+    "Pre-2025 sessions were examined on the old syllabus; mapping to 2025 sub-topics is by content."
+  ],
+  "sub_topics": {
+    "S1.1": {
+      "sub_topic": "S1.1",
+      "title": "Introduction to the particulate nature of matter",
+      "exam_frequency": 30,
+      "examiner_comments": 66,
+      "questions_commented": 64,
+      "comments_2025_syllabus": 6,
+      "pct_correct_n": 30,
+      "mean_pct_correct": 62.5,
+      "hardest": [
+        {
+          "ref": "16M.1.HL.TZ0.33",
+          "pct_correct": 23.0
+        },
+        {
+          "ref": "17N.1.SL.TZ0.12",
+          "pct_correct": 35.9
+        },
+        {
+          "ref": "07M.1.SL.TZ0.14",
+          "pct_correct": 36.0
+        },
+        {
+          "ref": "13M.1.HL.TZ1.31",
+          "pct_correct": 37.54
+        },
+        {
+          "ref": "12M.1.SL.TZ2.13",
+          "pct_correct": 41.13
+        }
+      ],
+      "difficult_mentions": 45,
+      "well_prepared_mentions": 26,
+      "difficulty_ratio": 0.63,
+      "difficult_examples": [
+        "May 2024: Explaining chemical vapour deposition (CVD)",
+        "May 2024: Recalling Winkler method",
+        "May 2024: Liquid crystals are fluids that have physical properties (electrical, optical and elasticity) that are dependent on molecular orientation to s Thermoplastics so",
+        "May 2025: Rationale related to select lab procedures (e.g. filtration versus distillation)",
+        "May 2025: Explaining two properties of a liquid using the kinetic molecular theory model"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Describing homogeneous and heterogeneous catalysts and use of nanoparticles",
+        "May 2024: Similarities and differences of homogeneous and heterogeneous catalysts",
+        "May 2025: Mixtures and their separation"
+      ],
+      "error_signals": [],
+      "error_examples": [],
+      "popular_distractors": {
+        "A": 1,
+        "B": 2,
+        "C": 1
+      },
+      "sessions": 29,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 46
+    },
+    "S1.2": {
+      "sub_topic": "S1.2",
+      "title": "The nuclear atom",
+      "exam_frequency": 19,
+      "examiner_comments": 39,
+      "questions_commented": 38,
+      "comments_2025_syllabus": 1,
+      "pct_correct_n": 3,
+      "mean_pct_correct": 75.0,
+      "hardest": [
+        {
+          "ref": "25M.1A.HL.6219.4",
+          "pct_correct": 60.0
+        },
+        {
+          "ref": "24N.1.SL.TZ0.5",
+          "pct_correct": 75.0
+        },
+        {
+          "ref": "24N.1.HL.TZ0.5",
+          "pct_correct": 90.0
+        }
+      ],
+      "difficult_mentions": 21,
+      "well_prepared_mentions": 41,
+      "difficulty_ratio": 0.34,
+      "difficult_examples": [
+        "May 2024: Heavy nuclei can undergo fission reactions as this increases the binding energy per nucleon.",
+        "May 2024: Radioactive waste may contain isotopes with long and short half-lives",
+        "May 2024: Explanation of fusion reactions in terms of binding energy per nucleon.",
+        "May 2024: Describe the environmental impact of medical nuclear waste disposal.",
+        "May 2025: Properties of different isotopes."
+      ],
+      "well_prepared_examples": [
+        "May 2024: Calculation of relative atomic mass",
+        "May 2024: Use of the nuclear symbol notation 𝑋𝑋 to deduce the number of protons Topic 4: Chemical Bonding and Structure",
+        "May 2024: Discussion of the storage and disposal of nuclear waste."
+      ],
+      "error_signals": [
+        {
+          "phrase": "atomic mass",
+          "n": 5
+        },
+        {
+          "phrase": "protons electrons",
+          "n": 5
+        },
+        {
+          "phrase": "ionization energies",
+          "n": 5
+        },
+        {
+          "phrase": "relative atomic",
+          "n": 4
+        },
+        {
+          "phrase": "pair electrons",
+          "n": 3
+        },
+        {
+          "phrase": "electronegativity values",
+          "n": 3
+        },
+        {
+          "phrase": "protons neutrons",
+          "n": 3
+        },
+        {
+          "phrase": "refer atoms",
+          "n": 2
+        },
+        {
+          "phrase": "pay attention",
+          "n": 2
+        },
+        {
+          "phrase": "significant figures",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "sentence": "(b)(ii) Many candidates successfully calculated the relative atomic mass of nitrogen in the sample."
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "sentence": "(b)(iii) This was a challenging question for many candidates, while stronger candidates often showed clarity of thinking and were able to conclude that the ionization energies of the two isotopes must be the same and to "
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "sentence": "Some candidates did realize that the ionization energies are similar but did not give the best reasons to support their answer."
+        },
+        {
+          "ref": "19M.2.SL.TZ2.3",
+          "sentence": "Many candidates thought the ionization energies would be different because the size of the nucleus was different."
+        },
+        {
+          "ref": "15M.1.SL.TZ2.1",
+          "sentence": "This question was found to be difficult as many candidates did not add the number of protons to the number of electrons."
+        }
+      ],
+      "popular_distractors": {
+        "B": 1
+      },
+      "sessions": 30,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 13
+    },
+    "S1.3": {
+      "sub_topic": "S1.3",
+      "title": "Electron configurations",
+      "exam_frequency": 23,
+      "examiner_comments": 51,
+      "questions_commented": 50,
+      "comments_2025_syllabus": 7,
+      "pct_correct_n": 24,
+      "mean_pct_correct": 67.9,
+      "hardest": [
+        {
+          "ref": "13M.1.HL.TZ1.33",
+          "pct_correct": 33.08
+        },
+        {
+          "ref": "17M.1.HL.TZ1.4",
+          "pct_correct": 41.0
+        },
+        {
+          "ref": "13M.1.HL.TZ1.4",
+          "pct_correct": 46.07
+        },
+        {
+          "ref": "13M.1.HL.TZ1.5",
+          "pct_correct": 56.49
+        },
+        {
+          "ref": "11M.1.SL.TZ2.7",
+          "pct_correct": 58.93
+        }
+      ],
+      "difficult_mentions": 36,
+      "well_prepared_mentions": 49,
+      "difficulty_ratio": 0.42,
+      "difficult_examples": [
+        "May 2025: The terms “limit of convergence” for ionization energy/ linking features of the atomic emission spectrum to ionization energy.",
+        "May 2025: The number of electrons in each major electron energy level",
+        "November 2024: Identifying the correct statements about the molecular ion in a mass spectrum",
+        "November 2024: Awareness of the evidence upon which the numbers of electrons in each level is based",
+        "November 2024: Identifying a chemical method of reducing CO2 emissions produced in industrial process"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Electronic configuration",
+        "May 2024: Organic chemistry at SL level",
+        "May 2024: Explaining how the lines in the emission spectrum of hydrogen are produced"
+      ],
+      "error_signals": [
+        {
+          "phrase": "energy levels",
+          "n": 4
+        },
+        {
+          "phrase": "ionization energy",
+          "n": 3
+        },
+        {
+          "phrase": "ionization energies",
+          "n": 3
+        },
+        {
+          "phrase": "successive ionization",
+          "n": 3
+        },
+        {
+          "phrase": "electron configurations",
+          "n": 3
+        },
+        {
+          "phrase": "emission spectrum",
+          "n": 3
+        },
+        {
+          "phrase": "main energy",
+          "n": 2
+        },
+        {
+          "phrase": "energy level",
+          "n": 2
+        },
+        {
+          "phrase": "high energy",
+          "n": 2
+        },
+        {
+          "phrase": "between energy",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "18M.2.HL.TZ1.2",
+          "sentence": "Some candidates suggested because electrons can move through rather than calcium’s mobile electrons. • (e) Generally good performance although a fair number of candidates did not show a steady rise in ionization energy w"
+        },
+        {
+          "ref": "17M.1.HL.TZ1.4",
+          "sentence": "The other popular distractor was A, where the candidates missed the fact that the gaps between the energy levels of hydrogen decrease at higher energies."
+        },
+        {
+          "ref": "14N.1.HL.TZ0.4",
+          "sentence": "The most common incorrect answer was A, the candidates not having noticed that the question asks about the emission spectrum."
+        },
+        {
+          "ref": "14M.1.HL.TZ1.5",
+          "sentence": "This was however no problem for the students as 88% recognised that options II and III are incorrect electron configurations."
+        },
+        {
+          "ref": "11M.2.HL.TZ2.3",
+          "sentence": "Most candidates were familiar with the use of square brackets to represent noble gas electron configurations and concentrations in rate expressions and it was encouraging to see candidates give a correct orbital diagram "
+        }
+      ],
+      "popular_distractors": {
+        "B": 1,
+        "C": 1,
+        "A": 2
+      },
+      "sessions": 28,
+      "first_year": 2004,
+      "last_year": 2025,
+      "priority_score": 21
+    },
+    "S1.4": {
+      "sub_topic": "S1.4",
+      "title": "Counting particles by mass: The mole",
+      "exam_frequency": 44,
+      "examiner_comments": 60,
+      "questions_commented": 56,
+      "comments_2025_syllabus": 11,
+      "pct_correct_n": 18,
+      "mean_pct_correct": 57.8,
+      "hardest": [
+        {
+          "ref": "16N.2.SL.TZ0.2",
+          "pct_correct": 20.0
+        },
+        {
+          "ref": "14N.1.SL.TZ0.1",
+          "pct_correct": 25.23
+        },
+        {
+          "ref": "25M.1A.HL.6219.2",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "10M.1.SL.TZ2.4",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.19",
+          "pct_correct": 41.0
+        }
+      ],
+      "difficult_mentions": 12,
+      "well_prepared_mentions": 48,
+      "difficulty_ratio": 0.2,
+      "difficult_examples": [
+        "May 2024: Using experimental data to confirm an empirical formula",
+        "May 2024: Calculation of the molar masses of atom Topic 4: Chemical Bonding and Structure",
+        "May 2025: Structure 1.4.5 - Solve problems involving the molar concentration, amount of solute and volume of solution- limiting reagent",
+        "May 2025: A significant number did not complete the empirical formula question,7a",
+        "May 2025: Empirical formulas"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Calculating moles",
+        "May 2024: Describing what is meant by empirical formula",
+        "May 2024: Determining the empirical formula of a compound from composition by mass data"
+      ],
+      "error_signals": [
+        {
+          "phrase": "even though",
+          "n": 5
+        },
+        {
+          "phrase": "lewis structure",
+          "n": 5
+        },
+        {
+          "phrase": "carried forward",
+          "n": 4
+        },
+        {
+          "phrase": "atomic mass",
+          "n": 4
+        },
+        {
+          "phrase": "molar mass",
+          "n": 3
+        },
+        {
+          "phrase": "volumes gases",
+          "n": 3
+        },
+        {
+          "phrase": "reacting volumes",
+          "n": 3
+        },
+        {
+          "phrase": "relative atomic",
+          "n": 3
+        },
+        {
+          "phrase": "carbonate ion",
+          "n": 3
+        },
+        {
+          "phrase": "sodium carbonate",
+          "n": 3
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.SL.TZ3.5",
+          "sentence": "Most students did not recognise that the question could be solved using Avogadro’s principle of reacting volumes of gases and attempted to use all of the data which was possible, but only a few students successfully navi"
+        },
+        {
+          "ref": "24M.1.SL.TZ1.2",
+          "sentence": "Many candidates incorrectly believed the highest peak of 42 determined the molar mass instead of the peak of highest mass at 70."
+        },
+        {
+          "ref": "16N.2.SL.TZ0.2",
+          "sentence": "Common mistakes were miscalculation of the molar mass, or using that of the anhydrous acid, and forgetting the factor of 40 resulting from taking a 25 cm3 sample from a litre of solution."
+        },
+        {
+          "ref": "16M.2.SL.TZ0.1",
+          "sentence": "Q1a(i) Most candidates accurately drew the required Lewis structure, though predictably a few candidates (<20%?) forgot the lone pair."
+        },
+        {
+          "ref": "15M.2.SL.TZ1.1",
+          "sentence": "Some candidates could correctly draw the Lewis structure but a number of those lost marks for omitting the lone pairs on oxygen."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 31,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 41
+    },
+    "S1.5": {
+      "sub_topic": "S1.5",
+      "title": "Ideal gases",
+      "exam_frequency": 16,
+      "examiner_comments": 22,
+      "questions_commented": 22,
+      "comments_2025_syllabus": 2,
+      "pct_correct_n": 4,
+      "mean_pct_correct": 43.0,
+      "hardest": [
+        {
+          "ref": "14M.1.HL.TZ1.2",
+          "pct_correct": 15.5
+        },
+        {
+          "ref": "24N.1.SL.TZ0.4",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "13M.1.SL.TZ1.5",
+          "pct_correct": 47.58
+        },
+        {
+          "ref": "03M.1.SL.TZ0.14",
+          "pct_correct": 69.0
+        }
+      ],
+      "difficult_mentions": 10,
+      "well_prepared_mentions": 4,
+      "difficulty_ratio": 0.71,
+      "difficult_examples": [
+        "May 2024: Calculation of gas volume",
+        "May 2024: Determining the molar mass of a gas from the density, temperature and pressure",
+        "May 2024: Explaining why gases are less ideal at high pressure",
+        "May 2025: Structure 1.5 – ideal gases",
+        "November 2024: Knowing the finite volume of molecules causes real gases to have larger volumes than if ideal"
+      ],
+      "well_prepared_examples": [
+        "November 2024: Calculating the volume occupied by a mass of gas given the pressure and temperature",
+        "May 2005: Ideal gas equation",
+        "November 2017: Calculation of molar mass from pV = nRT"
+      ],
+      "error_signals": [
+        {
+          "phrase": "intermolecular forces",
+          "n": 3
+        },
+        {
+          "phrase": "ideal gas",
+          "n": 3
+        },
+        {
+          "phrase": "gas equation",
+          "n": 2
+        },
+        {
+          "phrase": "change state",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.SL.TZ1.5",
+          "sentence": "In parts (b)(i) and (ii), most candidates applied the ideal gas law reasonably well, though some incorrectly used Celsius instead of Kelvin or mismatched pressure and volume units."
+        },
+        {
+          "ref": "24N.2.SL.TZ0.1",
+          "sentence": "(a)(ii) Most candidates missed the change of state that occurs when the liquid propane is heated from 200 K to 250 K and they simply referred to expansion and the gas laws."
+        },
+        {
+          "ref": "24N.2.SL.TZ0.1",
+          "sentence": "Most candidates who identified non-ideal behaviour talked about the presence of intermolecular forces which would not cause the volume to be higher than that predicted by the ideal gas equation."
+        },
+        {
+          "ref": "24N.2.HL.TZ0.1",
+          "sentence": "This question proved a very good discriminator between strong and weak candidates. 1(a)(ii) Mean mark 0.54/2 Most gained no marks for this question because they did not realise that there was a change of state."
+        },
+        {
+          "ref": "24N.1.SL.TZ0.4",
+          "sentence": "More than half of the candidates were confused about the appropriate unit of volume to be used in the ideal gas equation to calculate pressure in Pascals, and selected dm3."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 17,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 68
+    },
+    "S2.1": {
+      "sub_topic": "S2.1",
+      "title": "The ionic model",
+      "exam_frequency": 6,
+      "examiner_comments": 17,
+      "questions_commented": 17,
+      "comments_2025_syllabus": 4,
+      "pct_correct_n": 5,
+      "mean_pct_correct": 47.8,
+      "hardest": [
+        {
+          "ref": "15M.1.HL.TZ1.3",
+          "pct_correct": 26.81
+        },
+        {
+          "ref": "15M.1.SL.TZ1.4",
+          "pct_correct": 28.15
+        },
+        {
+          "ref": "10M.1.SL.TZ1.9",
+          "pct_correct": 37.0
+        },
+        {
+          "ref": "25M.1A.HL.6219.6",
+          "pct_correct": 70.0
+        },
+        {
+          "ref": "03M.1.SL.TZ0.5",
+          "pct_correct": 77.0
+        }
+      ],
+      "difficult_mentions": 10,
+      "well_prepared_mentions": 2,
+      "difficulty_ratio": 0.83,
+      "difficult_examples": [
+        "May 2024: Outlining why ionic compounds are brittle",
+        "May 2024: The reason ionically bonded compounds are brittle",
+        "May 2024: Explaining why the ionic radius of P3- is greater than that of S2-",
+        "May 2025: Not able to identify that the ionic bond exists between Tl + and SO42- in the compound Tl2SO4.",
+        "November 2024: Discussing conductivity of ionic compounds in terms of the movement of ions, not electrons"
+      ],
+      "well_prepared_examples": [
+        "May 2025: Defining ionic and covalent bonding",
+        "May 2025: Deducing the formula of ionic compounds"
+      ],
+      "error_signals": [
+        {
+          "phrase": "electrostatic attraction",
+          "n": 2
+        },
+        {
+          "phrase": "ions present",
+          "n": 2
+        },
+        {
+          "phrase": "molecular compound",
+          "n": 2
+        },
+        {
+          "phrase": "chloride ions",
+          "n": 2
+        },
+        {
+          "phrase": "compound chloride",
+          "n": 2
+        },
+        {
+          "phrase": "present ionic",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "24M.2.SL.TZ1.6",
+          "sentence": "(b)(iii) Electrostatic attraction between ions was rarely mentioned and many candidates spoke about delocalised electrons instead of the ions moving when molten."
+        },
+        {
+          "ref": "15M.2.HL.TZ1.4",
+          "sentence": "The descriptions of metallic bonding were disappointing; the mark for electrostatic attraction was rarely scored and many confused “nuclei” with “cations/positive ions”."
+        },
+        {
+          "ref": "15M.1.SL.TZ1.4",
+          "sentence": "Most candidates answered D, a molecular compound which would have no chloride ions present (the other three were ionic)."
+        },
+        {
+          "ref": "15M.1.HL.TZ1.3",
+          "sentence": "Most candidates answered D, a molecular compound which would have no chloride ions present (the other three were ionic)."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 15,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 63
+    },
+    "S2.2": {
+      "sub_topic": "S2.2",
+      "title": "The covalent model",
+      "exam_frequency": 64,
+      "examiner_comments": 159,
+      "questions_commented": 146,
+      "comments_2025_syllabus": 16,
+      "pct_correct_n": 32,
+      "mean_pct_correct": 60.5,
+      "hardest": [
+        {
+          "ref": "25M.2.HL.6221.7",
+          "pct_correct": 22.0
+        },
+        {
+          "ref": "15M.1.SL.TZ1.9",
+          "pct_correct": 22.1
+        },
+        {
+          "ref": "07M.1.HL.TZ0.13",
+          "pct_correct": 33.0
+        },
+        {
+          "ref": "15M.1.SL.TZ1.10",
+          "pct_correct": 35.13
+        },
+        {
+          "ref": "12N.1.HL.TZ0.12",
+          "pct_correct": 36.56
+        }
+      ],
+      "difficult_mentions": 51,
+      "well_prepared_mentions": 31,
+      "difficulty_ratio": 0.62,
+      "difficult_examples": [
+        "May 2024: Explanations of bonding, polarity, and molecular geometry",
+        "May 2024: Explaining physical properties in terms of intermolecular forces (many questions)",
+        "May 2024: Distinguishing between hydrogen bonds and covalent bonds involving hydrogen atoms",
+        "May 2024: Determining the polarity of a molecule",
+        "May 2024: Predicting polarity of molecules"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Lewis structures and bond polarity",
+        "May 2024: Identification of intermolecular forces",
+        "May 2024: drawing the Lewis diagram of ozone and determining formal charges."
+      ],
+      "error_signals": [
+        {
+          "phrase": "lone pairs",
+          "n": 16
+        },
+        {
+          "phrase": "lewis structure",
+          "n": 11
+        },
+        {
+          "phrase": "intermolecular forces",
+          "n": 11
+        },
+        {
+          "phrase": "lewis structures",
+          "n": 11
+        },
+        {
+          "phrase": "hydrogen bonding",
+          "n": 11
+        },
+        {
+          "phrase": "silicon dioxide",
+          "n": 9
+        },
+        {
+          "phrase": "bond angle",
+          "n": 7
+        },
+        {
+          "phrase": "carbon dioxide",
+          "n": 6
+        },
+        {
+          "phrase": "sigma bonds",
+          "n": 6
+        },
+        {
+          "phrase": "covalent bonds",
+          "n": 6
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.HL.6221.7",
+          "sentence": "A misconception regarding the intramolecular and intermolecular forces was clearly demonstrated in the answers."
+        },
+        {
+          "ref": "25M.2.HL.6221.10",
+          "sentence": "Common mistakes included missing lone pairs on sulfur or both oxygen atoms."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.4",
+          "sentence": "(b)(i) Most candidates had a correct Lewis structure for CO2, however some had single bonds between the C and the O bonds."
+        },
+        {
+          "ref": "24M.2.HL.TZ2.2",
+          "sentence": "(c) Many candidates predicted the bond lengths in ozone correctly, but a not insignificant percentage of candidates added single bond lengths which was difficult to understand, especially if their Lewis structure was not"
+        },
+        {
+          "ref": "24M.1.HL.TZ1.12",
+          "sentence": "While 42% of the responses were correct, the second most popular answer was the distractor with no lone pairs, indicating that students perhaps didn't recognize the difference between electron domain and molecular geomet"
+        }
+      ],
+      "popular_distractors": {
+        "B": 2,
+        "A": 1,
+        "a": 1
+      },
+      "sessions": 36,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 63
+    },
+    "S2.3": {
+      "sub_topic": "S2.3",
+      "title": "The metallic model",
+      "exam_frequency": 11,
+      "examiner_comments": 15,
+      "questions_commented": 15,
+      "comments_2025_syllabus": 1,
+      "pct_correct_n": 4,
+      "mean_pct_correct": 64.2,
+      "hardest": [
+        {
+          "ref": "12M.1.SL.TZ1.11",
+          "pct_correct": 42.47
+        },
+        {
+          "ref": "17M.1.HL.TZ2.11",
+          "pct_correct": 69.0
+        },
+        {
+          "ref": "11M.1.SL.TZ2.13",
+          "pct_correct": 72.31
+        },
+        {
+          "ref": "16N.1.HL.TZ0.13",
+          "pct_correct": 73.0
+        }
+      ],
+      "difficult_mentions": 20,
+      "well_prepared_mentions": 4,
+      "difficulty_ratio": 0.83,
+      "difficult_examples": [
+        "May 2025: Justifying melting point differences based on bonding and structure",
+        "November 2024: The effect of having different sized cations on the strength of metallic bonding",
+        "November 2024: Deducing the bonding of two given solids and hence predicting their electrical conductivity",
+        "May 2012: Explanation of electrical conductivity of aqueous solutions in terms of mobility of ions",
+        "May 2012: The formation of alloys by metals"
+      ],
+      "well_prepared_examples": [
+        "May 2019: The concept of charge and ionic radii size influencing the strength of a metallic bond.",
+        "May 2019: Factors affecting the strength of metallic bonding.",
+        "November 2005: conversion of sea water to drinking water"
+      ],
+      "error_signals": [
+        {
+          "phrase": "metallic bonding",
+          "n": 4
+        },
+        {
+          "phrase": "intermolecular forces",
+          "n": 2
+        },
+        {
+          "phrase": "electrical conductivity",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "17M.2.SL.TZ1.2",
+          "sentence": ". • (a) Many candidates struggled to clearly describe metallic bonding and hardly any candidates gained 2 marks as they did not mention electrostatic attraction and some gave positive nuclei/atoms rather than cations in "
+        },
+        {
+          "ref": "17M.1.HL.TZ1.9",
+          "sentence": "The most commonly chosen distractor was B, which suggests that the majority of candidates appreciated the significance of the electrical conductivity data but did not use the melting point data."
+        },
+        {
+          "ref": "10N.2.SL.TZ0.3",
+          "sentence": "The explanation of iron‟s properties was well answered in terms of metallic bonding and most candidates correctly described its electrical conductivity as due to free flowing electrons."
+        },
+        {
+          "ref": "10M.2.SL.TZ2.3",
+          "sentence": "Many candidates did not appear to understand metallic bonding with much confusion between ionisation energy and melting points of metals."
+        },
+        {
+          "ref": "10M.2.SL.TZ2.3",
+          "sentence": "Many gave vague explanations or contradictory answers and there was some confusion of metallic bonding with covalent bonds or intermolecular forces."
+        }
+      ],
+      "popular_distractors": {
+        "B": 1,
+        "C": 1
+      },
+      "sessions": 21,
+      "first_year": 2005,
+      "last_year": 2025,
+      "priority_score": 44
+    },
+    "S2.4": {
+      "sub_topic": "S2.4",
+      "title": "From models to materials",
+      "exam_frequency": 9,
+      "examiner_comments": 22,
+      "questions_commented": 22,
+      "comments_2025_syllabus": 3,
+      "pct_correct_n": 4,
+      "mean_pct_correct": 60.2,
+      "hardest": [
+        {
+          "ref": "12M.1.HL.TZ1.39",
+          "pct_correct": 44.66
+        },
+        {
+          "ref": "13M.2.HL.TZ1.5",
+          "pct_correct": 50.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.10",
+          "pct_correct": 70.0
+        },
+        {
+          "ref": "25M.1A.HL.6213.11",
+          "pct_correct": 76.0
+        }
+      ],
+      "difficult_mentions": 26,
+      "well_prepared_mentions": 12,
+      "difficulty_ratio": 0.68,
+      "difficult_examples": [
+        "May 2024: Alloys usually contain more than one metal and have enhanced properties Topic 5 Thermochemistry",
+        "May 2025: Connectivity in drawing organic structures, the difference between a repeat unit and monomer unit.",
+        "May 2025: Deducing the structure of an addition monomer from the repeating unit of the corresponding polymer.",
+        "May 2025: Deducing the structures of the monomers that form a polyamide",
+        "May 2025: Writing clear answers linking microscopic phenomena with the macroscopic properties of materials"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Determining type of bonding using the triangular bonding diagram",
+        "May 2024: Composites are mixtures in which materials are composed of two distinct phases, a reinforcing phase that is embedded in a matrix phase.",
+        "May 2009: appeared well prepared Topics generally well answered included: Drawing Lewis structures VSEPR theory Oxidation states Identification of monomers from a polymer"
+      ],
+      "error_signals": [
+        {
+          "phrase": "repeating unit",
+          "n": 3
+        },
+        {
+          "phrase": "chemistry ibo",
+          "n": 3
+        },
+        {
+          "phrase": "group chemistry",
+          "n": 3
+        },
+        {
+          "phrase": "carbon atoms",
+          "n": 2
+        },
+        {
+          "phrase": "between carbon",
+          "n": 2
+        },
+        {
+          "phrase": "surprisingly large",
+          "n": 2
+        },
+        {
+          "phrase": "balanced equation",
+          "n": 2
+        },
+        {
+          "phrase": "double bond",
+          "n": 2
+        },
+        {
+          "phrase": "ethanoic acid",
+          "n": 2
+        },
+        {
+          "phrase": "acid methyl",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.1A.SL.TZ2.10",
+          "sentence": "The most common distractor was B, suggesting that students were aware that the monomer should be asymmetrical, but did not check for consistency between the number of carbon atoms in the monomer and the repeating unit."
+        },
+        {
+          "ref": "10N.2.SL.TZ0.2",
+          "sentence": "Addition polymerisation was well recalled but a large number of candidates made mistakes with the structure of the polymer, a surprisingly large number had bromine appearing attached to the carbon chain."
+        },
+        {
+          "ref": "06N.2.SL.TZ0.5",
+          "sentence": "Group 4 Chemistry 19 © IBO 2006 (d) Candidates often did not mention that the conversion of the aldehyde to carboxylic acid needed to be heated under reflux and often omitted the acid needed in the reaction."
+        },
+        {
+          "ref": "06M.2.HL.TZ0.9",
+          "sentence": "In particular, the structures of the monomers of the condensation polymers often had incorrect functional groups although the repeating unit was given in the question."
+        },
+        {
+          "ref": "06M.2.HL.TZ0.9",
+          "sentence": "(b) Many candidates recognised the need for a double bond in the monomer for an addition polymer, but did not specify between carbon atoms."
+        }
+      ],
+      "popular_distractors": {
+        "B": 1
+      },
+      "sessions": 27,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 48
+    },
+    "S3.1": {
+      "sub_topic": "S3.1",
+      "title": "The periodic table: Classification of elements",
+      "exam_frequency": 43,
+      "examiner_comments": 133,
+      "questions_commented": 126,
+      "comments_2025_syllabus": 21,
+      "pct_correct_n": 37,
+      "mean_pct_correct": 61.8,
+      "hardest": [
+        {
+          "ref": "13M.1.SL.TZ1.1",
+          "pct_correct": 9.95
+        },
+        {
+          "ref": "10M.1.HL.TZ1.19",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "05M.1.SL.TZ0.18",
+          "pct_correct": 38.0
+        },
+        {
+          "ref": "15M.1.SL.TZ1.21",
+          "pct_correct": 38.16
+        },
+        {
+          "ref": "18N.2.SL.TZ0.4",
+          "pct_correct": 40.0
+        }
+      ],
+      "difficult_mentions": 18,
+      "well_prepared_mentions": 32,
+      "difficulty_ratio": 0.36,
+      "difficult_examples": [
+        "May 2024: Explaining stability of complex ion with polydentate ligands instead of monodentate ligands",
+        "May 2025: Explaining periodic trends.",
+        "May 2025: Reactivity trends in groups of the periodic table",
+        "May 2009: difficult for the candidates This examination revealed the following weaknesses in candidates' knowledge and understanding: recognising different functional gro",
+        "May 2011: Deduction of the common oxidation states of antimony from its position in the periodic table."
+      ],
+      "well_prepared_examples": [
+        "May 2024: Periodic trends",
+        "May 2024: Periodic trends",
+        "May 2024: Stating an environmental problem caused by SO2"
+      ],
+      "error_signals": [
+        {
+          "phrase": "period elements",
+          "n": 8
+        },
+        {
+          "phrase": "periodic table",
+          "n": 6
+        },
+        {
+          "phrase": "several respondents",
+          "n": 6
+        },
+        {
+          "phrase": "sodium oxide",
+          "n": 5
+        },
+        {
+          "phrase": "felt statement",
+          "n": 4
+        },
+        {
+          "phrase": "elements ambiguous",
+          "n": 4
+        },
+        {
+          "phrase": "iii melting",
+          "n": 4
+        },
+        {
+          "phrase": "statement iii",
+          "n": 4
+        },
+        {
+          "phrase": "decrease period",
+          "n": 4
+        },
+        {
+          "phrase": "statement statement",
+          "n": 4
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "19M.2.SL.TZ1.3",
+          "sentence": "(a)(i) Disappointingly many students did not realise that sodium oxide was held by ionic bonds, many said it was covalent or metallic bonding."
+        },
+        {
+          "ref": "17M.2.HL.TZ1.2",
+          "sentence": "It did not seem to be clear to candidates that these two metals are adjacent in the periodic table."
+        },
+        {
+          "ref": "11M.2.SL.TZ1.5",
+          "sentence": "Even though candidates were able to identify sodium oxide and sulfur trioxide as basic and acidic respectively they struggled to write correct equations for the oxides with water in part (d)."
+        },
+        {
+          "ref": "10M.2.HL.TZ2.6",
+          "sentence": "Most candidates gave the correct answer, atomic number, as the property used to arrange the elements in the periodic table."
+        },
+        {
+          "ref": "09M.2.HL.TZ1.5",
+          "sentence": "A full range of incorrect answers for the acid-base nature of sodium oxide was given, from strongly acidic to slightly acidic to amphoteric to slightly basic."
+        }
+      ],
+      "popular_distractors": {
+        "A": 1,
+        "B": 1,
+        "D": 1
+      },
+      "sessions": 36,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 37
+    },
+    "S3.2": {
+      "sub_topic": "S3.2",
+      "title": "Functional groups: Classification of organic compounds",
+      "exam_frequency": 38,
+      "examiner_comments": 107,
+      "questions_commented": 100,
+      "comments_2025_syllabus": 6,
+      "pct_correct_n": 23,
+      "mean_pct_correct": 51.4,
+      "hardest": [
+        {
+          "ref": "25M.1A.HL.6213.17",
+          "pct_correct": 22.0
+        },
+        {
+          "ref": "24N.1.SL.TZ0.28",
+          "pct_correct": 27.0
+        },
+        {
+          "ref": "24M.1.HL.TZ1.39",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "08N.1.SL.TZ0.29",
+          "pct_correct": 39.0
+        },
+        {
+          "ref": "24N.1.SL.TZ0.25",
+          "pct_correct": 41.0
+        }
+      ],
+      "difficult_mentions": 40,
+      "well_prepared_mentions": 36,
+      "difficulty_ratio": 0.53,
+      "difficult_examples": [
+        "May 2024: Predicting number of signals and relative areas of 1H NMR spectra",
+        "May 2024: Explanation of the molecular mechanisms by which greenhouse gases absorb infrared radiation.",
+        "May 2025: Identifying cis and trans isomers",
+        "November 2024: Mass spectrometry of organic compounds",
+        "November 2024: Determining the number of structural isomers with the molecular formula C 4H9OH"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Functional groups and types of organic reactions",
+        "May 2024: Identifying the bond responsible for an absorption in an Infrared spectrum",
+        "May 2024: Identification of typical functional groups in molecules e.g. phenyl, hydroxyl, carbonyl, carboxyl, carboxamide, aldehyde, ester, ether, amine, nitrile, alkyl, "
+      ],
+      "error_signals": [
+        {
+          "phrase": "optical isomers",
+          "n": 7
+        },
+        {
+          "phrase": "molecular formula",
+          "n": 6
+        },
+        {
+          "phrase": "structural formula",
+          "n": 6
+        },
+        {
+          "phrase": "curly arrows",
+          "n": 6
+        },
+        {
+          "phrase": "functional groups",
+          "n": 5
+        },
+        {
+          "phrase": "addition hydration",
+          "n": 4
+        },
+        {
+          "phrase": "ethanoic acid",
+          "n": 4
+        },
+        {
+          "phrase": "carbon atom",
+          "n": 4
+        },
+        {
+          "phrase": "enthalpy change",
+          "n": 4
+        },
+        {
+          "phrase": "homologous series",
+          "n": 4
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "24M.2.HL.TZ2.5",
+          "sentence": "Candidates often identified functional groups but failed to link them clearly to the IUPAC structuring of the name."
+        },
+        {
+          "ref": "24M.2.HL.TZ2.1",
+          "sentence": "(c) many candidates found it hard to find a way of using density instead of molar volume to determine Mr as they are not familiar with this concept for a gas; they thus could not deduce a logical molecular formula."
+        },
+        {
+          "ref": "17M.1.HL.TZ2.32",
+          "sentence": "There seems to be some confusion about the nomenclature of functional groups."
+        },
+        {
+          "ref": "17M.1.HL.TZ1.32",
+          "sentence": "Many candidates were able to identify the functional groups in aspirin correctly."
+        },
+        {
+          "ref": "15M.2.HL.TZ2.10",
+          "sentence": "Most candidates were able to give the full structural formula but marks were lost by some as they gave the condensed formula rather than the full structural formula as demanded by the question."
+        }
+      ],
+      "popular_distractors": {
+        "a": 2,
+        "A": 1
+      },
+      "sessions": 36,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 60
+    },
+    "R1.1": {
+      "sub_topic": "R1.1",
+      "title": "Measuring enthalpy changes",
+      "exam_frequency": 76,
+      "examiner_comments": 48,
+      "questions_commented": 45,
+      "comments_2025_syllabus": 6,
+      "pct_correct_n": 22,
+      "mean_pct_correct": 57.1,
+      "hardest": [
+        {
+          "ref": "05M.1.SL.TZ0.16",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "24M.1.SL.TZ2.15",
+          "pct_correct": 39.0
+        },
+        {
+          "ref": "10M.1.SL.TZ1.15",
+          "pct_correct": 45.0
+        },
+        {
+          "ref": "15M.1.HL.TZ2.16",
+          "pct_correct": 47.0
+        },
+        {
+          "ref": "12M.1.HL.TZ1.15",
+          "pct_correct": 47.97
+        }
+      ],
+      "difficult_mentions": 6,
+      "well_prepared_mentions": 5,
+      "difficulty_ratio": 0.55,
+      "difficult_examples": [
+        "May 2024: Standard Heats data manipulation",
+        "May 2025: Reactivity 1.1.4 - apply the equations Q = mcΔT",
+        "November 2024: Understanding how buffer systems work",
+        "May 2011: Using raw date to calculate enthalpy changes in calorimetry experiments",
+        "May 2019: Applying the concept of constant heat loss to compensate for cooling in thermochemical investigations"
+      ],
+      "well_prepared_examples": [
+        "May 2025: Energy profile diagram",
+        "May 2012: Determination of heat change (calorimetry)",
+        "May 2015: Recognition that heat loss is a major source of error in thermometric titrations."
+      ],
+      "error_signals": [
+        {
+          "phrase": "enthalpy change",
+          "n": 4
+        },
+        {
+          "phrase": "molar enthalpy",
+          "n": 3
+        },
+        {
+          "phrase": "temperature change",
+          "n": 3
+        },
+        {
+          "phrase": "added temperature",
+          "n": 2
+        },
+        {
+          "phrase": "reaction exothermic",
+          "n": 2
+        },
+        {
+          "phrase": "heat loss",
+          "n": 2
+        },
+        {
+          "phrase": "exothermic reaction",
+          "n": 2
+        },
+        {
+          "phrase": "exothermic endothermic",
+          "n": 2
+        },
+        {
+          "phrase": "tfinal tinitial",
+          "n": 2
+        },
+        {
+          "phrase": "interpreting graph",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "sentence": "(a)(i) The calculation of q did not cause many problems- only very weak candidates added 273 to the temperature difference or thought that propan-1-ol was heated rather than water."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "sentence": "Those that did do a correct calculation often lost the mark for not putting a - sign to indicate the reaction was exothermic."
+        },
+        {
+          "ref": "24M.2.SL.TZ1.2",
+          "sentence": "(b)(ii) % error was generally calculated well, (b)(iii) Heat loss was the most prevalent and correct response but many did not respond with how to prevent it by using insulation."
+        },
+        {
+          "ref": "24M.1.SL.TZ2.15",
+          "sentence": "Distractor C was an almost correct statement, but it gave the wrong sign for the enthalpy change."
+        },
+        {
+          "ref": "11M.2.HL.TZ2.1",
+          "sentence": "Most calculated the amount of CuSO4 in (a) (i) but many could not read and extrapolate the graph accurately in (a) (ii): the o most common mistake resulted in a final temperature change of 6.6 C."
+        }
+      ],
+      "popular_distractors": {
+        "B": 1
+      },
+      "sessions": 26,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 70
+    },
+    "R1.2": {
+      "sub_topic": "R1.2",
+      "title": "Energy cycles in reactions",
+      "exam_frequency": 101,
+      "examiner_comments": 64,
+      "questions_commented": 63,
+      "comments_2025_syllabus": 3,
+      "pct_correct_n": 19,
+      "mean_pct_correct": 69.9,
+      "hardest": [
+        {
+          "ref": "18N.2.SL.TZ0.7",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "15M.1.SL.TZ2.16",
+          "pct_correct": 52.0
+        },
+        {
+          "ref": "19M.1.HL.TZ1.17",
+          "pct_correct": 54.0
+        },
+        {
+          "ref": "16M.1.SL.TZ0.14",
+          "pct_correct": 60.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.16",
+          "pct_correct": 61.0
+        }
+      ],
+      "difficult_mentions": 33,
+      "well_prepared_mentions": 32,
+      "difficulty_ratio": 0.51,
+      "difficult_examples": [
+        "May 2024: Calculation of enthalpy changes",
+        "May 2024: Selecting a correct statement about enthalpy changes during a chemical reaction",
+        "May 2024: Determination of the enthalpy change of a reaction that is the sum of multiple reactions with known enthalpy changes.",
+        "May 2024: Application of host guest chemistry to the removal of a specific pollutant in the environment.",
+        "November 2024: Identifying the equation that represents enthalpy of formation"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Calculating the specific energy of a compound from its enthalpy of combustion",
+        "May 2024: Calculating the standard enthalpy change for a reaction using enthalpy of formation data",
+        "May 2025: Bond enthalpy calculations."
+      ],
+      "error_signals": [
+        {
+          "phrase": "bond enthalpy",
+          "n": 10
+        },
+        {
+          "phrase": "enthalpy change",
+          "n": 8
+        },
+        {
+          "phrase": "hess law",
+          "n": 7
+        },
+        {
+          "phrase": "gaseous state",
+          "n": 5
+        },
+        {
+          "phrase": "bond breaking",
+          "n": 4
+        },
+        {
+          "phrase": "enthalpy changes",
+          "n": 4
+        },
+        {
+          "phrase": "bond enthalpies",
+          "n": 3
+        },
+        {
+          "phrase": "standard enthalpy",
+          "n": 3
+        },
+        {
+          "phrase": "carried forward",
+          "n": 3
+        },
+        {
+          "phrase": "lattice enthalpy",
+          "n": 3
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "18N.1.HL.TZ0.14",
+          "sentence": "The most commonly chosen distractor, B, omitted multiplying the enthalpy change of the second reaction by two."
+        },
+        {
+          "ref": "15N.2.HL.TZ0.3",
+          "sentence": "Only few candidates could gain full marks in part (b) by calculating the bond enthalpy value."
+        },
+        {
+          "ref": "15N.2.HL.TZ0.3",
+          "sentence": "Few candidates missed that bond breaking is endothermic and bond making is exothermic."
+        },
+        {
+          "ref": "15M.2.SL.TZ1.5",
+          "sentence": "The definition for bond enthalpy was not well known, however many candidates could calculate the energy change using bond enthalpies with some success- although there were few completely correct answers as bonds were for"
+        },
+        {
+          "ref": "14M.2.HL.TZ2.8",
+          "sentence": "Very few were able to correctly sum the enthalpy terms involved in the Born-Haber cycle, in addition candidates rarely halved the bond enthalpy of chlorine and a significant number appeared not to realise the question re"
+        }
+      ],
+      "popular_distractors": {
+        "C": 1,
+        "D": 2,
+        "B": 1
+      },
+      "sessions": 33,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 46
+    },
+    "R1.3": {
+      "sub_topic": "R1.3",
+      "title": "Energy from fuels",
+      "exam_frequency": 50,
+      "examiner_comments": 30,
+      "questions_commented": 30,
+      "comments_2025_syllabus": 6,
+      "pct_correct_n": 6,
+      "mean_pct_correct": 63.7,
+      "hardest": [
+        {
+          "ref": "25M.2.HL.6221.9",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "15M.1.HL.TZ2.2",
+          "pct_correct": 50.0
+        },
+        {
+          "ref": "16N.1.HL.TZ0.27",
+          "pct_correct": 59.0
+        },
+        {
+          "ref": "24M.2.SL.TZ2.1",
+          "pct_correct": 74.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.17",
+          "pct_correct": 77.0
+        }
+      ],
+      "difficult_mentions": 30,
+      "well_prepared_mentions": 24,
+      "difficulty_ratio": 0.56,
+      "difficult_examples": [
+        "May 2024: Discussion of how the choice of fuel is influenced by its energy density or specific energy.",
+        "May 2024: The performance of hydrocarbons as fuels is improved by the cracking and catalytic reforming reactions",
+        "May 2011: E1 (c) the explanation of the annual fluctuation of the carbon dioxide concentration Page 17",
+        "May 2012: Description of structure and bonding in carbon dioxide and silicon dioxide",
+        "May 2012: Fuel cells and rechargeable batteries"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Calculating volume of a unit cell and hence density of a metal",
+        "May 2024: Writing equations for photosynthesis and complete combustion",
+        "May 2024: Identifying advantages gasoline has over alternative fuels"
+      ],
+      "error_signals": [
+        {
+          "phrase": "molecular formula",
+          "n": 4
+        },
+        {
+          "phrase": "balanced equation",
+          "n": 3
+        },
+        {
+          "phrase": "carbon hydrogen",
+          "n": 2
+        },
+        {
+          "phrase": "simply stated",
+          "n": 2
+        },
+        {
+          "phrase": "hydrocarbons contain",
+          "n": 2
+        },
+        {
+          "phrase": "combustion products",
+          "n": 2
+        },
+        {
+          "phrase": "carbon dioxide",
+          "n": 2
+        },
+        {
+          "phrase": "even though",
+          "n": 2
+        },
+        {
+          "phrase": "attempted write",
+          "n": 2
+        },
+        {
+          "phrase": "incomplete combustion",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.HL.6221.9",
+          "sentence": "Mistakes included incorrectly balanced equations, missing oxygen, reverse reaction given (cellular respiration) and an incorrect formula for glucose."
+        },
+        {
+          "ref": "25M.2.HL.6221.9",
+          "sentence": "Some students missed a mark because they did not specify that H had one shell only and simply stated that it had one less shell than C and O."
+        },
+        {
+          "ref": "24M.2.SL.TZ2.1",
+          "sentence": "Over half of the candidates gave a correct answer by stating that the percentages of carbon and hydrogen did not add up to 100% or that the compound contained oxygen."
+        },
+        {
+          "ref": "24M.2.SL.TZ2.1",
+          "sentence": "Some candidates simply stated that hydrocarbons contain carbon and hydrogen only without relating it to the data provided in the question, and hence did not score the mark."
+        },
+        {
+          "ref": "24M.2.SL.TZ2.1",
+          "sentence": "Other candidates stated that another element must be present but did not use the information about the combustion products to deduce that it was oxygen."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 25,
+      "first_year": 2004,
+      "last_year": 2025,
+      "priority_score": 48
+    },
+    "R1.4": {
+      "sub_topic": "R1.4",
+      "title": "Entropy and spontaneity",
+      "exam_frequency": 109,
+      "examiner_comments": 49,
+      "questions_commented": 47,
+      "comments_2025_syllabus": 5,
+      "pct_correct_n": 9,
+      "mean_pct_correct": 65.9,
+      "hardest": [
+        {
+          "ref": "24N.1.SL.TZ0.16",
+          "pct_correct": 37.0
+        },
+        {
+          "ref": "11N.1.HL.TZ0.18",
+          "pct_correct": 45.0
+        },
+        {
+          "ref": "25M.1A.HL.6219.24",
+          "pct_correct": 53.0
+        },
+        {
+          "ref": "17N.1.HL.TZ0.16",
+          "pct_correct": 56.0
+        },
+        {
+          "ref": "10M.1.HL.TZ2.16",
+          "pct_correct": 75.0
+        }
+      ],
+      "difficult_mentions": 4,
+      "well_prepared_mentions": 19,
+      "difficulty_ratio": 0.17,
+      "difficult_examples": [
+        "May 2025: Linking extent of equilibrium from entropy and enthalpy data: many stopped at calculating ∆ G",
+        "May 2015: Calculation of absolute entropy for H2 in J mol-1 K-1.",
+        "May 2019: Gibbs free energy change and equilibrium constant relation ΔGƟ = -RT ln K",
+        "November 2018: Entropy and free energy values at equilibrium"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Equations representing electron affinity and entropy changes",
+        "May 2025: Basic thermodynamics: enthalpy calculations and energy profiles/ entropy.",
+        "May 2025: Identifying reactions that lead to particular entropy changes"
+      ],
+      "error_signals": [
+        {
+          "phrase": "free energy",
+          "n": 4
+        },
+        {
+          "phrase": "entropy change",
+          "n": 4
+        },
+        {
+          "phrase": "data booklet",
+          "n": 3
+        },
+        {
+          "phrase": "change reaction",
+          "n": 3
+        },
+        {
+          "phrase": "carried forward",
+          "n": 3
+        },
+        {
+          "phrase": "enthalpy change",
+          "n": 3
+        },
+        {
+          "phrase": "reaction spontaneous",
+          "n": 2
+        },
+        {
+          "phrase": "energy change",
+          "n": 2
+        },
+        {
+          "phrase": "negative sign",
+          "n": 2
+        },
+        {
+          "phrase": "similarly recognize",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "17N.2.HL.TZ0.5",
+          "sentence": "Some candidates, however, incorrectly referred to positive entropy, S, rather than positive entropy change, ∆S, and others suggested high temperatures would make ∆G negative rather than T∆S > ∆H (at the reaction temperat"
+        },
+        {
+          "ref": "17M.1.HL.TZ1.23",
+          "sentence": "This question presented the relationship between the free energy change and the temperature through a graphical representation, which most candidates found challenging to analyze."
+        },
+        {
+          "ref": "15M.2.HL.TZ2.3",
+          "sentence": "Most candidates were able to calculate the enthalpy, free energy and entropy changes, although a significant number gave the incorrect units for the latter."
+        },
+        {
+          "ref": "14N.2.HL.TZ0.2",
+          "sentence": "Some were not specific in the definition of the standard enthalpy change of formation, while others had totally incorrect answers such as the formation of the compound from gaseous atoms."
+        },
+        {
+          "ref": "13N.2.HL.TZ0.5",
+          "sentence": "Though the structure of trinitramide was not given this did not seem to hinder students in calculating the required enthalpy change."
+        }
+      ],
+      "popular_distractors": {
+        "B": 1
+      },
+      "sessions": 29,
+      "first_year": 2004,
+      "last_year": 2025,
+      "priority_score": 38
+    },
+    "R2.1": {
+      "sub_topic": "R2.1",
+      "title": "How much? The amount of chemical change",
+      "exam_frequency": 65,
+      "examiner_comments": 51,
+      "questions_commented": 49,
+      "comments_2025_syllabus": 8,
+      "pct_correct_n": 17,
+      "mean_pct_correct": 60.9,
+      "hardest": [
+        {
+          "ref": "09M.2.SL.TZ2.1",
+          "pct_correct": 0.8
+        },
+        {
+          "ref": "15M.1.SL.TZ1.16",
+          "pct_correct": 10.82
+        },
+        {
+          "ref": "07M.1.HL.TZ0.17",
+          "pct_correct": 14.0
+        },
+        {
+          "ref": "24M.1.HL.TZ1.3",
+          "pct_correct": 56.0
+        },
+        {
+          "ref": "24N.1.HL.TZ0.3",
+          "pct_correct": 60.0
+        }
+      ],
+      "difficult_mentions": 25,
+      "well_prepared_mentions": 23,
+      "difficulty_ratio": 0.52,
+      "difficult_examples": [
+        "May 2024: Determination of limiting reactant",
+        "May 2024: The difference between percentage yield and percentage error",
+        "May 2025: Identifying the limiting reactant.",
+        "May 2025: Using graphical data to justify which reactant is limiting.",
+        "May 2025: Calculating percentage yield."
+      ],
+      "well_prepared_examples": [
+        "May 2024: Determining percentage by mass",
+        "May 2025: Reactivity 2.1.5 – calculate atom economy",
+        "May 2025: Calculating related gas volumes given the balanced equation"
+      ],
+      "error_signals": [
+        {
+          "phrase": "limiting reactant",
+          "n": 3
+        },
+        {
+          "phrase": "pay attention",
+          "n": 3
+        },
+        {
+          "phrase": "significant figures",
+          "n": 3
+        },
+        {
+          "phrase": "convert volume",
+          "n": 3
+        },
+        {
+          "phrase": "calcium carbonate",
+          "n": 3
+        },
+        {
+          "phrase": "reaction had",
+          "n": 2
+        },
+        {
+          "phrase": "limiting reagent",
+          "n": 2
+        },
+        {
+          "phrase": "molar volume",
+          "n": 2
+        },
+        {
+          "phrase": "know formula",
+          "n": 2
+        },
+        {
+          "phrase": "attention significant",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.1A.SL.TZ2.18",
+          "sentence": "Option A was the most common distractor, which involved deduction of the correct yield but incorrect limiting reactant."
+        },
+        {
+          "ref": "25M.1A.HL.6213.23",
+          "sentence": "Weaker students correctly identified the limiting reactant but failed to use mole ratios for calculating the theoretical yield."
+        },
+        {
+          "ref": "24M.1.SL.TZ1.4",
+          "sentence": "Many candidates struggled to identify the limiting reagent and hence the gasses left after the reaction had finished."
+        },
+        {
+          "ref": "14N.2.HL.TZ0.1",
+          "sentence": "(b) The majority of candidates calculated the percentage uncertainty correctly, however, more than half of them did not pay attention to stating the answer to the appropriate number of significant figures."
+        },
+        {
+          "ref": "12N.2.SL.TZ0.1",
+          "sentence": "Some candidates calculated percentage experimental error instead of percentage yield whereas some other candidates did not Page 24 pay attention to significant digits."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 28,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 57
+    },
+    "R2.2": {
+      "sub_topic": "R2.2",
+      "title": "How fast? The rate of chemical change",
+      "exam_frequency": 59,
+      "examiner_comments": 146,
+      "questions_commented": 140,
+      "comments_2025_syllabus": 12,
+      "pct_correct_n": 27,
+      "mean_pct_correct": 58.3,
+      "hardest": [
+        {
+          "ref": "24N.2.SL.TZ0.3",
+          "pct_correct": 20.0
+        },
+        {
+          "ref": "24M.1.HL.TZ2.24",
+          "pct_correct": 25.0
+        },
+        {
+          "ref": "12M.1.SL.TZ1.7",
+          "pct_correct": 27.38
+        },
+        {
+          "ref": "15M.1.HL.TZ1.36",
+          "pct_correct": 32.32
+        },
+        {
+          "ref": "08M.1.SL.TZ0.19",
+          "pct_correct": 35.98
+        }
+      ],
+      "difficult_mentions": 45,
+      "well_prepared_mentions": 47,
+      "difficulty_ratio": 0.49,
+      "difficult_examples": [
+        "May 2024: Annotating the Maxwell-Boltzmann distribution",
+        "May 2024: Using collision theory to explain a prediction",
+        "May 2024: Analysis of graphical and numerical data from rate experiments.",
+        "May 2024: Investigation of rates of reaction experimentally and evaluation of the results",
+        "May 2025: Solving problems in order of reactions"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Factors affecting rate of reaction",
+        "May 2024: determining reaction order and rate calculation",
+        "May 2024: The rate of reaction is expressed as the change in concentration of a particular reactant/product per unit time."
+      ],
+      "error_signals": [
+        {
+          "phrase": "activation energy",
+          "n": 17
+        },
+        {
+          "phrase": "rate constant",
+          "n": 10
+        },
+        {
+          "phrase": "rate reaction",
+          "n": 9
+        },
+        {
+          "phrase": "rate expression",
+          "n": 9
+        },
+        {
+          "phrase": "equilibrium constant",
+          "n": 8
+        },
+        {
+          "phrase": "significant figures",
+          "n": 7
+        },
+        {
+          "phrase": "order reaction",
+          "n": 6
+        },
+        {
+          "phrase": "carried forward",
+          "n": 6
+        },
+        {
+          "phrase": "frequency collisions",
+          "n": 6
+        },
+        {
+          "phrase": "kinetic energy",
+          "n": 5
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.SL.TZ2.3",
+          "sentence": "(Average mark 1.11/2) b (v) Most students wrote that the rate of reaction increases, but several missed that the solid catalyst remains unchanged/not consumed in the reaction."
+        },
+        {
+          "ref": "25M.2.SL.TZ1.4",
+          "sentence": ": In part (a)(i), most candidates could define catalysis, with many referencing alternative pathways or lower activation energy."
+        },
+        {
+          "ref": "24M.2.HL.TZ1.3",
+          "sentence": "For example, many candidates did not identify the relative temperature curves or confused the curves with the activation energy lines."
+        },
+        {
+          "ref": "19M.2.SL.TZ1.4",
+          "sentence": "(b)(iii) Explaining why temperature increase caused an increase in reaction rate was generally incorrectly answered with most students failing to mention “activation energy” in their answer or failing to annotate the gra"
+        },
+        {
+          "ref": "19M.2.HL.TZ2.2",
+          "sentence": "(b) Few students were able to relate the effect of reduced pressure at constant volume with a decrease in concentration of gas molecules and mostly did not even refer to this, but rather concentrated on lower rate of rea"
+        }
+      ],
+      "popular_distractors": {
+        "B": 4
+      },
+      "sessions": 37,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 52
+    },
+    "R2.3": {
+      "sub_topic": "R2.3",
+      "title": "How far? The extent of chemical change",
+      "exam_frequency": 26,
+      "examiner_comments": 58,
+      "questions_commented": 56,
+      "comments_2025_syllabus": 10,
+      "pct_correct_n": 12,
+      "mean_pct_correct": 55.9,
+      "hardest": [
+        {
+          "ref": "12M.1.SL.TZ1.19",
+          "pct_correct": 35.42
+        },
+        {
+          "ref": "19M.2.SL.TZ2.5",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "15N.1.HL.TZ0.21",
+          "pct_correct": 43.0
+        },
+        {
+          "ref": "11M.1.HL.TZ2.22",
+          "pct_correct": 46.28
+        },
+        {
+          "ref": "09N.1.SL.TZ0.21",
+          "pct_correct": 52.0
+        }
+      ],
+      "difficult_mentions": 22,
+      "well_prepared_mentions": 53,
+      "difficulty_ratio": 0.29,
+      "difficult_examples": [
+        "May 2025: Reactivity 2.3.4 – apply Le Châtelier’s principle",
+        "May 2025: Calculating equilibrium constant and writing Kc expression for complex ion formation.",
+        "May 2025: Using colorimetry to monitor concentration changes as reaction comes to equilibrium",
+        "May 2012: The observable effects of changing the amounts of liquid bromine on a liquid-vapour equilibrium system",
+        "May 2014: “Le Chatelier” effects on the position of equilibrium"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Equilibrium expression",
+        "May 2024: Stating, with a reason, the effect of an increase in temperature on the position of an equilibrium",
+        "May 2025: Deduction of equilibrium constant expressions"
+      ],
+      "error_signals": [
+        {
+          "phrase": "equilibrium expression",
+          "n": 4
+        },
+        {
+          "phrase": "position equilibrium",
+          "n": 4
+        },
+        {
+          "phrase": "reverse reaction",
+          "n": 4
+        },
+        {
+          "phrase": "equilibrium constant",
+          "n": 4
+        },
+        {
+          "phrase": "equilibrium position",
+          "n": 3
+        },
+        {
+          "phrase": "carried forward",
+          "n": 3
+        },
+        {
+          "phrase": "effect increase",
+          "n": 3
+        },
+        {
+          "phrase": "increase temperature",
+          "n": 3
+        },
+        {
+          "phrase": "constant expression",
+          "n": 3
+        },
+        {
+          "phrase": "effect temperature",
+          "n": 3
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.SL.TZ3.3",
+          "sentence": "challenged students to derive the equilibrium expression for the Haber process from the given equation, and most were able to do so; however, many students did not convert molar quantities to concentrations."
+        },
+        {
+          "ref": "25M.2.SL.TZ1.2",
+          "sentence": "In part (b)(ii), candidates struggled to comment meaningfully on the relationship between Kc and equilibrium position."
+        },
+        {
+          "ref": "25M.2.SL.TZ1.2",
+          "sentence": "In part (b)(iv), although most candidates earned marks due to error carried forward (ECF), diagram quality was often very poor."
+        },
+        {
+          "ref": "17M.2.SL.TZ2.3",
+          "sentence": "• (a) (i) Quite a few students seemed unable to formulate the equation for the decomposition of PCl 5 and use it to write a correct equilibrium expression."
+        },
+        {
+          "ref": "16M.2.SL.TZ0.3",
+          "sentence": "Q3a(ii) It was encouraging that many students realised that the value of Kc is unaffected by pressure, though quite a few candidates interpreted the question as asking about the shift in the position of the equilibrium."
+        }
+      ],
+      "popular_distractors": {
+        "D": 1
+      },
+      "sessions": 30,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 38
+    },
+    "R3.1": {
+      "sub_topic": "R3.1",
+      "title": "Proton transfer reactions",
+      "exam_frequency": 59,
+      "examiner_comments": 127,
+      "questions_commented": 121,
+      "comments_2025_syllabus": 12,
+      "pct_correct_n": 34,
+      "mean_pct_correct": 55.3,
+      "hardest": [
+        {
+          "ref": "25M.2.HL.6221.1",
+          "pct_correct": 20.0
+        },
+        {
+          "ref": "24M.2.SL.TZ2.3",
+          "pct_correct": 37.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.25",
+          "pct_correct": 37.0
+        },
+        {
+          "ref": "08M.1.SL.TZ0.23",
+          "pct_correct": 37.9
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.26",
+          "pct_correct": 40.0
+        }
+      ],
+      "difficult_mentions": 62,
+      "well_prepared_mentions": 36,
+      "difficulty_ratio": 0.63,
+      "difficult_examples": [
+        "May 2024: Explanations of characteristics of weak acids and acid-base theories",
+        "May 2024: Determination of the base of citric acid",
+        "May 2025: pH of a salt solution",
+        "May 2025: Identifying the species gained by a Brønsted-Lowry base when it becomes an acid.",
+        "May 2025: Calculations involving pOH and pH."
+      ],
+      "well_prepared_examples": [
+        "May 2024: Identifying conjugate pairs",
+        "May 2024: Selection of acid-base indicators",
+        "May 2024: Calculating concentration of one component of a buffer solution"
+      ],
+      "error_signals": [
+        {
+          "phrase": "weak acid",
+          "n": 12
+        },
+        {
+          "phrase": "buffer solution",
+          "n": 8
+        },
+        {
+          "phrase": "weak base",
+          "n": 7
+        },
+        {
+          "phrase": "strong weak",
+          "n": 7
+        },
+        {
+          "phrase": "acid base",
+          "n": 6
+        },
+        {
+          "phrase": "equivalence point",
+          "n": 6
+        },
+        {
+          "phrase": "strong acid",
+          "n": 6
+        },
+        {
+          "phrase": "between strong",
+          "n": 6
+        },
+        {
+          "phrase": "conjugate base",
+          "n": 5
+        },
+        {
+          "phrase": "lewis structure",
+          "n": 5
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "24M.2.HL.TZ1.1",
+          "sentence": "Explanations relating to the characteristics of weak acids and their conjugates confused the number of acidic protons with the strength of the acid."
+        },
+        {
+          "ref": "19M.2.HL.TZ2.5",
+          "sentence": "(a)(i) As expected, many candidates were able to distinguish between strong and weak acids; some candidates referred to “dissolve” rather than dissociate."
+        },
+        {
+          "ref": "19M.2.HL.TZ2.5",
+          "sentence": "(d)(ii) A significant number of candidates omitted the “equilibrium” involved in the dissolution of a weak base."
+        },
+        {
+          "ref": "19M.2.HL.TZ1.5",
+          "sentence": "(d)(i) Quite poorly done with many candidates not indicating a vertical drop but rather a weak acid/weak base curve."
+        },
+        {
+          "ref": "19M.2.HL.TZ1.5",
+          "sentence": "Some did not have the correct location for the equivalence point."
+        }
+      ],
+      "popular_distractors": {
+        "B": 2,
+        "b": 1
+      },
+      "sessions": 36,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 75
+    },
+    "R3.2": {
+      "sub_topic": "R3.2",
+      "title": "Electron transfer reactions",
+      "exam_frequency": 57,
+      "examiner_comments": 126,
+      "questions_commented": 118,
+      "comments_2025_syllabus": 12,
+      "pct_correct_n": 37,
+      "mean_pct_correct": 53.8,
+      "hardest": [
+        {
+          "ref": "25M.1A.HL.6213.37",
+          "pct_correct": 19.0
+        },
+        {
+          "ref": "24N.2.SL.TZ0.2",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "08N.1.HL.TZ0.33",
+          "pct_correct": 38.0
+        },
+        {
+          "ref": "11M.1.SL.TZ1.24",
+          "pct_correct": 39.27
+        },
+        {
+          "ref": "24N.1.HL.TZ0.31",
+          "pct_correct": 40.0
+        }
+      ],
+      "difficult_mentions": 67,
+      "well_prepared_mentions": 36,
+      "difficulty_ratio": 0.65,
+      "difficult_examples": [
+        "May 2024: Oxidation of alcohols",
+        "May 2024: Electrolysis of molten salts",
+        "May 2024: Standard hydrogen electrode and cell notation",
+        "May 2024: Deducing number of metal atoms in a unit cell",
+        "May 2024: Explaining operation of dye-sensitized solar cells"
+      ],
+      "well_prepared_examples": [
+        "May 2024: Voltaic cells",
+        "May 2024: Voltaic cells",
+        "May 2024: Oxidation states and the roles of different species in redox reactions"
+      ],
+      "error_signals": [
+        {
+          "phrase": "oxidation numbers",
+          "n": 9
+        },
+        {
+          "phrase": "standard electrode",
+          "n": 8
+        },
+        {
+          "phrase": "electrolytic cell",
+          "n": 7
+        },
+        {
+          "phrase": "salt bridge",
+          "n": 7
+        },
+        {
+          "phrase": "reducing agent",
+          "n": 7
+        },
+        {
+          "phrase": "electrode potential",
+          "n": 6
+        },
+        {
+          "phrase": "oxidation reduction",
+          "n": 6
+        },
+        {
+          "phrase": "voltaic cell",
+          "n": 5
+        },
+        {
+          "phrase": "state symbols",
+          "n": 5
+        },
+        {
+          "phrase": "oxidizing agent",
+          "n": 5
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "25M.2.SL.TZ1.1",
+          "sentence": "In part (c)(i), a significant number of students failed to show ion movement in their electrolytic cell diagrams."
+        },
+        {
+          "ref": "18M.2.HL.TZ1.6",
+          "sentence": "Some incorrect answers included arrows showing electron flow the wrong way or electrons flowing through the salt bridge rather than the wire. • (d) Generally well done though some did find negative answers. • (e) Done po"
+        },
+        {
+          "ref": "17N.2.HL.TZ0.7",
+          "sentence": "Arithmetic errors were disappointing as was the use of incorrect electrode potentials."
+        },
+        {
+          "ref": "17M.2.HL.TZ2.2",
+          "sentence": "Some did not recognize that zinc is a stronger reducing agent than iron and is oxidized instead of iron."
+        },
+        {
+          "ref": "15M.2.HL.TZ2.8",
+          "sentence": "Most candidates were able to use oxidation numbers in naming Cr2O3 but the explanation of ionic bonding was incomplete with only limited reference to the electrostatic attraction between the oppositely charged ions."
+        }
+      ],
+      "popular_distractors": {
+        "A": 3,
+        "B": 3,
+        "C": 1
+      },
+      "sessions": 37,
+      "first_year": 2002,
+      "last_year": 2025,
+      "priority_score": 75
+    },
+    "R3.3": {
+      "sub_topic": "R3.3",
+      "title": "Electron sharing reactions",
+      "exam_frequency": 8,
+      "examiner_comments": 22,
+      "questions_commented": 22,
+      "comments_2025_syllabus": 2,
+      "pct_correct_n": 5,
+      "mean_pct_correct": 48.5,
+      "hardest": [
+        {
+          "ref": "17M.2.HL.TZ1.6",
+          "pct_correct": 30.0
+        },
+        {
+          "ref": "14N.1.HL.TZ0.37",
+          "pct_correct": 38.52
+        },
+        {
+          "ref": "15M.1.HL.TZ2.11",
+          "pct_correct": 54.0
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.30",
+          "pct_correct": 56.0
+        },
+        {
+          "ref": "25M.1A.HL.6213.40",
+          "pct_correct": 64.0
+        }
+      ],
+      "difficult_mentions": 12,
+      "well_prepared_mentions": 12,
+      "difficulty_ratio": 0.5,
+      "difficult_examples": [
+        "May 2024: Explaining spontaneous fission in heavy vs light nuclei",
+        "May 2025: Use of conventions: dots in radicals, charges on MS fragments, correct symbol for charge/oxidation",
+        "November 2024: Explaining why structure of carotenes is unstable in visible light",
+        "May 2006: Calculation of the standard free energy change",
+        "May 2012: Explaining why alkanes have low reactivity."
+      ],
+      "well_prepared_examples": [
+        "May 2025: Initiation reaction for the halogen homolytic fission.",
+        "May 2025: Homolytic fission and the initiation reaction",
+        "May 2025: Homolytic vs. heterolytic fission"
+      ],
+      "error_signals": [
+        {
+          "phrase": "free radical",
+          "n": 3
+        },
+        {
+          "phrase": "hydrogen atoms",
+          "n": 2
+        },
+        {
+          "phrase": "propagation termination",
+          "n": 2
+        },
+        {
+          "phrase": "radical substitution",
+          "n": 2
+        },
+        {
+          "phrase": "propagation steps",
+          "n": 2
+        },
+        {
+          "phrase": "hydrogen product",
+          "n": 2
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "17M.2.SL.TZ1.5",
+          "sentence": "Others left this question blank. • (b) Most students were unable to write the propagation steps and so gave initiation steps or were inconsistent with dots on radicals."
+        },
+        {
+          "ref": "17M.2.HL.TZ1.6",
+          "sentence": "Many gained an ECF mark for termination using incorrect species in the propagation steps. • (b) (ii) Even though the formula was given, this question was poorly answered. • (c) (i) Candidates had little difficulty with t"
+        },
+        {
+          "ref": "16N.2.SL.TZ0.5",
+          "sentence": "One of the most common mistakes was including hydrogen as a product."
+        },
+        {
+          "ref": "15N.2.HL.TZ0.9",
+          "sentence": "Most candidates managed to score full marks for the final part on the free radical chlorination of ethane."
+        },
+        {
+          "ref": "15M.2.SL.TZ2.4",
+          "sentence": "The knowledge of the free radical substitution was very good, with the three processes of initiation, propagation and termination quoted often, although some only gave the first and last, the equations for propagation we"
+        }
+      ],
+      "popular_distractors": {
+        "D": 1,
+        "a": 1
+      },
+      "sessions": 15,
+      "first_year": 2006,
+      "last_year": 2025,
+      "priority_score": 43
+    },
+    "R3.4": {
+      "sub_topic": "R3.4",
+      "title": "Electron-pair sharing reactions",
+      "exam_frequency": 26,
+      "examiner_comments": 46,
+      "questions_commented": 43,
+      "comments_2025_syllabus": 3,
+      "pct_correct_n": 6,
+      "mean_pct_correct": 62.0,
+      "hardest": [
+        {
+          "ref": "25M.2.HL.6221.4",
+          "pct_correct": 40.0
+        },
+        {
+          "ref": "12M.1.SL.TZ1.29",
+          "pct_correct": 53.04
+        },
+        {
+          "ref": "25M.1A.SL.TZ1.29",
+          "pct_correct": 56.0
+        },
+        {
+          "ref": "24N.1.HL.TZ0.36",
+          "pct_correct": 60.0
+        },
+        {
+          "ref": "07N.1.HL.TZ0.38",
+          "pct_correct": 74.95
+        }
+      ],
+      "difficult_mentions": 34,
+      "well_prepared_mentions": 14,
+      "difficulty_ratio": 0.71,
+      "difficult_examples": [
+        "May 2024: SN1 reactions factors affecting rate, the effect of leaving groups and solvents",
+        "May 2025: Identifying a species that could attack a benzene ring",
+        "May 2025: Explaining the mechanism of an SN2 reaction using curly arrows",
+        "May 2006: Mechanism for a nucleophilic substitution reaction",
+        "May 2008: difficult for the candidates Chemical tests to distinguish between different functional groups Deduction of mechanism from rate equations Maxwell-Boltzmann dist"
+      ],
+      "well_prepared_examples": [
+        "May 2025: Identification of nucleophilic substitution.",
+        "May 2025: Prediction of SN1 or SN2 mechanism based on the structure of a reactant.",
+        "November 2024: Deducing the major isomer formed in a nucleophilic substitution reaction"
+      ],
+      "error_signals": [
+        {
+          "phrase": "curly arrows",
+          "n": 9
+        },
+        {
+          "phrase": "transition state",
+          "n": 5
+        },
+        {
+          "phrase": "curly arrow",
+          "n": 5
+        },
+        {
+          "phrase": "negative charge",
+          "n": 4
+        },
+        {
+          "phrase": "lone pair",
+          "n": 4
+        },
+        {
+          "phrase": "empirical formula",
+          "n": 4
+        },
+        {
+          "phrase": "sn1 sn2",
+          "n": 3
+        },
+        {
+          "phrase": "even though",
+          "n": 3
+        },
+        {
+          "phrase": "colour change",
+          "n": 3
+        },
+        {
+          "phrase": "nucleophilic substitution",
+          "n": 3
+        }
+      ],
+      "error_examples": [
+        {
+          "ref": "18N.2.HL.TZ0.9",
+          "sentence": "Some consistent negligent errors such as sloppy drawing, incorrect start and finish of arrows, OH-C bonding, incorrect transition state/charge missing, Br- missing as product."
+        },
+        {
+          "ref": "17M.2.HL.TZ2.7",
+          "sentence": "Incorrect answers included reference to double bonds or alternate single and double bonds. • (d) Satisfactory performance; accuracy of the curly arrows was an issue with curly arrow not originating from the lone pair or "
+        },
+        {
+          "ref": "17M.2.HL.TZ2.7",
+          "sentence": "Some drew curly arrow showing Br leaving incorrectly starting from C rather than C-Br bond; others were unable to draw the transition state."
+        },
+        {
+          "ref": "14N.2.HL.TZ0.9",
+          "sentence": "Common mistakes also included attacking the wrong H, reversing the direction of some of the curly arrows, and giving an SN2 mechanism instead of elimination."
+        },
+        {
+          "ref": "13N.2.SL.TZ0.6",
+          "sentence": "The use of curly arrows in reaction mechanisms continues to be poorly understood, the arrow often pointing in the wrong direction."
+        }
+      ],
+      "popular_distractors": {},
+      "sessions": 31,
+      "first_year": 2003,
+      "last_year": 2025,
+      "priority_score": 54
+    }
+  }
+}

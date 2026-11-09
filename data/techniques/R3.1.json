@@ -1,0 +1,1360 @@
+{
+  "sub_topic": "R3.1",
+  "title": "Proton transfer reactions",
+  "schema_version": 1,
+  "generated_by": "pilot: hand-mined from data/evidence/R3.1.json (Claude), same schema the Fable engine emits",
+  "evidence_base": {
+    "questions": 30,
+    "questions_with_markscheme": 25,
+    "era_2025_questions": 20,
+    "markscheme_trap_lines": 82,
+    "examiner_sentences_used": 252
+  },
+  "cross_links": [
+    {
+      "sub_topic": "R3.4",
+      "note": "Lewis acid/base (electron-pair donor/acceptor, 'pair' omitted) sits in R3.4 in the 2025 syllabus; evidence routed there."
+    },
+    {
+      "sub_topic": "R2.3",
+      "note": "Buffer and indicator behaviour are equilibrium arguments; Le Chatelier wording from R2.3 is what earns the mark."
+    },
+    {
+      "sub_topic": "S1.4",
+      "note": "Titration stoichiometry (moles, dilution factors) is where most R3.1 calculation marks are lost."
+    }
+  ],
+  "cards": [
+    {
+      "card_id": "R3.1-T01",
+      "title": "pH vs pOH: −log of a base concentration is pOH, not pH",
+      "understandings": [
+        "R3.1.4",
+        "R3.1.5",
+        "R3.1.9"
+      ],
+      "priority": 1,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "pH = −log[H+] and pOH = −log[OH−] (data booklet section 1); Kw = 1.00 × 10−14 at 298 K (section 2). pH + pOH = 14.00 follows from these but is not printed in the data booklet: memorise it.",
+          "textbook_gap": "Books teach the formulas separately; exams hide the base inside an answer option so the reflex −log(c) is applied to [OH−]."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "[OH−] =",
+            "pOH =",
+            "pH = 14.00 − pOH"
+          ],
+          "trap_boundaries": [
+            "A weak-base pH that comes out below 7 gets no error-carried-forward credit (25M.2.HL.6221.3).",
+            "Stopping at pOH when pH was asked is a recurring lost mark (24M.2.SL.TZ2.3)."
+          ],
+          "delta": "Full marks need the conversion step written out: [OH−] → pOH → pH (or Kw/[OH−] → [H+] → pH)."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "'Which solution has a pH of 9.0?' with base concentrations as options",
+            "[OH−] asked for an acidic solution (pH 4.50)"
+          ],
+          "heuristic": "Before any arithmetic, decide which side of 7 the answer must be on and which ion the concentration describes."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Determine"
+          ],
+          "score_mechanics": "Calculate = working shown; a bare final value only scores if the markscheme says 'Award [n] for correct final answer'."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Base? → find pOH first",
+            "pH = 14 − pOH",
+            "Sanity: base → pH > 7, acid → pH < 7"
+          ],
+          "fat_to_trim": "Once pH + pOH = 14.00 is memorised, you don't need to rebuild it from Kw each time."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            2
+          ],
+          "hack": "Section 1 prints pH, pOH and Kw = [H+][OH−]; section 2 gives Kw's value. The shortcut pH + pOH = 14.00 is not printed: derive it from those two sections or memorise it."
+        },
+        "7_elimination": {
+          "rules": [
+            "A strong base at 10^−n mol dm−3 (n ≤ 6) has pH = 14 − n; any option giving pH = n is the pOH trap.",
+            "At pH 4.50, [OH−] must be below 10^−7: eliminate 10^−4 and 10^−5 options instantly.",
+            "A base concentration of 10^−9 mol dm−3 cannot give pH 9: water's own ions dominate, so pH ≈ 7."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6213.32",
+          "kind": "mcq",
+          "note": "45% correct; 24% chose the option that treats −log[base] as pH"
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.25",
+          "kind": "examiner",
+          "note": "31% chose the pOH-for-pH distractor"
+        },
+        {
+          "ref": "25N.1A.HL.6219.31",
+          "kind": "question",
+          "note": "[OH−] from pH 4.50"
+        },
+        {
+          "ref": "24M.2.SL.TZ2.3",
+          "kind": "examiner",
+          "note": "many stopped at pOH"
+        },
+        {
+          "ref": "25M.2.HL.6221.3",
+          "kind": "markscheme",
+          "note": "no ECF if pH < 7 for a base"
+        }
+      ],
+      "difficulty_signal": "45% correct (25M.1A.HL.6213.32)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T02",
+      "title": "Strength is extent of ionization, not number of protons or concentration",
+      "understandings": [
+        "R3.1.6"
+      ],
+      "priority": 2,
+      "pillars": {
+        "1_context": {
+          "ao": "AO1–AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "Strong and weak acids/bases differ in the extent of ionization.",
+          "textbook_gap": "Diprotic and concentrated acids are often described as 'stronger' in everyday language; the exam rewards only the ionization argument."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "ionizes/dissociates completely",
+            "partially ionizes/dissociates",
+            "extent/degree of ionization"
+          ],
+          "trap_boundaries": [
+            "'Dissolves' instead of 'dissociates/ionizes' loses the mark (19M.2.HL.TZ2.5).",
+            "Explanations based on the number of acidic protons are marked wrong (24M.2.HL.TZ1.1, 14M.3.SL.TZ2.21)."
+          ],
+          "delta": "Name the property (extent of ionization) AND the comparison (strong: complete; weak: partial)."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "'Why does sulfuric acid have a lower pH than methanoic acid of the same concentration?' with a 'diprotic' option",
+            "Two acids of equal concentration titrated with the same base"
+          ],
+          "heuristic": "If the option is true but explains a different quantity (protons per molecule, solubility), it is a distractor."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain",
+            "Outline"
+          ],
+          "score_mechanics": "Explain = reason + consequence: 'ionizes more completely, so [H+] is higher, so pH is lower'."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Spot equal concentrations in the stem",
+            "Answer with ionization",
+            "Ignore proton count unless moles are asked"
+          ],
+          "fat_to_trim": "No calculation needed to rank equal-concentration acids by pH."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "—"
+        },
+        "7_elimination": {
+          "rules": [
+            "'Diprotic' explains moles of base needed, not why the acid is strong: eliminate it on 'why lower pH' questions.",
+            "Equal moles of HCl and CH3COOH need the SAME volume of NaOH to neutralize: any option that says the strong acid needs more is out.",
+            "'More soluble' is never the reason an acid is strong."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6213.33",
+          "kind": "mcq",
+          "note": "51% correct; 'diprotic' distractor"
+        },
+        {
+          "ref": "25M.1A.SL.TZ2.26",
+          "kind": "examiner",
+          "note": "29% attributed lower pH to the acid being diprotic"
+        },
+        {
+          "ref": "24M.2.HL.TZ1.1",
+          "kind": "examiner",
+          "note": "number of acidic protons confused with strength"
+        },
+        {
+          "ref": "24M.2.HL.TZ1.5",
+          "kind": "examiner",
+          "note": "shifted the equivalence volume, confusing strength with concentration"
+        },
+        {
+          "ref": "13N.2.SL.TZ0.5",
+          "kind": "examiner",
+          "note": "few saw that the same volume of base is needed"
+        },
+        {
+          "ref": "10N.2.SL.TZ0.6",
+          "kind": "examiner",
+          "note": "same volume of acid needed was missed"
+        },
+        {
+          "ref": "19M.2.HL.TZ2.5",
+          "kind": "examiner",
+          "note": "'dissolve' instead of 'dissociate'"
+        }
+      ],
+      "difficulty_signal": "51% correct (25M.1A.HL.6213.33)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T03",
+      "title": "Distinguishing strong from weak experimentally: method + fair test + expected result",
+      "understandings": [
+        "R3.1.6"
+      ],
+      "priority": 5,
+      "pillars": {
+        "1_context": {
+          "ao": "AO3",
+          "papers": [
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "Extent of ionization shows up in conductivity, pH and rate with Mg or carbonates.",
+          "textbook_gap": "Textbooks list the methods; markschemes also demand equal concentrations and the direction of the observed difference."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "same concentration",
+            "measure «electrical» conductivity",
+            "weak acid has lower conductivity",
+            "slower rate of bubbles",
+            "higher pH"
+          ],
+          "trap_boundaries": [
+            "Describing the degree of ionization is not a method and scores nothing (24N.2.SL.TZ0.4).",
+            "A method without the expected observation for the weak acid loses the observation mark (24N.2.HL.TZ0.5: method mark + observation mark).",
+            "Vague 'use indicator' answers without a measurable comparison did not score (13N.2.SL.TZ0.5)."
+          ],
+          "delta": "Method + controlled variable (equal concentration/temperature) + direction of the difference."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "'Suggest two methods to distinguish HCN(aq) from HCl(aq)'",
+            "Comment on a student's hypothesis using conductivity data"
+          ],
+          "heuristic": "Every method maps to one consequence of fewer ions: lower conductivity, higher pH, slower reaction."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Describe",
+            "Suggest",
+            "Outline"
+          ],
+          "score_mechanics": "Describe = what you do + what you see; each method usually earns method + observation separately."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Pick conductivity or pH (simplest)",
+            "State 'same concentration'",
+            "State weak acid gives lower conductivity/higher pH"
+          ],
+          "fat_to_trim": "Skip theory of ionization; the question wants the experiment."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "—"
+        },
+        "7_elimination": {
+          "rules": [
+            "An option comparing acids at different concentrations cannot show strength.",
+            "'Neutralization volume' cannot distinguish strong from weak acids at equal moles."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.2.HL.TZ0.5",
+          "kind": "markscheme",
+          "note": "conductivity method + 'weak acid has lower conductivity' observation"
+        },
+        {
+          "ref": "24N.2.SL.TZ0.4",
+          "kind": "examiner",
+          "note": "discussing degree of ionization is not a method"
+        },
+        {
+          "ref": "25M.2.SL.TZ2.1",
+          "kind": "examiner",
+          "note": "forgot to state the result for HCl"
+        },
+        {
+          "ref": "15M.2.SL.TZ1.6",
+          "kind": "examiner",
+          "note": "imprecise answers lost marks"
+        },
+        {
+          "ref": "10N.2.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "rate observations not specific; conductivity not explained by ions"
+        },
+        {
+          "ref": "13N.2.SL.TZ0.5",
+          "kind": "examiner",
+          "note": "indicator paper suggested, no marks"
+        }
+      ],
+      "difficulty_signal": "repeatedly flagged in reports 2010–2025",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T04",
+      "title": "Conjugate pairs and amphiprotic species: differ by exactly one H+",
+      "understandings": [
+        "R3.1.1",
+        "R3.1.2",
+        "R3.1.3"
+      ],
+      "priority": 3,
+      "pillars": {
+        "1_context": {
+          "ao": "AO1–AO2",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "A conjugate pair differs by a single proton; some species act as both acid and base.",
+          "textbook_gap": "Charge bookkeeping and drawing the conjugate base of an organic acid are rarely drilled but always marked."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "proton/H+ donor",
+            "proton/H+ acceptor",
+            "differ by one proton/H+"
+          ],
+          "trap_boundaries": [
+            "Conjugate base drawn without all bonds/atoms, or with the negative charge misplaced, loses the mark (19M.2.SL.TZ1.2, 19M.2.HL.TZ1.2).",
+            "Wrong charge on the conjugate base (e.g. carbonate) loses the mark even when the species is right (19M.2.HL.TZ2.5).",
+            "Accept H+ in place of H3O+ (20N.2.HL.TZ0.5)."
+          ],
+          "delta": "Correct species AND correct charge; for organic acids, only the –COOH hydrogen leaves."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Phosphate series (H3PO4 / H2PO4− / HPO4²− / PO4³−)",
+            "Ammonia in an unfamiliar reaction: which equation shows it accepting a proton?",
+            "Alcohol + carboxylic acid in one molecule"
+          ],
+          "heuristic": "Amphiprotic = has a removable H AND can take one more: always the middle members of a polyprotic series, plus H2O."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Identify",
+            "Deduce",
+            "State"
+          ],
+          "score_mechanics": "State/Identify: formula with charge is the whole mark; no explanation needed."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Write the pair side by side",
+            "Count H and charge: Δ = one H, one unit of charge",
+            "Check direction (who loses the proton)"
+          ],
+          "fat_to_trim": "Ignore spectator ions (Na+, Cl−) when finding pairs."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "—"
+        },
+        "7_elimination": {
+          "rules": [
+            "A species with no H (PO4³−) cannot be a Brønsted–Lowry acid: any pair containing it as an acid is out.",
+            "'Hydrogen atom' or 'electron pair' is never what converts a base into its conjugate acid: it is a proton.",
+            "In 'ammonia as a Brønsted–Lowry base', eliminate equations where NH3 loses H (forms NH2− or NO)."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6207.32",
+          "kind": "mcq",
+          "note": "HPO4²− and H2PO4− both amphiprotic"
+        },
+        {
+          "ref": "25M.1A.HL.6213.31",
+          "kind": "mcq",
+          "note": "66% correct; 'hydrogen atom' distractor"
+        },
+        {
+          "ref": "25N.1A.HL.6207.32",
+          "kind": "mcq",
+          "note": "ammonia as a proton acceptor in an unfamiliar reaction"
+        },
+        {
+          "ref": "24M.2.HL.TZ1.1",
+          "kind": "examiner",
+          "note": "alcoholic proton treated as acidic; –OH of acid read as hydroxide"
+        },
+        {
+          "ref": "19M.2.SL.TZ1.2",
+          "kind": "examiner",
+          "note": "conjugate base structure incomplete / charge misplaced"
+        },
+        {
+          "ref": "19M.2.HL.TZ2.5",
+          "kind": "examiner",
+          "note": "carbonate with wrong charge"
+        },
+        {
+          "ref": "20N.2.HL.TZ0.5",
+          "kind": "markscheme",
+          "note": "accept H+ for H3O+"
+        }
+      ],
+      "difficulty_signal": "66% correct (25M.1A.HL.6213.31)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T05",
+      "title": "Equations for weak acids/bases: react with water, use ⇌, keep charges",
+      "understandings": [
+        "R3.1.1",
+        "R3.1.6"
+      ],
+      "priority": 6,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "2",
+            "1B"
+          ],
+          "syllabus_hook": "Weak acids and bases ionize partially: an equilibrium.",
+          "textbook_gap": "Strong-acid equations use →; students carry that habit over to weak acids and bases."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "⇌",
+            "+ H2O(l)",
+            "NH3(aq) + H2O(l) ⇌ NH4+(aq) + OH−(aq)"
+          ],
+          "trap_boundaries": [
+            "Missing equilibrium arrow for a weak acid or base is the most common lost mark (09M.2.HL.TZ1.2, 10M.2.HL.TZ1.3, 10N.2.HL.TZ0.6, 18N.2.HL.TZ0.6).",
+            "Writing only a dissociation equation instead of reaction with water, or omitting the ion charge, lost marks (18N.2.HL.TZ0.6).",
+            "For buffer-action equations, equilibrium arrows are accepted only if the direction of shift is also stated (25M.2.HL.6209.5)."
+          ],
+          "delta": "Weak → ⇌ with water as reactant; strong → single arrow; charges balanced."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Unfamiliar weak acid (HCN, propanoic acid) from the data booklet",
+            "Weak base such as an amine or phenylamine"
+          ],
+          "heuristic": "Name the species → strong or weak? → arrow type → water on the left."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Write",
+            "Formulate",
+            "State"
+          ],
+          "score_mechanics": "An equation mark usually needs correct species, balance and arrow together."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Acid + H2O ⇌ H3O+ + A−",
+            "Base + H2O ⇌ BH+ + OH−",
+            "Check charges sum to zero"
+          ],
+          "fat_to_trim": "State symbols are ignored unless the question asks for them (markscheme general rule)."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "Unfamiliar acid formulas (propanoic, benzoic) are not in the booklet; derive them from the name."
+        },
+        "7_elimination": {
+          "rules": [
+            "A weak-acid equation drawn with a single arrow is wrong even if balanced.",
+            "An equation producing OH− from a carboxylic acid is wrong: the –OH is not a hydroxide ion."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "18N.2.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "no equilibrium arrows, missing charges, dissociation instead of reaction with water"
+        },
+        {
+          "ref": "09M.2.HL.TZ1.2",
+          "kind": "examiner",
+          "note": "omitted equilibrium arrow for propanoic acid"
+        },
+        {
+          "ref": "10M.2.HL.TZ1.3",
+          "kind": "examiner",
+          "note": "forgot reversible arrow"
+        },
+        {
+          "ref": "10N.2.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "missed equilibrium sign for hydrocyanic acid"
+        },
+        {
+          "ref": "19M.2.HL.TZ2.5",
+          "kind": "examiner",
+          "note": "omitted equilibrium for dissolution of a weak base"
+        },
+        {
+          "ref": "25M.2.HL.6209.5",
+          "kind": "markscheme",
+          "note": "⇌ accepted in buffer equations only with direction of shift"
+        }
+      ],
+      "difficulty_signal": "flagged in 6 sessions 2009–2019",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T06",
+      "title": "Kw and temperature: pH of pure water falls when hot, but it stays neutral",
+      "understandings": [
+        "R3.1.5"
+      ],
+      "priority": 9,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "2",
+            "1A"
+          ],
+          "syllabus_hook": "Kw = [H+][OH−]; water's ionization is endothermic.",
+          "textbook_gap": "'Neutral = pH 7' is only true at 298 K."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "dissociation of water is endothermic",
+            "[H+] = [OH−] so still neutral",
+            "[H+] = √Kw"
+          ],
+          "trap_boundaries": [
+            "Saying pH does not change with temperature is wrong (10M.2.HL.TZ2.7).",
+            "The same number earned full credit whether labelled pH or pOH, because they are equal in pure water (24N.2.HL.TZ0.5).",
+            "Giving the value of Kw or Kw = Ka × Kb when the expression was asked loses the mark (10M.2.HL.TZ2.7)."
+          ],
+          "delta": "Link endothermic → Kw increases → [H+] increases → pH decreases, AND state [H+] = [OH−]."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Kw given at 50 °C or 100 °C: calculate the pH of pure water",
+            "'Is water at pH 6.5 acidic?'"
+          ],
+          "heuristic": "Pure water: [H+] = √Kw at any temperature; neutrality means [H+] = [OH−], not pH 7."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain",
+            "Calculate"
+          ],
+          "score_mechanics": "Explain needs the endothermic step; Calculate needs √Kw then −log."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "[H+] = √Kw",
+            "pH = −log[H+]",
+            "Say 'neutral because [H+] = [OH−]'"
+          ],
+          "fat_to_trim": "No ICE table needed for pure water."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            2
+          ],
+          "hack": "Kw at 298 K is in the booklet; other temperatures are always given in the question."
+        },
+        "7_elimination": {
+          "rules": [
+            "Any option calling hot pure water 'acidic' is wrong.",
+            "If Kw > 1.0 × 10^−14, the pH of pure water is below 7: eliminate pH ≥ 7 options."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.2.HL.TZ0.5",
+          "kind": "markscheme",
+          "note": "endothermic dissociation; pH = pOH = 6.51 accepted either way"
+        },
+        {
+          "ref": "10M.2.HL.TZ2.7",
+          "kind": "examiner",
+          "note": "pH stated not to change; Kw value given instead of the expression"
+        }
+      ],
+      "difficulty_signal": "low frequency, high trap density",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T07",
+      "title": "Ranking with Ka, Kb, pKa, pKb: the weaker the acid, the stronger its conjugate base",
+      "understandings": [
+        "R3.1.10",
+        "R3.1.11"
+      ],
+      "priority": 4,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "Ka × Kb = Kw and pKa + pKb = 14.00 at 298 K: both are not printed in the data booklet: memorise it.",
+          "textbook_gap": "Tables mix K and pK columns; the direction flips between them."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "higher pKa = weaker acid",
+            "lower Ka",
+            "pKa + pKb = 14"
+          ],
+          "trap_boundaries": [
+            "Reasoning without quoting the pKa or Ka values failed to score (14N.2.HL.TZ0.4)."
+          ],
+          "delta": "Cite the actual values and state the inverse link explicitly."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "'Which conjugate base is strongest?' given Ka values",
+            "'Which base has the strongest conjugate acid?' given a mixed Kb/pKb table"
+          ],
+          "heuristic": "Strongest conjugate base ← weakest acid (smallest Ka, largest pKa). Strongest conjugate acid ← weakest base (smallest Kb, largest pKb)."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Deduce",
+            "Explain",
+            "Compare"
+          ],
+          "score_mechanics": "Compare: refer to both species with their values."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Convert everything to one scale (all pK or all K)",
+            "Flip direction for conjugates",
+            "Pick the extreme"
+          ],
+          "fat_to_trim": "No need to calculate conjugate K values; the ranking just inverts."
+        },
+        "6_data_booklet": {
+          "sections": [
+            2
+          ],
+          "hack": "Only Kw's value is in the booklet (section 2). Ka/Kb/pKa tables come with the question; the Ka × Kb = Kw link is yours to remember."
+        },
+        "7_elimination": {
+          "rules": [
+            "When asked for the strongest conjugate base, eliminate the conjugate of the acid with the largest Ka first.",
+            "In a mixed table, a pKb of 14.5 means an extremely weak base, so its conjugate acid is the strongest."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.1.HL.TZ0.25",
+          "kind": "mcq",
+          "note": "strongest conjugate base from the smallest Ka (ClO−)"
+        },
+        {
+          "ref": "25M.1A.HL.6219.34",
+          "kind": "mcq",
+          "note": "strongest conjugate acid from the weakest base in a mixed Kb/pKb table"
+        },
+        {
+          "ref": "14N.2.HL.TZ0.4",
+          "kind": "examiner",
+          "note": "must cite pKa/Ka values"
+        }
+      ],
+      "difficulty_signal": "appears in both 2024 and 2025 Paper 1",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T08",
+      "title": "pH of a weak acid or base: assumptions, Ka vs Kb, and the base two-step",
+      "understandings": [
+        "R3.1.10",
+        "R3.1.9"
+      ],
+      "priority": 3,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2",
+          "papers": [
+            "2"
+          ],
+          "syllabus_hook": "Ka = [H+][A−]/[HA]; for weak species [HA]eq ≈ initial concentration.",
+          "textbook_gap": "Worked examples are usually acids; exams increasingly ask for weak bases from pKb."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "[H+] = [A−]",
+            "[HA] ≈ initial concentration",
+            "[OH−]² / c = Kb",
+            "pH = 14.00 − pOH"
+          ],
+          "trap_boundaries": [
+            "Weak-base answers below pH 7 earn no ECF (25M.2.HL.6221.3).",
+            "Confusing Ka with Kb, and not assuming [NH3]eq ≈ starting concentration or [NH4+] = [OH−], were the common failures (15M.2.HL.TZ2.7).",
+            "Not allowing for dilution gave impossibly high pH values (15M.2.HL.TZ2.7)."
+          ],
+          "delta": "State both assumptions, compute [OH−] (base) or [H+] (acid), then convert."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Ammonia given as a complexing ligand, then pH asked from pKb",
+            "Acid diluted before measuring"
+          ],
+          "heuristic": "Base question → solve for [OH−] → pOH → pH. Never put Kb into an [H+] expression."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Determine"
+          ],
+          "score_mechanics": "Three-mark pattern: K expression/value → concentration → pH; 'Award [3] for correct final answer'."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "K = 10^−pK",
+            "x = √(K × c)",
+            "pH (acid) or 14 − pOH (base)",
+            "Sanity check vs a strong species at the same concentration"
+          ],
+          "fat_to_trim": "Skip the quadratic: IB accepts the small-x approximation."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            2
+          ],
+          "hack": "Section 1 gives pH, pOH and Kw = [H+][OH−]; section 2 gives Kw's value. Ka/Kb expressions and pK = −log K are not printed: memorise them."
+        },
+        "7_elimination": {
+          "rules": [
+            "A weak acid at concentration c has pH > −log c: eliminate options equal to the strong-acid pH.",
+            "0.1 mol dm−3 of a weak base cannot reach pH 13: eliminate it."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.2.HL.6221.3",
+          "kind": "markscheme",
+          "note": "pH of 0.350 mol dm−3 NH3 from pKb; no ECF if pH < 7"
+        },
+        {
+          "ref": "25M.2.HL.6221.3",
+          "kind": "examiner",
+          "note": "students did not get far with weak-base pH from pKb"
+        },
+        {
+          "ref": "15M.2.HL.TZ2.7",
+          "kind": "examiner",
+          "note": "Ka/Kb confusion, missing assumptions, dilution ignored"
+        },
+        {
+          "ref": "10N.2.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "negligible-dissociation assumption; some gave acid pH > 7"
+        },
+        {
+          "ref": "11M.2.HL.TZ2.5",
+          "kind": "examiner",
+          "note": "pH from pKb of ammonia"
+        }
+      ],
+      "difficulty_signal": "repeatedly weak in Paper 2 reports 2010–2025",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T09",
+      "title": "pH of salt solutions: decide from the parent acid and base",
+      "understandings": [
+        "R3.1.12"
+      ],
+      "priority": 5,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "Salt pH depends on the relative strengths of the parent acid and base.",
+          "textbook_gap": "Students learn 'salts are neutral' from earlier courses."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "anion is the conjugate base of a weak acid",
+            "reacts with water to form OH−",
+            "cation is a weak acid / hydrated metal ion"
+          ],
+          "trap_boundaries": [
+            "Salt hydrolysis equations were very poorly done; the acidity of AlCl3 needs an equation with the hydrated ion (09N.2.HL.TZ0.8)."
+          ],
+          "delta": "Identify the weak parent, then write that ion reacting with water."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "'Which salt is basic?' with methanoate, ammonium and nitrate salts",
+            "Equivalence-point pH of a titration (the salt formed decides it)"
+          ],
+          "heuristic": "Strong + strong → neutral; weak acid's anion → basic; weak base's cation (or small highly charged metal ion) → acidic."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Deduce",
+            "Explain"
+          ],
+          "score_mechanics": "Explain = identify the weak parent + hydrolysis equation."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Split the salt into parent acid + parent base",
+            "Mark each strong/weak",
+            "The weak partner sets the pH"
+          ],
+          "fat_to_trim": "Only weak-acid + weak-base salts need Ka vs Kb."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "—"
+        },
+        "7_elimination": {
+          "rules": [
+            "NaNO3, NaCl, KNO3: neutral, never 'basic' or 'acidic'.",
+            "NH4+ salts of strong acids are acidic: eliminate them from 'basic salt' questions."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6213.34",
+          "kind": "mcq",
+          "note": "54% correct; HCOONa is the basic salt"
+        },
+        {
+          "ref": "09N.2.HL.TZ0.8",
+          "kind": "examiner",
+          "note": "salt hydrolysis poorly understood; AlCl3 equation missing"
+        }
+      ],
+      "difficulty_signal": "54% correct (25M.1A.HL.6213.34)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T10",
+      "title": "Reading and sketching pH curves: start pH, equivalence volume and pH, half-equivalence",
+      "understandings": [
+        "R3.1.8",
+        "R3.1.13",
+        "R3.1.17"
+      ],
+      "priority": 1,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1A",
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "Curves of strong/weak combinations have characteristic shapes; at half-equivalence pH = pKa.",
+          "textbook_gap": "Textbooks show acid-in-flask curves; exams flip it (acid added to base, base added to acid) and change the axis label."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "equivalence point",
+            "half-equivalence: pH = pKa",
+            "buffer region",
+            "pH at equivalence > 7 / < 7"
+          ],
+          "trap_boundaries": [
+            "Sketches without a vertical section, or with the wrong equivalence location, lose marks (19M.2.HL.TZ1.5, 18N.2.HL.TZ0.6).",
+            "Changing the base's strength does not move the equivalence volume (24M.2.HL.TZ1.5).",
+            "Using the final burette volume instead of the volume at equivalence (24N.2.SL.TZ0.4); titre = final − initial reading (25N.1B.HL.6208.1)."
+          ],
+          "delta": "Equivalence volume comes from moles; equivalence pH from the salt; buffer region and pKa from half-equivalence."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Weak base titrated with HCl: find pKb from the curve",
+            "Four sketches where the x-axis says 'volume of acid added' vs 'volume of alkali added'",
+            "Excess ammonia added to HCl"
+          ],
+          "heuristic": "Read the axis label first; then the start pH tells you what is in the flask, the jump tells you equivalence."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Sketch",
+            "Determine",
+            "Deduce"
+          ],
+          "score_mechanics": "Sketch: shape features each earn a mark: start pH, jump position, equivalence pH, end plateau."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Axis label → what is added",
+            "Start pH → strong or weak in flask",
+            "Half of equivalence volume → read pH",
+            "Weak acid: pKa = pH there; weak base: pKb = 14 − pH there"
+          ],
+          "fat_to_trim": "No calculation needed to find pKa or pKb from a curve: it is a reading."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            2
+          ],
+          "hack": "pKa + pKb = 14.00 is not printed in the booklet; it follows from Kw (section 2). Memorise it so a half-equivalence reading for a base converts in one step."
+        },
+        "7_elimination": {
+          "rules": [
+            "For a base titrated with acid, the pH at half-equivalence is 14 − pKb: if pH there is 9, the option 'pKb = 9' is the trap; the answer is 5.",
+            "A strong base titrated with a strong acid starts near pH 13–14 and ends low: eliminate curves that start low.",
+            "Weak base + strong acid → equivalence pH below 7: eliminate curves with the jump centred at pH ≥ 7."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "24N.1.HL.TZ0.27",
+          "kind": "mcq",
+          "note": "42% correct; pKb of a weak base from a curve (14 − 9 = 5)"
+        },
+        {
+          "ref": "25M.1A.HL.6207.3",
+          "kind": "mcq",
+          "note": "strong base with strong acid: axis-label trap"
+        },
+        {
+          "ref": "24M.2.HL.TZ1.5",
+          "kind": "examiner",
+          "note": "shifted equivalence when only the strength changed"
+        },
+        {
+          "ref": "24N.2.SL.TZ0.4",
+          "kind": "examiner",
+          "note": "used final NaOH volume instead of equivalence volume"
+        },
+        {
+          "ref": "25N.1B.HL.6208.1",
+          "kind": "markscheme",
+          "note": "volume used = final − initial; ECF for later marks"
+        },
+        {
+          "ref": "19M.2.HL.TZ1.5",
+          "kind": "examiner",
+          "note": "no vertical drop; wrong equivalence location"
+        },
+        {
+          "ref": "18N.2.HL.TZ0.6",
+          "kind": "examiner",
+          "note": "WB/WA curve features; equivalence at 25 cm3 missed"
+        },
+        {
+          "ref": "12M.2.HL.TZ1.6",
+          "kind": "examiner",
+          "note": "pKa = pH at half-equivalence not related to initial pH"
+        },
+        {
+          "ref": "10M.2.HL.TZ2.7",
+          "kind": "examiner",
+          "note": "half-equivalence: equal concentrations, maximum buffer capacity"
+        }
+      ],
+      "difficulty_signal": "42% correct (24N.1.HL.TZ0.27)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T11",
+      "title": "Choosing and explaining indicators: pKa ≈ pH at equivalence; HIn ⇌ H+ + In−",
+      "understandings": [
+        "R3.1.14",
+        "R3.1.15"
+      ],
+      "priority": 2,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "Indicators are weak acids whose conjugate forms differ in colour; the end-point range must sit on the equivalence pH.",
+          "textbook_gap": "Phenolphthalein is the default in labs, so students choose it for weak-base titrations."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "HIn ⇌ H+ + In−",
+            "conjugate acid and base forms have different colours",
+            "equivalence point falls within the pH range of the indicator",
+            "pKa in the middle of the range"
+          ],
+          "trap_boundaries": [
+            "'Colourless in acid, pink in alkali' alone is not accepted as the explanation (24N.2.HL.TZ0.5).",
+            "Explanations without the indicator equilibrium lost credit (09N.2.HL.TZ0.8, 11M.2.HL.TZ1.8, 14N.2.HL.TZ0.8).",
+            "Stating only that the indicator 'changes colour' without the colours or the range did not score (12M.2.HL.TZ2.8, 16M.3.SL.TZ0.2)."
+          ],
+          "delta": "Name the equilibrium, both coloured forms, and link the range to the equivalence pH."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Phenylamine titrated with nitric acid",
+            "Excess ammonia added to HCl with a curve and an indicator table",
+            "Indicator colour in a coloured solution (absorbed vs observed colour)"
+          ],
+          "heuristic": "Find the equivalence pH from the salt (T09) → pick the indicator with pKa closest to it (±1)."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain",
+            "Identify",
+            "Justify"
+          ],
+          "score_mechanics": "Justify the choice = range overlaps the vertical section/equivalence pH."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Strong/weak combination → equivalence pH",
+            "Data booklet section 18: pick pKa ≈ that pH",
+            "Justify in one line"
+          ],
+          "fat_to_trim": "No calculation of the exact equivalence pH needed for Paper 1A."
+        },
+        "6_data_booklet": {
+          "sections": [
+            18
+          ],
+          "hack": "Section 18 gives pKa and pH range for each indicator: weak base + strong acid → low-pKa indicators (bromophenol blue, bromocresol green, methyl orange)."
+        },
+        "7_elimination": {
+          "rules": [
+            "Weak base + strong acid: eliminate phenolphthalein and phenol red (they change above 7).",
+            "Weak acid + strong base: eliminate methyl orange and bromophenol blue.",
+            "Strong + strong: most indicators work; choose the one whose range lies inside the vertical section."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6213.35",
+          "kind": "mcq",
+          "note": "54% correct; phenylamine + HNO3 → bromophenol blue"
+        },
+        {
+          "ref": "25M.1A.HL.6207.39",
+          "kind": "mcq",
+          "note": "excess NH3 into HCl → bromocresol green"
+        },
+        {
+          "ref": "24N.2.HL.TZ0.5",
+          "kind": "markscheme",
+          "note": "conjugate forms differ in colour; 'colourless in acid, pink in alkali' alone rejected"
+        },
+        {
+          "ref": "25M.2.HL.6221.1",
+          "kind": "examiner",
+          "note": "gave the indicator's alkaline colours without considering absorbed vs complementary colour"
+        },
+        {
+          "ref": "14N.2.HL.TZ0.8",
+          "kind": "examiner",
+          "note": "equilibrium not acknowledged in indicator action"
+        },
+        {
+          "ref": "12M.2.HL.TZ2.8",
+          "kind": "examiner",
+          "note": "'changes colour' with no detail"
+        },
+        {
+          "ref": "15N.2.HL.TZ0.8",
+          "kind": "examiner",
+          "note": "indicator range must fit within the rapid pH change"
+        }
+      ],
+      "difficulty_signal": "54% correct (25M.1A.HL.6213.35)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T12",
+      "title": "Buffers: definition keywords, which component reacts, and the log-ratio shortcut",
+      "understandings": [
+        "R3.1.16",
+        "R3.1.17"
+      ],
+      "priority": 1,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1A",
+            "2"
+          ],
+          "syllabus_hook": "Buffer pH depends on pKa and the ratio [A−]/[HA].",
+          "textbook_gap": "The Henderson–Hasselbalch ratio direction and the reacting species are rarely practised under exam disguise."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "resists change in pH",
+            "small amounts of acid or alkali",
+            "weak acid and its conjugate base",
+            "added H+ reacts with A−",
+            "added OH− reacts with HA"
+          ],
+          "trap_boundaries": [
+            "Omitting 'small' from the definition loses the mark (13M.2.HL.TZ1.1).",
+            "Not stating a WEAK acid (just 'acid') is insufficient (12N.2.HL.TZ0.3).",
+            "Equilibrium arrows in buffer-action equations only count with the direction of shift (25M.2.HL.6209.5).",
+            "Inverting [conjugate base]/[acid] in the calculation is the common error (17M.3.HL.TZ2.8, 19M.3.SL.TZ2.16)."
+          ],
+          "delta": "Name both components, which one neutralizes added H+ / OH−, and the equation for each."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Phosphate buffer (Na2HPO4/NaH2PO4) with strong base added",
+            "Buffer made by half-neutralizing a weak acid (2:1 acid:NaOH)",
+            "Buffer pH with unequal concentrations"
+          ],
+          "heuristic": "Added OH− always reacts with the acid component; added H+ always reacts with the base component. Spectator Na+ never reacts."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Explain",
+            "Calculate",
+            "Describe"
+          ],
+          "score_mechanics": "Explain buffer action = one equation for added acid + one for added base."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "pH = pKa + log([A−]/[HA]) (memorised)",
+            "Ratio < 1 → pH below pKa; ratio > 1 → above",
+            "log 2 ≈ 0.30, log 0.5 ≈ −0.30"
+          ],
+          "fat_to_trim": "In Paper 1A you rarely need a calculator: the sign of the log and ±0.30 settle it."
+        },
+        "6_data_booklet": {
+          "sections": [],
+          "hack": "The buffer equation pH = pKa + log([A−]/[HA]) is not in the data booklet: memorise it, or derive it from the Ka expression."
+        },
+        "7_elimination": {
+          "rules": [
+            "If [salt] < [acid], pH < pKa: eliminate every option at or above pKa.",
+            "'OH− reacts with Na+' is always wrong: spectator ion.",
+            "Adding base to an H2PO4−/HPO4²− buffer increases [HPO4²−] and decreases [H2PO4−]: eliminate the reverse."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25M.1A.HL.6219.35",
+          "kind": "mcq",
+          "note": "methanoic acid/methanoate 2:1 → pH = 3.75 − 0.30 = 3.45"
+        },
+        {
+          "ref": "24N.1.HL.TZ0.26",
+          "kind": "mcq",
+          "note": "44% correct; which phosphate species increases on adding base"
+        },
+        {
+          "ref": "25M.2.HL.6209.5",
+          "kind": "markscheme",
+          "note": "2:1 acid:NaOH → half-equivalence; buffer equations; ⇌ needs the direction of shift"
+        },
+        {
+          "ref": "13M.2.HL.TZ1.1",
+          "kind": "examiner",
+          "note": "omitted 'small'"
+        },
+        {
+          "ref": "12N.2.HL.TZ0.3",
+          "kind": "examiner",
+          "note": "did not say 'weak' acid"
+        },
+        {
+          "ref": "11M.2.HL.TZ2.5",
+          "kind": "examiner",
+          "note": "did not explain the specific NH3/NH4Cl buffer"
+        },
+        {
+          "ref": "17M.3.HL.TZ2.8",
+          "kind": "examiner",
+          "note": "inverted [conjugate base] and [acid]"
+        },
+        {
+          "ref": "19M.3.SL.TZ2.16",
+          "kind": "examiner",
+          "note": "inverted ratio"
+        }
+      ],
+      "difficulty_signal": "44% correct (24N.1.HL.TZ0.26)",
+      "status": {
+        "mastered": false
+      }
+    },
+    {
+      "card_id": "R3.1-T13",
+      "title": "Titration data traps: titre, aliquot factor, diprotic ratio, unstandardized titrant",
+      "understandings": [
+        "R3.1.7"
+      ],
+      "priority": 4,
+      "pillars": {
+        "1_context": {
+          "ao": "AO2–AO3",
+          "papers": [
+            "1B",
+            "2"
+          ],
+          "syllabus_hook": "Acids react with bases in neutralization; Paper 1B builds whole questions on titration data.",
+          "textbook_gap": "Lab manuals do the bookkeeping for you; the exam makes you do it."
+        },
+        "2_markscheme_logic": {
+          "trigger_phrases": [
+            "volume used = final − initial",
+            "mole ratio",
+            "× (total volume / aliquot volume)",
+            "systematic error"
+          ],
+          "trap_boundaries": [
+            "Errors in significant figures are not penalized unless the markscheme says so; ECF carries a wrong first value through (25N.1B.HL.6208.1).",
+            "Forgetting the aliquot scaling factor (e.g. 25 cm3 taken from 1 dm3) and using an anhydrous molar mass for a hydrate were common errors (16N.2.SL.TZ0.2).",
+            "A non-standardized NaOH solution gives a systematic error and lower accuracy, not lower precision (24N.1.HL.TZ0.40)."
+          ],
+          "delta": "Every number in the chain must be traceable: titre → moles → ratio → scaling → answer."
+        },
+        "3_novel_application": {
+          "disguises": [
+            "Solid NaOH weighed out: why must it be standardized?",
+            "pH probe vs indicator for the end point",
+            "Sulfuric acid with a 1:2 ratio hidden in the equation"
+          ],
+          "heuristic": "Write the balanced equation first; the ratio hides there."
+        },
+        "4_command_terms": {
+          "terms": [
+            "Calculate",
+            "Suggest",
+            "Evaluate"
+          ],
+          "score_mechanics": "1B: 'Suggest' wants a specific practical reason (e.g. NaOH absorbs water/CO2 from air), not a generic 'human error'."
+        },
+        "5_time_efficiency": {
+          "workflow": [
+            "Titre = final − initial",
+            "n = c × V (dm3)",
+            "Apply the ratio",
+            "Scale aliquot → whole sample"
+          ],
+          "fat_to_trim": "Don't round mid-calculation; sig-fig slips are usually not penalized, arithmetic slips are."
+        },
+        "6_data_booklet": {
+          "sections": [
+            1,
+            23
+          ],
+          "hack": "Section 1: n = cV; section 23: uncertainty rules for the evaluation parts."
+        },
+        "7_elimination": {
+          "rules": [
+            "Random error affects precision; systematic error affects accuracy: eliminate mismatched pairs.",
+            "If the acid is diprotic, the base volume doubles for the same moles: check options for a factor of 2."
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "ref": "25N.1B.HL.6208.1",
+          "kind": "markscheme",
+          "note": "titre from burette readings; ECF; sig figs not penalized; standardization of NaOH"
+        },
+        {
+          "ref": "24N.1.HL.TZ0.40",
+          "kind": "mcq",
+          "note": "non-standardized NaOH → systematic error, lower accuracy"
+        },
+        {
+          "ref": "16N.2.SL.TZ0.2",
+          "kind": "examiner",
+          "note": "anhydrous molar mass; missing ×40 aliquot factor"
+        },
+        {
+          "ref": "13N.2.SL.TZ0.5",
+          "kind": "examiner",
+          "note": "diprotic sulfuric acid"
+        },
+        {
+          "ref": "24N.2.SL.TZ0.4",
+          "kind": "examiner",
+          "note": "final volume used instead of equivalence volume"
+        }
+      ],
+      "difficulty_signal": "Paper 1B staple in both 2025 sessions",
+      "status": {
+        "mastered": false
+      }
+    }
+  ],
+  "verification": {
+    "data_booklet_claims_checked_against": "647e0f01-Chemistry_Data_Booklet.pdf (sections 1, 2, 18, 23)",
+    "corrections": [
+      "T01, T07, T08, T10, T12: pH + pOH = 14, pKa + pKb = 14, Ka × Kb = Kw and the buffer equation are not printed in the booklet"
+    ]
+  }
+}

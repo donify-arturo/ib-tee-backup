@@ -1,0 +1,1091 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "445",
+   "understanding": "R1.4.1",
+   "kind": "short_answer",
+   "question": "Predict whether ΔS is positive or negative, and explain: NH4NO3(s) → N2O(g) + 2H2O(l)",
+   "options": [],
+   "answer": "Positive, because the number of moles of gas increases (0 to 1).",
+   "steps": [
+    "Count gas moles: reactant side 0, product side 1 (water is liquid).",
+    "More gas moles means more ways to disperse matter and energy, so ΔS > 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "445",
+   "understanding": "R1.4.1",
+   "kind": "short_answer",
+   "question": "Predict whether ΔS is positive or negative, and explain: N2(g) + 3H2(g) → 2NH3(g)",
+   "options": [],
+   "answer": "Negative, because the number of moles of gas decreases (4 to 2).",
+   "steps": [
+    "Gas moles: 1 + 3 = 4 on the left, 2 on the right.",
+    "Fewer gas moles means less dispersal, so ΔS < 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "445",
+   "understanding": "R1.4.1",
+   "kind": "short_answer",
+   "question": "Predict whether ΔS is positive or negative, and explain: N2O4(g) → 2NO2(g)",
+   "options": [],
+   "answer": "Positive, because the number of moles of gas increases (1 to 2).",
+   "steps": [
+    "Gas moles go from 1 to 2.",
+    "More gas moles gives greater dispersal, so ΔS > 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "445",
+   "understanding": "R1.4.1",
+   "kind": "short_answer",
+   "question": "Predict whether ΔS is positive or negative, and explain: CaCO3(s) → CaO(s) + CO2(g)",
+   "options": [],
+   "answer": "Positive, because the number of moles of gas increases (0 to 1).",
+   "steps": [
+    "Only CO2 is a gas; gas moles go from 0 to 1.",
+    "Producing a gas from solids gives ΔS > 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "447",
+   "understanding": "R1.4.1",
+   "kind": "multiple_choice",
+   "question": "Which reaction causes the greatest increase in entropy of the system?",
+   "options": [
+    "A. HCl(g) + NH3(g) → NH4Cl(s)",
+    "B. (NH4)2Cr2O7(s) → Cr2O3(s) + N2(g) + 4H2O(g)",
+    "C. CaCO3(s) → CaO(s) + CO2(g)",
+    "D. I2(g) → I2(s)"
+   ],
+   "answer": "B. (NH4)2Cr2O7(s) → Cr2O3(s) + N2(g) + 4H2O(g)",
+   "steps": [
+    "A and D lose gas, so entropy falls.",
+    "C makes 1 mol of gas from solid.",
+    "B makes 5 mol of gas from solid, the biggest gain."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "447",
+   "understanding": "R1.4.1",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct for H2O(g) → H2O(l)?",
+   "options": [
+    "A. Enthalpy increases and entropy increases.",
+    "B. Enthalpy decreases and entropy increases.",
+    "C. Enthalpy increases and entropy decreases.",
+    "D. Enthalpy decreases and entropy decreases."
+   ],
+   "answer": "D. Enthalpy decreases and entropy decreases.",
+   "steps": [
+    "Condensation releases heat, so enthalpy of the system decreases.",
+    "Gas to liquid gives less dispersal, so entropy decreases."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "447",
+   "understanding": "R1.4.1",
+   "kind": "calculation",
+   "question": "Find the standard entropy change, in J K⁻¹ mol⁻¹, for N2O(g) → N2(g) + ½O2(g). S° values in J K⁻¹ mol⁻¹: N2O(g) 220, N2(g) 192, O2(g) 205.",
+   "options": [],
+   "answer": "+74.5 J K⁻¹ mol⁻¹",
+   "steps": [
+    "ΔS° = ΣS°(products) − ΣS°(reactants).",
+    "Products: 192 + ½(205) = 294.5.",
+    "Subtract reactant: 294.5 − 220 = +74.5."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "450",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "HOCH2CH2OH(l) + 2SOCl2(l) → ClCH2CH2Cl(l) + 2SO2(g) + 2HCl(g). Using ΔHf° in kJ mol⁻¹ (HOCH2CH2OH(l) −453, SOCl2(l) −246, ClCH2CH2Cl(l) −165, SO2(g) −297, HCl(g) −92), calculate ΔH° for the reaction.",
+   "options": [],
+   "answer": "+2 kJ mol⁻¹",
+   "steps": [
+    "Products: −165 + 2(−297) + 2(−92) = −943.",
+    "Reactants: −453 + 2(−246) = −945.",
+    "ΔH° = −943 − (−945) = +2 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "450",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For HOCH2CH2OH(l) + 2SOCl2(l) → ClCH2CH2Cl(l) + 2SO2(g) + 2HCl(g), calculate ΔS° using S° in J K⁻¹ mol⁻¹: HOCH2CH2OH(l) 167, SOCl2(l) 279, ClCH2CH2Cl(l) 209, SO2(g) 248, HCl(g) 187.",
+   "options": [],
+   "answer": "+354 J K⁻¹ mol⁻¹",
+   "steps": [
+    "Products: 209 + 2(248) + 2(187) = 1079.",
+    "Reactants: 167 + 2(279) = 725.",
+    "ΔS° = 1079 − 725 = +354 J K⁻¹ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "450",
+   "understanding": "R1.4.2",
+   "kind": "short_answer",
+   "question": "For HOCH2CH2OH(l) + 2SOCl2(l) → ClCH2CH2Cl(l) + 2SO2(g) + 2HCl(g), ΔH° is +2 kJ mol⁻¹ and ΔS° is +354 J K⁻¹ mol⁻¹, yet ΔG° at 298 K is −103 kJ mol⁻¹. Suggest why ΔG° is so negative.",
+   "options": [],
+   "answer": "The large positive ΔS° makes TΔS° much bigger than ΔH° at this temperature.",
+   "steps": [
+    "Four moles of gas form from liquids, so ΔS° is large and positive.",
+    "TΔS° = 298 × 0.354 ≈ 105 kJ mol⁻¹, far larger than +2 kJ mol⁻¹.",
+    "ΔG° = ΔH° − TΔS° is therefore strongly negative."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For C2H4(g) + H2(g) → C2H6(g), find ΔH° from bond enthalpies (kJ mol⁻¹): C–H 414, C=C 614, H–H 436, C–C 346. Break 4 C–H, one C=C and one H–H; form one C–C and 6 C–H.",
+   "options": [],
+   "answer": "−124 kJ mol⁻¹",
+   "steps": [
+    "Broken: 4(414) + 614 + 436 = 2706.",
+    "Formed: 346 + 6(414) = 2830.",
+    "ΔH = broken − formed = 2706 − 2830 = −124 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For C2H4(g) + H2(g) → C2H6(g), find ΔH° from enthalpies of formation: C2H4(g) +52, C2H6(g) −84, H2(g) 0 kJ mol⁻¹.",
+   "options": [],
+   "answer": "−32 kJ mol⁻¹",
+   "steps": [
+    "ΔH° = ΣΔHf°(products) − ΣΔHf°(reactants).",
+    "= −84 − (52 + 0) = −32 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.1",
+   "kind": "short_answer",
+   "question": "Predict, with a reason, whether ΔS° is positive or negative for C2H4(g) + H2(g) → C2H6(g).",
+   "options": [],
+   "answer": "Negative, because gas moles fall from 2 to 1.",
+   "steps": [
+    "Two moles of gas on the left, one on the right.",
+    "Less dispersal of matter, so ΔS° < 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "Calculate ΔS° for C2H4(g) + H2(g) → C2H6(g) using S° in J K⁻¹ mol⁻¹: C2H4(g) 220, H2(g) 131, C2H6(g) 230.",
+   "options": [],
+   "answer": "+141 kJ mol⁻¹ (the book's printed answer; see steps)",
+   "steps": [
+    "The book's answer looks wrong. Correct working: ΔS° = 230 − (220 + 131) = −141 J K⁻¹ mol⁻¹.",
+    "The book subtracted the wrong way round, giving +141, and the unit kJ mol⁻¹ is also wrong.",
+    "The negative value agrees with the book's own part (c) prediction."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.3",
+   "kind": "calculation",
+   "question": "For C2H4(g) + H2(g) → C2H6(g), ΔH° = −32 kJ mol⁻¹ and ΔS° is as found in the previous part. Calculate ΔG° in kJ mol⁻¹ at 150 °C, and comment on spontaneity.",
+   "options": [],
+   "answer": "−74 kJ mol⁻¹ (the book's printed answer; see steps)",
+   "steps": [
+    "The book's answer looks wrong: it used 298 K instead of 150 °C (423 K) and the wrong sign for ΔS°.",
+    "Correct working: ΔG° = −32 − 423 × (−0.141) ≈ +28 kJ mol⁻¹, so non-spontaneous at 150 °C.",
+    "The book's claim that ΔG° is always negative does not hold when ΔS° < 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "456",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "2N2O(g) + 3O2(g) → 4NO2(g). Using ΔHf° (N2O(g) 82, NO2(g) 33.2 kJ mol⁻¹; O2 is 0), find ΔH° in kJ mol⁻¹.",
+   "options": [],
+   "answer": "−31.2 kJ mol⁻¹",
+   "steps": [
+    "Products: 4 × 33.2 = 132.8.",
+    "Reactants: 2 × 82 = 164.",
+    "ΔH° = 132.8 − 164 = −31.2."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "456",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For 2N2O(g) + 3O2(g) → 4NO2(g), find ΔS° in J K⁻¹ mol⁻¹ using S°: N2O(g) 220, NO2(g) 240, O2(g) 205.",
+   "options": [],
+   "answer": "−95 J K⁻¹ mol⁻¹",
+   "steps": [
+    "Products: 4 × 240 = 960.",
+    "Reactants: 2(220) + 3(205) = 1055.",
+    "ΔS° = 960 − 1055 = −95."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "456",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For 2N2O(g) + 3O2(g) → 4NO2(g) with ΔH° = −31.2 kJ mol⁻¹ and ΔS° = −95 J K⁻¹ mol⁻¹, calculate ΔG° at 298 K.",
+   "options": [],
+   "answer": "−2.89 kJ mol⁻¹",
+   "steps": [
+    "Convert ΔS° to −0.095 kJ K⁻¹ mol⁻¹.",
+    "ΔG° = −31.2 − 298 × (−0.095).",
+    "= −31.2 + 28.31 = −2.89 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "456",
+   "understanding": "R1.4.4",
+   "kind": "calculation",
+   "question": "For a reaction with ΔG° = −2.89 kJ mol⁻¹ at 298 K, calculate the equilibrium constant K (R = 8.31 J K⁻¹ mol⁻¹).",
+   "options": [],
+   "answer": "K ≈ 3.22",
+   "steps": [
+    "Convert: ΔG° = −2890 J mol⁻¹.",
+    "ln K = −ΔG°/RT = 2890/(8.31 × 298) = 1.17.",
+    "K = e^1.17 ≈ 3.22."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "short_answer",
+   "question": "Answer in your own words as fully as you can: what determines the direction of chemical change?",
+   "options": [],
+   "answer": "The sign of ΔG, which combines ΔH, ΔS and T (ΔG = ΔH − TΔS). A reaction proceeds in the direction where ΔG < 0 until ΔG = 0 at equilibrium.",
+   "steps": [
+    "Exothermic changes and entropy increases each favour spontaneity.",
+    "When they conflict, temperature decides: compare ΔH with TΔS.",
+    "Reactions can approach equilibrium from either side; direction is set by ΔG (or Q versus K)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.1",
+   "kind": "multiple_choice",
+   "question": "Which forward reaction has the most negative ΔS?",
+   "options": [
+    "A. N2(g) + 3H2(g) ⇌ 2NH3(g)",
+    "B. CaCO3(s) → CaO(s) + CO2(g)",
+    "C. 2S2O3²⁻(aq) + I2(aq) → S4O6²⁻(aq) + 2I⁻(aq)",
+    "D. H2O(l) → H2O(g)"
+   ],
+   "answer": "A. N2(g) + 3H2(g) ⇌ 2NH3(g)",
+   "steps": [
+    "B and D produce gas, so ΔS is positive.",
+    "C has no gas and no change in moles of gas, so ΔS is small.",
+    "A loses 2 mol of gas, giving the most negative ΔS."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "multiple_choice",
+   "question": "Which sets give a spontaneous reaction? I: ΔH = −100 kJ mol⁻¹, ΔS = −100 J K⁻¹ mol⁻¹, 300 K. II: ΔH = +100, ΔS = −100, 300 K. III: ΔH = +100, ΔS = +100, 1500 K.",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "I: −100 − 300(−0.1) = −70 kJ mol⁻¹, spontaneous.",
+    "II: +100 + 30 = +130, not spontaneous.",
+    "III: 100 − 1500(0.1) = −50, spontaneous."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "multiple_choice",
+   "question": "Which statement is correct?",
+   "options": [
+    "A. If ΔH < 0, the reaction is always spontaneous.",
+    "B. If ΔH > 0, the reaction is never spontaneous.",
+    "C. If ΔS < 0, the reaction can be spontaneous if the temperature is low enough.",
+    "D. If ΔS < 0, the reaction can be spontaneous if the temperature is high enough."
+   ],
+   "answer": "C. If ΔS < 0, the reaction can be spontaneous if the temperature is low enough.",
+   "steps": [
+    "With ΔS < 0, −TΔS is positive and grows with T.",
+    "So ΔG can be negative only when T is low and ΔH is negative enough."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For C3H6(g) + H2(g) → C3H8(g), calculate ΔS° using S° in J K⁻¹ mol⁻¹: H2(g) +131, C3H6(g) +267, C3H8(g) +270.",
+   "options": [],
+   "answer": "−128 J K⁻¹ mol⁻¹",
+   "steps": [
+    "ΔS° = 270 − (267 + 131).",
+    "= −128 J K⁻¹ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "calculation",
+   "question": "For C3H6(g) + H2(g) → C3H8(g), ΔH° = −124.4 kJ mol⁻¹ and ΔS° = −128 J K⁻¹ mol⁻¹. Predict the temperature above which the reaction is non-spontaneous.",
+   "options": [],
+   "answer": "About 972 K (≈ 699 °C)",
+   "steps": [
+    "The book's answer gives the condition: non-spontaneous when ΔH° > TΔS° (ΔG° > 0).",
+    "Set ΔG° = 0: T = ΔH°/ΔS° = −124.4/(−0.128).",
+    "T ≈ 972 K; above this temperature ΔG° > 0."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.4",
+   "kind": "calculation",
+   "question": "The first dissociation of citric acid in water has K = 5.01 × 10⁻⁴ at 298 K. Calculate ΔG° in kJ mol⁻¹ (R = 8.31 J K⁻¹ mol⁻¹).",
+   "options": [],
+   "answer": "+18.8 kJ mol⁻¹",
+   "steps": [
+    "ΔG° = −RT ln K.",
+    "= −8.31 × 298 × ln(5.01 × 10⁻⁴) = −2476 × (−7.60) J mol⁻¹.",
+    "= 18 800 J mol⁻¹ = +18.8 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "short_answer",
+   "question": "The citric acid dissociation has ΔG° = +18.8 kJ mol⁻¹ at 298 K. Comment on its spontaneity.",
+   "options": [],
+   "answer": "Non-spontaneous under standard conditions, because ΔG° is positive.",
+   "steps": [
+    "ΔG° > 0 means K < 1, so reactants are favoured at equilibrium."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "Ni(s) + 4CO(g) ⇌ Ni(CO)4(l). Using S° in J K⁻¹ mol⁻¹: Ni(s) 3, CO(g) 198, Ni(CO)4(l) 313, calculate ΔS° of the forward reaction.",
+   "options": [],
+   "answer": "−482 J K⁻¹ mol⁻¹",
+   "steps": [
+    "Products: 313.",
+    "Reactants: 4(198) + 3 = 795.",
+    "ΔS° = 313 − 795 = −482."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "Ni(s) + 4CO(g) ⇌ Ni(CO)4(l). Using ΔHf° (CO(g) −110.5, Ni(CO)4(l) −633.0 kJ mol⁻¹), calculate ΔH° of the forward reaction.",
+   "options": [],
+   "answer": "−191 kJ mol⁻¹",
+   "steps": [
+    "ΔH° = −633.0 − 4(−110.5).",
+    "= −633.0 + 442.0 = −191 kJ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.3",
+   "kind": "calculation",
+   "question": "For Ni(s) + 4CO(g) ⇌ Ni(CO)4(l), ΔH° = −191 kJ mol⁻¹ and ΔS° = −482 J K⁻¹ mol⁻¹. Find the temperature in °C below which the forward reaction becomes favourable.",
+   "options": [],
+   "answer": "About 123 °C (396 K)",
+   "steps": [
+    "The book notes that at the switching point ΔG° = 0.",
+    "T = ΔH°/ΔS° = −191/(−0.482) ≈ 396 K.",
+    "Convert: 396 − 273 ≈ 123 °C; below this, ΔG° < 0."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "459",
+   "understanding": "R1.4.4",
+   "kind": "calculation",
+   "question": "For Ni(s) + 4CO(g) ⇌ Ni(CO)4(l), ΔG° at 298 K is −47.36 kJ mol⁻¹. At a point where Q = 0.5, calculate ΔG and say if the reaction is spontaneous there.",
+   "options": [],
+   "answer": "ΔG ≈ −49.08 kJ mol⁻¹; spontaneous",
+   "steps": [
+    "ΔG = ΔG° + RT ln Q, with ΔG° = −47 360 J mol⁻¹.",
+    "RT ln Q = 8.31 × 298 × ln 0.5 ≈ −1717 J mol⁻¹.",
+    "ΔG ≈ −49 080 J mol⁻¹ = −49.08 kJ mol⁻¹.",
+    "ΔG < 0, so the forward reaction is spontaneous at this point."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "119",
+   "understanding": "R1.4.1",
+   "kind": "multiple_choice",
+   "question": "Which processes have a positive ΔS? I: CH3OH(l) → CH3OH(g). II: 4NH3(g) + 5O2(g) → 4NO(g) + 6H2O(l). III: KH(s) + H2O(l) → K⁺(aq) + OH⁻(aq) + H2(g).",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "I: liquid to gas, ΔS > 0.",
+    "II: 9 mol gas to 4 mol gas, ΔS < 0.",
+    "III: a gas is released from liquid and solid, ΔS > 0."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.3",
+   "kind": "multiple_choice",
+   "question": "A reaction is spontaneous only at high temperatures. Which row is correct (thermal effect, reactant state, product state)?",
+   "options": [
+    "A. exothermic, gaseous reactant, solid product",
+    "B. exothermic, solid reactant, gaseous product",
+    "C. endothermic, gaseous reactant, solid product",
+    "D. endothermic, solid reactant, gaseous product"
+   ],
+   "answer": "D. endothermic, solid reactant, gaseous product",
+   "steps": [
+    "Spontaneous only at high T needs ΔH > 0 and ΔS > 0.",
+    "ΔS > 0 means going from solid to gas."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.3",
+   "kind": "short_answer",
+   "question": "Using the Gibbs equation, explain why a liquid's boiling point is higher than its freezing point.",
+   "options": [],
+   "answer": "At a given temperature where the liquid is stable, ΔG is positive for both changes. Boiling needs a higher temperature to become spontaneous and freezing needs a lower one, so boiling point > freezing point.",
+   "steps": [
+    "Boiling: ΔH > 0, ΔS > 0; ΔG > 0 means ΔH > TΔS, so spontaneous only when T rises.",
+    "Freezing: ΔH < 0, ΔS < 0; spontaneous only when T falls.",
+    "So the boiling temperature lies above, and the freezing temperature below, the stable-liquid temperature."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "CaO(s) + SO2(g) → CaSO3(s). Data: ΔHf° (kJ mol⁻¹) CaO −635, SO2 −297, CaSO3 −1159; S° (J K⁻¹ mol⁻¹) CaO 38, SO2 248, CaSO3 101. Calculate ΔH° in kJ mol⁻¹.",
+   "options": [],
+   "answer": "−227 kJ mol⁻¹",
+   "steps": [
+    "ΔH° = −1159 − (−635 + −297).",
+    "= −1159 + 932 = −227."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For CaO(s) + SO2(g) → CaSO3(s), with S° (J K⁻¹ mol⁻¹) CaO 38, SO2 248, CaSO3 101, calculate ΔS°.",
+   "options": [],
+   "answer": "−185 J K⁻¹ mol⁻¹",
+   "steps": [
+    "ΔS° = 101 − (38 + 248).",
+    "= −185 J K⁻¹ mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.2",
+   "kind": "calculation",
+   "question": "For CaO(s) + SO2(g) → CaSO3(s), ΔH° = −227 kJ mol⁻¹ and ΔS° = −185 J K⁻¹ mol⁻¹. Calculate ΔG° in kJ mol⁻¹ at 25 °C.",
+   "options": [],
+   "answer": "≈ −172 kJ mol⁻¹",
+   "steps": [
+    "T = 298 K; ΔS° = −0.185 kJ K⁻¹ mol⁻¹.",
+    "ΔG° = −227 − 298 × (−0.185).",
+    "= −227 + 55.1 ≈ −172."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.3",
+   "kind": "calculation",
+   "question": "For CaO(s) + SO2(g) → CaSO3(s), ΔH° = −227 kJ mol⁻¹ and ΔS° = −185 J K⁻¹ mol⁻¹. Find the temperature in °C at which the reaction becomes non-spontaneous.",
+   "options": [],
+   "answer": "Above 1227 K, i.e. above about 954 °C",
+   "steps": [
+    "Non-spontaneous when ΔG° > 0, i.e. ΔH° > TΔS°.",
+    "−227 > T × (−0.185) gives T > 227/0.185 = 1227 K.",
+    "1227 − 273 = 954 °C."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.4",
+   "kind": "calculation",
+   "question": "C2H4(g) + H2O(g) ⇌ CH3CH2OH(g) has ΔG° = +13.8 kJ mol⁻¹ at 200 °C. Calculate K at 200 °C (R = 8.31 J K⁻¹ mol⁻¹).",
+   "options": [],
+   "answer": "K ≈ 0.030",
+   "steps": [
+    "T = 473 K; ΔG° = 13 800 J mol⁻¹.",
+    "ln K = −13 800/(8.31 × 473) = −3.51.",
+    "K = e^−3.51 ≈ 0.030."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.4",
+   "kind": "calculation",
+   "question": "For C2H4(g) + H2O(g) ⇌ CH3CH2OH(g) at 200 °C with ΔG° = +13.8 kJ mol⁻¹, find ΔG when [C2H4] = 0.75, [H2O] = 0.50 and [CH3CH2OH] = 0.10 mol dm⁻³.",
+   "options": [],
+   "answer": "ΔG ≈ +8.61 kJ mol⁻¹",
+   "steps": [
+    "Q = 0.10/(0.75 × 0.50) ≈ 0.267.",
+    "ΔG = 13 800 + 8.31 × 473 × ln(0.267).",
+    "= 13 800 − 5190 ≈ 8610 J mol⁻¹."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "120",
+   "understanding": "R1.4.4",
+   "kind": "short_answer",
+   "question": "Using ΔG ≈ +8.61 kJ mol⁻¹ for C2H4(g) + H2O(g) ⇌ CH3CH2OH(g) at that mixture, which direction is spontaneous?",
+   "options": [],
+   "answer": "The reverse reaction (ethanol breaking down) is spontaneous.",
+   "steps": [
+    "ΔG > 0 for the forward reaction.",
+    "Check: Q ≈ 0.267 is greater than K ≈ 0.030, so the system shifts back."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "445",
+   "understanding": "R1.4.1",
+   "title": "Predicting the sign of ΔS",
+   "problem": "Predict whether ΔS is positive or negative for (a) NH4Cl(s) → NH3(g) + HCl(g) and (b) 2C2H6(g) + 7O2(g) → 4CO2(g) + 6H2O(l).",
+   "steps": [
+    {
+     "hint": "Count gas moles in part (a).",
+     "work": "Reactants: 0 mol gas; products: 1 + 1 = 2 mol gas."
+    },
+    {
+     "hint": "Decide the sign for (a).",
+     "work": "A solid becomes gases, so ΔS > 0."
+    },
+    {
+     "hint": "Count gas moles on the left in (b).",
+     "work": "2 + 7 = 9 mol of gas."
+    },
+    {
+     "hint": "Count gas moles on the right in (b).",
+     "work": "4 mol CO2(g); the water is liquid, so 4 mol gas."
+    },
+    {
+     "hint": "Decide the sign for (b).",
+     "work": "Gas falls from 9 mol to 4 mol, so ΔS < 0."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "446",
+   "understanding": "R1.4.1",
+   "title": "Standard entropy changes from S° values",
+   "problem": "Use S° (J K⁻¹ mol⁻¹: H2 131, Cl2 223, O2 205, N2O4 304, NO2 240, NH4Cl(s) 95, NH3 193, HCl 187, H2O(l) 70) to find ΔS° for (a) H2 + Cl2 → 2HCl, (b) H2 + ½O2 → H2O(l), (c) N2O4 → 2NO2, (d) NH4Cl(s) → NH3 + HCl.",
+   "steps": [
+    {
+     "hint": "Write the general expression.",
+     "work": "ΔS° = ΣS°(products) − ΣS°(reactants), applying coefficients."
+    },
+    {
+     "hint": "Do (a).",
+     "work": "2(187) − (131 + 223) = 374 − 354 = +20 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Do (b), using ½ for oxygen.",
+     "work": "70 − (131 + 102.5) ≈ −164 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Do (c).",
+     "work": "2(240) − 304 = +176 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Do (d).",
+     "work": "(193 + 187) − 95 = +285 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Check each sign against gas moles.",
+     "work": "(a) no change in gas moles, small; (b) gas to liquid, negative; (c), (d) gas moles rise, positive."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "449",
+   "understanding": "R1.4.2",
+   "title": "Propane combustion: ΔH, ΔS and ΔG",
+   "problem": "C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(g). Find ΔH° from bond enthalpies (C–H 414, C–C 346, O=O 498, C=O 804, O–H 463 kJ mol⁻¹) and from ΔHf° (CO2 −394, H2O(g) −242, C3H8 −105), predict the sign of ΔS°, find ΔS° (S°: CO2 214, H2O(g) 189, C3H8 270, O2 205 J K⁻¹ mol⁻¹) and ΔG° at 5 °C.",
+   "steps": [
+    {
+     "hint": "Bonds method.",
+     "work": "Broken 8(414)+2(346)+5(498) = 6494; formed 6(804)+8(463) = 8528; ΔH° = −2034 kJ mol⁻¹."
+    },
+    {
+     "hint": "Formation method.",
+     "work": "[3(−394)+4(−242)] − (−105) = −2150 + 105 = −2045 kJ mol⁻¹."
+    },
+    {
+     "hint": "Predict the sign of ΔS°.",
+     "work": "Gas moles rise 6 to 7, so ΔS° > 0."
+    },
+    {
+     "hint": "Calculate ΔS°.",
+     "work": "[3(214)+4(189)] − [270+5(205)] = 1398 − 1295 = +103 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Convert units.",
+     "work": "T = 5 + 273.15 = 278.15 K; ΔS° = +0.103 kJ K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Substitute into the Gibbs equation.",
+     "work": "ΔG° = −2045 − 278.15 × 0.103 ≈ −2074 kJ mol⁻¹; spontaneous."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "451",
+   "understanding": "R1.4.3",
+   "title": "Temperature at which steam reforming becomes spontaneous",
+   "problem": "CH4(g) + H2O(g) → 3H2(g) + CO(g), ΔH° = 205 kJ mol⁻¹, ΔS° = 216 J K⁻¹ mol⁻¹. (a) Find ΔG° at 298 K. (b) Find the temperature above which the reaction is spontaneous.",
+   "steps": [
+    {
+     "hint": "Match the units of ΔH and ΔS.",
+     "work": "ΔS° = 0.216 kJ K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Substitute into ΔG° = ΔH° − TΔS°.",
+     "work": "205 − 298 × 0.216 = 205 − 64.4 ≈ +141 kJ mol⁻¹."
+    },
+    {
+     "hint": "Interpret the sign.",
+     "work": "Positive, so non-spontaneous at 298 K."
+    },
+    {
+     "hint": "Set ΔG° = 0 and solve for T.",
+     "work": "T = ΔH°/ΔS° = 205/0.216 ≈ 949 K; spontaneous above 949 K."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "456",
+   "understanding": "R1.4.4",
+   "title": "Ammonia synthesis: ΔG°, K and ΔG",
+   "problem": "N2(g) + 3H2(g) ⇌ 2NH3(g), ΔH° = −92 kJ mol⁻¹, ΔS° = −202 J K⁻¹ mol⁻¹, T = 298 K. Find ΔG°, K, and ΔG when Q = 1 × 10⁶.",
+   "steps": [
+    {
+     "hint": "Find ΔG°.",
+     "work": "−92 − 298 × (−0.202) = −31.8 kJ mol⁻¹, spontaneous."
+    },
+    {
+     "hint": "Convert ΔG° to joules for use with R.",
+     "work": "−31 800 J mol⁻¹."
+    },
+    {
+     "hint": "Solve for K.",
+     "work": "ln K = 31 800/(8.31 × 298) ≈ 12.84; K ≈ 3.77 × 10⁵, product-favoured."
+    },
+    {
+     "hint": "Use ΔG = ΔG° + RT ln Q.",
+     "work": "−31 800 + 8.31 × 298 × ln(10⁶) ≈ +2410 J mol⁻¹ = +2.41 kJ mol⁻¹."
+    },
+    {
+     "hint": "Interpret the sign.",
+     "work": "ΔG > 0, so the forward reaction is not spontaneous at this point (Q > K)."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "115",
+   "understanding": "R1.4.1",
+   "title": "Ethene hydration entropy change",
+   "problem": "C2H4(g) + H2O(l) → CH3CH2OH(l). (a) Predict the sign of ΔS°. (b) Calculate ΔS° using S° (C2H4(g) 220, H2O(l) 70, CH3CH2OH(l) 161 J K⁻¹ mol⁻¹).",
+   "steps": [
+    {
+     "hint": "Count gaseous species.",
+     "work": "Gas goes from 1 species to 0, so ΔS° < 0."
+    },
+    {
+     "hint": "Sum the reactant entropies.",
+     "work": "220 + 70 = 290 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Subtract from the product entropy.",
+     "work": "ΔS° = 161 − 290 = −129 J K⁻¹ mol⁻¹."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "116",
+   "understanding": "R1.4.3",
+   "title": "Signs for dissolving NaCl",
+   "problem": "Dissolving NaCl(s) in water makes the solution colder. Predict the signs of ΔG, ΔH and ΔS for NaCl(s) → Na⁺(aq) + Cl⁻(aq), and how raising temperature affects solubility.",
+   "steps": [
+    {
+     "hint": "Use the fact that it dissolves.",
+     "work": "Dissolving happens spontaneously, so ΔG < 0."
+    },
+    {
+     "hint": "Use the temperature drop.",
+     "work": "Heat is absorbed from the water, so ΔH > 0."
+    },
+    {
+     "hint": "Compare ion arrangements.",
+     "work": "Fixed lattice ions become mobile aqueous ions, so ΔS > 0."
+    },
+    {
+     "hint": "Apply the Gibbs equation to temperature.",
+     "work": "Higher T makes −TΔS more negative, so ΔG falls and solubility rises."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "117",
+   "understanding": "R1.4.3",
+   "title": "Tetracarbonylnickel decomposition temperature",
+   "problem": "Ni(s) + 4CO(g) → Ni(CO)4(l). S° (J K⁻¹ mol⁻¹): Ni 29.9, CO 197.6, Ni(CO)4 313.4; ΔHf° (kJ mol⁻¹): CO −110.5, Ni(CO)4 −633.0. Find ΔS°, ΔH°, and the temperature in °C at which decomposition of Ni(CO)4 becomes favourable.",
+   "steps": [
+    {
+     "hint": "Calculate ΔS° for formation.",
+     "work": "313.4 − (29.9 + 4 × 197.6) = −506.9 J K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Calculate ΔH° for formation.",
+     "work": "−633.0 − 4(−110.5) = −191.0 kJ mol⁻¹."
+    },
+    {
+     "hint": "Reverse the reaction for decomposition.",
+     "work": "ΔH° = +191.0 kJ mol⁻¹; ΔS° = +0.5069 kJ K⁻¹ mol⁻¹."
+    },
+    {
+     "hint": "Set ΔG° = 0 to find the threshold.",
+     "work": "T = 191.0/0.5069 ≈ 377 K."
+    },
+    {
+     "hint": "Convert to °C as required.",
+     "work": "377 − 273 = 104 °C; favourable above this."
+    }
+   ],
+   "past_paper_ref": "17M.2.HL.TZ1.4"
+  },
+  {
+   "source": "prepared",
+   "page": "119",
+   "understanding": "R1.4.4",
+   "title": "NO2 and N2O4 equilibrium energetics",
+   "problem": "2NO2(g) ⇌ N2O4(g) has K = 6.98 at 25 °C. (a) Find ΔG° and judge spontaneity. (b) Find ΔG when [NO2] = 0.040 and [N2O4] = 0.020 mol dm⁻³, and give the spontaneous direction.",
+   "steps": [
+    {
+     "hint": "Convert temperature.",
+     "work": "T = 25 + 273 = 298 K."
+    },
+    {
+     "hint": "Use ΔG° = −RT ln K.",
+     "work": "−8.31 × 298 × ln 6.98 ≈ −4800 J mol⁻¹ = −4.8 kJ mol⁻¹; spontaneous."
+    },
+    {
+     "hint": "Compute Q.",
+     "work": "Q = 0.020/(0.040)² = 12.5."
+    },
+    {
+     "hint": "Use ΔG = ΔG° + RT ln Q.",
+     "work": "−4800 + 8.31 × 298 × ln 12.5 ≈ +1500 J mol⁻¹ = +1.5 kJ mol⁻¹."
+    },
+    {
+     "hint": "Interpret.",
+     "work": "ΔG > 0, so the reverse reaction is spontaneous (Q > K)."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "453",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 1",
+   "prompt": "For PNIPAM dissolving in water, what are the signs of ΔH and ΔS, and why?",
+   "model_answer": [
+    "ΔH is negative: dissolving is exothermic as hydrogen bonds form with the amido groups.",
+    "ΔS is negative: water molecules must adopt a regular arrangement around the polymer chain."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "453",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 2",
+   "prompt": "Explain in your own words why PNIPAM dissolves spontaneously at low temperature but not at high temperature.",
+   "model_answer": [
+    "Use ΔG = ΔH − TΔS with ΔH < 0 and ΔS < 0.",
+    "At low T the favourable enthalpy term dominates, so ΔG < 0.",
+    "At high T the −TΔS term (positive) outweighs ΔH, so ΔG > 0.",
+    "Hydrogen bonding to water is lost and the polymer precipitates, making the solution cloudy."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "453",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 3",
+   "prompt": "Name control variables needed for the experiment that produced the cloud-point data.",
+   "model_answer": [
+    "Same PNIPAM concentration in every sample.",
+    "Same volume of LiCl or LiBr solution.",
+    "Use distilled water.",
+    "Heat gradually so sample and water bath stay in thermal equilibrium."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "453",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 4 (presence of salt)",
+   "prompt": "Using the cloud-point data (water 32.5 °C; 0.3 and 0.5 mol dm⁻³ LiCl 29.5 and 27.1 °C; LiBr 31.5 and 30.7 °C), how does the presence of a dissolved ionic compound affect the temperature at which the solution goes cloudy? Which results do you compare?",
+   "model_answer": [
+    "Compare PNIPAM in water with results with LiCl or LiBr at the same concentration.",
+    "With salt present the solution turns cloudy at a lower temperature.",
+    "The effect is stronger with LiCl than with LiBr."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "453",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 4 (concentration)",
+   "prompt": "How does the salt concentration affect the cloud-point temperature? Propose a hypothesis, judge whether two data points suffice, and suggest follow-up experiments.",
+   "model_answer": [
+    "Compare the 0.3 and 0.5 mol dm⁻³ results for the same salt; higher concentration gives a lower cloud point.",
+    "Hypothesis: ion–dipole attractions between water and ions reduce water available to bond with PNIPAM, lowering solubility (Hofmeister effect).",
+    "Two points are insufficient to establish a trend.",
+    "Test more concentrations, other anions and other cations."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "457",
+   "understanding": "R1.4.2",
+   "tag": "Skills question 1-3",
+   "prompt": "For H2O(l) → H2O(g), predict the signs of ΔS and ΔH and how spontaneity changes with temperature.",
+   "model_answer": [
+    "ΔS is positive because a gas forms.",
+    "ΔH is positive: energy is absorbed to overcome hydrogen bonds between water molecules.",
+    "Higher temperature makes TΔS larger, so ΔG becomes negative and spontaneity increases."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "457",
+   "understanding": "R1.4.2",
+   "tag": "Skills question 4",
+   "prompt": "Using ΔHf° (H2O(l) −286, H2O(g) −242 kJ mol⁻¹), ΔGf° (−237, −229 kJ mol⁻¹) and S° (70, 189 J K⁻¹ mol⁻¹), find ΔH, ΔG and ΔS for H2O(l) → H2O(g) at 298 K.",
+   "model_answer": [
+    "ΔH = −242 − (−286) = +44 kJ mol⁻¹.",
+    "ΔG = −229 − (−237) = +8 kJ mol⁻¹.",
+    "ΔS = 189 − 70 = +119 J K⁻¹ mol⁻¹."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "457",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 5-6",
+   "prompt": "Find the temperature at which H2O(l) → H2O(g) changes spontaneity, then compare with the real boiling point of 373 K as a percentage error.",
+   "model_answer": [
+    "Set ΔG = 0, so T = ΔH/ΔS.",
+    "T = 44/0.119 ≈ 370 K (3 s.f.).",
+    "Error relative to 373 K is about 0.8%."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "458",
+   "understanding": "R1.4.2",
+   "tag": "Skills question 9-11",
+   "prompt": "On a graph of ΔG° against T for H2O(l) → H2O(g), what do the gradient and both intercepts mean, and why is the line straight with negative slope?",
+   "model_answer": [
+    "Gradient = −ΔS; y-intercept = ΔH; x-intercept = temperature where spontaneity changes.",
+    "Reading the x-intercept gives about 370 K, matching the earlier calculation (visual reading varies).",
+    "Linear because ΔS (the slope) is constant in ΔG = ΔH − TΔS.",
+    "The slope is negative because ΔS is positive for this process."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "458",
+   "understanding": "R1.4.3",
+   "tag": "Skills question 14",
+   "prompt": "Describe how the sign combinations of ΔH (y-intercept) and ΔS (gradient) determine the spontaneity of a reaction across temperatures.",
+   "model_answer": [
+    "ΔH positive, ΔS negative: non-spontaneous at all temperatures.",
+    "ΔH positive, ΔS positive: spontaneous at high temperatures.",
+    "ΔH negative, ΔS negative: spontaneous at low temperatures.",
+    "ΔH negative, ΔS positive: spontaneous at all temperatures."
+   ],
+   "answer_from": "book"
+  }
+ ],
+ "sub_topic": "R1.4",
+ "title": "Entropy and spontaneity",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 5 (Course Companion p447): copies the book",
+  "worked 8 (IB Prepared p117): numbers not on the cited page: 313.4"
+ ]
+}

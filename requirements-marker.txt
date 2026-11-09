@@ -1,0 +1,6 @@
+# Separate environment for slow, accurate OCR of the scanned books. Needs Python 3.12 (.venv-marker):
+#   uv venv --python 3.12 .venv-marker
+#   uv pip install --python .venv-marker/Scripts/python.exe torch --index-url https://download.pytorch.org/whl/cu126
+#   uv pip install --python .venv-marker/Scripts/python.exe -r requirements-marker.txt
+# Newer marker-pdf versions need Docker or a separate inference server.
+marker-pdf==1.10.1

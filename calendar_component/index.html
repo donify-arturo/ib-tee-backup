@@ -1,0 +1,234 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+* { box-sizing:border-box; }
+html, body { margin:0; padding:0; background:transparent; }
+body { font-family:Inter, system-ui, sans-serif; color:var(--ink); font-size:14px; }
+button { font:inherit; color:inherit; cursor:pointer; background:var(--surface); border:1px solid var(--border); border-radius:9px; padding:5px 11px; }
+button:hover { border-color:var(--accent); color:var(--accent); }
+#root { padding:2px 4px 8px; }
+.bar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:10px; }
+.bar h2 { font:600 1.35rem 'Space Grotesk', sans-serif; letter-spacing:-0.02em; margin:0 6px; min-width:11rem; }
+.bar .gap { flex:1; }
+.arrow { width:34px; padding:5px 0; font-size:1rem; line-height:1.2; }
+.pills { display:flex; border:1px solid var(--border); border-radius:999px; background:var(--surface); padding:2px; }
+.pills button { border:0; background:transparent; border-radius:999px; padding:4px 14px; color:var(--muted); font-weight:500; }
+.pills button.on { background:var(--ink); color:var(--bg); }
+.check { display:flex; align-items:center; gap:6px; color:var(--muted); font-size:0.82rem; cursor:pointer; }
+.wrap { display:grid; grid-template-columns:minmax(0, 1fr) 330px; gap:14px; align-items:start; }
+.compact .wrap { grid-template-columns:minmax(0, 1fr) 310px; }
+.mcal { display:grid; grid-template-columns:repeat(7, minmax(0, 1fr)); gap:5px; }
+.dow { font:500 0.66rem 'IBM Plex Mono', monospace; letter-spacing:0.12em; text-transform:uppercase; color:var(--muted); padding:0 4px 2px; }
+.day { display:flex; flex-direction:column; gap:3px; min-height:104px; padding:6px 7px; background:var(--surface); border:1px solid var(--border);
+       border-radius:11px; cursor:pointer; overflow:hidden; min-width:0; }
+.compact .day { min-height:62px; }
+.day:hover { border-color:var(--accent); }
+.day.out { visibility:hidden; }
+.day.past { opacity:0.55; }
+.day.today { border:2px solid var(--accent); }
+.day.sel { outline:3px solid var(--now); outline-offset:0; opacity:1; }
+.top { display:flex; justify-content:space-between; align-items:center; }
+.num { font:600 1rem 'Space Grotesk', sans-serif; }
+.today .num { color:var(--accent); }
+.badge { font:400 0.6rem 'IBM Plex Mono', monospace; color:var(--muted); }
+.badge.ok { color:var(--ok); font-weight:600; } .badge.miss { color:var(--bad); font-weight:600; }
+.ev { display:block; font-size:0.68rem; line-height:1.25; padding:2px 5px; border-radius:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+      background:color-mix(in srgb, var(--k) 14%, transparent); border-left:3px solid var(--k); }
+.ev.done, .row.done .t { text-decoration:line-through; opacity:0.6; }
+.ev.light { background:transparent; color:var(--muted); }
+.more { font-size:0.64rem; color:var(--muted); }
+.dots { display:flex; gap:3px; flex-wrap:wrap; }
+.dots i { width:7px; height:7px; border-radius:50%; background:var(--k); }
+.week { display:grid; grid-template-columns:repeat(7, minmax(0, 1fr)); gap:5px; }
+.week .day { min-height:330px; }
+.wh { font-size:0.76rem; color:var(--muted); margin-bottom:2px; } .wh b { font:600 1rem 'Space Grotesk', sans-serif; color:var(--ink); }
+.today .wh b { color:var(--accent); }
+.legend { display:flex; gap:12px; flex-wrap:wrap; font-size:0.74rem; color:var(--muted); margin-top:8px; }
+.legend span::before { content:""; display:inline-block; width:9px; height:9px; border-radius:3px; background:var(--k); margin-right:4px; }
+.sum { font-size:0.76rem; color:var(--muted); margin-top:5px; }
+aside { background:var(--surface); border:1px solid var(--border); border-radius:13px; padding:13px 14px; box-shadow:var(--shadow); }
+aside h3 { font:600 1.1rem 'Space Grotesk', sans-serif; letter-spacing:-0.02em; margin:0; }
+.sub { color:var(--muted); font-size:0.78rem; margin:2px 0 8px; }
+.row { display:flex; gap:7px; align-items:flex-start; padding:5px 0 5px 7px; border-left:3px solid var(--k); margin:5px 0; }
+.row.light { opacity:0.7; }
+.row input { margin:2px 0 0; accent-color:var(--accent); cursor:pointer; flex:none; }
+.row .box { width:13px; flex:none; }
+.row .when { font:400 0.72rem 'IBM Plex Mono', monospace; color:var(--muted); width:2.75rem; flex:none; padding-top:1px; }
+.row .body { min-width:0; flex:1; }
+.row .t { font-size:0.84rem; line-height:1.25; font-weight:500; }
+.row.light .t { font-weight:400; }
+.row .n { font-size:0.72rem; color:var(--muted); line-height:1.25; margin-top:1px; }
+.row button { padding:1px 8px; font-size:0.72rem; flex:none; }
+.mark { font-size:0.74rem; color:var(--accent); flex:none; }
+.mark.miss { color:var(--bad); }
+.edit { width:100%; margin-top:9px; background:var(--btn); color:var(--btn-ink); border-color:var(--btn); font-weight:500; }
+.edit:hover { background:var(--accent); border-color:var(--accent); color:var(--accent-ink); }
+.empty { color:var(--muted); font-size:0.84rem; padding:8px 0; }
+@media (max-width: 760px) { .wrap, .compact .wrap { grid-template-columns:minmax(0, 1fr); } .ev, .more { display:none; } .day { min-height:58px; } .week { grid-template-columns:repeat(2, minmax(0, 1fr)); } .week .day { min-height:120px; } .week .ev { display:block; } }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+// Everything here runs in the browser: choosing a day, a month or Month/Week never goes back to the server.
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const DAYS = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+const root = document.getElementById('root');
+let D = null, byDay = {}, view = 'month', year = 0, month = 0, sel = '', showRoutine = true, editDay = null, pending = {};
+
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pad = n => String(n).padStart(2, '0');
+const iso = d => d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate());
+const parse = t => { const [y, m, d] = t.split('-').map(Number); return new Date(y, m - 1, d); };
+const shift = (t, n) => { const d = parse(t); d.setDate(d.getDate() + n); return iso(d); };
+const monday = t => { const d = parse(t); return shift(t, -((d.getDay() + 6) % 7)); };
+const SHOWN = ['study', 'review', 'mixed', 'exam', 'busy'];
+const hm = m => m >= 60 ? Math.floor(m / 60) + 'h' + pad(m % 60) : m + 'm';
+
+function send(value) {
+  value.n = Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+  window.parent.postMessage({isStreamlitMessage:true, apiVersion:1, type:'streamlit:setComponentValue', dataType:'json', value:value}, '*');
+}
+function height() { window.parent.postMessage({isStreamlitMessage:true, type:'streamlit:setFrameHeight', height:Math.ceil(root.getBoundingClientRect().height) + 6}, '*'); }
+
+function index() {
+  byDay = {};
+  for (const s of D.sessions) {
+    if (s.id in pending) { if (s.done === pending[s.id]) delete pending[s.id]; else s.done = pending[s.id]; }
+    (byDay[s.date] = byDay[s.date] || []).push(s);
+  }
+}
+const cards = t => (byDay[t] || []).filter(s => SHOWN.includes(s.kind)).sort((a, b) => (a.minor - b.minor) || a.start.localeCompare(b.start));
+
+function badge(items) {
+  const study = items.filter(s => s.kind !== 'busy');
+  if (!items.length) return '';
+  if (study.length && study.every(s => s.done)) return '<span class="badge ok">✓ done</span>';
+  const missed = study.filter(s => s.status === 'missed' && !s.done).length;
+  if (missed) return '<span class="badge miss">● ' + missed + '</span>';
+  return '<span class="badge">' + hm(study.reduce((a, s) => a + s.minutes, 0)) + '</span>';
+}
+function cls(t, base) {
+  return base + (t < D.today ? ' past' : '') + (t === D.today ? ' today' : '') + (t === sel ? ' sel' : '');
+}
+function monthGrid() {
+  let h = DAYS.map(d => '<div class="dow">' + d.slice(0, 3) + '</div>').join('');
+  const first = new Date(year, month, 1), blanks = (first.getDay() + 6) % 7, n = new Date(year, month + 1, 0).getDate();
+  for (let i = 0; i < blanks; i++) h += '<div class="day out"></div>';
+  for (let d = 1; d <= n; d++) {
+    const t = year + '-' + pad(month + 1) + '-' + pad(d), items = cards(t);
+    const hidden = (byDay[t] || []).filter(s => s.kind !== 'break').length - Math.min(items.length, 3);
+    let inner;
+    if (D.compact) inner = '<div class="dots">' + items.map(s => '<i style="--k:' + s.colour + '"></i>').join('') + '</div>';
+    else inner = items.slice(0, 3).map(s => '<span class="ev' + (s.done ? ' done' : '') + '" style="--k:' + s.colour + '" title="' + esc(s.start + ' ' + s.title) + '">' + esc(s.start + ' ' + s.short) + '</span>').join('')
+      + (hidden > 0 ? '<span class="more">+' + hidden + ' more</span>' : '');
+    h += '<div class="' + cls(t, 'day') + '" data-day="' + t + '"><div class="top"><span class="num">' + d + '</span>' + badge(items) + '</div>' + inner + '</div>';
+  }
+  return '<div class="mcal">' + h + '</div>';
+}
+function weekGrid() {
+  let h = '';
+  const start = monday(sel);
+  for (let i = 0; i < 7; i++) {
+    const t = shift(start, i), d = parse(t);
+    const items = (byDay[t] || []).filter(s => s.kind !== 'break' && (showRoutine || SHOWN.includes(s.kind) || s.kind === 'task')).sort((a, b) => (a.kind !== 'task') - (b.kind !== 'task') || a.start.localeCompare(b.start));
+    h += '<div class="' + cls(t, 'day') + '" data-day="' + t + '"><div class="wh">' + DAYS[i].slice(0, 3) + ' <b>' + d.getDate() + '</b></div>'
+      + items.map(s => '<span class="ev' + (s.done ? ' done' : '') + (['routine', 'school'].includes(s.kind) ? ' light' : '') + '" style="--k:' + s.colour + '" title="' + esc(s.title) + '">' + (s.kind === 'task' ? 'to do' : esc(s.start)) + ' ' + esc(s.short) + '</span>').join('') + '</div>';
+  }
+  return '<div class="week">' + h + '</div>';
+}
+function panel() {
+  const d = parse(sel);
+  const items = (byDay[sel] || []).filter(s => s.kind !== 'break').sort((a, b) => (a.kind !== 'task') - (b.kind !== 'task') || a.start.localeCompare(b.start));
+  const study = items.filter(s => ['study', 'review', 'mixed', 'exam'].includes(s.kind));
+  const mins = study.reduce((a, s) => a + s.minutes, 0), done = study.filter(s => s.done).length;
+  let h = '<h3>' + DAYS[(d.getDay() + 6) % 7] + ' ' + d.getDate() + ' ' + MONTHS[d.getMonth()] + '</h3>'
+    + '<div class="sub">' + (sel === D.today ? 'Today · ' : '') + Math.floor(mins / 60) + ' h ' + pad(mins % 60) + ' min of study · ' + done + '/' + study.length + ' done</div>';
+  if (!items.length) h += '<div class="empty">Nothing planned this day.</div>';
+  for (const s of items) {
+    const tick = ['study', 'review', 'mixed', 'exam', 'task'].includes(s.kind);
+    const light = ['routine', 'school'].includes(s.kind);
+    const mark = s.status === 'now' ? '<span class="mark">▶</span>' : (s.status === 'missed' && !s.done ? '<span class="mark miss">missed</span>' : '');
+    h += '<div class="row' + (s.done ? ' done' : '') + (light ? ' light' : '') + '" style="--k:' + s.colour + '">'
+      + (tick ? '<input type="checkbox" data-done="' + s.id + '"' + (s.done ? ' checked' : '') + ' title="Done">' : '<span class="box"></span>')
+      + '<span class="when">' + (s.kind === 'task' ? 'to do' : esc(s.start)) + '</span>'
+      + '<div class="body"><div class="t">' + esc(s.title) + '</div>' + (s.detail ? '<div class="n">' + esc(s.detail) + '</div>' : '') + '</div>'
+      + mark + (s.can_open ? '<button data-open="' + s.id + '">Open</button>' : '') + '</div>';
+  }
+  return h + '<button class="edit" data-edit="1">' + (editDay === sel ? 'Editing this day below' : 'Edit this day') + '</button>';
+}
+function stats() {
+  const prefix = year + '-' + pad(month + 1) + '-', hours = {};
+  let n = 0, done = 0;
+  for (const s of D.sessions) if (s.date.startsWith(prefix) && ['study', 'review', 'mixed', 'exam'].includes(s.kind)) { n++; done += s.done ? 1 : 0; hours[s.label] = (hours[s.label] || 0) + s.minutes / 60; }
+  if (!n) return '';
+  return '<div class="sum">This month: ' + Object.entries(hours).sort((a, b) => b[1] - a[1]).map(([k, v]) => esc(k) + ' ' + Math.round(v) + ' h').join(' · ') + ' · ' + done + '/' + n + ' sessions done</div>';
+}
+function legend() {
+  const seen = {}, prefix = view === 'month' ? year + '-' + pad(month + 1) + '-' : null;
+  for (const s of D.sessions) if (SHOWN.includes(s.kind) && (!prefix || s.date.startsWith(prefix))) seen[s.kind === 'busy' ? 'Events' : s.label] = s.colour;
+  return '<div class="legend">' + Object.entries(seen).map(([k, c]) => '<span style="--k:' + c + '">' + esc(k) + '</span>').join('') + '</div>';
+}
+function draw() {
+  const start = monday(sel), sd = parse(start);
+  const title = view === 'month' ? MONTHS[month] + ' ' + year : 'Week of ' + sd.getDate() + ' ' + MONTHS[sd.getMonth()].slice(0, 3);
+  root.className = D.compact ? 'compact' : '';
+  root.innerHTML = '<div class="bar"><button class="arrow" data-nav="-1" title="Previous">‹</button><h2>' + title + '</h2><button class="arrow" data-nav="1" title="Next">›</button>'
+    + '<button data-today="1">Today</button><span class="gap"></span>'
+    + (view === 'week' ? '<label class="check"><input type="checkbox" id="routine"' + (showRoutine ? ' checked' : '') + '> School and routine</label>' : '')
+    + (D.compact ? '' : '<div class="pills"><button data-view="month" class="' + (view === 'month' ? 'on' : '') + '">Month</button><button data-view="week" class="' + (view === 'week' ? 'on' : '') + '">Week</button></div>')
+    + '</div><div class="wrap"><div>' + (view === 'month' ? monthGrid() : weekGrid()) + legend() + (view === 'month' && !D.compact ? stats() : '') + '</div><aside>' + panel() + '</aside></div>';
+  height();
+}
+function choose(t) {
+  sel = t;
+  const d = parse(t); year = d.getFullYear(); month = d.getMonth();
+  if (editDay && D.can_edit) { editDay = t; send({action:'edit', day:t}); }    // the table below follows the chosen day
+  draw();
+}
+root.addEventListener('click', e => {
+  const b = e.target.closest('[data-nav],[data-today],[data-view],[data-edit],[data-open]');
+  if (b) {
+    if (b.dataset.nav) {
+      const n = Number(b.dataset.nav);
+      if (view === 'week') { choose(shift(sel, 7 * n)); return; }
+      const m = new Date(year, month + n, 1); year = m.getFullYear(); month = m.getMonth(); draw(); return;
+    }
+    if (b.dataset.today) { choose(D.today); return; }
+    if (b.dataset.view) { view = b.dataset.view; draw(); return; }
+    if (b.dataset.open) { send({action:'open', id:b.dataset.open}); return; }
+    if (b.dataset.edit) { editDay = sel; send({action:'edit', day:sel}); draw(); return; }
+  }
+  if (e.target.matches('input')) return;
+  const cell = e.target.closest('[data-day]');
+  if (cell) choose(cell.dataset.day);
+});
+root.addEventListener('change', e => {
+  if (e.target.id === 'routine') { showRoutine = e.target.checked; draw(); return; }
+  const id = e.target.dataset.done;
+  if (!id) return;
+  const s = D.sessions.find(x => x.id === id);
+  s.done = e.target.checked; pending[id] = s.done;
+  send({action:'done', id:id, done:s.done});
+  draw();
+});
+let started = false;
+addEventListener('message', e => {
+  if (!e.data || e.data.type !== 'streamlit:render') return;
+  D = e.data.args.data;
+  for (const [k, v] of Object.entries(D.palette)) document.documentElement.style.setProperty('--' + k.replace(/_/g, '-'), v);
+  if (!started) {
+    started = true; view = D.view === 'week' ? 'week' : 'month'; sel = D.day || D.today;
+    const d = parse(sel); year = d.getFullYear(); month = d.getMonth();
+  }
+  editDay = D.edit_day || null;
+  index(); draw();
+});
+new ResizeObserver(() => { if (D) height(); }).observe(root);
+window.parent.postMessage({isStreamlitMessage:true, apiVersion:1, type:'streamlit:componentReady'}, '*');
+</script>
+</body>
+</html>

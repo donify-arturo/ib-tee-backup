@@ -1,0 +1,335 @@
+{
+ "notes": [
+  {
+   "heading": "Brønsted–Lowry acids, bases, alkalis",
+   "understanding": "R3.1.1",
+   "points": [
+    "A Brønsted–Lowry acid donates a proton (H+); a Brønsted–Lowry base accepts a proton.",
+    "In water a free H+ does not exist; it is H3O+(aq). H+(aq) is accepted shorthand for it.",
+    "OH– is the base in NaOH: it accepts H+ to make H2O. Na+ is only the partner ion.",
+    "An alkali is a water-soluble base, e.g. NaOH. FeO is a base but not an alkali."
+   ]
+  },
+  {
+   "heading": "Conjugate acid–base pairs",
+   "understanding": "R3.1.2",
+   "points": [
+    "A conjugate pair differs by exactly one proton; the acid has the extra H+.",
+    "Acid loses H+ to give its conjugate base; base gains H+ to give its conjugate acid.",
+    "HCN + H2O ⇌ H3O+ + CN–: pairs are HCN/CN– and H3O+/H2O.",
+    "H2SO4 and SO4^2– are not a pair (two protons apart); H2SO4/HSO4– and HSO4–/SO4^2– are."
+   ]
+  },
+  {
+   "heading": "Amphiprotic species",
+   "understanding": "R3.1.3",
+   "points": [
+    "Amphiprotic species can both donate and accept a proton, e.g. water, HSO4–.",
+    "Water as acid gives OH–; water as base gives H3O+. 2H2O ⇌ H3O+ + OH–.",
+    "Amphoteric species react with both acids and bases. Every amphiprotic species is amphoteric.",
+    "ZnO is amphoteric but not amphiprotic, since it has no proton to donate."
+   ]
+  },
+  {
+   "heading": "pH scale and measuring it",
+   "understanding": "R3.1.4",
+   "points": [
+    "pH = –log[H+] and [H+] = 10^–pH (data booklet). [H+] in mol dm–3.",
+    "At 298 K: acidic pH < 7, neutral pH = 7, basic pH > 7.",
+    "Example: 0.100 mol dm–3 HCl has pH 1.00; pH 3 means [H+] = 0.001 mol dm–3.",
+    "Universal indicator only estimates pH by colour; a pH meter or probe measures it precisely."
+   ]
+  },
+  {
+   "heading": "Ionic product of water",
+   "understanding": "R3.1.5",
+   "points": [
+    "Kw = [H+][OH–]; at 298 K Kw = 1.00 × 10^–14 (equation and value in data booklet).",
+    "Inverse relationship: if [H+] rises, [OH–] falls, so Kw stays constant.",
+    "In pure water [H+] = [OH–] = 1.00 × 10^–7 mol dm–3.",
+    "Kw increases with temperature; the 10^–14 value is for dilute solutions at 298 K."
+   ]
+  },
+  {
+   "heading": "Strong and weak acids and bases",
+   "understanding": "R3.1.6",
+   "points": [
+    "Strong acids and bases ionize completely (single arrow); weak ones only partially (equilibrium sign).",
+    "Strong acids to memorize: HCl, HBr, HI, HNO3, H2SO4, HClO3, HClO4. Most other acids are weak.",
+    "Group 1 hydroxides and Ba(OH)2 are strong bases; NH3, amines and covalent hydroxides are weak.",
+    "Strength is not concentration: a dilute solution can be of a strong acid, a concentrated one of a weak acid. Avoid 'strong solution'.",
+    "Compare acid strengths by reacting equal concentrations with a reactive metal: the stronger acid reacts faster."
+   ]
+  },
+  {
+   "heading": "Neutralization reactions and salts",
+   "understanding": "R3.1.7",
+   "points": [
+    "Acid + metal oxide or hydroxide → salt + water. Acid + carbonate or hydrogencarbonate → salt + CO2 + H2O.",
+    "Net ionic carbonate equation: CO3^2–(aq) + 2H+(aq) → CO2(g) + H2O(l). Hydrogencarbonate takes one H+.",
+    "Ammonia and amines accept H+: NH3 + H+ → NH4+. Weak acids are written in molecular form in ionic equations.",
+    "Parent acid and base of a salt: add H+ to the anion and OH– to the cation. Na2SO4 comes from NaOH and H2SO4.",
+    "Spectator ions cancel in the net ionic equation."
+   ]
+  },
+  {
+   "heading": "pH curves: strong acid–strong base",
+   "understanding": "R3.1.8",
+   "points": [
+    "Strong acid titrated with strong base: starts at low pH (about 1 for 0.1 mol dm–3), rises slowly, then jumps steeply.",
+    "Equivalence point is at pH 7.0, as only a neutral salt is present. It is the middle of the vertical jump.",
+    "Curve flattens at high pH (about 13) set by excess base.",
+    "Strong base titrated with strong acid gives the inverted curve: high start, drop through pH 7, low end."
+   ]
+  },
+  {
+   "heading": "pOH and interconversions",
+   "understanding": "R3.1.9",
+   "points": [
+    "pOH = –log[OH–] and [OH–] = 10^–pOH (data booklet).",
+    "At 298 K: pH + pOH = 14, and [H+][OH–] = 1.00 × 10^–14.",
+    "For a strong diprotic acid, [H+] = 2 × [acid], e.g. 0.025 mol dm–3 H2SO4 gives [H+] = 0.050.",
+    "Route: find [OH–] or [H+], use Kw if needed, then take –log."
+   ]
+  },
+  {
+   "heading": "Ka, Kb, pKa and pKb",
+   "understanding": "R3.1.10",
+   "points": [
+    "Ka = [H+][A–]/[HA]; Kb = [BH+][OH–]/[B]. Water is left out of both expressions.",
+    "Larger Ka or Kb means a stronger acid or base.",
+    "pKa = –log Ka and pKb = –log Kb. A smaller pKa or pKb means stronger.",
+    "Weak acid calculations: assume [H+] ≈ [A–] and [HA] ≈ initial concentration. State these approximations. No quadratics are needed."
+   ]
+  },
+  {
+   "heading": "Conjugate pair constants",
+   "understanding": "R3.1.11",
+   "points": [
+    "For a conjugate pair, Ka × Kb = Kw, so pKa + pKb = pKw = 14 at 298 K.",
+    "These work only for a conjugate pair, e.g. NH4+ with NH3: pKa = 14 – 4.75 = 9.25.",
+    "The stronger the acid, the weaker its conjugate base, and the reverse.",
+    "Weak base: Kb = [OH–]²/[B]. Find pOH, then pH = 14 – pOH."
+   ]
+  },
+  {
+   "heading": "pH of salt solutions",
+   "understanding": "R3.1.12",
+   "points": [
+    "Hydrolysis is the reaction of a salt's ions with water. Only ions with weak conjugates hydrolyse.",
+    "Strong acid + strong base salt: no hydrolysis, pH 7. Strong acid + weak base salt: cation only, pH < 7.",
+    "Weak acid + strong base salt: anion only, pH > 7. Weak + weak: both, pH about 7, decided by the stronger parent.",
+    "NH4+ ⇌ NH3 + H+ (acidic). RCOO– + H2O ⇌ RCOOH + OH– (basic).",
+    "CO3^2– and HCO3– each take one H+ from water, giving OH– and a basic solution. 'The stronger wins'."
+   ]
+  },
+  {
+   "heading": "pH curves with weak acids or bases",
+   "understanding": "R3.1.13",
+   "points": [
+    "Weak acid + strong base: higher start pH than strong acid, buffer region, smaller jump, equivalence at pH > 7, ends at about 13.",
+    "Weak base + strong acid: lower start pH than strong base, buffer region, smaller drop, equivalence at pH < 7.",
+    "At half-equivalence [HA] = [A–], so pH = pKa. For a weak base, pOH = pKb.",
+    "Weak acid + weak base: no sharp change, equivalence about pH 7, and a second buffer region after equivalence."
+   ]
+  },
+  {
+   "heading": "How acid–base indicators work",
+   "understanding": "R3.1.14",
+   "points": [
+    "An indicator is a weak acid, HInd ⇌ H+ + Ind–, whose two forms differ in colour.",
+    "The end point (colour change) is near pH = pKa of the indicator.",
+    "Transition range is roughly pKa ± 1. Examples are in the data booklet section 18.",
+    "Universal indicator is a mixture of indicators giving gradual colour change across pH 0–14."
+   ]
+  },
+  {
+   "heading": "Choosing a titration indicator",
+   "understanding": "R3.1.15",
+   "points": [
+    "Pick an indicator whose transition range includes the pH at equivalence.",
+    "Strong acid–strong base: pH 7, bromothymol blue best, though all three work due to the large jump.",
+    "Weak acid–strong base: equivalence pH > 7, use phenolphthalein. Strong acid–weak base: pH < 7, use methyl orange.",
+    "Weak acid–weak base: no indicator works; use a pH meter. Use only enough indicator, as it is itself a weak acid."
+   ]
+  },
+  {
+   "heading": "What a buffer is and does",
+   "understanding": "R3.1.16",
+   "points": [
+    "A buffer resists pH change when small amounts of acid or alkali are added.",
+    "It holds a weak acid and its conjugate base (or weak base and its conjugate acid) in sufficient amounts.",
+    "Added H+ is removed by the conjugate base; added OH– is removed by the weak acid.",
+    "It stops working once one component is used up. Example: ethanoic acid with sodium ethanoate."
+   ]
+  },
+  {
+   "heading": "Buffer pH and dilution",
+   "understanding": "R3.1.17",
+   "points": [
+    "Buffer pH depends on the pKa and on the ratio [base]/[acid].",
+    "pH = pKa + log([A–]/[HA]). Equal concentrations give pH = pKa.",
+    "Example: 0.100 mol dm–3 CH3COOH with 0.200 mol dm–3 ethanoate: pH = 4.76 + log 2 = 5.06.",
+    "Dilution leaves the ratio, so the pH, nearly unchanged; the buffer capacity falls. Infinite dilution tends to pH 7."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Brønsted–Lowry acid",
+   "definition": "A species that donates a proton (H+ ion) to another species.",
+   "must_say": [
+    "proton donor"
+   ],
+   "trap": "Saying 'hydrogen donor' or referring to electrons instead of protons."
+  },
+  {
+   "term": "Brønsted–Lowry base",
+   "definition": "A species that accepts a proton (H+ ion) from another species.",
+   "must_say": [
+    "proton acceptor"
+   ],
+   "trap": "Saying the base is NaOH; the hydroxide ion is the proton acceptor."
+  },
+  {
+   "term": "Alkali",
+   "definition": "A base that is soluble in water, such as a group 1 or group 2 hydroxide.",
+   "must_say": [
+    "soluble in water",
+    "base"
+   ],
+   "trap": "Treating every base as an alkali; FeO is a base but not an alkali."
+  },
+  {
+   "term": "Conjugate acid–base pair",
+   "definition": "Two species that differ by exactly one proton; the acid has one more H+ than the base.",
+   "must_say": [
+    "differ by one proton"
+   ],
+   "trap": "Pairing species two protons apart, such as H2SO4 and SO4^2–."
+  },
+  {
+   "term": "Amphiprotic",
+   "definition": "A species that can both donate and accept a proton, so it can act as a Brønsted–Lowry acid or base.",
+   "must_say": [
+    "donate",
+    "accept",
+    "proton"
+   ],
+   "trap": "Confusing it with amphoteric; ZnO is amphoteric but has no proton to donate."
+  },
+  {
+   "term": "Amphoteric",
+   "definition": "A species that can react with both acids and bases, showing acidic and basic properties.",
+   "must_say": [
+    "react with both acids and bases"
+   ],
+   "trap": "Assuming amphoteric means amphiprotic; not all amphoteric species can donate protons."
+  },
+  {
+   "term": "pH",
+   "definition": "The negative logarithm to base 10 of the hydrogen ion concentration: pH = –log10[H+].",
+   "must_say": [
+    "negative log",
+    "[H+]"
+   ],
+   "trap": "Defining pH by a pH range or a vague 'acidity measure' instead of –log[H+]."
+  },
+  {
+   "term": "Ionic product of water (Kw)",
+   "definition": "The product [H+][OH–] in aqueous solution, equal to 1.00 × 10^–14 at 298 K.",
+   "must_say": [
+    "[H+][OH–]",
+    "298 K"
+   ],
+   "trap": "Forgetting that Kw changes with temperature and the value only applies at 298 K."
+  },
+  {
+   "term": "Strong acid",
+   "definition": "An acid that ionizes (dissociates) completely in aqueous solution.",
+   "must_say": [
+    "completely ionized"
+   ],
+   "trap": "Defining it by pH or concentration; strong is not the same as concentrated."
+  },
+  {
+   "term": "Weak acid",
+   "definition": "An acid that ionizes only partially in aqueous solution, giving an equilibrium mixture.",
+   "must_say": [
+    "partially ionized",
+    "equilibrium"
+   ],
+   "trap": "Defining it by a pH range or as a 'dilute' acid."
+  },
+  {
+   "term": "Weak base",
+   "definition": "A base that accepts protons and ionizes only partially in aqueous solution.",
+   "must_say": [
+    "proton acceptor",
+    "partially ionized"
+   ],
+   "trap": "Writing 'not completely' or 'slightly' without partial ionization, or omitting proton acceptor."
+  },
+  {
+   "term": "Hydrolysis of a salt",
+   "definition": "The reaction of a salt's ions with water, producing a conjugate acid or base and changing the solution pH.",
+   "must_say": [
+    "ions react with water"
+   ],
+   "trap": "Saying all salts are neutral; ions with weak conjugates hydrolyse."
+  },
+  {
+   "term": "Acid dissociation constant (Ka)",
+   "definition": "The equilibrium constant for a weak acid ionizing: Ka = [H+][A–]/[HA], with water omitted.",
+   "must_say": [
+    "[H+][A–]/[HA]"
+   ],
+   "trap": "Including water in the expression, or thinking a larger pKa means a stronger acid."
+  },
+  {
+   "term": "Buffer solution",
+   "definition": "A solution that resists changes in pH when small amounts of acid or alkali are added.",
+   "must_say": [
+    "resists pH change",
+    "small amounts",
+    "acid or alkali"
+   ],
+   "trap": "Omitting 'small' amount of added acid or alkali."
+  },
+  {
+   "term": "Half-equivalence point",
+   "definition": "The stage in a titration where half the acid has been neutralized; there pH = pKa of the weak acid.",
+   "must_say": [
+    "half neutralized",
+    "pH = pKa"
+   ],
+   "trap": "Confusing it with the equivalence point, which is at pH 7 only for strong–strong."
+  },
+  {
+   "term": "Equivalence point",
+   "definition": "The point in a titration where the acid and base have reacted exactly in the ratio of the equation.",
+   "must_say": [
+    "exact reacting amounts"
+   ],
+   "trap": "Calling it the end point; the end point is the indicator's colour change."
+  },
+  {
+   "term": "End point (of an indicator)",
+   "definition": "The pH at which an indicator changes colour, approximately equal to its pKa.",
+   "must_say": [
+    "colour change",
+    "approximately pKa"
+   ],
+   "trap": "Treating the end point as identical to the equivalence point."
+  }
+ ],
+ "sub_topic": "R3.1",
+ "title": "Proton transfer reactions",
+ "generated_by": "sonnet",
+ "issues": [
+  "point copies the book: Net ionic carbonate equation: CO3^2–(aq) + 2H+(aq)",
+  "point copies the book: The stronger the acid, the weaker its conjugate ba",
+  "definition copies the book: Conjugate acid–base pair",
+  "definition copies the book: Amphoteric"
+ ]
+}

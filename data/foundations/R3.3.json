@@ -1,0 +1,339 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.1",
+   "kind": "short_answer",
+   "question": "Explain what happens when a species has an unpaired electron: how it forms, how reactive it is and what usually becomes of it.",
+   "options": [],
+   "answer": "It is a radical: formed by homolytic fission of a covalent bond, highly reactive, short-lived (an intermediate) that quickly reacts with another radical to make a new covalent compound.",
+   "steps": [
+    "An unpaired electron makes the species a radical.",
+    "Radicals form when a shared pair splits evenly, one electron to each atom.",
+    "They are very reactive and short-lived, so they act as intermediates.",
+    "They combine with other radicals to give new covalently bonded molecules."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "multiple_choice",
+   "question": "Which of these is a propagation step in the radical substitution of ethane by chlorine?",
+   "options": [
+    "A. Cl2 → 2Cl•",
+    "B. •C2H5 + Cl2 → C2H5Cl + Cl•",
+    "C. •C2H5 + Cl• → C2H5Cl",
+    "D. C2H6 + Cl• → C2H5Cl + •H"
+   ],
+   "answer": "B. •C2H5 + Cl2 → C2H5Cl + Cl•",
+   "steps": [
+    "A propagation step has one radical and one non-radical reactant, giving one radical and one non-radical product.",
+    "A is initiation; C is termination (two radicals, no radical product).",
+    "D is not a valid step: it gives an H radical and C2H5Cl, which is not how the chain proceeds.",
+    "B regenerates Cl•, so the chain continues."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "multiple_choice",
+   "question": "Methane and chlorine react in sunlight: CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g). What type of reaction is this?",
+   "options": [
+    "A. radical substitution",
+    "B. electrophilic substitution",
+    "C. nucleophilic substitution",
+    "D. electrophilic addition"
+   ],
+   "answer": "A. radical substitution",
+   "steps": [
+    "Sunlight (UV) splits Cl2 into radicals.",
+    "One H is replaced by Cl, so it is substitution via radicals."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": "19M.1.HL.TZ2.33"
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "multiple_choice",
+   "question": "Which reaction goes by a radical mechanism when UV light is present?",
+   "options": [
+    "A. C6H6 + Cl2 → C6H5Cl + HCl",
+    "B. C6H6 + 3H2 → C6H12",
+    "C. CH2CH2 + HBr → CH3CH2Br",
+    "D. CH3CH3 + Cl2 → CH3CH2Cl + HCl"
+   ],
+   "answer": "D. CH3CH3 + Cl2 → CH3CH2Cl + HCl",
+   "steps": [
+    "Alkane halogenation under UV light is radical substitution.",
+    "A is electrophilic substitution of benzene, B is hydrogenation, C is electrophilic addition to an alkene."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.2",
+   "kind": "short_answer",
+   "question": "Define homolytic fission and state the conditions needed for it to occur. [2]",
+   "options": [],
+   "answer": "The two bonding electrons of a covalent bond are shared out evenly between the two atoms, giving two radicals with one unpaired electron each. It needs UV light or heating.",
+   "steps": [
+    "Even split of the shared pair: one electron to each atom.",
+    "Products are two radicals.",
+    "Conditions: UV light or heat."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.2",
+   "kind": "short_answer",
+   "question": "Write an equation, using fish hook arrows to show electron movement, for homolytic fission of iodine, I2.",
+   "options": [],
+   "answer": "I–I → I• + I•, with one fish hook arrow from the bond to each iodine atom.",
+   "steps": [
+    "Draw the I–I bond.",
+    "From the middle of the bond, draw one single-barbed arrow to each I atom.",
+    "Each iodine ends up with one unpaired electron: I• + I•."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Ethane, C2H6, reacts with chlorine in sunlight. State the type of reaction and the name of its mechanism. [1]",
+   "options": [],
+   "answer": "Substitution; radical substitution (SR).",
+   "steps": [
+    "One H in ethane is replaced by Cl.",
+    "The mechanism involves radicals: SR."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Write equations for two propagation steps and one termination step in the formation of chloroethane from ethane and chlorine. [3]",
+   "options": [],
+   "answer": "Propagation: C2H6 + •Cl → •C2H5 + HCl; •C2H5 + Cl2 → C2H5Cl + •Cl. Termination (any one): •C2H5 + •C2H5 → C4H10, or •C2H5 + •Cl → C2H5Cl, or •Cl + •Cl → Cl2.",
+   "steps": [
+    "First propagation: Cl• takes an H from ethane, giving an ethyl radical and HCl.",
+    "Second propagation: ethyl radical takes Cl from Cl2, giving C2H5Cl and a new Cl•.",
+    "Termination: any two radicals combine into a non-radical."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Draw or describe the structural formula of methylbenzene (toluene), C6H5CH3.",
+   "options": [],
+   "answer": "A benzene ring (C6H5–) with a CH3 group attached to one ring carbon.",
+   "steps": [
+    "Start from the benzene ring.",
+    "Replace one ring H with a CH3 group."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.2",
+   "kind": "short_answer",
+   "question": "Methylbenzene is chlorinated with UV light to give chloromethylbenzene. What does the UV light do in the initiation step? [1]",
+   "options": [],
+   "answer": "It supplies the energy needed to break the Cl–Cl bond homolytically.",
+   "steps": [
+    "Breaking a covalent bond requires energy.",
+    "UV light provides it, forming Cl• radicals."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.2",
+   "kind": "short_answer",
+   "question": "Write the equation for the initiation step in the chlorination of methylbenzene. [1]",
+   "options": [],
+   "answer": "Cl2 → 2Cl•",
+   "steps": [
+    "Initiation is homolytic fission of the halogen: Cl2 → 2Cl•."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Write equations for two propagation steps and one termination step in the chlorination of methylbenzene, C6H5CH3, to C6H5CH2Cl. [3]",
+   "options": [],
+   "answer": "Propagation: C6H5CH3 + Cl• → C6H5CH2• + HCl; C6H5CH2• + Cl2 → C6H5CH2Cl + Cl•. Termination (any one): 2Cl• → Cl2, or 2C6H5CH2• → C6H5CH2CH2C6H5, or C6H5CH2• + Cl• → C6H5CH2Cl.",
+   "steps": [
+    "Cl• removes an H from the CH3 group.",
+    "The resulting radical reacts with Cl2 to give the product and regenerate Cl•.",
+    "Termination: two radicals join."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "627",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Write the overall equation for the chlorination of methylbenzene to chloromethylbenzene, using structural formulas. [3]",
+   "options": [],
+   "answer": "C6H5CH3 + Cl2 → C6H5CH2Cl + HCl (UV light), with the Cl replacing one H on the CH3 carbon.",
+   "steps": [
+    "Reactants: methylbenzene and Cl2.",
+    "One H on the side-chain carbon is replaced by Cl.",
+    "The other products: HCl."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "178",
+   "understanding": "R3.3.3",
+   "kind": "multiple_choice",
+   "question": "How many structural isomers have the molecular formula C4H9Br?",
+   "options": [
+    "A. 2",
+    "B. 3",
+    "C. 4",
+    "D. 5"
+   ],
+   "answer": "C. 4",
+   "steps": [
+    "Butane skeleton: 1-bromobutane and 2-bromobutane.",
+    "Branched skeleton (2-methylpropane): 1-bromo-2-methylpropane and 2-bromo-2-methylpropane.",
+    "Total 4. (The formula was garbled in the scan; C4H9Br fits the book's answer C.)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "178",
+   "understanding": "R3.3.2",
+   "kind": "short_answer",
+   "question": "Compare and contrast homolytic and heterolytic fission of covalent bonds.",
+   "options": [],
+   "answer": "Similar: both break a covalent bond so the shared pair is no longer shared, split one species into two, and are endothermic. Different: homolytic is symmetric, one electron to each atom, giving uncharged radicals; heterolytic is asymmetric, both electrons go to one atom, giving a cation and an anion.",
+   "steps": [
+    "Similarities: bond breaks, one species becomes two, energy absorbed.",
+    "Homolytic: even split, two radicals, no charges.",
+    "Heterolytic: both electrons to one fragment, giving oppositely charged ions."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "178",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Ethane, C2H6, reacts with bromine, Br2. State the type of reaction and the conditions needed.",
+   "options": [],
+   "answer": "Radical substitution (SR); UV light or heat.",
+   "steps": [
+    "Br replaces H on an alkane via radicals.",
+    "Radicals form only with UV light or heating."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "178",
+   "understanding": "R3.3.3",
+   "kind": "short_answer",
+   "question": "Write equations for the initiation, propagation and termination steps in the formation of bromoethane from ethane and bromine.",
+   "options": [],
+   "answer": "Initiation: Br2 → 2Br•. Propagation: CH3CH3 + Br• → •CH2CH3 + HBr; •CH2CH3 + Br2 → CH3CH2Br + Br•. Termination (any): •CH2CH3 + Br• → CH3CH2Br; 2Br• → Br2; 2•CH2CH3 → CH3CH2CH2CH3.",
+   "steps": [
+    "Initiation: homolytic fission of Br2.",
+    "Propagation: Br• abstracts H, then the ethyl radical takes Br from Br2.",
+    "Termination: two radicals combine.",
+    "Put the radical dot on the atom with the unpaired electron (C or Br, not H)."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "page": "178",
+   "source": "prepared",
+   "understanding": "R3.3.3",
+   "title": "Chlorination of methane: equation and mechanism",
+   "problem": "Methane can be chlorinated at low temperature. (a) Write the equation for one mole of methane reacting with one mole of chlorine. (b) Outline the steps of the mechanism.",
+   "steps": [
+    {
+     "hint": "Replace one H of methane by Cl and note the second product.",
+     "work": "CH4(g) + Cl2(g) → CH3Cl(g) + HCl(g), with UV light (or sunlight) needed to start it."
+    },
+    {
+     "hint": "Start the chain: split the halogen homolytically.",
+     "work": "Initiation: Cl2(g) → 2Cl•(g) (UV light)."
+    },
+    {
+     "hint": "Let a chlorine radical attack methane.",
+     "work": "Propagation 1: CH4 + Cl• → •CH3 + HCl."
+    },
+    {
+     "hint": "Let the methyl radical react with Cl2 to give the product and a new radical.",
+     "work": "Propagation 2: •CH3 + Cl2 → CH3Cl + Cl•."
+    },
+    {
+     "hint": "End the chain by joining pairs of radicals.",
+     "work": "Termination: •CH3 + Cl• → CH3Cl; 2Cl• → Cl2; 2•CH3 → C2H6."
+    },
+    {
+     "hint": "Check what the termination products tell you.",
+     "work": "Two alkyl radicals give a larger alkane (ethane here), so a mixture of products forms. 'Outline' needs no electron arrows."
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [],
+ "sub_topic": "R3.3",
+ "title": "Electron sharing reactions",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 8 (Course Companion p627): copies the book",
+  "practice 17 (IB Prepared p178): copies the book"
+ ]
+}

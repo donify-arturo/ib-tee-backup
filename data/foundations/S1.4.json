@@ -1,0 +1,1156 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "65",
+   "understanding": "S1.4.2",
+   "kind": "calculation",
+   "question": "Calculate the relative formula mass Mr of ammonia, NH3.",
+   "options": [],
+   "answer": "17.04",
+   "steps": [
+    "Mr = Ar(N) + 3 × Ar(H)",
+    "= 14.01 + 3 × 1.01 = 17.04"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "65",
+   "understanding": "S1.4.2",
+   "kind": "calculation",
+   "question": "Calculate the relative formula mass Mr of sulfuric acid, H2SO4.",
+   "options": [],
+   "answer": "98.09",
+   "steps": [
+    "Mr = 2 × 1.01 + 32.07 + 4 × 16.00",
+    "= 2.02 + 32.07 + 64.00 = 98.09"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "65",
+   "understanding": "S1.4.2",
+   "kind": "calculation",
+   "question": "Calculate the relative formula mass Mr of sodium sulfate decahydrate, Na2SO4•10H2O.",
+   "options": [],
+   "answer": "322.25",
+   "steps": [
+    "Salt part: 2 × 22.99 + 32.07 + 4 × 16.00 = 142.05",
+    "Water part: 10 × 18.02 = 180.2",
+    "Add: 142.05 + 180.2 = 322.25"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "67",
+   "understanding": "S1.4.3",
+   "kind": "calculation",
+   "question": "Calculate the molar mass of sulfuric acid, H2SO4, in g mol⁻¹.",
+   "options": [],
+   "answer": "98.09 g mol⁻¹",
+   "steps": [
+    "Molar mass is numerically equal to Mr",
+    "2 × 1.01 + 32.07 + 4 × 16.00 = 98.09 g mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "67",
+   "understanding": "S1.4.3",
+   "kind": "calculation",
+   "question": "Calculate the amount of substance, in mol, in 1.00 g of sulfuric acid, H2SO4 (M = 98.09 g mol⁻¹).",
+   "options": [],
+   "answer": "0.0102 mol",
+   "steps": [
+    "n = m/M",
+    "n = 1.00 g / 98.09 g mol⁻¹ ≈ 0.0102 mol"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "67",
+   "understanding": "S1.4.1",
+   "kind": "calculation",
+   "question": "How many hydrogen atoms are there in 1.00 g of sulfuric acid, H2SO4? Use M = 98.09 g mol⁻¹ and NA = 6.02 × 10²³ mol⁻¹.",
+   "options": [],
+   "answer": "1.23 × 10²²",
+   "steps": [
+    "n(H2SO4) = 1.00/98.09 ≈ 0.0102 mol",
+    "n(H) = 2 × 0.0102 = 0.0204 mol",
+    "N(H) = 0.0204 × 6.02 × 10²³ ≈ 1.23 × 10²²"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "69",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Calculate the percentage composition by mass of sulfuric acid, H2SO4.",
+   "options": [],
+   "answer": "H 2.06%, S 32.69%, O 65.25%",
+   "steps": [
+    "Mr(H2SO4) = 98.09",
+    "H: 2.02/98.09 × 100% = 2.06%",
+    "S: 32.07/98.09 × 100% = 32.69%",
+    "O: 64.00/98.09 × 100% = 65.25%"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "70",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Deduce the empirical formula of an oxide of manganese that contains 36.81% oxygen by mass.",
+   "options": [],
+   "answer": "MnO2",
+   "steps": [
+    "Take 100 g: 36.81 g O and 63.19 g Mn",
+    "n(Mn) = 63.19/54.94 ≈ 1.150 mol; n(O) = 36.81/16.00 ≈ 2.301 mol",
+    "Ratio Mn : O = 1 : 2, so MnO2"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "70",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "A hydrocarbon burns completely to give 5.501 g of carbon dioxide, CO2, and 2.253 g of water, H2O. Deduce its empirical formula.",
+   "options": [],
+   "answer": "CH2",
+   "steps": [
+    "n(C) = n(CO2) = 5.501/44.01 ≈ 0.1250 mol",
+    "n(H) = 2 × 2.253/18.02 ≈ 0.2500 mol",
+    "Ratio C : H = 1 : 2, so CH2"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "70",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "The hydrocarbon with empirical formula CH2 has a molar mass of 42.09 g mol⁻¹. Deduce its molecular formula.",
+   "options": [],
+   "answer": "C3H6",
+   "steps": [
+    "M(CH2) = 12.01 + 2 × 1.01 = 14.03 g mol⁻¹",
+    "42.09 / 14.03 = 3",
+    "Multiply the formula by 3: C3H6"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "74",
+   "understanding": "S1.4.5",
+   "kind": "calculation",
+   "question": "Calculate the mass of sulfuric acid, H2SO4, in 50.0 cm³ of a solution in which [H2SO4] = 1.50 mol dm⁻³.",
+   "options": [],
+   "answer": "7.36 g",
+   "steps": [
+    "V = 0.0500 dm³",
+    "n = cV = 1.50 × 0.0500 = 0.0750 mol",
+    "m = nM = 0.0750 × 98.09 ≈ 7.36 g"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "74",
+   "understanding": "S1.4.5",
+   "kind": "calculation",
+   "question": "Calculate the molar concentration, in mol dm⁻³, of sulfuric acid, H2SO4, in a solution whose mass concentration is 0.150 g cm⁻³.",
+   "options": [],
+   "answer": "1.53 mol dm⁻³",
+   "steps": [
+    "0.150 g cm⁻³ = 150 g dm⁻³",
+    "c = ρ/M = 150 / 98.09 ≈ 1.53 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "75",
+   "understanding": "S1.4.5",
+   "kind": "calculation",
+   "question": "A standard solution was made by dissolving 2.497 g of copper(II) sulfate pentahydrate, CuSO4•5H2O, in water in a 100 cm³ volumetric flask. A 5.00 cm³ sample of it was diluted to 250.0 cm³. Calculate the concentration of copper(II) sulfate in the final solution, in mol dm⁻³.",
+   "options": [],
+   "answer": "2.00 × 10⁻³ mol dm⁻³",
+   "steps": [
+    "M(CuSO4•5H2O) = 249.72; n = 2.497/249.72 = 0.01000 mol",
+    "c(standard) = 0.01000/0.100 = 0.100 mol dm⁻³",
+    "c2 = c1V1/V2 = 0.100 × 5.00/250.0 = 2.00 × 10⁻³ mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "78",
+   "understanding": "S1.4.6",
+   "kind": "calculation",
+   "question": "Incomplete combustion of hydrogen sulfide follows 2H2S(g) + O2(g) → 2H2O(l) + 2S(s). Calculate the volume of H2S burned if 1.25 dm³ of O2 is consumed, all volumes measured under the same conditions.",
+   "options": [],
+   "answer": "2.50 dm³",
+   "steps": [
+    "Gas volumes are proportional to coefficients (Avogadro's law)",
+    "H2S : O2 = 2 : 1",
+    "V(H2S) = 2 × 1.25 = 2.50 dm³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.1",
+   "kind": "short_answer",
+   "question": "Using what you know from this topic, answer the guiding question as fully as you can: how do we quantify matter on the atomic scale?",
+   "options": [],
+   "answer": "Atomic masses are compared with carbon-12 (Ar, Mr); the mole (6.02 × 10²³ entities) links particle numbers to mass via M; the empirical formula gives the simplest atom ratio and the molecular formula the actual numbers.",
+   "steps": [
+    "Mention Ar/Mr relative to carbon-12",
+    "Mention the mole and Avogadro constant",
+    "Mention empirical versus molecular formula"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.1",
+   "kind": "multiple_choice",
+   "question": "How many oxygen atoms are there in 0.400 mol of copper(II) sulfate pentahydrate, CuSO4•5H2O?",
+   "options": [
+    "A. 3.60",
+    "B. 9",
+    "C. 2.16 × 10²⁴",
+    "D. 5.40 × 10²⁴"
+   ],
+   "answer": "C. 2.16 × 10²⁴",
+   "steps": [
+    "Each formula unit has 4 + 5 = 9 O atoms",
+    "n(O) = 9 × 0.400 = 3.60 mol",
+    "N = 3.60 × 6.02 × 10²³ ≈ 2.2 × 10²⁴ (option C; A is the moles, not the atoms)"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.5",
+   "kind": "multiple_choice",
+   "question": "0.70 g of calcium nitrate, Ca(NO3)2, is dissolved in water to make 200 cm³ of solution. What is the concentration of NO3⁻ ions?",
+   "options": [
+    "A. 3.5 g dm⁻³",
+    "B. 7.0 g dm⁻³",
+    "C. 0.021 mol dm⁻³",
+    "D. 0.043 mol dm⁻³"
+   ],
+   "answer": "D. 0.043 mol dm⁻³",
+   "steps": [
+    "M(Ca(NO3)2) = 164.10; n = 0.70/164.10 ≈ 0.00427 mol",
+    "n(NO3⁻) = 2 × 0.00427 ≈ 0.00853 mol",
+    "c = 0.00853/0.200 ≈ 0.043 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.4",
+   "kind": "multiple_choice",
+   "question": "For which of these molecules is the empirical formula the same as the molecular formula? A. CH3CH2CH2OH, B. CH3COOCH2CH3, C. CH3CH2CH2CH3, D. CH3COOH.",
+   "options": [
+    "A. CH3CH2CH2OH",
+    "B. CH3COOCH2CH3",
+    "C. CH3CH2CH2CH3",
+    "D. CH3COOH"
+   ],
+   "answer": "A. CH3CH2CH2OH",
+   "steps": [
+    "A is C3H8O: no common factor",
+    "B is C4H8O2 → C2H4O; C is C4H10 → C2H5; D is C2H4O2 → CH2O"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.5",
+   "kind": "multiple_choice",
+   "question": "What volume of 5.0 mol dm⁻³ sulfuric acid (H2SO4) stock solution is needed to make 0.50 dm³ of a solution in which [H⁺] = 0.10 mol dm⁻³?",
+   "options": [
+    "A. 0.010 cm³",
+    "B. 0.0050 cm³",
+    "C. 5.0 cm³",
+    "D. 10 cm³"
+   ],
+   "answer": "C. 5.0 cm³",
+   "steps": [
+    "n(H⁺) = 0.10 × 0.50 = 0.050 mol",
+    "n(H2SO4) = 0.025 mol (two H⁺ each)",
+    "V = 0.025/5.0 = 0.0050 dm³ = 5.0 cm³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.4",
+   "kind": "multiple_choice",
+   "question": "A tin sample of 1.78 g forms an oxide of mass 2.26 g after heating to constant mass. What is the formula of the oxide?",
+   "options": [
+    "A. SnO",
+    "B. SnO2",
+    "C. SnO3",
+    "D. SnO5"
+   ],
+   "answer": "B. SnO2",
+   "steps": [
+    "m(O) = 2.26 − 1.78 = 0.48 g",
+    "n(Sn) = 1.78/118.71 ≈ 0.0150 mol; n(O) = 0.48/16.00 = 0.0300 mol",
+    "Ratio 1 : 2, so SnO2"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.3",
+   "kind": "calculation",
+   "question": "Calculate the molar mass of potassium alum, KAl(SO4)2•12H2O, in g mol⁻¹.",
+   "options": [],
+   "answer": "474.46 g mol⁻¹",
+   "steps": [
+    "Anhydrous part: 39.10 + 26.98 + 2 × 32.07 + 8 × 16.00 = 258.22",
+    "Water: 12 × 18.02 = 216.24",
+    "Total 474.46 g mol⁻¹"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.3",
+   "kind": "calculation",
+   "question": "Calculate the amount, in mol, in 1.00 g of potassium alum, KAl(SO4)2•12H2O (M = 474.46 g mol⁻¹).",
+   "options": [],
+   "answer": "2.11 × 10⁻³ mol",
+   "steps": [
+    "n = m/M = 1.00/474.46 ≈ 2.11 × 10⁻³ mol"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.1",
+   "kind": "calculation",
+   "question": "Calculate the total number of atoms in 1.00 g of potassium alum, KAl(SO4)2•12H2O (M = 474.46 g mol⁻¹).",
+   "options": [],
+   "answer": "6.09 × 10²²",
+   "steps": [
+    "Atoms per formula unit: 1 + 1 + 2 + 8 + 12 × 3 = 48",
+    "n(atoms) = 48 × 2.107 × 10⁻³ ≈ 0.101 mol",
+    "N = 0.101 × 6.02 × 10²³ ≈ 6.09 × 10²²"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.3",
+   "kind": "calculation",
+   "question": "KAl(SO4)2•12H2O loses all its water on heating: KAl(SO4)2•12H2O(s) → KAl(SO4)2(s) + 12H2O(l). How many moles of water form from 1.00 g of the alum?",
+   "options": [],
+   "answer": "0.0253 mol",
+   "steps": [
+    "n(alum) = 2.107 × 10⁻³ mol",
+    "n(H2O) = 12 × 2.107 × 10⁻³ ≈ 0.0253 mol"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Calculate the percentage composition by mass of potassium alum, KAl(SO4)2•12H2O.",
+   "options": [],
+   "answer": "K 8.24%, Al 5.69%, S 13.52%, O 67.45%, H 5.11%",
+   "steps": [
+    "Mass of each element in 1 mol: K 39.10, Al 26.98, S 64.14, O 320.00, H 24.24",
+    "Divide each by 474.46 and multiply by 100%",
+    "Check the percentages add to 100%"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.1",
+   "kind": "calculation",
+   "question": "A student piles up 6.02 × 10²³ grains of sand, each of mass 5 mg, shovelling 50 kg of sand per minute. Estimate how many years this takes.",
+   "options": [],
+   "answer": "Approximately 1 × 10¹¹ years",
+   "steps": [
+    "Total mass = 6.02 × 10²³ × 5 mg = 3.0 × 10¹⁸ kg",
+    "Time = 3.0 × 10¹⁸ / 50 ≈ 6 × 10¹⁶ min",
+    "Divide by about 5.3 × 10⁵ min per year ≈ 1 × 10¹¹ years"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Deduce the empirical formula of an oxide of sulfur that contains 59.95% oxygen by mass.",
+   "options": [],
+   "answer": "SO3",
+   "steps": [
+    "In 100 g: 40.05 g S, 59.95 g O",
+    "n(S) = 40.05/32.07 ≈ 1.249; n(O) = 59.95/16.00 ≈ 3.747",
+    "Ratio 1 : 3, so SO3"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "An organic compound containing oxygen (5.00 g) gives 9.55 g of CO2 and 5.87 g of H2O on complete combustion. Deduce its empirical formula.",
+   "options": [],
+   "answer": "C2H6O",
+   "steps": [
+    "n(C) = 9.55/44.01 ≈ 0.2170 mol, m(C) ≈ 2.606 g",
+    "n(H) = 2 × 5.87/18.02 ≈ 0.6515 mol, m(H) ≈ 0.658 g",
+    "m(O) = 5.00 − 2.606 − 0.658 ≈ 1.736 g, n(O) ≈ 0.1085 mol",
+    "Ratio C : H : O = 2 : 6 : 1"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.5",
+   "kind": "calculation",
+   "question": "A solution of K2SO4 was made from 8.714 g of the solid in a 250 cm³ volumetric flask. Calculate the mass concentration in g dm⁻³ and the molar concentration in mol dm⁻³.",
+   "options": [],
+   "answer": "ρ = 34.86 g dm⁻³; c = 0.200 mol dm⁻³",
+   "steps": [
+    "ρ = 8.714 g / 0.250 dm³ = 34.86 g dm⁻³",
+    "M(K2SO4) = 174.27 g mol⁻¹",
+    "c = ρ/M = 34.86/174.27 = 0.200 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.5",
+   "kind": "short_answer",
+   "question": "Describe how you would make five KMnO4 standard solutions from 0.100 to 0.500 mmol dm⁻³ by serial dilution, starting from a stock solution.",
+   "options": [],
+   "answer": "Make a stock (e.g. 50.0 mmol dm⁻³) with a volumetric flask and precise balance; pipette 10.0 cm³ into a 100 cm³ flask and fill to the mark to get 5.0 mmol dm⁻³; repeat to get 0.500 mmol dm⁻³; use a 20 cm³ pipette in a further dilution for 0.100 mmol dm⁻³; the other values come from similar dilutions.",
+   "steps": [
+    "Prepare an accurate stock with volumetric glassware",
+    "Each 1-in-10 dilution: 10.0 cm³ pipette, 100 cm³ flask, fill to the mark, mix by inverting",
+    "A 20 cm³ pipette into 100 cm³ gives a 1-in-5 dilution for 0.100",
+    "Prepare the other concentrations the same way from the dilute solutions"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.6",
+   "kind": "short_answer",
+   "question": "Write the balanced equation for the combustion of carbon monoxide to carbon dioxide.",
+   "options": [],
+   "answer": "2CO(g) + O2(g) → 2CO2(g)",
+   "steps": [
+    "Two CO are needed per O2 to balance oxygen atoms"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "79",
+   "understanding": "S1.4.6",
+   "kind": "calculation",
+   "question": "CO burns as 2CO(g) + O2(g) → 2CO2(g). Find the volumes of CO consumed and O2 consumed when 2.00 dm³ of CO2 forms, all measured under the same conditions.",
+   "options": [],
+   "answer": "V(CO) = 2.00 dm³; V(O2) = 1.00 dm³",
+   "steps": [
+    "Volume ratio CO : O2 : CO2 = 2 : 1 : 2",
+    "V(CO) = V(CO2) = 2.00 dm³",
+    "V(O2) = ½ × 2.00 = 1.00 dm³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.1",
+   "kind": "calculation",
+   "question": "Calculate the number of ions in 0.25 mol of calcium nitrate, Ca(NO3)2.",
+   "options": [],
+   "answer": "4.5 × 10²³",
+   "steps": [
+    "Each formula unit gives 1 Ca²⁺ + 2 NO3⁻ = 3 ions",
+    "n(ions) = 3 × 0.25 = 0.75 mol",
+    "N = 0.75 × 6.02 × 10²³ ≈ 4.5 × 10²³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Compound X has empirical formula CH2O and molar mass 60.06 g mol⁻¹. Deduce its molecular formula.",
+   "options": [],
+   "answer": "C2H4O2",
+   "steps": [
+    "M(CH2O) = 12.01 + 2 × 1.01 + 16.00 = 30.03",
+    "60.06/30.03 = 2",
+    "Double the formula: C2H4O2"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.4",
+   "kind": "calculation",
+   "question": "Hydrocarbon Y (CnHm) has molar mass 86.20 g mol⁻¹. Complete combustion of a sample gives 1.75 g of CO2 and 0.836 g of H2O. Deduce the molecular formula of Y.",
+   "options": [],
+   "answer": "C6H14",
+   "steps": [
+    "n(C) = 1.75/44.01 ≈ 0.0398 mol",
+    "n(H) = 2 × 0.836/18.02 ≈ 0.0928 mol",
+    "Ratio C : H ≈ 1 : 2.33 = 3 : 7, so empirical formula C3H7 (M = 43.10)",
+    "86.20/43.10 = 2, so C6H14"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.5",
+   "kind": "calculation",
+   "question": "117 mg of solid NaCl is dissolved in water to make 25.0 cm³ of solution. Calculate the molar concentration in mol dm⁻³ and the mass concentration in g dm⁻³.",
+   "options": [],
+   "answer": "c = 0.0801 mol dm⁻³; ρ = 4.68 g dm⁻³",
+   "steps": [
+    "m = 0.117 g; M(NaCl) = 58.44 g mol⁻¹; n ≈ 2.00 × 10⁻³ mol",
+    "V = 0.0250 dm³",
+    "c = 2.002 × 10⁻³/0.0250 ≈ 0.0801 mol dm⁻³",
+    "ρ = 0.117/0.0250 = 4.68 g dm⁻³"
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.5",
+   "kind": "multiple_choice",
+   "question": "1.70 g of NaNO3 (M = 85.00 g mol⁻¹) is dissolved in water to make 0.100 dm³ of solution. What is the concentration of NaNO3?",
+   "options": [
+    "A. 0.0200 mol dm⁻³",
+    "B. 0.100 mol dm⁻³",
+    "C. 0.200 mol dm⁻³",
+    "D. 50.0 mol dm⁻³"
+   ],
+   "answer": "C. 0.200 mol dm⁻³",
+   "steps": [
+    "n = 1.70/85.00 = 0.0200 mol",
+    "c = 0.0200/0.100 = 0.200 mol dm⁻³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.6",
+   "kind": "calculation",
+   "question": "Chlorine dioxide decomposes: 2ClO2(g) → Cl2(g) + 2O2(g). Calculate the volumes of Cl2 and O2 formed from 3.00 dm³ of ClO2, all measured under the same conditions.",
+   "options": [],
+   "answer": "V(Cl2) = 1.50 dm³; V(O2) = 3.00 dm³",
+   "steps": [
+    "Volume ratio ClO2 : Cl2 : O2 = 2 : 1 : 2",
+    "V(Cl2) = ½ × 3.00 = 1.50 dm³",
+    "V(O2) = 3.00 dm³"
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "65",
+   "understanding": "S1.4.2",
+   "title": "Mr of water",
+   "problem": "Calculate the relative molecular mass of a water molecule, H2O.",
+   "steps": [
+    {
+     "hint": "Count the atoms of each element in the formula.",
+     "work": "2 H atoms (Ar = 1.01) and 1 O atom (Ar = 16.00)"
+    },
+    {
+     "hint": "Add the Ar values, using the data booklet's two-decimal figures.",
+     "work": "Mr = 2 × 1.01 + 16.00 = 18.02"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "67",
+   "understanding": "S1.4.3",
+   "title": "Sucrose in a sugar cube",
+   "problem": "A sugar cube of 2.80 g is essentially sucrose, C12H22O11. Find the molar mass of sucrose, the amount of sucrose in the cube, and the number of oxygen atoms in it.",
+   "steps": [
+    {
+     "hint": "Add up the atomic masses over the molecular formula.",
+     "work": "M = 12 × 12.01 + 22 × 1.01 + 11 × 16.00 = 342.34 g mol⁻¹"
+    },
+    {
+     "hint": "Divide the mass by the molar mass.",
+     "work": "n = 2.80 g / 342.34 g mol⁻¹ ≈ 0.00818 mol"
+    },
+    {
+     "hint": "Use the number of O atoms per molecule to get moles of O.",
+     "work": "n(O) = 11 × 0.00818 ≈ 0.0900 mol"
+    },
+    {
+     "hint": "Multiply by the Avogadro constant.",
+     "work": "N(O) = 0.0900 mol × 6.02 × 10²³ mol⁻¹ ≈ 5.42 × 10²²"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "69",
+   "understanding": "S1.4.4",
+   "title": "Percentage composition of water",
+   "problem": "Calculate the percentage by mass of hydrogen and oxygen in water.",
+   "steps": [
+    {
+     "hint": "Pick 1 mol of water and find the mass of each element in it.",
+     "work": "m(H) = 2 × 1.01 = 2.02 g; m(O) = 16.00 g; m(H2O) = 18.02 g"
+    },
+    {
+     "hint": "Divide the hydrogen mass by the total mass.",
+     "work": "ω(H) = 2.02/18.02 × 100% ≈ 11.2%"
+    },
+    {
+     "hint": "Subtract from 100% to get oxygen.",
+     "work": "ω(O) = 100% − 11.2% = 88.8%"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "69",
+   "understanding": "S1.4.4",
+   "title": "Empirical formula of an iron oxide",
+   "problem": "An iron oxide contains 72.36% iron by mass. Deduce its empirical formula.",
+   "steps": [
+    {
+     "hint": "Find the oxygen percentage and choose a 100 g sample.",
+     "work": "ω(O) = 27.64%; 72.36 g Fe and 27.64 g O"
+    },
+    {
+     "hint": "Convert each mass to moles.",
+     "work": "n(Fe) = 72.36/55.85 ≈ 1.296 mol; n(O) = 27.64/16.00 ≈ 1.728 mol"
+    },
+    {
+     "hint": "Divide by the smaller value, then scale to whole numbers.",
+     "work": "1 : 1.333 → ×3 → 3 : 4"
+    },
+    {
+     "hint": "Write the formula from the whole-number ratio.",
+     "work": "Fe3O4"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "70",
+   "understanding": "S1.4.4",
+   "title": "Hydrocarbon formula from combustion",
+   "problem": "An unknown hydrocarbon burns in excess oxygen to give 26.41 g of CO2 and 13.52 g of H2O. Deduce its empirical formula.",
+   "steps": [
+    {
+     "hint": "Convert CO2 mass to moles; each CO2 holds one C.",
+     "work": "n(CO2) = 26.41/44.01 ≈ 0.6001 mol = n(C)"
+    },
+    {
+     "hint": "Convert H2O mass to moles; each H2O holds two H.",
+     "work": "n(H2O) = 13.52/18.02 ≈ 0.7503 mol; n(H) ≈ 1.501 mol"
+    },
+    {
+     "hint": "Form the C : H ratio and clear the fraction.",
+     "work": "0.6001 : 1.501 ≈ 1 : 2.5 = 2 : 5"
+    },
+    {
+     "hint": "State the empirical formula.",
+     "work": "C2H5"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "74",
+   "understanding": "S1.4.5",
+   "title": "Concentration of a NaCl solution",
+   "problem": "3.60 g of NaCl is dissolved in water to make 25.0 cm³ of solution. Calculate the concentration in mol dm⁻³.",
+   "steps": [
+    {
+     "hint": "Find the molar mass of NaCl.",
+     "work": "M = 22.99 + 35.45 = 58.44 g mol⁻¹"
+    },
+    {
+     "hint": "Convert the mass to moles.",
+     "work": "n = 3.60/58.44 ≈ 0.0616 mol"
+    },
+    {
+     "hint": "Convert cm³ to dm³.",
+     "work": "V = 25.0 cm³ = 0.0250 dm³"
+    },
+    {
+     "hint": "Divide moles by volume.",
+     "work": "c = 0.0616/0.0250 ≈ 2.46 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "74",
+   "understanding": "S1.4.5",
+   "title": "Mass concentration of NaCl",
+   "problem": "For the solution with 3.60 g of NaCl in 25.0 cm³ (c = 2.46 mol dm⁻³), calculate the mass concentration of NaCl.",
+   "steps": [
+    {
+     "hint": "Divide solute mass by solution volume in dm³.",
+     "work": "ρ = 3.60 g / 0.0250 dm³ = 144 g dm⁻³"
+    },
+    {
+     "hint": "Check using concentration and molar mass.",
+     "work": "ρ = c × M = 2.46 × 58.44 ≈ 144 g dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "75",
+   "understanding": "S1.4.5",
+   "title": "Dilution of sodium carbonate",
+   "problem": "6.624 g of Na2CO3 is made up to 250 cm³. A 10.0 cm³ sample is diluted to 100 cm³. Calculate the concentration of Na2CO3 in the new solution.",
+   "steps": [
+    {
+     "hint": "Find the molar mass and moles of Na2CO3 dissolved.",
+     "work": "M = 105.99 g mol⁻¹; n = 6.624/105.99 ≈ 0.06250 mol"
+    },
+    {
+     "hint": "Divide by the flask volume in dm³.",
+     "work": "c(standard) = 0.06250/0.250 = 0.250 mol dm⁻³"
+    },
+    {
+     "hint": "Find moles in the 10.0 cm³ sample.",
+     "work": "n = 0.250 × 0.0100 = 0.00250 mol"
+    },
+    {
+     "hint": "Moles stay the same on dilution; divide by the new volume.",
+     "work": "c = 0.00250/0.100 = 0.0250 mol dm⁻³"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "78",
+   "understanding": "S1.4.6",
+   "title": "Gas volumes in H2S combustion",
+   "problem": "2H2S(g) + 3O2(g) → 2H2O(l) + 2SO2(g). 0.908 dm³ of H2S is burned. Find the volumes of O2 consumed and SO2 produced, under the same conditions.",
+   "steps": [
+    {
+     "hint": "Use the coefficient ratio of O2 to H2S.",
+     "work": "V(O2) = 3/2 × 0.908 ≈ 1.36 dm³"
+    },
+    {
+     "hint": "Compare the coefficients of SO2 and H2S.",
+     "work": "Ratio 1 : 1, so V(SO2) = 0.908 dm³"
+    },
+    {
+     "hint": "Decide whether water can be treated the same way.",
+     "work": "No: water is a liquid and Avogadro's law applies only to gases"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "15",
+   "understanding": "S1.4.3",
+   "title": "Molecules in an aspirin tablet",
+   "problem": "An aspirin tablet contains 500 mg of acetylsalicylic acid, C9H8O4. Calculate the number of molecules in the tablet.",
+   "steps": [
+    {
+     "hint": "Find the molar mass.",
+     "work": "M = 9 × 12.01 + 8 × 1.01 + 4 × 16.00 = 180.17 g mol⁻¹"
+    },
+    {
+     "hint": "Convert mg to g.",
+     "work": "500 mg = 0.500 g"
+    },
+    {
+     "hint": "Divide mass by molar mass.",
+     "work": "n = 0.500/180.17 ≈ 2.78 × 10⁻³ mol"
+    },
+    {
+     "hint": "Multiply by the Avogadro constant.",
+     "work": "N = 2.78 × 10⁻³ × 6.02 × 10²³ ≈ 1.67 × 10²¹ molecules"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "16",
+   "understanding": "S1.4.4",
+   "title": "Percentage of Mg in magnesium phosphate",
+   "problem": "Find the percentage by mass of magnesium in magnesium phosphate, to 3 significant figures.",
+   "steps": [
+    {
+     "hint": "Balance the ion charges to get the formula.",
+     "work": "Mg²⁺ and PO4³⁻ → Mg3(PO4)2"
+    },
+    {
+     "hint": "Add up the atomic masses for one formula unit.",
+     "work": "M = 3 × 24.31 + 2 × 30.97 + 8 × 16.00 = 262.87 g mol⁻¹"
+    },
+    {
+     "hint": "Divide the magnesium mass by M.",
+     "work": "%Mg = 72.93/262.87 × 100% ≈ 27.7%"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "16",
+   "understanding": "S1.4.4",
+   "title": "Salbutamol empirical and molecular formula",
+   "problem": "Salbutamol (M = 239.35 g mol⁻¹) contains 65.2% C, 8.9% H, 5.9% N by mass, plus oxygen. Deduce its empirical and molecular formulas.",
+   "steps": [
+    {
+     "hint": "Get oxygen by difference.",
+     "work": "%O = 100 − (65.2 + 8.9 + 5.9) = 20.0%"
+    },
+    {
+     "hint": "Convert each percentage to moles per 100 g.",
+     "work": "C 5.43; H 8.8; N 0.42; O 1.25 mol"
+    },
+    {
+     "hint": "Divide by the smallest value (0.42).",
+     "work": "C 12.9, H 21, N 1, O 3 → C13H21NO3"
+    },
+    {
+     "hint": "Compare the empirical formula mass to the given M.",
+     "work": "M(C13H21NO3) = 239.35, equal to M, so the molecular formula is the same"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "17",
+   "understanding": "S1.4.5",
+   "title": "Molar and mass concentration of NaCl",
+   "problem": "A NaCl solution has a concentration of 5.26 g dm⁻³. Calculate the molar concentration in mol dm⁻³ and the mass concentration in ppm.",
+   "steps": [
+    {
+     "hint": "Choose a convenient volume of solution.",
+     "work": "Take V = 1.00 dm³, so m = 5.26 g"
+    },
+    {
+     "hint": "Convert mass to moles.",
+     "work": "n = 5.26/58.44 ≈ 0.0900 mol"
+    },
+    {
+     "hint": "Divide by volume.",
+     "work": "c = 0.0900 mol dm⁻³"
+    },
+    {
+     "hint": "Convert g dm⁻³ to mg dm⁻³ (1 ppm = 1 mg dm⁻³).",
+     "work": "5.26 × 1000 = 5260 ppm"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "18",
+   "understanding": "S1.4.6",
+   "title": "Gas volumes from burning ethane",
+   "problem": "2C2H6(g) + 7O2(g) → 4CO2(g) + 6H2O(l). Find the volumes of O2 consumed and CO2 produced from 5.00 dm³ of ethane, under the same conditions.",
+   "steps": [
+    {
+     "hint": "Write the volume ratio ethane : O2 : CO2 per 1 of ethane.",
+     "work": "2 : 7 : 4 = 1 : 3.5 : 2"
+    },
+    {
+     "hint": "Scale the ethane volume for oxygen.",
+     "work": "V(O2) = 3.5 × 5.00 = 17.5 dm³"
+    },
+    {
+     "hint": "Scale the ethane volume for carbon dioxide.",
+     "work": "V(CO2) = 2 × 5.00 = 10.0 dm³"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "71",
+   "understanding": "S1.4.4",
+   "tag": "Skills question 1-2",
+   "prompt": "In the magnesium burning experiment, how do you turn your masses into an empirical formula for magnesium oxide, and how does your result compare with the true formula?",
+   "model_answer": [
+    "Mass of Mg comes from the weighing before heating; mass of O is the oxide mass minus the Mg mass",
+    "Convert each mass to moles using n = m/M",
+    "Divide both mole values by the smaller to get the simplest ratio",
+    "The true formula is MgO (1 : 1), so compare your ratio with this and comment on the difference"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "71",
+   "understanding": "S1.4.4",
+   "tag": "Skills question 3-5",
+   "prompt": "If you plot the mass of magnesium oxide against the mass of magnesium for a whole class, what should the graph look like and what does it tell you about magnesium oxide?",
+   "model_answer": [
+    "The graph rises at a constant rate, so it is linear",
+    "Draw the best-fit line following Tool 3 guidance, identifying any anomalies first",
+    "A straight line means Mg and O combine in a constant ratio",
+    "So the composition of magnesium oxide is constant"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "71",
+   "understanding": "S1.4.4",
+   "tag": "Skills question 6",
+   "prompt": "Why do you repeat the heating, cooling and weighing until the mass stops changing?",
+   "model_answer": [
+    "It makes sure that all of the magnesium has reacted"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "71",
+   "understanding": "S1.4.4",
+   "tag": "Skills question 7-8",
+   "prompt": "Name two major sources of error in the magnesium experiment and suggest realistic improvements for them.",
+   "model_answer": [
+    "Errors: side products forming; loss of MgO when the lid is lifted; unreacted Mg left; soot on the crucible changing its mass",
+    "Improvements: loosely coil the Mg so air gets in",
+    "Lift the lid only slightly to limit loss of MgO",
+    "Use a roaring Bunsen flame to avoid soot from incomplete combustion",
+    "Repeat trials"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "71",
+   "understanding": "S1.4.4",
+   "tag": "Skills question 9",
+   "prompt": "When is it sensible to round a mole ratio to a whole number in an empirical formula calculation, and when should you scale up instead?",
+   "model_answer": [
+    "Experimental mole values rarely give whole numbers",
+    "You must decide whether to round or to multiply the ratio up",
+    "Different choices can lead to different empirical formulas",
+    "Online calculators can show the effect of rounding at different stages",
+    "Consider whether exam data and real experimental data should be treated differently"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "76",
+   "understanding": "S1.4.5",
+   "tag": "Data-based question",
+   "prompt": "A KMnO4 solution of unknown concentration has an absorbance of 0.285. How do you find its concentration from the calibration curve, and what is the value?",
+   "model_answer": [
+    "Find 0.285 on the absorbance axis and read across to the line",
+    "Then read down to the concentration axis (mmol dm⁻³)",
+    "The concentration is about 0.38 mmol dm⁻³"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "77",
+   "understanding": "S1.4.5",
+   "tag": "Activity",
+   "prompt": "You make two 0.020 mol dm⁻³ copper(II) sulfate solutions, one with a volumetric flask and milligram balance, the other with a measuring cylinder and centigram balance. How do you compare their precision and accuracy?",
+   "model_answer": [
+    "Propagate percentage uncertainties: e.g. 100 cm³ ± 0.08 cm³ and 0.499 g ± 0.001 g gives about 0.3%",
+    "The cylinder and centigram balance (± 0.5 cm³, ± 0.01 g) give about 3%",
+    "Solution 1 is more precise because its uncertainty is smaller",
+    "Accuracy depends on the colorimeter result: the one with the lower percentage error against 0.020 mol dm⁻³ is more accurate"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "78",
+   "understanding": "S1.4.5",
+   "tag": "Skills question 5",
+   "prompt": "What are the advantages and disadvantages of making calibration-curve samples by serial dilution?",
+   "model_answer": [
+    "Advantage: very low concentrations can be reached",
+    "Advantage: high precision is possible",
+    "Disadvantage: every dilution depends on the stock solution's accuracy",
+    "Disadvantage: errors depend on the correct use of volumetric glassware, and can build up through the series"
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.4.4",
+   "tag": "Tool 1",
+   "prompt": "How can mass changes in a combustion reaction be used to work out an empirical formula?",
+   "model_answer": [
+    "Measure masses accurately with a balance before and after the reaction",
+    "The mass gained or lost gives the mass of the other element, e.g. O in MgO from oxide minus metal",
+    "Or trap and weigh CO2 and H2O from burning a hydrocarbon to get C and H",
+    "Convert each mass to moles with n = m/M",
+    "Divide by the smallest value and scale to whole numbers",
+    "Heat to constant mass so the reaction is complete"
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.4.4",
+   "tag": "Nature of science, Tool 3, Structure 3.2",
+   "prompt": "Why does approximation matter when you find an empirical formula from experimental data?",
+   "model_answer": [
+    "Measured data have uncertainty, so mole ratios are rarely exact whole numbers",
+    "Rounding a ratio like 1 : 1.98 to 1 : 2 is reasonable if it falls within the uncertainty",
+    "A ratio like 1 : 1.33 or 1 : 1.5 should be scaled up (×3 or ×2), not rounded",
+    "Rounding too early gives wrong formulas, so keep sig figs until the end",
+    "Chemical knowledge (known compounds) helps check the choice",
+    "Approximation is a judgement, not a rule"
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.4.5",
+   "tag": "Tool 1",
+   "prompt": "Which glassware would you choose to make a standard solution and a serial dilution, and why?",
+   "model_answer": [
+    "A volumetric flask has a single etched mark and gives a precise fixed volume",
+    "A volumetric pipette delivers an accurate fixed volume for the dilution step",
+    "Beakers and measuring cylinders are too imprecise for standard solutions",
+    "Use a balance with suitable precision for the solute mass",
+    "Fill to the mark by the meniscus, stopper, and invert to mix",
+    "Rinse glassware and use deionized water"
+   ],
+   "answer_from": "claude"
+  },
+  {
+   "source": "guide",
+   "page": "",
+   "understanding": "S1.4.5",
+   "tag": "Tool 1, Inquiry 2",
+   "prompt": "How can a calibration curve be used to find the concentration of an unknown solution, and what makes it reliable?",
+   "model_answer": [
+    "Make standards of known concentration by serial dilution",
+    "Measure a property such as absorbance for each standard",
+    "Plot property against concentration; ideally a straight line through the origin",
+    "Measure the unknown's absorbance and read its concentration from the line",
+    "If the reading is beyond the linear range, dilute and correct for the dilution",
+    "Reliability depends on accurate standards, repeated readings and a suitable wavelength"
+   ],
+   "answer_from": "claude"
+  }
+ ],
+ "sub_topic": "S1.4",
+ "title": "Counting particles by mass: The mole",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": [
+  "practice 18 (Course Companion p79): copies the book",
+  "worked 10 (IB Prepared p15): copies the book"
+ ]
+}

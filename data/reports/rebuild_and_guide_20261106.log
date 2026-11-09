@@ -1,0 +1,33 @@
+R1.1: 26 practice, 6 worked, 7 investigations, 6 from past papers, 5 issues
+  ! practice 8 (Course Companion p402): copies the book
+  ! practice 12 (Course Companion p402): copies the book
+  ! practice 19 (Course Companion p403): numbers not on the cited page: 0.0424
+  ! practice 20 (IB Prepared p97): copies the book
+  ! practice 21 (IB Prepared p98): copies the book
+R1.2: 40 practice, 9 worked, 7 investigations, 1 from past papers, 0 issues
+R1.3: 39 practice, 2 worked, 2 investigations, 1 from past papers, 3 issues
+  ! practice 1 (Course Companion p427): copies the book
+  ! practice 37 (IB Prepared p113): copies the book
+  ! worked 2 (IB Prepared p110): copies the book
+R1.4: 41 practice, 9 worked, 10 investigations, 1 from past papers, 2 issues
+  ! practice 5 (Course Companion p447): copies the book
+  ! worked 8 (IB Prepared p117): numbers not on the cited page: 313.4
+R2.1: 55 practice, 8 worked, 8 investigations, 0 from past papers, 12 issues
+  ! practice 3 (Course Companion p463): numbers not on the cited page: 58.14
+  ! practice 10 (Course Companion p471): numbers not on the cited page: 101.96
+  ! practice 11 (Course Companion p471): numbers not on the cited page: 17.84
+  ! practice 13 (Course Companion p476): numbers not on the cited page: 93.14, 107.17
+  ! practice 21 (Course Companion p478): numbers not on the cited page: 71.10
+  ! practice 24 (Course Companion p478): numbers not on the cited page: 86.94
+  ! practice 35 (Course Companion p479): numbers not on the cited page: 159.17
+  ! practice 37 (Course Companion p479): numbers not on the cited page: 46.08, 28.06
+  ! practice 38 (Course Companion p479): numbers not on the cited page: 18.02, 180.18
+  ! practice 48 (IB Prepared p126): numbers not on the cited page: 44.11
+  ! practice 53 (IB Prepared p126): numbers not on the cited page: 78.50, 31.07, 73.11
+  ! practice 54 (IB Prepared p126): numbers not on the cited page: 32.05, 46.08
+R2.2: 59 practice, 14 worked, 10 investigations, 1 from past papers, 3 issues
+  ! practice 3 (Course Companion p487): numbers not on the cited page: 50.0, 44.0
+  ! practice 11 (Course Companion p506): numbers not on the cited page: 0.0054, 0.065
+  ! practice 55 (IB Prepared p138): copies the book
+FAILED R1.2: no result: "concurrency_limit":0,"budget":0},"by_type":{}},"safety_stops":0,"is_error":true,"num_turns":2,"subtype":"success","api_error_status":429,"api_error_origin":"first_party","api_error":"usage_limit_reached","result":"You've hit your 5-hour limit · resets 5:50pm (Atlantic/Canary)","type":"result","duration_ms":11064,"uuid":"e015b652-b80c-4234-8e9b-8c2890b8be4b","queued_turn_count":0,"result_index":0} 
+R1.1: 4 sections, 1702 words of explanation, 0 issues

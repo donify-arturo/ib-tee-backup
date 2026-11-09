@@ -1,0 +1,14333 @@
+{
+"file": "documents to process\\MATHS\\WORKED ANSWERS\\Updates_and_corrections_HL_Book.pdf",
+"rows": [
+{
+"chapter": 1,
+"printed": 16,
+"ref": "1D, 6",
+"key": "1D.6",
+"page": 0,
+"top": 255.3,
+"bottom": 269.6
+},
+{
+"chapter": 1,
+"printed": 18,
+"ref": "Example 9",
+"key": "1.Example9",
+"page": 0,
+"top": 268.6,
+"bottom": 282.9
+},
+{
+"chapter": 1,
+"printed": 20,
+"ref": "Example 11, b",
+"key": "1.Example11",
+"page": 0,
+"top": 281.9,
+"bottom": 305.6
+},
+{
+"chapter": 1,
+"printed": 20,
+"ref": "Example 11, worked solution (a)",
+"key": "1.Example11",
+"page": 0,
+"top": 304.6,
+"bottom": 328.3
+},
+{
+"chapter": 1,
+"printed": 21,
+"ref": "Investigation 5, diagram",
+"key": "1.Investigation5",
+"page": 0,
+"top": 327.3,
+"bottom": 341.6
+},
+{
+"chapter": 1,
+"printed": 25,
+"ref": "1F, Q2",
+"key": "1F.2",
+"page": 0,
+"top": 340.6,
+"bottom": 364.3
+},
+{
+"chapter": 1,
+"printed": 26,
+"ref": "1G,Q1",
+"key": "1G.1",
+"page": 0,
+"top": 363.3,
+"bottom": 377.6
+},
+{
+"chapter": 1,
+"printed": 36,
+"ref": "1l, Q4c",
+"key": "1I.4",
+"page": 0,
+"top": 376.6,
+"bottom": 390.9
+},
+{
+"chapter": 1,
+"printed": 39,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 0,
+"top": 389.9,
+"bottom": 424.9
+},
+{
+"chapter": 1,
+"printed": 40,
+"ref": "Chapter review, 10b",
+"key": null,
+"page": 0,
+"top": 423.9,
+"bottom": 477.7
+},
+{
+"chapter": 1,
+"printed": 40,
+"ref": "Exam-style questions, 11",
+"key": null,
+"page": 0,
+"top": 476.7,
+"bottom": 491.0
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1A, 1i",
+"key": "1A.1",
+"page": 0,
+"top": 490.0,
+"bottom": 504.3
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1A, 1ii",
+"key": "1A.1",
+"page": 0,
+"top": 503.3,
+"bottom": 517.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1B, 1b",
+"key": "1B.1",
+"page": 0,
+"top": 516.6,
+"bottom": 531.0
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1B, 3a",
+"key": "1B.3",
+"page": 0,
+"top": 530.0,
+"bottom": 553.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1B, 3b",
+"key": "1B.3",
+"page": 0,
+"top": 552.6,
+"bottom": 576.3
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 1aii",
+"key": "1C.1",
+"page": 0,
+"top": 575.3,
+"bottom": 589.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 1bi",
+"key": "1C.1",
+"page": 0,
+"top": 588.6,
+"bottom": 603.0
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 1bii",
+"key": "1C.1",
+"page": 0,
+"top": 602.0,
+"bottom": 616.3
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 3b",
+"key": "1C.3",
+"page": 0,
+"top": 615.3,
+"bottom": 629.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 3cii",
+"key": "1C.3",
+"page": 0,
+"top": 628.6,
+"bottom": 642.9
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1C, 5b",
+"key": "1C.5",
+"page": 0,
+"top": 641.9,
+"bottom": 656.2
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1D, 1b",
+"key": "1D.1",
+"page": 0,
+"top": 655.2,
+"bottom": 669.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1D, 5",
+"key": "1D.5",
+"page": 0,
+"top": 668.6,
+"bottom": 682.9
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1D, 7",
+"key": "1D.7",
+"page": 0,
+"top": 681.9,
+"bottom": 705.6
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1D, 8a",
+"key": "1D.8",
+"page": 0,
+"top": 704.6,
+"bottom": 752.0
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1D, 8b",
+"key": "1D.8",
+"page": 1,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1E, 1ai",
+"key": "1E.1",
+"page": 1,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1E, 1aiii",
+"key": "1E.1",
+"page": 1,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 1,
+"printed": 765,
+"ref": "1E, biii",
+"key": null,
+"page": 1,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1E, ci",
+"key": null,
+"page": 1,
+"top": 108.0,
+"bottom": 122.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1E, ciii",
+"key": null,
+"page": 1,
+"top": 121.4,
+"bottom": 145.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1E, 3",
+"key": "1E.3",
+"page": 1,
+"top": 144.0,
+"bottom": 167.7
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1E, 5",
+"key": "1E.5",
+"page": 1,
+"top": 166.7,
+"bottom": 190.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 1c",
+"key": "1F.1",
+"page": 1,
+"top": 189.4,
+"bottom": 213.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 1d",
+"key": "1F.1",
+"page": 1,
+"top": 212.1,
+"bottom": 226.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 2",
+"key": "1F.2",
+"page": 1,
+"top": 225.4,
+"bottom": 325.2
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 3",
+"key": "1F.3",
+"page": 1,
+"top": 324.2,
+"bottom": 338.5
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 4a",
+"key": "1F.4",
+"page": 1,
+"top": 337.5,
+"bottom": 351.8
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 4b",
+"key": "1F.4",
+"page": 1,
+"top": 350.8,
+"bottom": 365.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1F, 5 & 6",
+"key": "1F.5",
+"page": 1,
+"top": 364.1,
+"bottom": 378.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G,Q1ai",
+"key": "1G.1",
+"page": 1,
+"top": 377.4,
+"bottom": 391.8
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G,Q1aii",
+"key": "1G.1",
+"page": 1,
+"top": 390.8,
+"bottom": 405.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 1bi",
+"key": "1G.1",
+"page": 1,
+"top": 404.1,
+"bottom": 418.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 1bii",
+"key": "1G.1",
+"page": 1,
+"top": 417.4,
+"bottom": 431.7
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 1ci",
+"key": "1G.1",
+"page": 1,
+"top": 430.7,
+"bottom": 445.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 1cii",
+"key": "1G.1",
+"page": 1,
+"top": 444.0,
+"bottom": 458.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 2",
+"key": "1G.2",
+"page": 1,
+"top": 457.4,
+"bottom": 471.7
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 3c",
+"key": "1G.3",
+"page": 1,
+"top": 470.7,
+"bottom": 485.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 4a",
+"key": "1G.4",
+"page": 1,
+"top": 484.0,
+"bottom": 498.3
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 4b",
+"key": "1G.4",
+"page": 1,
+"top": 497.3,
+"bottom": 511.6
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G. 5a",
+"key": null,
+"page": 1,
+"top": 510.6,
+"bottom": 525.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G, 5b",
+"key": "1G.5",
+"page": 1,
+"top": 524.0,
+"bottom": 538.3
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1G 6",
+"key": null,
+"page": 1,
+"top": 537.3,
+"bottom": 551.6
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 1b",
+"key": "1H.1",
+"page": 1,
+"top": 550.6,
+"bottom": 564.9
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 1c",
+"key": "1H.1",
+"page": 1,
+"top": 563.9,
+"bottom": 578.2
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 3ai",
+"key": "1H.3",
+"page": 1,
+"top": 577.2,
+"bottom": 591.6
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 3aii",
+"key": "1H.3",
+"page": 1,
+"top": 590.6,
+"bottom": 604.9
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 3aiii",
+"key": "1H.3",
+"page": 1,
+"top": 603.9,
+"bottom": 618.2
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 4a",
+"key": "1H.4",
+"page": 1,
+"top": 617.2,
+"bottom": 631.5
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1H, 4b",
+"key": "1H.4",
+"page": 1,
+"top": 630.5,
+"bottom": 644.8
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 1a",
+"key": "1I.1",
+"page": 1,
+"top": 643.8,
+"bottom": 658.2
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 1b",
+"key": "1I.1",
+"page": 1,
+"top": 657.2,
+"bottom": 671.5
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 1d",
+"key": "1I.1",
+"page": 1,
+"top": 670.5,
+"bottom": 684.8
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 2ii",
+"key": "1I.2",
+"page": 1,
+"top": 683.8,
+"bottom": 698.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 2iii",
+"key": "1I.2",
+"page": 1,
+"top": 697.1,
+"bottom": 711.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 4a",
+"key": "1I.4",
+"page": 1,
+"top": 710.4,
+"bottom": 752.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 6a",
+"key": "1I.6",
+"page": 2,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 6b",
+"key": "1I.6",
+"page": 2,
+"top": 68.1,
+"bottom": 91.8
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 7b",
+"key": "1I.7",
+"page": 2,
+"top": 90.8,
+"bottom": 105.1
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "1I, 8",
+"key": "1I.8",
+"page": 2,
+"top": 104.1,
+"bottom": 118.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "Chapter review 1di",
+"key": null,
+"page": 2,
+"top": 117.4,
+"bottom": 131.7
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "Chapter review 1dii",
+"key": null,
+"page": 2,
+"top": 130.7,
+"bottom": 145.0
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "Chapter review 2a",
+"key": null,
+"page": 2,
+"top": 144.0,
+"bottom": 158.4
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "Chapter review 3",
+"key": null,
+"page": 2,
+"top": 157.4,
+"bottom": 171.7
+},
+{
+"chapter": 1,
+"printed": 766,
+"ref": "Chapter review 5",
+"key": null,
+"page": 2,
+"top": 170.7,
+"bottom": 194.4
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Chapter review 9d",
+"key": null,
+"page": 2,
+"top": 193.4,
+"bottom": 207.7
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Chapter review 10a & 10b",
+"key": null,
+"page": 2,
+"top": 206.7,
+"bottom": 222.3
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 12c",
+"key": null,
+"page": 2,
+"top": 221.3,
+"bottom": 236.4
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 13c",
+"key": null,
+"page": 2,
+"top": 235.4,
+"bottom": 249.1
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 17a",
+"key": null,
+"page": 2,
+"top": 248.1,
+"bottom": 262.4
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 17c",
+"key": null,
+"page": 2,
+"top": 261.4,
+"bottom": 276.4
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 17d",
+"key": null,
+"page": 2,
+"top": 275.4,
+"bottom": 290.5
+},
+{
+"chapter": 1,
+"printed": 767,
+"ref": "Exam-style questions, 17e",
+"key": null,
+"page": 2,
+"top": 289.5,
+"bottom": 331.2
+},
+{
+"chapter": 2,
+"printed": 2,
+"ref": "Exercise / question",
+"key": null,
+"page": 2,
+"top": 330.2,
+"bottom": 357.8
+},
+{
+"chapter": 2,
+"printed": 58,
+"ref": "2C, Q1",
+"key": "2C.1",
+"page": 2,
+"top": 356.8,
+"bottom": 371.1
+},
+{
+"chapter": 2,
+"printed": 58,
+"ref": "2C, Q2b",
+"key": "2C.2",
+"page": 2,
+"top": 370.1,
+"bottom": 384.4
+},
+{
+"chapter": 2,
+"printed": 62,
+"ref": "2D, Q2b",
+"key": "2D.2",
+"page": 2,
+"top": 383.4,
+"bottom": 397.8
+},
+{
+"chapter": 2,
+"printed": 62,
+"ref": "2D, Q2c",
+"key": "2D.2",
+"page": 2,
+"top": 396.8,
+"bottom": 499.9
+},
+{
+"chapter": 2,
+"printed": 65,
+"ref": "2E, 2d",
+"key": "2E.2",
+"page": 2,
+"top": 498.9,
+"bottom": 522.6
+},
+{
+"chapter": 2,
+"printed": 72,
+"ref": "2F,Q3",
+"key": "2F.3",
+"page": 2,
+"top": 521.6,
+"bottom": 535.9
+},
+{
+"chapter": 2,
+"printed": 79,
+"ref": "Exam-style questions, 14c & d",
+"key": null,
+"page": 2,
+"top": 534.9,
+"bottom": 558.6
+},
+{
+"chapter": 2,
+"printed": 767,
+"ref": "2A",
+"key": null,
+"page": 2,
+"top": 557.6,
+"bottom": 571.9
+},
+{
+"chapter": 2,
+"printed": 767,
+"ref": "2A, 3",
+"key": "2A.3",
+"page": 2,
+"top": 570.9,
+"bottom": 605.8
+},
+{
+"chapter": 2,
+"printed": 767,
+"ref": "2B, 2a",
+"key": "2B.2",
+"page": 2,
+"top": 604.8,
+"bottom": 619.2
+},
+{
+"chapter": 2,
+"printed": 767,
+"ref": "2B, 3b",
+"key": "2B.3",
+"page": 2,
+"top": 618.2,
+"bottom": 632.5
+},
+{
+"chapter": 2,
+"printed": 767,
+"ref": "2B, 4a",
+"key": "2B.4",
+"page": 2,
+"top": 631.5,
+"bottom": 752.0
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2B, 5",
+"key": "2B.5",
+"page": 3,
+"top": 54.8,
+"bottom": 180.0
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2B, 8C",
+"key": "2B.8",
+"page": 3,
+"top": 179.0,
+"bottom": 270.7
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 1aiii",
+"key": "2C.1",
+"page": 3,
+"top": 269.7,
+"bottom": 284.0
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 1bii",
+"key": "2C.1",
+"page": 3,
+"top": 283.0,
+"bottom": 297.3
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 1biii",
+"key": "2C.1",
+"page": 3,
+"top": 296.3,
+"bottom": 310.6
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 1cii",
+"key": "2C.1",
+"page": 3,
+"top": 309.6,
+"bottom": 324.0
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 1ciii",
+"key": "2C.1",
+"page": 3,
+"top": 323.0,
+"bottom": 424.8
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 2b",
+"key": "2C.2",
+"page": 3,
+"top": 423.8,
+"bottom": 438.1
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 2c",
+"key": "2C.2",
+"page": 3,
+"top": 437.1,
+"bottom": 451.4
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 2d",
+"key": "2C.2",
+"page": 3,
+"top": 450.4,
+"bottom": 464.7
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 3b",
+"key": "2C.3",
+"page": 3,
+"top": 463.7,
+"bottom": 478.0
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2C, 4a",
+"key": "2C.4",
+"page": 3,
+"top": 477.0,
+"bottom": 523.4
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2D, 2b",
+"key": "2D.2",
+"page": 3,
+"top": 522.4,
+"bottom": 536.7
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2D, Q2c",
+"key": "2D.2",
+"page": 3,
+"top": 535.7,
+"bottom": 604.9
+},
+{
+"chapter": 2,
+"printed": 768,
+"ref": "2D, 3b",
+"key": "2D.3",
+"page": 3,
+"top": 603.9,
+"bottom": 627.6
+},
+{
+"chapter": 2,
+"printed": 769,
+"ref": "2E, 1b",
+"key": "2E.1",
+"page": 3,
+"top": 626.6,
+"bottom": 640.9
+},
+{
+"chapter": 2,
+"printed": 769,
+"ref": "2E, 2d",
+"key": "2E.2",
+"page": 3,
+"top": 639.9,
+"bottom": 663.6
+},
+{
+"chapter": 2,
+"printed": 769,
+"ref": "2E, 2g",
+"key": "2E.2",
+"page": 3,
+"top": 662.6,
+"bottom": 697.5
+},
+{
+"chapter": 2,
+"printed": 769,
+"ref": "2F, 2a",
+"key": "2F.2",
+"page": 3,
+"top": 696.5,
+"bottom": 752.0
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "2F, 3b",
+"key": "2F.3",
+"page": 4,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "2F, 3g",
+"key": "2F.3",
+"page": 4,
+"top": 68.1,
+"bottom": 114.4
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 1a",
+"key": null,
+"page": 4,
+"top": 113.4,
+"bottom": 137.1
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 1b",
+"key": null,
+"page": 4,
+"top": 136.1,
+"bottom": 159.8
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 1d",
+"key": null,
+"page": 4,
+"top": 158.8,
+"bottom": 193.8
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 1e",
+"key": null,
+"page": 4,
+"top": 192.8,
+"bottom": 250.5
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 1f",
+"key": null,
+"page": 4,
+"top": 249.5,
+"bottom": 263.8
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 2",
+"key": null,
+"page": 4,
+"top": 262.8,
+"bottom": 513.6
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 3b",
+"key": null,
+"page": 4,
+"top": 512.6,
+"bottom": 547.5
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 4b",
+"key": null,
+"page": 4,
+"top": 546.5,
+"bottom": 560.8
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 4di",
+"key": null,
+"page": 4,
+"top": 559.8,
+"bottom": 606.2
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 4dii",
+"key": null,
+"page": 4,
+"top": 605.2,
+"bottom": 619.5
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 5a",
+"key": null,
+"page": 4,
+"top": 618.5,
+"bottom": 632.8
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 5b",
+"key": null,
+"page": 4,
+"top": 631.8,
+"bottom": 646.2
+},
+{
+"chapter": 2,
+"printed": 770,
+"ref": "Chapter review, 6a",
+"key": null,
+"page": 4,
+"top": 645.2,
+"bottom": 752.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Chapter review, 7c",
+"key": null,
+"page": 5,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Chapter review, 8a",
+"key": null,
+"page": 5,
+"top": 68.1,
+"bottom": 103.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 11b",
+"key": null,
+"page": 5,
+"top": 102.0,
+"bottom": 116.4
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 11e",
+"key": null,
+"page": 5,
+"top": 115.4,
+"bottom": 129.7
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 12a",
+"key": null,
+"page": 5,
+"top": 128.7,
+"bottom": 143.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 12b",
+"key": null,
+"page": 5,
+"top": 142.0,
+"bottom": 156.3
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 12c",
+"key": null,
+"page": 5,
+"top": 155.3,
+"bottom": 169.6
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 12d",
+"key": null,
+"page": 5,
+"top": 168.6,
+"bottom": 183.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 12e",
+"key": null,
+"page": 5,
+"top": 182.0,
+"bottom": 242.4
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 13a",
+"key": null,
+"page": 5,
+"top": 241.4,
+"bottom": 255.7
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 13b",
+"key": null,
+"page": 5,
+"top": 254.7,
+"bottom": 269.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 13c",
+"key": null,
+"page": 5,
+"top": 268.0,
+"bottom": 282.3
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 13d",
+"key": null,
+"page": 5,
+"top": 281.3,
+"bottom": 295.6
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 14b",
+"key": null,
+"page": 5,
+"top": 294.6,
+"bottom": 309.0
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 14c",
+"key": null,
+"page": 5,
+"top": 308.0,
+"bottom": 322.3
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 14d",
+"key": null,
+"page": 5,
+"top": 321.3,
+"bottom": 335.6
+},
+{
+"chapter": 2,
+"printed": 771,
+"ref": "Exam-style questions, 14e",
+"key": null,
+"page": 5,
+"top": 334.6,
+"bottom": 348.9
+},
+{
+"chapter": 2,
+"printed": 772,
+"ref": "Exam-style questions, 15b",
+"key": null,
+"page": 5,
+"top": 347.9,
+"bottom": 362.2
+},
+{
+"chapter": 2,
+"printed": 772,
+"ref": "Exam-style questions, 15c",
+"key": null,
+"page": 5,
+"top": 361.2,
+"bottom": 375.6
+},
+{
+"chapter": 2,
+"printed": 772,
+"ref": "Exam-style questions, 17a",
+"key": null,
+"page": 5,
+"top": 374.6,
+"bottom": 398.2
+},
+{
+"chapter": 2,
+"printed": 772,
+"ref": "Exam-style questions, 17b",
+"key": null,
+"page": 5,
+"top": 397.2,
+"bottom": 411.6
+},
+{
+"chapter": 2,
+"printed": 772,
+"ref": "Exam-style questions, 17c",
+"key": null,
+"page": 5,
+"top": 410.6,
+"bottom": 501.6
+},
+{
+"chapter": 3,
+"printed": 3,
+"ref": "Exercise / question",
+"key": null,
+"page": 5,
+"top": 500.6,
+"bottom": 528.2
+},
+{
+"chapter": 3,
+"printed": 88,
+"ref": "3B, Q4",
+"key": "3B.4",
+"page": 5,
+"top": 527.2,
+"bottom": 550.9
+},
+{
+"chapter": 3,
+"printed": 91,
+"ref": "3D",
+"key": null,
+"page": 5,
+"top": 549.9,
+"bottom": 573.6
+},
+{
+"chapter": 3,
+"printed": 95,
+"ref": "3E, 6",
+"key": "3E.6",
+"page": 5,
+"top": 572.6,
+"bottom": 596.2
+},
+{
+"chapter": 3,
+"printed": 95,
+"ref": "3E, 6b",
+"key": "3E.6",
+"page": 5,
+"top": 595.2,
+"bottom": 752.0
+},
+{
+"chapter": 3,
+"printed": 103,
+"ref": "3G, 5",
+"key": "3G.5",
+"page": 6,
+"top": 54.8,
+"bottom": 146.5
+},
+{
+"chapter": 3,
+"printed": 106,
+"ref": "Investigation 7, 2a",
+"key": "3.Investigation7",
+"page": 6,
+"top": 145.5,
+"bottom": 169.2
+},
+{
+"chapter": 3,
+"printed": 108,
+"ref": "3I, 5",
+"key": "3I.5",
+"page": 6,
+"top": 168.2,
+"bottom": 182.5
+},
+{
+"chapter": 3,
+"printed": 108,
+"ref": "3I, 5a",
+"key": "3I.5",
+"page": 6,
+"top": 181.5,
+"bottom": 205.2
+},
+{
+"chapter": 3,
+"printed": 111,
+"ref": "3J, 5",
+"key": "3J.5",
+"page": 6,
+"top": 204.2,
+"bottom": 227.8
+},
+{
+"chapter": 3,
+"printed": 112,
+"ref": "3K, 3a",
+"key": "3K.3",
+"page": 6,
+"top": 226.8,
+"bottom": 241.2
+},
+{
+"chapter": 3,
+"printed": 114,
+"ref": "3L, 4a",
+"key": "3L.4",
+"page": 6,
+"top": 240.2,
+"bottom": 254.5
+},
+{
+"chapter": 3,
+"printed": 114,
+"ref": "3L, 4b",
+"key": "3L.4",
+"page": 6,
+"top": 253.5,
+"bottom": 277.2
+},
+{
+"chapter": 3,
+"printed": 117,
+"ref": "3, Example 10",
+"key": "3.Example10",
+"page": 6,
+"top": 276.2,
+"bottom": 290.5
+},
+{
+"chapter": 3,
+"printed": 118,
+"ref": "3M, 7",
+"key": "3M.7",
+"page": 6,
+"top": 289.5,
+"bottom": 313.2
+},
+{
+"chapter": 3,
+"printed": 125,
+"ref": "Example 14, d",
+"key": "3.Example14",
+"page": 6,
+"top": 312.2,
+"bottom": 326.5
+},
+{
+"chapter": 3,
+"printed": 126,
+"ref": "3O, 1",
+"key": "3O.1",
+"page": 6,
+"top": 325.5,
+"bottom": 339.8
+},
+{
+"chapter": 3,
+"printed": 126,
+"ref": "3O, 5cii",
+"key": "3O.5",
+"page": 6,
+"top": 338.8,
+"bottom": 353.1
+},
+{
+"chapter": 3,
+"printed": 130,
+"ref": "Chapter review, 3b",
+"key": null,
+"page": 6,
+"top": 352.1,
+"bottom": 366.4
+},
+{
+"chapter": 3,
+"printed": 130,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 6,
+"top": 365.4,
+"bottom": 389.1
+},
+{
+"chapter": 3,
+"printed": 130,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 6,
+"top": 388.1,
+"bottom": 434.5
+},
+{
+"chapter": 3,
+"printed": 131,
+"ref": "Exam-style questions, 10b",
+"key": null,
+"page": 6,
+"top": 433.5,
+"bottom": 457.2
+},
+{
+"chapter": 3,
+"printed": 132,
+"ref": "Exam-style questions, 17f",
+"key": null,
+"page": 6,
+"top": 456.2,
+"bottom": 470.5
+},
+{
+"chapter": 3,
+"printed": 138,
+"ref": "Paper 3 questions and comments",
+"key": null,
+"page": 6,
+"top": 469.5,
+"bottom": 493.2
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "Skills Check 4aii",
+"key": null,
+"page": 6,
+"top": 492.2,
+"bottom": 506.5
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3B, 2b",
+"key": "3B.2",
+"page": 6,
+"top": 505.5,
+"bottom": 519.8
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3B, 2d",
+"key": "3B.2",
+"page": 6,
+"top": 518.8,
+"bottom": 533.1
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3C, 2bi",
+"key": "3C.2",
+"page": 6,
+"top": 532.1,
+"bottom": 546.4
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3C, 2bii",
+"key": "3C.2",
+"page": 6,
+"top": 545.4,
+"bottom": 559.8
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3C, 2biii",
+"key": "3C.2",
+"page": 6,
+"top": 558.8,
+"bottom": 573.1
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3C, 2ciii",
+"key": "3C.2",
+"page": 6,
+"top": 572.1,
+"bottom": 586.4
+},
+{
+"chapter": 3,
+"printed": 772,
+"ref": "3D, 1aii",
+"key": "3D.1",
+"page": 6,
+"top": 585.4,
+"bottom": 599.7
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3D, 2cii",
+"key": "3D.2",
+"page": 6,
+"top": 598.7,
+"bottom": 622.4
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3D, 4b",
+"key": "3D.4",
+"page": 6,
+"top": 621.4,
+"bottom": 635.7
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3D, 4c",
+"key": "3D.4",
+"page": 6,
+"top": 634.7,
+"bottom": 649.0
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3D, 4d",
+"key": "3D.4",
+"page": 6,
+"top": 648.0,
+"bottom": 662.4
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3E, 3",
+"key": "3E.3",
+"page": 6,
+"top": 661.4,
+"bottom": 675.7
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3E, 6a",
+"key": "3E.6",
+"page": 6,
+"top": 674.7,
+"bottom": 698.4
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3E, 6b",
+"key": "3E.6",
+"page": 6,
+"top": 697.4,
+"bottom": 752.0
+},
+{
+"chapter": 3,
+"printed": 773,
+"ref": "3F, 3b",
+"key": "3F.3",
+"page": 7,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 3,
+"printed": 774,
+"ref": "3G, 5aii",
+"key": "3G.5",
+"page": 7,
+"top": 77.4,
+"bottom": 91.8
+},
+{
+"chapter": 3,
+"printed": 774,
+"ref": "3G, 5cii",
+"key": "3G.5",
+"page": 7,
+"top": 90.8,
+"bottom": 125.7
+},
+{
+"chapter": 3,
+"printed": 774,
+"ref": "3G, 5d",
+"key": "3G.5",
+"page": 7,
+"top": 124.7,
+"bottom": 139.0
+},
+{
+"chapter": 3,
+"printed": 774,
+"ref": "3H, 3c",
+"key": "3H.3",
+"page": 7,
+"top": 138.0,
+"bottom": 169.8
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3I, 2a",
+"key": "3I.2",
+"page": 7,
+"top": 168.8,
+"bottom": 183.1
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3I, 1bii",
+"key": "3I.1",
+"page": 7,
+"top": 182.1,
+"bottom": 196.4
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3I, 1dii",
+"key": "3I.1",
+"page": 7,
+"top": 195.4,
+"bottom": 209.7
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3I, 4a",
+"key": "3I.4",
+"page": 7,
+"top": 208.7,
+"bottom": 223.0
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3I, 5",
+"key": "3I.5",
+"page": 7,
+"top": 222.0,
+"bottom": 236.4
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3K, 3e",
+"key": "3K.3",
+"page": 7,
+"top": 235.4,
+"bottom": 249.7
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3K, 3f",
+"key": "3K.3",
+"page": 7,
+"top": 248.7,
+"bottom": 263.0
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3L, 2b",
+"key": "3L.2",
+"page": 7,
+"top": 262.0,
+"bottom": 276.3
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3L, 4b",
+"key": "3L.4",
+"page": 7,
+"top": 275.3,
+"bottom": 372.4
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3M, 1b",
+"key": "3M.1",
+"page": 7,
+"top": 371.4,
+"bottom": 385.8
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3M, 1b",
+"key": "3M.1",
+"page": 7,
+"top": 384.8,
+"bottom": 399.1
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3M, 4",
+"key": "3M.4",
+"page": 7,
+"top": 398.1,
+"bottom": 412.4
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3M, 5b",
+"key": "3M.5",
+"page": 7,
+"top": 411.4,
+"bottom": 425.7
+},
+{
+"chapter": 3,
+"printed": 775,
+"ref": "3M, 7",
+"key": "3M.7",
+"page": 7,
+"top": 424.7,
+"bottom": 439.0
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "3N, 1a",
+"key": "3N.1",
+"page": 7,
+"top": 438.0,
+"bottom": 452.4
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "3O 8d",
+"key": null,
+"page": 7,
+"top": 451.4,
+"bottom": 465.7
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "Chapter review, 3a",
+"key": null,
+"page": 7,
+"top": 464.7,
+"bottom": 479.0
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "Chapter review, 3c",
+"key": null,
+"page": 7,
+"top": 478.0,
+"bottom": 492.3
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "Chapter review, 3d",
+"key": null,
+"page": 7,
+"top": 491.3,
+"bottom": 505.6
+},
+{
+"chapter": 3,
+"printed": 776,
+"ref": "Chapter review, 3e",
+"key": null,
+"page": 7,
+"top": 504.6,
+"bottom": 528.3
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Chapter review, 4c",
+"key": null,
+"page": 7,
+"top": 527.3,
+"bottom": 541.6
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 7,
+"top": 540.6,
+"bottom": 555.0
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Chapter review, 8b",
+"key": null,
+"page": 7,
+"top": 554.0,
+"bottom": 568.3
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Chapter review, 9a",
+"key": null,
+"page": 7,
+"top": 567.3,
+"bottom": 602.2
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Chapter review, 9b",
+"key": null,
+"page": 7,
+"top": 601.2,
+"bottom": 615.6
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Exam-style questions, 15cii",
+"key": null,
+"page": 7,
+"top": 614.6,
+"bottom": 638.2
+},
+{
+"chapter": 3,
+"printed": 777,
+"ref": "Exam-style questions, 17b",
+"key": null,
+"page": 7,
+"top": 637.2,
+"bottom": 687.6
+},
+{
+"chapter": 4,
+"printed": 4,
+"ref": "Exercise / question",
+"key": null,
+"page": 7,
+"top": 686.6,
+"bottom": 714.2
+},
+{
+"chapter": 4,
+"printed": 150,
+"ref": "4B, 3",
+"key": "4B.3",
+"page": 7,
+"top": 713.2,
+"bottom": 752.0
+},
+{
+"chapter": 4,
+"printed": 152,
+"ref": "New Hint box",
+"key": null,
+"page": 8,
+"top": 54.8,
+"bottom": 135.2
+},
+{
+"chapter": 4,
+"printed": 153,
+"ref": "4C, 1",
+"key": "4C.1",
+"page": 8,
+"top": 134.2,
+"bottom": 169.2
+},
+{
+"chapter": 4,
+"printed": 153,
+"ref": "4C, 1c",
+"key": "4C.1",
+"page": 8,
+"top": 168.2,
+"bottom": 203.1
+},
+{
+"chapter": 4,
+"printed": 153,
+"ref": "4C, 3c",
+"key": "4C.3",
+"page": 8,
+"top": 202.1,
+"bottom": 225.8
+},
+{
+"chapter": 4,
+"printed": 154,
+"ref": "4C, Q5",
+"key": "4C.5",
+"page": 8,
+"top": 224.8,
+"bottom": 305.2
+},
+{
+"chapter": 4,
+"printed": 154,
+"ref": "4C, 7a 4D, 6",
+"key": "4C.7",
+"page": 8,
+"top": 304.2,
+"bottom": 330.3
+},
+{
+"chapter": 4,
+"printed": 159,
+"ref": "",
+"key": null,
+"page": 8,
+"top": 329.3,
+"bottom": 352.5
+},
+{
+"chapter": 4,
+"printed": 167,
+"ref": "4G, 3d",
+"key": "4G.3",
+"page": 8,
+"top": 351.5,
+"bottom": 375.2
+},
+{
+"chapter": 4,
+"printed": 167,
+"ref": "4G, 3dii",
+"key": "4G.3",
+"page": 8,
+"top": 374.2,
+"bottom": 388.5
+},
+{
+"chapter": 4,
+"printed": 169,
+"ref": "NA",
+"key": null,
+"page": 8,
+"top": 387.5,
+"bottom": 411.2
+},
+{
+"chapter": 4,
+"printed": 177,
+"ref": "4J, 2",
+"key": "4J.2",
+"page": 8,
+"top": 410.2,
+"bottom": 424.5
+},
+{
+"chapter": 4,
+"printed": 177,
+"ref": "4J, 3c",
+"key": "4J.3",
+"page": 8,
+"top": 423.5,
+"bottom": 437.8
+},
+{
+"chapter": 4,
+"printed": 177,
+"ref": "4J, 6",
+"key": "4J.6",
+"page": 8,
+"top": 436.8,
+"bottom": 451.2
+},
+{
+"chapter": 4,
+"printed": 179,
+"ref": "Investigation 11",
+"key": "4.Investigation11",
+"page": 8,
+"top": 450.2,
+"bottom": 464.5
+},
+{
+"chapter": 4,
+"printed": 180,
+"ref": "Example 14",
+"key": "4.Example14",
+"page": 8,
+"top": 463.5,
+"bottom": 509.8
+},
+{
+"chapter": 4,
+"printed": 180,
+"ref": "4K, 1c",
+"key": "4K.1",
+"page": 8,
+"top": 508.8,
+"bottom": 523.2
+},
+{
+"chapter": 4,
+"printed": 181,
+"ref": "4K, 5",
+"key": "4K.5",
+"page": 8,
+"top": 522.2,
+"bottom": 579.9
+},
+{
+"chapter": 4,
+"printed": 181,
+"ref": "4K, 5a",
+"key": "4K.5",
+"page": 8,
+"top": 578.9,
+"bottom": 593.2
+},
+{
+"chapter": 4,
+"printed": 181,
+"ref": "4K, 5c",
+"key": "4K.5",
+"page": 8,
+"top": 592.2,
+"bottom": 606.6
+},
+{
+"chapter": 4,
+"printed": 191,
+"ref": "Investigation 13",
+"key": "4.Investigation13",
+"page": 8,
+"top": 605.6,
+"bottom": 686.0
+},
+{
+"chapter": 4,
+"printed": 193,
+"ref": "4P, 1d",
+"key": "4P.1",
+"page": 8,
+"top": 685.0,
+"bottom": 699.3
+},
+{
+"chapter": 4,
+"printed": 198,
+"ref": "Chapter review, 2",
+"key": null,
+"page": 8,
+"top": 698.3,
+"bottom": 752.0
+},
+{
+"chapter": 4,
+"printed": 201,
+"ref": "Exam-style questions, 14a",
+"key": null,
+"page": 9,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 4,
+"printed": 201,
+"ref": "Exam-style questions, 15",
+"key": null,
+"page": 9,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 4,
+"printed": 777,
+"ref": "4A, 1b",
+"key": "4A.1",
+"page": 9,
+"top": 81.4,
+"bottom": 116.4
+},
+{
+"chapter": 4,
+"printed": 777,
+"ref": "4A, 2e",
+"key": "4A.2",
+"page": 9,
+"top": 115.4,
+"bottom": 139.0
+},
+{
+"chapter": 4,
+"printed": 777,
+"ref": "4A, 4d",
+"key": "4A.4",
+"page": 9,
+"top": 138.0,
+"bottom": 161.7
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4B, 3ai",
+"key": "4B.3",
+"page": 9,
+"top": 160.7,
+"bottom": 175.0
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4B, 3aii",
+"key": "4B.3",
+"page": 9,
+"top": 174.0,
+"bottom": 188.4
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4B, 3b",
+"key": "4B.3",
+"page": 9,
+"top": 187.4,
+"bottom": 211.0
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 1c",
+"key": "4C.1",
+"page": 9,
+"top": 210.0,
+"bottom": 245.0
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4c. 2d",
+"key": null,
+"page": 9,
+"top": 244.0,
+"bottom": 258.3
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 3b",
+"key": "4C.3",
+"page": 9,
+"top": 257.3,
+"bottom": 271.6
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 3c",
+"key": "4C.3",
+"page": 9,
+"top": 270.6,
+"bottom": 285.0
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 3d",
+"key": "4C.3",
+"page": 9,
+"top": 284.0,
+"bottom": 298.3
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 4a",
+"key": "4C.4",
+"page": 9,
+"top": 297.3,
+"bottom": 311.6
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 4b",
+"key": "4C.4",
+"page": 9,
+"top": 310.6,
+"bottom": 324.9
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 4c",
+"key": "4C.4",
+"page": 9,
+"top": 323.9,
+"bottom": 338.2
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 4d",
+"key": "4C.4",
+"page": 9,
+"top": 337.2,
+"bottom": 351.6
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 5b",
+"key": "4C.5",
+"page": 9,
+"top": 350.6,
+"bottom": 364.9
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 5c",
+"key": "4C.5",
+"page": 9,
+"top": 363.9,
+"bottom": 378.2
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 6a",
+"key": "4C.6",
+"page": 9,
+"top": 377.2,
+"bottom": 391.5
+},
+{
+"chapter": 4,
+"printed": 778,
+"ref": "4C, 6e",
+"key": "4C.6",
+"page": 9,
+"top": 390.5,
+"bottom": 404.8
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4D, 7c",
+"key": "4D.7",
+"page": 9,
+"top": 403.8,
+"bottom": 418.2
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4E, 1a",
+"key": "4E.1",
+"page": 9,
+"top": 417.2,
+"bottom": 431.5
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4e, 1B",
+"key": "4E.1",
+"page": 9,
+"top": 430.5,
+"bottom": 444.8
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4f, 1A",
+"key": "4F.1",
+"page": 9,
+"top": 443.8,
+"bottom": 458.1
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 1cii",
+"key": "4F.1",
+"page": 9,
+"top": 457.1,
+"bottom": 471.4
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 2c",
+"key": "4F.2",
+"page": 9,
+"top": 470.4,
+"bottom": 484.8
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 2d",
+"key": "4F.2",
+"page": 9,
+"top": 483.8,
+"bottom": 507.4
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 2e",
+"key": "4F.2",
+"page": 9,
+"top": 506.4,
+"bottom": 520.8
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 3c",
+"key": "4F.3",
+"page": 9,
+"top": 519.8,
+"bottom": 534.1
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F, 4a",
+"key": "4F.4",
+"page": 9,
+"top": 533.1,
+"bottom": 579.4
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4F 4b",
+"key": null,
+"page": 9,
+"top": 578.4,
+"bottom": 592.8
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4G, 1e",
+"key": "4G.1",
+"page": 9,
+"top": 591.8,
+"bottom": 606.1
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4G, 2a",
+"key": "4G.2",
+"page": 9,
+"top": 605.1,
+"bottom": 619.4
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4G, dii",
+"key": null,
+"page": 9,
+"top": 618.4,
+"bottom": 632.7
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4H, 1c",
+"key": "4H.1",
+"page": 9,
+"top": 631.7,
+"bottom": 646.0
+},
+{
+"chapter": 4,
+"printed": 779,
+"ref": "4H, 2a",
+"key": "4H.2",
+"page": 9,
+"top": 645.0,
+"bottom": 668.7
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4I, 3ciii",
+"key": "4I.3",
+"page": 9,
+"top": 667.7,
+"bottom": 682.0
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4J, 2a",
+"key": "4J.2",
+"page": 9,
+"top": 681.0,
+"bottom": 695.4
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4J, 2b",
+"key": "4J.2",
+"page": 9,
+"top": 694.4,
+"bottom": 708.7
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4J, 3c",
+"key": "4J.3",
+"page": 9,
+"top": 707.7,
+"bottom": 752.0
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4K, 3a",
+"key": "4K.3",
+"page": 10,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4K, 5c",
+"key": "4K.5",
+"page": 10,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4L, 3b",
+"key": "4L.3",
+"page": 10,
+"top": 81.4,
+"bottom": 127.8
+},
+{
+"chapter": 4,
+"printed": 780,
+"ref": "4L, 3d",
+"key": "4L.3",
+"page": 10,
+"top": 126.8,
+"bottom": 141.1
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4L, 6a",
+"key": "4L.6",
+"page": 10,
+"top": 140.1,
+"bottom": 154.4
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4L, 6b",
+"key": "4L.6",
+"page": 10,
+"top": 153.4,
+"bottom": 167.7
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4L. 6c",
+"key": null,
+"page": 10,
+"top": 166.7,
+"bottom": 181.0
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4M, 1",
+"key": "4M.1",
+"page": 10,
+"top": 180.0,
+"bottom": 194.4
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4M, 2",
+"key": "4M.2",
+"page": 10,
+"top": 193.4,
+"bottom": 207.7
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4N, 4b",
+"key": "4N.4",
+"page": 10,
+"top": 206.7,
+"bottom": 221.0
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4N, 6a",
+"key": "4N.6",
+"page": 10,
+"top": 220.0,
+"bottom": 234.3
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4N, 6b",
+"key": "4N.6",
+"page": 10,
+"top": 233.3,
+"bottom": 247.6
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4O, 2",
+"key": "4O.2",
+"page": 10,
+"top": 246.6,
+"bottom": 261.0
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4P, 1c",
+"key": "4P.1",
+"page": 10,
+"top": 260.0,
+"bottom": 274.3
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4Q, 1d",
+"key": "4Q.1",
+"page": 10,
+"top": 273.3,
+"bottom": 297.0
+},
+{
+"chapter": 4,
+"printed": 781,
+"ref": "4Q, 2dii",
+"key": "4Q.2",
+"page": 10,
+"top": 296.0,
+"bottom": 330.9
+},
+{
+"chapter": 4,
+"printed": 782,
+"ref": "Chapter review, 6bii",
+"key": null,
+"page": 10,
+"top": 329.9,
+"bottom": 344.2
+},
+{
+"chapter": 4,
+"printed": 782,
+"ref": "Chapter review, 8c",
+"key": null,
+"page": 10,
+"top": 343.2,
+"bottom": 357.6
+},
+{
+"chapter": 4,
+"printed": 782,
+"ref": "Chapter review, 9b",
+"key": null,
+"page": 10,
+"top": 356.6,
+"bottom": 380.2
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 10c",
+"key": null,
+"page": 10,
+"top": 379.2,
+"bottom": 393.6
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 10d",
+"key": null,
+"page": 10,
+"top": 392.6,
+"bottom": 406.9
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 11b",
+"key": null,
+"page": 10,
+"top": 405.9,
+"bottom": 420.2
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 12aii",
+"key": null,
+"page": 10,
+"top": 419.2,
+"bottom": 433.5
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 12bi",
+"key": null,
+"page": 10,
+"top": 432.5,
+"bottom": 446.8
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 12bii",
+"key": null,
+"page": 10,
+"top": 445.8,
+"bottom": 469.5
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 15a",
+"key": null,
+"page": 10,
+"top": 468.5,
+"bottom": 482.8
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 15b",
+"key": null,
+"page": 10,
+"top": 481.8,
+"bottom": 496.2
+},
+{
+"chapter": 4,
+"printed": 783,
+"ref": "Exam-style questions, 15c",
+"key": null,
+"page": 10,
+"top": 495.2,
+"bottom": 548.8
+},
+{
+"chapter": 5,
+"printed": 5,
+"ref": "Exercise / question",
+"key": null,
+"page": 10,
+"top": 547.8,
+"bottom": 575.5
+},
+{
+"chapter": 5,
+"printed": 218,
+"ref": "Investigation 4",
+"key": "5.Investigation4",
+"page": 10,
+"top": 574.5,
+"bottom": 598.2
+},
+{
+"chapter": 5,
+"printed": 220,
+"ref": "5C, 1c",
+"key": "5C.1",
+"page": 10,
+"top": 597.2,
+"bottom": 752.0
+},
+{
+"chapter": 5,
+"printed": 220,
+"ref": "5C, 1e",
+"key": "5C.1",
+"page": 11,
+"top": 54.8,
+"bottom": 131.1
+},
+{
+"chapter": 5,
+"printed": 220,
+"ref": "5C, 1f",
+"key": "5C.1",
+"page": 11,
+"top": 130.1,
+"bottom": 203.8
+},
+{
+"chapter": 5,
+"printed": 224,
+"ref": "5D, 6a",
+"key": "5D.6",
+"page": 11,
+"top": 202.8,
+"bottom": 217.2
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5A, 2b",
+"key": "5A.2",
+"page": 11,
+"top": 216.2,
+"bottom": 230.5
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5A, 3c",
+"key": "5A.3",
+"page": 11,
+"top": 229.5,
+"bottom": 243.8
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5A, 4c",
+"key": "5A.4",
+"page": 11,
+"top": 242.8,
+"bottom": 257.1
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1a",
+"key": "5B.1",
+"page": 11,
+"top": 256.1,
+"bottom": 270.4
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1b",
+"key": "5B.1",
+"page": 11,
+"top": 269.4,
+"bottom": 283.8
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1c",
+"key": "5B.1",
+"page": 11,
+"top": 282.8,
+"bottom": 297.1
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1d",
+"key": "5B.1",
+"page": 11,
+"top": 296.1,
+"bottom": 310.4
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1e",
+"key": "5B.1",
+"page": 11,
+"top": 309.4,
+"bottom": 323.7
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 1f",
+"key": "5B.1",
+"page": 11,
+"top": 322.7,
+"bottom": 337.0
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 2c",
+"key": "5B.2",
+"page": 11,
+"top": 336.0,
+"bottom": 350.4
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 3a",
+"key": "5B.3",
+"page": 11,
+"top": 349.4,
+"bottom": 363.7
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5B, 5",
+"key": "5B.5",
+"page": 11,
+"top": 362.7,
+"bottom": 420.4
+},
+{
+"chapter": 5,
+"printed": 783,
+"ref": "5D, 6a",
+"key": "5D.6",
+"page": 11,
+"top": 419.4,
+"bottom": 433.8
+},
+{
+"chapter": 5,
+"printed": 784,
+"ref": "Exam-style questions, 10a",
+"key": null,
+"page": 11,
+"top": 432.8,
+"bottom": 467.7
+},
+{
+"chapter": 5,
+"printed": 784,
+"ref": "Exam-style questions, 11",
+"key": null,
+"page": 11,
+"top": 466.7,
+"bottom": 490.4
+},
+{
+"chapter": 5,
+"printed": 784,
+"ref": "Exam-style questions, 12c",
+"key": null,
+"page": 11,
+"top": 489.4,
+"bottom": 505.0
+},
+{
+"chapter": 5,
+"printed": 784,
+"ref": "Exam-style questions, 13a",
+"key": null,
+"page": 11,
+"top": 504.0,
+"bottom": 519.1
+},
+{
+"chapter": 5,
+"printed": 784,
+"ref": "Exam-style questions, 16c",
+"key": null,
+"page": 11,
+"top": 518.1,
+"bottom": 559.8
+},
+{
+"chapter": 6,
+"printed": 6,
+"ref": "Exercise / question",
+"key": null,
+"page": 11,
+"top": 558.8,
+"bottom": 586.4
+},
+{
+"chapter": 6,
+"printed": 233,
+"ref": "Before you start, Q3",
+"key": null,
+"page": 11,
+"top": 585.4,
+"bottom": 609.1
+},
+{
+"chapter": 6,
+"printed": 234,
+"ref": "6.1 Quadratic models",
+"key": null,
+"page": 11,
+"top": 608.1,
+"bottom": 654.4
+},
+{
+"chapter": 6,
+"printed": 235,
+"ref": "Example 1",
+"key": "6.Example1",
+"page": 11,
+"top": 653.4,
+"bottom": 688.4
+},
+{
+"chapter": 6,
+"printed": 237,
+"ref": "6A, 2",
+"key": "6A.2",
+"page": 11,
+"top": 687.4,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 237,
+"ref": "6A, 4",
+"key": "6A.4",
+"page": 12,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 6,
+"printed": 238,
+"ref": "6A, 10c",
+"key": "6A.10",
+"page": 12,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 6,
+"printed": 240,
+"ref": "6B, 4a",
+"key": "6B.4",
+"page": 12,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 6,
+"printed": 240,
+"ref": "6B, 6",
+"key": "6B.6",
+"page": 12,
+"top": 94.7,
+"bottom": 203.2
+},
+{
+"chapter": 6,
+"printed": 241,
+"ref": "6B, 6b",
+"key": "6B.6",
+"page": 12,
+"top": 202.2,
+"bottom": 286.0
+},
+{
+"chapter": 6,
+"printed": 241,
+"ref": "6B, 6 cv",
+"key": "6B.6",
+"page": 12,
+"top": 285.0,
+"bottom": 299.4
+},
+{
+"chapter": 6,
+"printed": 241,
+"ref": "6B, 6c",
+"key": "6B.6",
+"page": 12,
+"top": 298.4,
+"bottom": 322.0
+},
+{
+"chapter": 6,
+"printed": 241,
+"ref": "6B, 6c",
+"key": "6B.6",
+"page": 12,
+"top": 321.0,
+"bottom": 335.4
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 1",
+"key": "6C.1",
+"page": 12,
+"top": 334.4,
+"bottom": 460.3
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 1a, 1b, 1c, 1d",
+"key": "6C.1",
+"page": 12,
+"top": 459.3,
+"bottom": 483.0
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 2",
+"key": "6C.2",
+"page": 12,
+"top": 482.0,
+"bottom": 528.3
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 2a",
+"key": "6C.2",
+"page": 12,
+"top": 527.3,
+"bottom": 562.3
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 2c",
+"key": "6C.2",
+"page": 12,
+"top": 561.3,
+"bottom": 585.0
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 2d",
+"key": "6C.2",
+"page": 12,
+"top": 584.0,
+"bottom": 618.9
+},
+{
+"chapter": 6,
+"printed": 244,
+"ref": "6C, 3c",
+"key": "6C.3",
+"page": 12,
+"top": 617.9,
+"bottom": 632.2
+},
+{
+"chapter": 6,
+"printed": 247,
+"ref": "6D, 9",
+"key": "6D.9",
+"page": 12,
+"top": 631.2,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 248,
+"ref": "Quadratic regression",
+"key": null,
+"page": 13,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 6,
+"printed": 248,
+"ref": "Example 6",
+"key": "6.Example6",
+"page": 13,
+"top": 77.4,
+"bottom": 101.1
+},
+{
+"chapter": 6,
+"printed": 248,
+"ref": "Example 6, h",
+"key": "6.Example6",
+"page": 13,
+"top": 100.1,
+"bottom": 123.8
+},
+{
+"chapter": 6,
+"printed": 253,
+"ref": "Investigation 2 Investigation 2",
+"key": "6.Investigation2",
+"page": 13,
+"top": 122.8,
+"bottom": 208.5
+},
+{
+"chapter": 6,
+"printed": 256,
+"ref": "Example 8",
+"key": "6.Example8",
+"page": 13,
+"top": 207.5,
+"bottom": 221.8
+},
+{
+"chapter": 6,
+"printed": 257,
+"ref": "6F, 1d",
+"key": "6F.1",
+"page": 13,
+"top": 220.8,
+"bottom": 235.2
+},
+{
+"chapter": 6,
+"printed": 258,
+"ref": "6F, 8",
+"key": "6F.8",
+"page": 13,
+"top": 234.2,
+"bottom": 280.5
+},
+{
+"chapter": 6,
+"printed": 258,
+"ref": "6F, 9b",
+"key": "6F.9",
+"page": 13,
+"top": 279.5,
+"bottom": 293.8
+},
+{
+"chapter": 6,
+"printed": 260,
+"ref": "Example 9",
+"key": "6.Example9",
+"page": 13,
+"top": 292.8,
+"bottom": 339.2
+},
+{
+"chapter": 6,
+"printed": 261,
+"ref": "6G, 7",
+"key": "6G.7",
+"page": 13,
+"top": 338.2,
+"bottom": 352.5
+},
+{
+"chapter": 6,
+"printed": 261,
+"ref": "6G, 8",
+"key": "6G.8",
+"page": 13,
+"top": 351.5,
+"bottom": 386.5
+},
+{
+"chapter": 6,
+"printed": 262,
+"ref": "6G, 13",
+"key": "6G.13",
+"page": 13,
+"top": 385.5,
+"bottom": 420.4
+},
+{
+"chapter": 6,
+"printed": 262,
+"ref": "6G, 13c",
+"key": "6G.13",
+"page": 13,
+"top": 419.4,
+"bottom": 465.8
+},
+{
+"chapter": 6,
+"printed": 262,
+"ref": "6G, 13d",
+"key": "6G.13",
+"page": 13,
+"top": 464.8,
+"bottom": 556.5
+},
+{
+"chapter": 6,
+"printed": 262,
+"ref": "6G, 14",
+"key": "6G.14",
+"page": 13,
+"top": 555.5,
+"bottom": 590.5
+},
+{
+"chapter": 6,
+"printed": 262,
+"ref": "6G, 14e",
+"key": "6G.14",
+"page": 13,
+"top": 589.5,
+"bottom": 635.8
+},
+{
+"chapter": 6,
+"printed": 263,
+"ref": "6G, 15",
+"key": "6G.15",
+"page": 13,
+"top": 634.8,
+"bottom": 697.9
+},
+{
+"chapter": 6,
+"printed": 264,
+"ref": "Example 10",
+"key": "6.Example10",
+"page": 13,
+"top": 696.9,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 265,
+"ref": "Example 10",
+"key": "6.Example10",
+"page": 14,
+"top": 54.8,
+"bottom": 101.1
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 6a",
+"key": "6H.6",
+"page": 14,
+"top": 100.1,
+"bottom": 146.5
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 6ai",
+"key": "6H.6",
+"page": 14,
+"top": 145.5,
+"bottom": 159.8
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 6b",
+"key": "6H.6",
+"page": 14,
+"top": 158.8,
+"bottom": 216.6
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 7b",
+"key": "6H.7",
+"page": 14,
+"top": 215.6,
+"bottom": 229.9
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 7c",
+"key": "6H.7",
+"page": 14,
+"top": 228.9,
+"bottom": 252.6
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 8",
+"key": "6H.8",
+"page": 14,
+"top": 251.6,
+"bottom": 265.9
+},
+{
+"chapter": 6,
+"printed": 266,
+"ref": "6H, 6b",
+"key": "6H.6",
+"page": 14,
+"top": 264.9,
+"bottom": 328.6
+},
+{
+"chapter": 6,
+"printed": 267,
+"ref": "6H, 8d",
+"key": "6H.8",
+"page": 14,
+"top": 327.6,
+"bottom": 374.0
+},
+{
+"chapter": 6,
+"printed": 268,
+"ref": "6.4",
+"key": null,
+"page": 14,
+"top": 373.0,
+"bottom": 387.3
+},
+{
+"chapter": 6,
+"printed": 268,
+"ref": "6.4",
+"key": null,
+"page": 14,
+"top": 386.3,
+"bottom": 400.6
+},
+{
+"chapter": 6,
+"printed": 268,
+"ref": "6.4 Hint box",
+"key": null,
+"page": 14,
+"top": 399.6,
+"bottom": 414.0
+},
+{
+"chapter": 6,
+"printed": 269,
+"ref": "Investigation 4",
+"key": "6.Investigation4",
+"page": 14,
+"top": 413.0,
+"bottom": 427.3
+},
+{
+"chapter": 6,
+"printed": 269,
+"ref": "Example 11",
+"key": "6.Example11",
+"page": 14,
+"top": 426.3,
+"bottom": 450.0
+},
+{
+"chapter": 6,
+"printed": 271,
+"ref": "Example 11",
+"key": "6.Example11",
+"page": 14,
+"top": 449.0,
+"bottom": 463.3
+},
+{
+"chapter": 6,
+"printed": 271,
+"ref": "Example 11",
+"key": "6.Example11",
+"page": 14,
+"top": 462.3,
+"bottom": 486.0
+},
+{
+"chapter": 6,
+"printed": 271,
+"ref": "Direct variation",
+"key": null,
+"page": 14,
+"top": 485.0,
+"bottom": 499.3
+},
+{
+"chapter": 6,
+"printed": 272,
+"ref": "6I, 3",
+"key": "6I.3",
+"page": 14,
+"top": 498.3,
+"bottom": 512.6
+},
+{
+"chapter": 6,
+"printed": 273,
+"ref": "Investigation 5",
+"key": "6.Investigation5",
+"page": 14,
+"top": 511.6,
+"bottom": 525.9
+},
+{
+"chapter": 6,
+"printed": 273,
+"ref": "Investigation 5",
+"key": "6.Investigation5",
+"page": 14,
+"top": 524.9,
+"bottom": 548.6
+},
+{
+"chapter": 6,
+"printed": 277,
+"ref": "Example 14 part b",
+"key": "6.Example14",
+"page": 14,
+"top": 547.6,
+"bottom": 561.9
+},
+{
+"chapter": 6,
+"printed": 277,
+"ref": "Example 14 part c",
+"key": "6.Example14",
+"page": 14,
+"top": 560.9,
+"bottom": 595.9
+},
+{
+"chapter": 6,
+"printed": 278,
+"ref": "6J, 9c",
+"key": "6J.9",
+"page": 14,
+"top": 594.9,
+"bottom": 609.2
+},
+{
+"chapter": 6,
+"printed": 279,
+"ref": "Chapter summary",
+"key": null,
+"page": 14,
+"top": 608.2,
+"bottom": 631.9
+},
+{
+"chapter": 6,
+"printed": 282,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 14,
+"top": 630.9,
+"bottom": 665.8
+},
+{
+"chapter": 6,
+"printed": 282,
+"ref": "Chapter review, 7a",
+"key": null,
+"page": 14,
+"top": 664.8,
+"bottom": 679.2
+},
+{
+"chapter": 6,
+"printed": 282,
+"ref": "Chapter review, 8a",
+"key": null,
+"page": 14,
+"top": 678.2,
+"bottom": 692.5
+},
+{
+"chapter": 6,
+"printed": 282,
+"ref": "Chapter review, 11",
+"key": null,
+"page": 14,
+"top": 691.5,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 282,
+"ref": "Chapter review, 10",
+"key": null,
+"page": 15,
+"top": 54.8,
+"bottom": 135.2
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 18",
+"key": null,
+"page": 15,
+"top": 134.2,
+"bottom": 195.9
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 18",
+"key": null,
+"page": 15,
+"top": 194.9,
+"bottom": 209.2
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 20",
+"key": null,
+"page": 15,
+"top": 208.2,
+"bottom": 231.9
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 20",
+"key": null,
+"page": 15,
+"top": 230.9,
+"bottom": 245.2
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 20a",
+"key": null,
+"page": 15,
+"top": 244.2,
+"bottom": 279.2
+},
+{
+"chapter": 6,
+"printed": 283,
+"ref": "Chapter review, 20a",
+"key": null,
+"page": 15,
+"top": 278.2,
+"bottom": 292.5
+},
+{
+"chapter": 6,
+"printed": 284,
+"ref": "Exam-style questions, 23a",
+"key": null,
+"page": 15,
+"top": 291.5,
+"bottom": 326.5
+},
+{
+"chapter": 6,
+"printed": 284,
+"ref": "Exam-style questions, 23b",
+"key": null,
+"page": 15,
+"top": 325.5,
+"bottom": 349.2
+},
+{
+"chapter": 6,
+"printed": 284,
+"ref": "Exam-style questions, 24",
+"key": null,
+"page": 15,
+"top": 348.2,
+"bottom": 362.5
+},
+{
+"chapter": 6,
+"printed": 285,
+"ref": "Exam-style questions, 28d",
+"key": null,
+"page": 15,
+"top": 361.5,
+"bottom": 385.2
+},
+{
+"chapter": 6,
+"printed": 286,
+"ref": "ATL box",
+"key": null,
+"page": 15,
+"top": 384.2,
+"bottom": 398.5
+},
+{
+"chapter": 6,
+"printed": 784,
+"ref": "6A, 2",
+"key": "6A.2",
+"page": 15,
+"top": 397.5,
+"bottom": 421.2
+},
+{
+"chapter": 6,
+"printed": 785,
+"ref": "6A, 3d",
+"key": "6A.3",
+"page": 15,
+"top": 420.2,
+"bottom": 434.5
+},
+{
+"chapter": 6,
+"printed": 785,
+"ref": "6A, 5c",
+"key": "6A.5",
+"page": 15,
+"top": 433.5,
+"bottom": 447.8
+},
+{
+"chapter": 6,
+"printed": 785,
+"ref": "6A, 7a",
+"key": "6A.7",
+"page": 15,
+"top": 446.8,
+"bottom": 470.5
+},
+{
+"chapter": 6,
+"printed": 785,
+"ref": "6A, 7b",
+"key": "6A.7",
+"page": 15,
+"top": 469.5,
+"bottom": 483.8
+},
+{
+"chapter": 6,
+"printed": 785,
+"ref": "6B, 2f",
+"key": "6B.2",
+"page": 15,
+"top": 482.8,
+"bottom": 497.1
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6B, 3b",
+"key": "6B.3",
+"page": 15,
+"top": 496.1,
+"bottom": 542.5
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6B, 3c",
+"key": "6B.3",
+"page": 15,
+"top": 541.5,
+"bottom": 555.8
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6B, 3d",
+"key": "6B.3",
+"page": 15,
+"top": 554.8,
+"bottom": 569.1
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6B, 6 cv",
+"key": "6B.6",
+"page": 15,
+"top": 568.1,
+"bottom": 582.4
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 1a",
+"key": "6C.1",
+"page": 15,
+"top": 581.4,
+"bottom": 616.4
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 1b",
+"key": "6C.1",
+"page": 15,
+"top": 615.4,
+"bottom": 650.4
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 1c",
+"key": "6C.1",
+"page": 15,
+"top": 649.4,
+"bottom": 684.3
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 1d",
+"key": "6C.1",
+"page": 15,
+"top": 683.3,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 2c",
+"key": "6C.2",
+"page": 16,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 2d",
+"key": "6C.2",
+"page": 16,
+"top": 77.4,
+"bottom": 101.1
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6C, 3a",
+"key": "6C.3",
+"page": 16,
+"top": 100.1,
+"bottom": 123.8
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6D, 3",
+"key": "6D.3",
+"page": 16,
+"top": 122.8,
+"bottom": 137.1
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6D, 5a",
+"key": "6D.5",
+"page": 16,
+"top": 136.1,
+"bottom": 150.4
+},
+{
+"chapter": 6,
+"printed": 786,
+"ref": "6D, 5b",
+"key": "6D.5",
+"page": 16,
+"top": 149.4,
+"bottom": 184.4
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6D, 9",
+"key": "6D.9",
+"page": 16,
+"top": 183.4,
+"bottom": 207.1
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 1a",
+"key": "6E.1",
+"page": 16,
+"top": 206.1,
+"bottom": 220.4
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 1b",
+"key": "6E.1",
+"page": 16,
+"top": 219.4,
+"bottom": 243.1
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 1c",
+"key": "6E.1",
+"page": 16,
+"top": 242.1,
+"bottom": 277.0
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 2a",
+"key": "6E.2",
+"page": 16,
+"top": 276.0,
+"bottom": 333.8
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 2b",
+"key": "6E.2",
+"page": 16,
+"top": 332.8,
+"bottom": 356.5
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 2c",
+"key": "6E.2",
+"page": 16,
+"top": 355.5,
+"bottom": 390.4
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 3a",
+"key": "6E.3",
+"page": 16,
+"top": 389.4,
+"bottom": 403.8
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 3b",
+"key": "6E.3",
+"page": 16,
+"top": 402.8,
+"bottom": 449.1
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 3c",
+"key": "6E.3",
+"page": 16,
+"top": 448.1,
+"bottom": 471.8
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 4a",
+"key": "6E.4",
+"page": 16,
+"top": 470.8,
+"bottom": 485.1
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 4b",
+"key": "6E.4",
+"page": 16,
+"top": 484.1,
+"bottom": 507.8
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 4c",
+"key": "6E.4",
+"page": 16,
+"top": 506.8,
+"bottom": 592.6
+},
+{
+"chapter": 6,
+"printed": 787,
+"ref": "6E, 4d",
+"key": "6E.4",
+"page": 16,
+"top": 591.6,
+"bottom": 638.0
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6E, 5a",
+"key": "6E.5",
+"page": 16,
+"top": 637.0,
+"bottom": 683.4
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6E, 5b",
+"key": "6E.5",
+"page": 16,
+"top": 682.4,
+"bottom": 696.7
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6E, 5c",
+"key": "6E.5",
+"page": 16,
+"top": 695.7,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 1a",
+"key": "6F.1",
+"page": 17,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 1b",
+"key": "6F.1",
+"page": 17,
+"top": 77.4,
+"bottom": 101.1
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 1c",
+"key": "6F.1",
+"page": 17,
+"top": 100.1,
+"bottom": 123.8
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 1d",
+"key": "6F.1",
+"page": 17,
+"top": 122.8,
+"bottom": 146.5
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 2b",
+"key": "6F.2",
+"page": 17,
+"top": 145.5,
+"bottom": 159.8
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 2c",
+"key": "6F.2",
+"page": 17,
+"top": 158.8,
+"bottom": 173.1
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 3c",
+"key": "6F.3",
+"page": 17,
+"top": 172.1,
+"bottom": 186.4
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 3d",
+"key": "6F.3",
+"page": 17,
+"top": 185.4,
+"bottom": 199.8
+},
+{
+"chapter": 6,
+"printed": 788,
+"ref": "6F, 3e",
+"key": "6F.3",
+"page": 17,
+"top": 198.8,
+"bottom": 213.1
+},
+{
+"chapter": 6,
+"printed": 789,
+"ref": "6F, 7c",
+"key": "6F.7",
+"page": 17,
+"top": 212.1,
+"bottom": 235.8
+},
+{
+"chapter": 6,
+"printed": 789,
+"ref": "6F, 8",
+"key": "6F.8",
+"page": 17,
+"top": 234.8,
+"bottom": 258.4
+},
+{
+"chapter": 6,
+"printed": 789,
+"ref": "6F, 9ai",
+"key": "6F.9",
+"page": 17,
+"top": 257.4,
+"bottom": 271.8
+},
+{
+"chapter": 6,
+"printed": 789,
+"ref": "6F, 9bii",
+"key": "6F.9",
+"page": 17,
+"top": 270.8,
+"bottom": 328.5
+},
+{
+"chapter": 6,
+"printed": 789,
+"ref": "6G, 1",
+"key": "6G.1",
+"page": 17,
+"top": 327.5,
+"bottom": 362.5
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 6a",
+"key": "6G.6",
+"page": 17,
+"top": 361.5,
+"bottom": 375.8
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 7",
+"key": "6G.7",
+"page": 17,
+"top": 374.8,
+"bottom": 389.1
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 8d",
+"key": "6G.8",
+"page": 17,
+"top": 388.1,
+"bottom": 402.4
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 9b",
+"key": "6G.9",
+"page": 17,
+"top": 401.4,
+"bottom": 415.8
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 11a",
+"key": "6G.11",
+"page": 17,
+"top": 414.8,
+"bottom": 429.1
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 11c",
+"key": "6G.11",
+"page": 17,
+"top": 428.1,
+"bottom": 442.4
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 12a",
+"key": "6G.12",
+"page": 17,
+"top": 441.4,
+"bottom": 476.4
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 12b",
+"key": "6G.12",
+"page": 17,
+"top": 475.4,
+"bottom": 489.7
+},
+{
+"chapter": 6,
+"printed": 790,
+"ref": "6G, 12c",
+"key": "6G.12",
+"page": 17,
+"top": 488.7,
+"bottom": 503.0
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 13a",
+"key": "6G.13",
+"page": 17,
+"top": 502.0,
+"bottom": 525.7
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 13b",
+"key": "6G.13",
+"page": 17,
+"top": 524.7,
+"bottom": 539.0
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 13c",
+"key": "6G.13",
+"page": 17,
+"top": 538.0,
+"bottom": 552.3
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 13d",
+"key": "6G.13",
+"page": 17,
+"top": 551.3,
+"bottom": 643.0
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 14a",
+"key": "6G.14",
+"page": 17,
+"top": 642.0,
+"bottom": 665.7
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 14i",
+"key": "6G.14",
+"page": 17,
+"top": 664.7,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 15a",
+"key": "6G.15",
+"page": 18,
+"top": 54.8,
+"bottom": 101.1
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 15b",
+"key": "6G.15",
+"page": 18,
+"top": 100.1,
+"bottom": 146.5
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6G, 16",
+"key": "6G.16",
+"page": 18,
+"top": 145.5,
+"bottom": 159.8
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6H, 1d",
+"key": "6H.1",
+"page": 18,
+"top": 158.8,
+"bottom": 173.1
+},
+{
+"chapter": 6,
+"printed": 791,
+"ref": "6H, 2b",
+"key": "6H.2",
+"page": 18,
+"top": 172.1,
+"bottom": 195.8
+},
+{
+"chapter": 6,
+"printed": 792,
+"ref": "6H, 6a",
+"key": "6H.6",
+"page": 18,
+"top": 194.8,
+"bottom": 241.2
+},
+{
+"chapter": 6,
+"printed": 792,
+"ref": "6H, 8a",
+"key": "6H.8",
+"page": 18,
+"top": 240.2,
+"bottom": 291.2
+},
+{
+"chapter": 6,
+"printed": 792,
+"ref": "6H, 8d",
+"key": "6H.8",
+"page": 18,
+"top": 290.2,
+"bottom": 336.6
+},
+{
+"chapter": 6,
+"printed": 792,
+"ref": "6H, 10a",
+"key": "6H.10",
+"page": 18,
+"top": 335.6,
+"bottom": 416.0
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 1e",
+"key": "6I.1",
+"page": 18,
+"top": 415.0,
+"bottom": 429.3
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 3",
+"key": "6I.3",
+"page": 18,
+"top": 428.3,
+"bottom": 442.6
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 4",
+"key": "6I.4",
+"page": 18,
+"top": 441.6,
+"bottom": 468.7
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 5c",
+"key": "6I.5",
+"page": 18,
+"top": 467.7,
+"bottom": 482.0
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 5d",
+"key": "6I.5",
+"page": 18,
+"top": 481.0,
+"bottom": 495.3
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 5e",
+"key": "6I.5",
+"page": 18,
+"top": 494.3,
+"bottom": 508.6
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 5f",
+"key": "6I.5",
+"page": 18,
+"top": 507.6,
+"bottom": 531.3
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 6a",
+"key": "6I.6",
+"page": 18,
+"top": 530.3,
+"bottom": 544.6
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 6c",
+"key": "6I.6",
+"page": 18,
+"top": 543.6,
+"bottom": 558.0
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6I, 7a",
+"key": "6I.7",
+"page": 18,
+"top": 557.0,
+"bottom": 571.3
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 1",
+"key": "6J.1",
+"page": 18,
+"top": 570.3,
+"bottom": 584.6
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 3a",
+"key": "6J.3",
+"page": 18,
+"top": 583.6,
+"bottom": 618.6
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 3b",
+"key": "6J.3",
+"page": 18,
+"top": 617.6,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 3c",
+"key": "6J.3",
+"page": 19,
+"top": 54.8,
+"bottom": 128.5
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 4a",
+"key": "6J.4",
+"page": 19,
+"top": 127.5,
+"bottom": 141.8
+},
+{
+"chapter": 6,
+"printed": 793,
+"ref": "6J, 4b",
+"key": "6J.4",
+"page": 19,
+"top": 140.8,
+"bottom": 155.1
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 5c",
+"key": "6J.5",
+"page": 19,
+"top": 154.1,
+"bottom": 177.8
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 5d",
+"key": "6J.5",
+"page": 19,
+"top": 176.8,
+"bottom": 204.6
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 5f",
+"key": "6J.5",
+"page": 19,
+"top": 203.6,
+"bottom": 217.9
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 6b",
+"key": "6J.6",
+"page": 19,
+"top": 216.9,
+"bottom": 278.6
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 6e",
+"key": "6J.6",
+"page": 19,
+"top": 277.6,
+"bottom": 316.5
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 7a",
+"key": "6J.7",
+"page": 19,
+"top": 315.5,
+"bottom": 329.8
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 7c",
+"key": "6J.7",
+"page": 19,
+"top": 328.8,
+"bottom": 343.2
+},
+{
+"chapter": 6,
+"printed": 794,
+"ref": "6J, 9b",
+"key": "6J.9",
+"page": 19,
+"top": 342.2,
+"bottom": 356.5
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "6J, 11ai",
+"key": "6J.11",
+"page": 19,
+"top": 355.5,
+"bottom": 369.8
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "6J, 11aii",
+"key": "6J.11",
+"page": 19,
+"top": 368.8,
+"bottom": 383.1
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "Chapter review, 4b",
+"key": null,
+"page": 19,
+"top": 382.1,
+"bottom": 396.4
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "Chapter review, 7a",
+"key": null,
+"page": 19,
+"top": 395.4,
+"bottom": 461.1
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "Chapter review, 7e",
+"key": null,
+"page": 19,
+"top": 460.1,
+"bottom": 483.8
+},
+{
+"chapter": 6,
+"printed": 795,
+"ref": "Chapter review, 7f",
+"key": null,
+"page": 19,
+"top": 482.8,
+"bottom": 497.1
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 11a",
+"key": null,
+"page": 19,
+"top": 496.1,
+"bottom": 510.4
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 11b",
+"key": null,
+"page": 19,
+"top": 509.4,
+"bottom": 523.8
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 14",
+"key": null,
+"page": 19,
+"top": 522.8,
+"bottom": 537.1
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 15c",
+"key": null,
+"page": 19,
+"top": 536.1,
+"bottom": 550.4
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 17",
+"key": null,
+"page": 19,
+"top": 549.4,
+"bottom": 563.7
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 18a",
+"key": null,
+"page": 19,
+"top": 562.7,
+"bottom": 577.0
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 18b",
+"key": null,
+"page": 19,
+"top": 576.0,
+"bottom": 590.4
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 18c, d, e",
+"key": null,
+"page": 19,
+"top": 589.4,
+"bottom": 603.7
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 19",
+"key": null,
+"page": 19,
+"top": 602.7,
+"bottom": 626.4
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 19b",
+"key": null,
+"page": 19,
+"top": 625.4,
+"bottom": 639.7
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 20a",
+"key": null,
+"page": 19,
+"top": 638.7,
+"bottom": 653.0
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 20b",
+"key": null,
+"page": 19,
+"top": 652.0,
+"bottom": 752.0
+},
+{
+"chapter": 6,
+"printed": 796,
+"ref": "Chapter review, 20c",
+"key": null,
+"page": 20,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 6,
+"printed": 797,
+"ref": "Chapter review, 22d",
+"key": null,
+"page": 20,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 6,
+"printed": 797,
+"ref": "Exam-style questions, 23a",
+"key": null,
+"page": 20,
+"top": 81.4,
+"bottom": 105.1
+},
+{
+"chapter": 6,
+"printed": 797,
+"ref": "Exam-style questions, 23b",
+"key": null,
+"page": 20,
+"top": 104.1,
+"bottom": 127.8
+},
+{
+"chapter": 6,
+"printed": 797,
+"ref": "Exam-style questions, 24c",
+"key": null,
+"page": 20,
+"top": 126.8,
+"bottom": 150.4
+},
+{
+"chapter": 6,
+"printed": 797,
+"ref": "Exam-style questions, 25c",
+"key": null,
+"page": 20,
+"top": 149.4,
+"bottom": 213.1
+},
+{
+"chapter": 7,
+"printed": 7,
+"ref": "Exercise / question",
+"key": null,
+"page": 20,
+"top": 212.1,
+"bottom": 239.7
+},
+{
+"chapter": 7,
+"printed": 289,
+"ref": "Skills Check, 1",
+"key": null,
+"page": 20,
+"top": 238.7,
+"bottom": 253.0
+},
+{
+"chapter": 7,
+"printed": 289,
+"ref": "Skills Check, 4 7.1 Geometric sequences",
+"key": null,
+"page": 20,
+"top": 252.0,
+"bottom": 266.4
+},
+{
+"chapter": 7,
+"printed": 290,
+"ref": "and series (part c)",
+"key": null,
+"page": 20,
+"top": 265.4,
+"bottom": 289.6
+},
+{
+"chapter": 7,
+"printed": 292,
+"ref": "7A, 2f",
+"key": "7A.2",
+"page": 20,
+"top": 288.6,
+"bottom": 303.0
+},
+{
+"chapter": 7,
+"printed": 292,
+"ref": "7A, 3c",
+"key": "7A.3",
+"page": 20,
+"top": 302.0,
+"bottom": 316.3
+},
+{
+"chapter": 7,
+"printed": 292,
+"ref": "Example 2c",
+"key": "7.Example2",
+"page": 20,
+"top": 315.3,
+"bottom": 329.6
+},
+{
+"chapter": 7,
+"printed": 293,
+"ref": "Investigation 2, red box",
+"key": "7.Investigation2",
+"page": 20,
+"top": 328.6,
+"bottom": 342.9
+},
+{
+"chapter": 7,
+"printed": 294,
+"ref": "Example 3b",
+"key": "7.Example3",
+"page": 20,
+"top": 341.9,
+"bottom": 356.2
+},
+{
+"chapter": 7,
+"printed": 295,
+"ref": "7B, 4",
+"key": "7B.4",
+"page": 20,
+"top": 355.2,
+"bottom": 369.6
+},
+{
+"chapter": 7,
+"printed": 295,
+"ref": "7B, 7b",
+"key": "7B.7",
+"page": 20,
+"top": 368.6,
+"bottom": 392.2
+},
+{
+"chapter": 7,
+"printed": 295,
+"ref": "7B, 7e",
+"key": "7B.7",
+"page": 20,
+"top": 391.2,
+"bottom": 405.6
+},
+{
+"chapter": 7,
+"printed": 295,
+"ref": "Investigation 3",
+"key": "7.Investigation3",
+"page": 20,
+"top": 404.6,
+"bottom": 428.2
+},
+{
+"chapter": 7,
+"printed": 297,
+"ref": "Example 5",
+"key": "7.Example5",
+"page": 20,
+"top": 427.2,
+"bottom": 441.6
+},
+{
+"chapter": 7,
+"printed": 298,
+"ref": "7C, 2d",
+"key": "7C.2",
+"page": 20,
+"top": 440.6,
+"bottom": 464.2
+},
+{
+"chapter": 7,
+"printed": 298,
+"ref": "7C, 3",
+"key": "7C.3",
+"page": 20,
+"top": 463.2,
+"bottom": 477.6
+},
+{
+"chapter": 7,
+"printed": 299,
+"ref": "Example 6",
+"key": "7.Example6",
+"page": 20,
+"top": 476.6,
+"bottom": 490.9
+},
+{
+"chapter": 7,
+"printed": 301,
+"ref": "7D, 4e",
+"key": "7D.4",
+"page": 20,
+"top": 489.9,
+"bottom": 524.8
+},
+{
+"chapter": 7,
+"printed": 301,
+"ref": "7D, 4f",
+"key": "7D.4",
+"page": 20,
+"top": 523.8,
+"bottom": 558.8
+},
+{
+"chapter": 7,
+"printed": 301,
+"ref": "7D, 5g",
+"key": "7D.5",
+"page": 20,
+"top": 557.8,
+"bottom": 630.9
+},
+{
+"chapter": 7,
+"printed": 303,
+"ref": "Investigation 5",
+"key": "7.Investigation5",
+"page": 20,
+"top": 629.9,
+"bottom": 644.2
+},
+{
+"chapter": 7,
+"printed": 304,
+"ref": "Example 7",
+"key": "7.Example7",
+"page": 20,
+"top": 643.2,
+"bottom": 657.6
+},
+{
+"chapter": 7,
+"printed": 305,
+"ref": "Example 7, 2b",
+"key": "7.Example7",
+"page": 20,
+"top": 656.6,
+"bottom": 670.9
+},
+{
+"chapter": 7,
+"printed": 306,
+"ref": "7E, 2",
+"key": "7E.2",
+"page": 20,
+"top": 669.9,
+"bottom": 684.2
+},
+{
+"chapter": 7,
+"printed": 306,
+"ref": "7E, 5",
+"key": "7E.5",
+"page": 20,
+"top": 683.2,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 307,
+"ref": "7E, 7b",
+"key": "7E.7",
+"page": 21,
+"top": 54.8,
+"bottom": 89.7
+},
+{
+"chapter": 7,
+"printed": 307,
+"ref": "7E, 8",
+"key": "7E.8",
+"page": 21,
+"top": 88.7,
+"bottom": 128.5
+},
+{
+"chapter": 7,
+"printed": 307,
+"ref": "Annuities and amortization",
+"key": null,
+"page": 21,
+"top": 127.5,
+"bottom": 177.2
+},
+{
+"chapter": 7,
+"printed": 307,
+"ref": "Investigation 6",
+"key": "7.Investigation6",
+"page": 21,
+"top": 176.2,
+"bottom": 237.2
+},
+{
+"chapter": 7,
+"printed": 308,
+"ref": "Example 10",
+"key": "7.Example10",
+"page": 21,
+"top": 236.2,
+"bottom": 327.9
+},
+{
+"chapter": 7,
+"printed": 309,
+"ref": "Example 10, b",
+"key": "7.Example10",
+"page": 21,
+"top": 326.9,
+"bottom": 384.7
+},
+{
+"chapter": 7,
+"printed": 309,
+"ref": "7F",
+"key": null,
+"page": 21,
+"top": 383.7,
+"bottom": 452.8
+},
+{
+"chapter": 7,
+"printed": 309,
+"ref": "7F, 2",
+"key": "7F.2",
+"page": 21,
+"top": 451.8,
+"bottom": 466.2
+},
+{
+"chapter": 7,
+"printed": 309,
+"ref": "7F, 3",
+"key": "7F.3",
+"page": 21,
+"top": 465.2,
+"bottom": 488.8
+},
+{
+"chapter": 7,
+"printed": 309,
+"ref": "7F, 3b",
+"key": "7F.3",
+"page": 21,
+"top": 487.8,
+"bottom": 534.2
+},
+{
+"chapter": 7,
+"printed": 311,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 21,
+"top": 533.2,
+"bottom": 556.9
+},
+{
+"chapter": 7,
+"printed": 311,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 21,
+"top": 555.9,
+"bottom": 579.6
+},
+{
+"chapter": 7,
+"printed": 311,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 21,
+"top": 578.6,
+"bottom": 602.2
+},
+{
+"chapter": 7,
+"printed": 312,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 21,
+"top": 601.2,
+"bottom": 624.9
+},
+{
+"chapter": 7,
+"printed": 312,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 21,
+"top": 623.9,
+"bottom": 670.3
+},
+{
+"chapter": 7,
+"printed": 313,
+"ref": "7G, 3",
+"key": "7G.3",
+"page": 21,
+"top": 669.3,
+"bottom": 683.6
+},
+{
+"chapter": 7,
+"printed": 313,
+"ref": "7G, 4",
+"key": "7G.4",
+"page": 21,
+"top": 682.6,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 315,
+"ref": "7H, 3a",
+"key": "7H.3",
+"page": 22,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 7,
+"printed": 315,
+"ref": "7H, 3b",
+"key": "7H.3",
+"page": 22,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 7,
+"printed": 316,
+"ref": "Example 13",
+"key": "7.Example13",
+"page": 22,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 7,
+"printed": 316,
+"ref": "Example 14",
+"key": "7.Example14",
+"page": 22,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 7,
+"printed": 317,
+"ref": "Example 14",
+"key": "7.Example14",
+"page": 22,
+"top": 108.0,
+"bottom": 122.4
+},
+{
+"chapter": 7,
+"printed": 317,
+"ref": "Example 14",
+"key": "7.Example14",
+"page": 22,
+"top": 121.4,
+"bottom": 135.7
+},
+{
+"chapter": 7,
+"printed": 317,
+"ref": "7I, 2",
+"key": "7I.2",
+"page": 22,
+"top": 134.7,
+"bottom": 158.4
+},
+{
+"chapter": 7,
+"printed": 318,
+"ref": "7I, 4",
+"key": "7I.4",
+"page": 22,
+"top": 157.4,
+"bottom": 171.7
+},
+{
+"chapter": 7,
+"printed": 318,
+"ref": "7I, 4b",
+"key": "7I.4",
+"page": 22,
+"top": 170.7,
+"bottom": 185.0
+},
+{
+"chapter": 7,
+"printed": 318,
+"ref": "7I, 5",
+"key": "7I.5",
+"page": 22,
+"top": 184.0,
+"bottom": 207.7
+},
+{
+"chapter": 7,
+"printed": 318,
+"ref": "7I, 5e",
+"key": "7I.5",
+"page": 22,
+"top": 206.7,
+"bottom": 230.4
+},
+{
+"chapter": 7,
+"printed": 318,
+"ref": "7I, 6",
+"key": "7I.6",
+"page": 22,
+"top": 229.4,
+"bottom": 243.7
+},
+{
+"chapter": 7,
+"printed": 319,
+"ref": "7I, 7",
+"key": "7I.7",
+"page": 22,
+"top": 242.7,
+"bottom": 257.0
+},
+{
+"chapter": 7,
+"printed": 319,
+"ref": "7I, 8",
+"key": "7I.8",
+"page": 22,
+"top": 256.0,
+"bottom": 270.3
+},
+{
+"chapter": 7,
+"printed": 319,
+"ref": "7I, 9",
+"key": "7I.9",
+"page": 22,
+"top": 269.3,
+"bottom": 283.6
+},
+{
+"chapter": 7,
+"printed": 319,
+"ref": "7I, 9",
+"key": "7I.9",
+"page": 22,
+"top": 282.6,
+"bottom": 297.0
+},
+{
+"chapter": 7,
+"printed": 319,
+"ref": "7I, 9c",
+"key": "7I.9",
+"page": 22,
+"top": 296.0,
+"bottom": 310.3
+},
+{
+"chapter": 7,
+"printed": 320,
+"ref": "Key point (red box at the bottom of the page)",
+"key": null,
+"page": 22,
+"top": 309.3,
+"bottom": 333.0
+},
+{
+"chapter": 7,
+"printed": 320,
+"ref": "Last line on the page",
+"key": null,
+"page": 22,
+"top": 332.0,
+"bottom": 346.3
+},
+{
+"chapter": 7,
+"printed": 321,
+"ref": "Example 15",
+"key": "7.Example15",
+"page": 22,
+"top": 345.3,
+"bottom": 359.6
+},
+{
+"chapter": 7,
+"printed": 322,
+"ref": "Investigation 13",
+"key": "7.Investigation13",
+"page": 22,
+"top": 358.6,
+"bottom": 372.9
+},
+{
+"chapter": 7,
+"printed": 323,
+"ref": "7J",
+"key": null,
+"page": 22,
+"top": 371.9,
+"bottom": 386.2
+},
+{
+"chapter": 7,
+"printed": 323,
+"ref": "Investigation 14",
+"key": "7.Investigation14",
+"page": 22,
+"top": 385.2,
+"bottom": 399.6
+},
+{
+"chapter": 7,
+"printed": 325,
+"ref": "Investigation 15",
+"key": "7.Investigation15",
+"page": 22,
+"top": 398.6,
+"bottom": 412.9
+},
+{
+"chapter": 7,
+"printed": 327,
+"ref": "7L, 2a",
+"key": "7L.2",
+"page": 22,
+"top": 411.9,
+"bottom": 426.2
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 3",
+"key": "7L.3",
+"page": 22,
+"top": 425.2,
+"bottom": 439.5
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 3a",
+"key": "7L.3",
+"page": 22,
+"top": 438.5,
+"bottom": 452.8
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 3b",
+"key": "7L.3",
+"page": 22,
+"top": 451.8,
+"bottom": 466.2
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 3c",
+"key": "7L.3",
+"page": 22,
+"top": 465.2,
+"bottom": 488.8
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 4b",
+"key": "7L.4",
+"page": 22,
+"top": 487.8,
+"bottom": 502.2
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 4c",
+"key": "7L.4",
+"page": 22,
+"top": 501.2,
+"bottom": 515.5
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 4c",
+"key": "7L.4",
+"page": 22,
+"top": 514.5,
+"bottom": 528.8
+},
+{
+"chapter": 7,
+"printed": 328,
+"ref": "7L, 5b",
+"key": "7L.5",
+"page": 22,
+"top": 527.8,
+"bottom": 542.1
+},
+{
+"chapter": 7,
+"printed": 329,
+"ref": "7.5 Logistic models (above key point box)",
+"key": null,
+"page": 22,
+"top": 541.1,
+"bottom": 564.8
+},
+{
+"chapter": 7,
+"printed": 330,
+"ref": "Hint",
+"key": null,
+"page": 22,
+"top": 563.8,
+"bottom": 578.1
+},
+{
+"chapter": 7,
+"printed": 330,
+"ref": "7M, 3",
+"key": "7M.3",
+"page": 22,
+"top": 577.1,
+"bottom": 600.8
+},
+{
+"chapter": 7,
+"printed": 330,
+"ref": "7M, 3b",
+"key": "7M.3",
+"page": 22,
+"top": 599.8,
+"bottom": 614.1
+},
+{
+"chapter": 7,
+"printed": 331,
+"ref": "Chapter summary",
+"key": null,
+"page": 22,
+"top": 613.1,
+"bottom": 627.4
+},
+{
+"chapter": 7,
+"printed": 333,
+"ref": "Chapter review, 8",
+"key": null,
+"page": 22,
+"top": 626.4,
+"bottom": 661.4
+},
+{
+"chapter": 7,
+"printed": 333,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 22,
+"top": 660.4,
+"bottom": 706.8
+},
+{
+"chapter": 7,
+"printed": 333,
+"ref": "Chapter Review, 14",
+"key": null,
+"page": 22,
+"top": 705.8,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 334,
+"ref": "Exam-style questions, 17",
+"key": null,
+"page": 23,
+"top": 54.8,
+"bottom": 101.1
+},
+{
+"chapter": 7,
+"printed": 335,
+"ref": "Exam-style questions, 24b",
+"key": null,
+"page": 23,
+"top": 100.1,
+"bottom": 123.8
+},
+{
+"chapter": 7,
+"printed": 335,
+"ref": "Exam-style questions, 25",
+"key": null,
+"page": 23,
+"top": 122.8,
+"bottom": 137.1
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "Skills check 1c",
+"key": null,
+"page": 23,
+"top": 136.1,
+"bottom": 150.4
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "Skills check 1e",
+"key": null,
+"page": 23,
+"top": 149.4,
+"bottom": 163.8
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "Skills check 3a",
+"key": null,
+"page": 23,
+"top": 162.8,
+"bottom": 177.1
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "Skills check 3b",
+"key": null,
+"page": 23,
+"top": 176.1,
+"bottom": 190.4
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "Skills check 4a",
+"key": null,
+"page": 23,
+"top": 189.4,
+"bottom": 203.7
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 1b",
+"key": "7A.1",
+"page": 23,
+"top": 202.7,
+"bottom": 217.0
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 1c",
+"key": "7A.1",
+"page": 23,
+"top": 216.0,
+"bottom": 230.4
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 2a",
+"key": "7A.2",
+"page": 23,
+"top": 229.4,
+"bottom": 243.7
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 2c",
+"key": "7A.2",
+"page": 23,
+"top": 242.7,
+"bottom": 257.0
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 2d",
+"key": "7A.2",
+"page": 23,
+"top": 256.0,
+"bottom": 270.3
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 2e",
+"key": "7A.2",
+"page": 23,
+"top": 269.3,
+"bottom": 293.0
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 2f",
+"key": "7A.2",
+"page": 23,
+"top": 292.0,
+"bottom": 306.3
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 3a",
+"key": "7A.3",
+"page": 23,
+"top": 305.3,
+"bottom": 319.6
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7A, 3c",
+"key": "7A.3",
+"page": 23,
+"top": 318.6,
+"bottom": 333.0
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 1A",
+"key": "7B.1",
+"page": 23,
+"top": 332.0,
+"bottom": 346.3
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 5b",
+"key": "7B.5",
+"page": 23,
+"top": 345.3,
+"bottom": 359.6
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 6a",
+"key": "7B.6",
+"page": 23,
+"top": 358.6,
+"bottom": 372.9
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 6b",
+"key": "7B.6",
+"page": 23,
+"top": 371.9,
+"bottom": 386.2
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 6c",
+"key": "7B.6",
+"page": 23,
+"top": 385.2,
+"bottom": 399.6
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 7a",
+"key": "7B.7",
+"page": 23,
+"top": 398.6,
+"bottom": 412.9
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 7b",
+"key": "7B.7",
+"page": 23,
+"top": 411.9,
+"bottom": 426.2
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 7c",
+"key": "7B.7",
+"page": 23,
+"top": 425.2,
+"bottom": 439.5
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 7d",
+"key": "7B.7",
+"page": 23,
+"top": 438.5,
+"bottom": 452.8
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7B, 7e",
+"key": "7B.7",
+"page": 23,
+"top": 451.8,
+"bottom": 466.2
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 2a",
+"key": "7C.2",
+"page": 23,
+"top": 465.2,
+"bottom": 479.5
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 2b",
+"key": "7C.2",
+"page": 23,
+"top": 478.5,
+"bottom": 492.8
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 2c",
+"key": "7C.2",
+"page": 23,
+"top": 491.8,
+"bottom": 506.1
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 2d",
+"key": "7C.2",
+"page": 23,
+"top": 505.1,
+"bottom": 519.4
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 3c",
+"key": "7C.3",
+"page": 23,
+"top": 518.4,
+"bottom": 532.8
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 3d",
+"key": "7C.3",
+"page": 23,
+"top": 531.8,
+"bottom": 546.1
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 3e",
+"key": "7C.3",
+"page": 23,
+"top": 545.1,
+"bottom": 582.7
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 5c",
+"key": "7C.5",
+"page": 23,
+"top": 581.7,
+"bottom": 596.0
+},
+{
+"chapter": 7,
+"printed": 797,
+"ref": "7C, 6b",
+"key": "7C.6",
+"page": 23,
+"top": 595.0,
+"bottom": 609.3
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 3a",
+"key": "7D.3",
+"page": 23,
+"top": 608.3,
+"bottom": 622.6
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 3d",
+"key": "7D.3",
+"page": 23,
+"top": 621.6,
+"bottom": 636.0
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 3e",
+"key": "7D.3",
+"page": 23,
+"top": 635.0,
+"bottom": 649.3
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 3f",
+"key": "7D.3",
+"page": 23,
+"top": 648.3,
+"bottom": 673.9
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 4c",
+"key": "7D.4",
+"page": 23,
+"top": 672.9,
+"bottom": 687.2
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5a",
+"key": "7D.5",
+"page": 23,
+"top": 686.2,
+"bottom": 700.5
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5b",
+"key": "7D.5",
+"page": 23,
+"top": 699.5,
+"bottom": 713.8
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5c",
+"key": "7D.5",
+"page": 23,
+"top": 712.8,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5d",
+"key": "7D.5",
+"page": 24,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5e",
+"key": "7D.5",
+"page": 24,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7D, 5g",
+"key": "7D.5",
+"page": 24,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7E, 2a",
+"key": "7E.2",
+"page": 24,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7E, 2b",
+"key": "7E.2",
+"page": 24,
+"top": 108.0,
+"bottom": 122.4
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7E, 2c",
+"key": "7E.2",
+"page": 24,
+"top": 121.4,
+"bottom": 135.7
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 1b",
+"key": "7F.1",
+"page": 24,
+"top": 134.7,
+"bottom": 149.0
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 2a",
+"key": "7F.2",
+"page": 24,
+"top": 148.0,
+"bottom": 162.3
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 2b",
+"key": "7F.2",
+"page": 24,
+"top": 161.3,
+"bottom": 175.6
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 3a",
+"key": "7F.3",
+"page": 24,
+"top": 174.6,
+"bottom": 189.0
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 3b",
+"key": "7F.3",
+"page": 24,
+"top": 188.0,
+"bottom": 222.9
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 4a",
+"key": "7F.4",
+"page": 24,
+"top": 221.9,
+"bottom": 236.2
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7F, 4b",
+"key": "7F.4",
+"page": 24,
+"top": 235.2,
+"bottom": 249.6
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7G, 1bi",
+"key": "7G.1",
+"page": 24,
+"top": 248.6,
+"bottom": 262.9
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7H, 1",
+"key": "7H.1",
+"page": 24,
+"top": 261.9,
+"bottom": 276.2
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7H, 1",
+"key": "7H.1",
+"page": 24,
+"top": 275.2,
+"bottom": 289.5
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7H, 1",
+"key": "7H.1",
+"page": 24,
+"top": 288.5,
+"bottom": 302.8
+},
+{
+"chapter": 7,
+"printed": 798,
+"ref": "7H, 2c",
+"key": "7H.2",
+"page": 24,
+"top": 301.8,
+"bottom": 325.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7H, 3b",
+"key": "7H.3",
+"page": 24,
+"top": 324.5,
+"bottom": 359.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7H, 3d",
+"key": "7H.3",
+"page": 24,
+"top": 358.5,
+"bottom": 382.2
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7H, 3f",
+"key": "7H.3",
+"page": 24,
+"top": 381.2,
+"bottom": 427.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7H, 3g",
+"key": "7H.3",
+"page": 24,
+"top": 426.5,
+"bottom": 472.9
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 2b",
+"key": "7I.2",
+"page": 24,
+"top": 471.9,
+"bottom": 486.2
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 2c",
+"key": "7I.2",
+"page": 24,
+"top": 485.2,
+"bottom": 499.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 2d",
+"key": "7I.2",
+"page": 24,
+"top": 498.5,
+"bottom": 512.8
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 3c",
+"key": "7I.3",
+"page": 24,
+"top": 511.8,
+"bottom": 526.2
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 4b",
+"key": "7I.4",
+"page": 24,
+"top": 525.2,
+"bottom": 539.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5a",
+"key": "7I.5",
+"page": 24,
+"top": 538.5,
+"bottom": 564.0
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5a",
+"key": "7I.5",
+"page": 24,
+"top": 563.0,
+"bottom": 647.6
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5b",
+"key": "7I.5",
+"page": 24,
+"top": 646.6,
+"bottom": 681.6
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5c",
+"key": "7I.5",
+"page": 24,
+"top": 680.6,
+"bottom": 715.5
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5d",
+"key": "7I.5",
+"page": 24,
+"top": 714.5,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 5e",
+"key": "7I.5",
+"page": 25,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6a",
+"key": "7I.6",
+"page": 25,
+"top": 68.1,
+"bottom": 91.8
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6b",
+"key": "7I.6",
+"page": 25,
+"top": 90.8,
+"bottom": 114.4
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6c",
+"key": "7I.6",
+"page": 25,
+"top": 113.4,
+"bottom": 127.8
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6d",
+"key": "7I.6",
+"page": 25,
+"top": 126.8,
+"bottom": 141.1
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6e",
+"key": "7I.6",
+"page": 25,
+"top": 140.1,
+"bottom": 163.8
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 6f",
+"key": "7I.6",
+"page": 25,
+"top": 162.8,
+"bottom": 177.1
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 7",
+"key": "7I.7",
+"page": 25,
+"top": 176.1,
+"bottom": 190.4
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 8",
+"key": "7I.8",
+"page": 25,
+"top": 189.4,
+"bottom": 203.7
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 9",
+"key": "7I.9",
+"page": 25,
+"top": 202.7,
+"bottom": 217.0
+},
+{
+"chapter": 7,
+"printed": 799,
+"ref": "7I, 9d",
+"key": "7I.9",
+"page": 25,
+"top": 216.0,
+"bottom": 230.4
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 4b",
+"key": "7K.4",
+"page": 25,
+"top": 229.4,
+"bottom": 255.0
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 4c",
+"key": "7K.4",
+"page": 25,
+"top": 254.0,
+"bottom": 268.3
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 4d",
+"key": "7K.4",
+"page": 25,
+"top": 267.3,
+"bottom": 302.2
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 5b",
+"key": "7K.5",
+"page": 25,
+"top": 301.2,
+"bottom": 336.2
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 5c",
+"key": "7K.5",
+"page": 25,
+"top": 335.2,
+"bottom": 349.5
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 6a",
+"key": "7K.6",
+"page": 25,
+"top": 348.5,
+"bottom": 406.3
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 6b",
+"key": "7K.6",
+"page": 25,
+"top": 405.3,
+"bottom": 419.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7K, 6c",
+"key": "7K.6",
+"page": 25,
+"top": 418.6,
+"bottom": 432.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 1a",
+"key": "7L.1",
+"page": 25,
+"top": 431.9,
+"bottom": 455.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 1b",
+"key": "7L.1",
+"page": 25,
+"top": 454.6,
+"bottom": 468.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 1c",
+"key": "7L.1",
+"page": 25,
+"top": 467.9,
+"bottom": 491.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 2",
+"key": "7L.2",
+"page": 25,
+"top": 490.6,
+"bottom": 514.3
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 2b",
+"key": "7L.2",
+"page": 25,
+"top": 513.3,
+"bottom": 527.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 2c",
+"key": "7L.2",
+"page": 25,
+"top": 526.6,
+"bottom": 540.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 2d",
+"key": "7L.2",
+"page": 25,
+"top": 539.9,
+"bottom": 574.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 3a",
+"key": "7L.3",
+"page": 25,
+"top": 573.9,
+"bottom": 588.2
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 3b",
+"key": "7L.3",
+"page": 25,
+"top": 587.2,
+"bottom": 610.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 3c",
+"key": "7L.3",
+"page": 25,
+"top": 609.9,
+"bottom": 633.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 3d",
+"key": "7L.3",
+"page": 25,
+"top": 632.6,
+"bottom": 656.2
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 3e",
+"key": "7L.3",
+"page": 25,
+"top": 655.2,
+"bottom": 669.6
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 4a",
+"key": "7L.4",
+"page": 25,
+"top": 668.6,
+"bottom": 682.9
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 4b",
+"key": "7L.4",
+"page": 25,
+"top": 681.9,
+"bottom": 696.2
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 4c",
+"key": "7L.4",
+"page": 25,
+"top": 695.2,
+"bottom": 752.0
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 4e",
+"key": "7L.4",
+"page": 26,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 7,
+"printed": 800,
+"ref": "7L, 4f",
+"key": "7L.4",
+"page": 26,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7L, 4g",
+"key": "7L.4",
+"page": 26,
+"top": 81.4,
+"bottom": 116.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7L, 4hii",
+"key": "7L.4",
+"page": 26,
+"top": 115.4,
+"bottom": 150.3
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7L, 5a",
+"key": "7L.5",
+"page": 26,
+"top": 149.3,
+"bottom": 163.6
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7L, 5b",
+"key": "7L.5",
+"page": 26,
+"top": 162.6,
+"bottom": 177.0
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7M, 1b",
+"key": "7M.1",
+"page": 26,
+"top": 176.0,
+"bottom": 210.9
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7M, 1d",
+"key": "7M.1",
+"page": 26,
+"top": 209.9,
+"bottom": 224.2
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7M, 3a",
+"key": "7M.3",
+"page": 26,
+"top": 223.2,
+"bottom": 237.6
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7M, 3b",
+"key": "7M.3",
+"page": 26,
+"top": 236.6,
+"bottom": 250.9
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "7M, 3c",
+"key": "7M.3",
+"page": 26,
+"top": 249.9,
+"bottom": 264.2
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 3b",
+"key": null,
+"page": 26,
+"top": 263.2,
+"bottom": 277.5
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 3c",
+"key": null,
+"page": 26,
+"top": 276.5,
+"bottom": 290.8
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 5a",
+"key": null,
+"page": 26,
+"top": 289.8,
+"bottom": 304.2
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 5b",
+"key": null,
+"page": 26,
+"top": 303.2,
+"bottom": 317.5
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 6b",
+"key": null,
+"page": 26,
+"top": 316.5,
+"bottom": 330.8
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 10b",
+"key": null,
+"page": 26,
+"top": 329.8,
+"bottom": 344.0
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 14a",
+"key": null,
+"page": 26,
+"top": 343.0,
+"bottom": 357.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 14b",
+"key": null,
+"page": 26,
+"top": 356.4,
+"bottom": 370.8
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 15a",
+"key": null,
+"page": 26,
+"top": 369.8,
+"bottom": 384.0
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 15b",
+"key": null,
+"page": 26,
+"top": 383.0,
+"bottom": 397.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Chapter review 16",
+"key": null,
+"page": 26,
+"top": 396.4,
+"bottom": 410.7
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Exam-style questions, 201i",
+"key": null,
+"page": 26,
+"top": 409.7,
+"bottom": 433.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Exam-style questions, 201ii",
+"key": null,
+"page": 26,
+"top": 432.4,
+"bottom": 456.0
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Exam-style questions, 20b",
+"key": null,
+"page": 26,
+"top": 455.0,
+"bottom": 478.8
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Exam-style questions, 22b",
+"key": null,
+"page": 26,
+"top": 477.8,
+"bottom": 501.4
+},
+{
+"chapter": 7,
+"printed": 801,
+"ref": "Exam-style questions, 23c",
+"key": null,
+"page": 26,
+"top": 500.4,
+"bottom": 550.8
+},
+{
+"chapter": 8,
+"printed": 8,
+"ref": "Exercise / question",
+"key": null,
+"page": 26,
+"top": 549.8,
+"bottom": 577.3
+},
+{
+"chapter": 8,
+"printed": 347,
+"ref": "8B, 8",
+"key": "8B.8",
+"page": 26,
+"top": 576.3,
+"bottom": 590.6
+},
+{
+"chapter": 8,
+"printed": 348,
+"ref": "Investigation 3",
+"key": "8.Investigation3",
+"page": 26,
+"top": 589.6,
+"bottom": 624.5
+},
+{
+"chapter": 8,
+"printed": 350,
+"ref": "8C, 1d",
+"key": "8C.1",
+"page": 26,
+"top": 623.5,
+"bottom": 637.9
+},
+{
+"chapter": 8,
+"printed": 350,
+"ref": "8C, 3c",
+"key": "8C.3",
+"page": 26,
+"top": 636.9,
+"bottom": 651.2
+},
+{
+"chapter": 8,
+"printed": 352,
+"ref": "8C, 7",
+"key": "8C.7",
+"page": 26,
+"top": 650.2,
+"bottom": 664.5
+},
+{
+"chapter": 8,
+"printed": 352,
+"ref": "8C, 7e",
+"key": "8C.7",
+"page": 26,
+"top": 663.5,
+"bottom": 698.5
+},
+{
+"chapter": 8,
+"printed": 356,
+"ref": "8D, 1b",
+"key": "8D.1",
+"page": 26,
+"top": 697.5,
+"bottom": 752.0
+},
+{
+"chapter": 8,
+"printed": 359,
+"ref": "Example 8",
+"key": "8.Example8",
+"page": 27,
+"top": 54.6,
+"bottom": 78.3
+},
+{
+"chapter": 8,
+"printed": 360,
+"ref": "Red box",
+"key": null,
+"page": 27,
+"top": 77.3,
+"bottom": 112.3
+},
+{
+"chapter": 8,
+"printed": 362,
+"ref": "Example 9, b question",
+"key": "8.Example9",
+"page": 27,
+"top": 111.3,
+"bottom": 125.6
+},
+{
+"chapter": 8,
+"printed": 362,
+"ref": "Example 9",
+"key": "8.Example9",
+"page": 27,
+"top": 124.6,
+"bottom": 148.3
+},
+{
+"chapter": 8,
+"printed": 362,
+"ref": "Example 9, b answer",
+"key": "8.Example9",
+"page": 27,
+"top": 147.3,
+"bottom": 161.6
+},
+{
+"chapter": 8,
+"printed": 363,
+"ref": "8F, 2",
+"key": "8F.2",
+"page": 27,
+"top": 160.6,
+"bottom": 174.9
+},
+{
+"chapter": 8,
+"printed": 363,
+"ref": "8F, 6a",
+"key": "8F.6",
+"page": 27,
+"top": 173.9,
+"bottom": 243.1
+},
+{
+"chapter": 8,
+"printed": 366,
+"ref": "8G, 1",
+"key": "8G.1",
+"page": 27,
+"top": 242.1,
+"bottom": 288.4
+},
+{
+"chapter": 8,
+"printed": 366,
+"ref": "8G, 5",
+"key": "8G.5",
+"page": 27,
+"top": 287.4,
+"bottom": 322.4
+},
+{
+"chapter": 8,
+"printed": 366,
+"ref": "8G, 5a",
+"key": "8G.5",
+"page": 27,
+"top": 321.4,
+"bottom": 345.1
+},
+{
+"chapter": 8,
+"printed": 366,
+"ref": "8G, 5b",
+"key": "8G.5",
+"page": 27,
+"top": 344.1,
+"bottom": 367.7
+},
+{
+"chapter": 8,
+"printed": 368,
+"ref": "Chapter review, 4",
+"key": null,
+"page": 27,
+"top": 366.7,
+"bottom": 390.4
+},
+{
+"chapter": 8,
+"printed": 368,
+"ref": "Chapter review, 6",
+"key": null,
+"page": 27,
+"top": 389.4,
+"bottom": 405.8
+},
+{
+"chapter": 8,
+"printed": 368,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 27,
+"top": 404.8,
+"bottom": 419.1
+},
+{
+"chapter": 8,
+"printed": 368,
+"ref": "Chapter review, 10",
+"key": null,
+"page": 27,
+"top": 418.1,
+"bottom": 432.4
+},
+{
+"chapter": 8,
+"printed": 369,
+"ref": "Exam-style questions, 11",
+"key": null,
+"page": 27,
+"top": 431.4,
+"bottom": 445.7
+},
+{
+"chapter": 8,
+"printed": 369,
+"ref": "Exam-style questions, 12",
+"key": null,
+"page": 27,
+"top": 444.7,
+"bottom": 468.4
+},
+{
+"chapter": 8,
+"printed": 369,
+"ref": "Exam-style questions, 13",
+"key": null,
+"page": 27,
+"top": 467.4,
+"bottom": 491.1
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "Skills check, 1",
+"key": null,
+"page": 27,
+"top": 490.1,
+"bottom": 513.8
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 3a",
+"key": "8A.3",
+"page": 27,
+"top": 512.8,
+"bottom": 527.1
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 3b",
+"key": "8A.3",
+"page": 27,
+"top": 526.1,
+"bottom": 540.4
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 4b",
+"key": "8A.4",
+"page": 27,
+"top": 539.4,
+"bottom": 553.7
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 5b",
+"key": "8A.5",
+"page": 27,
+"top": 552.7,
+"bottom": 567.1
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 6a",
+"key": "8A.6",
+"page": 27,
+"top": 566.1,
+"bottom": 580.4
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 6b",
+"key": "8A.6",
+"page": 27,
+"top": 579.4,
+"bottom": 593.7
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8A, 7",
+"key": "8A.7",
+"page": 27,
+"top": 592.7,
+"bottom": 607.0
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 2aii",
+"key": "8B.2",
+"page": 27,
+"top": 606.0,
+"bottom": 620.3
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 2bii",
+"key": "8B.2",
+"page": 27,
+"top": 619.3,
+"bottom": 633.7
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 3aii",
+"key": "8B.3",
+"page": 27,
+"top": 632.7,
+"bottom": 647.0
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 3b",
+"key": "8B.3",
+"page": 27,
+"top": 646.0,
+"bottom": 752.0
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 4a",
+"key": "8B.4",
+"page": 28,
+"top": 54.6,
+"bottom": 101.0
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 4ci",
+"key": "8B.4",
+"page": 28,
+"top": 100.0,
+"bottom": 114.3
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 5",
+"key": "8B.5",
+"page": 28,
+"top": 113.3,
+"bottom": 127.6
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8B, 8c",
+"key": "8B.8",
+"page": 28,
+"top": 126.6,
+"bottom": 140.9
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 1",
+"key": "8C.1",
+"page": 28,
+"top": 139.9,
+"bottom": 154.3
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 1a",
+"key": "8C.1",
+"page": 28,
+"top": 153.3,
+"bottom": 167.6
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 1a iv",
+"key": "8C.1",
+"page": 28,
+"top": 166.6,
+"bottom": 180.9
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 1b",
+"key": "8C.1",
+"page": 28,
+"top": 179.9,
+"bottom": 194.2
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 1c",
+"key": "8C.1",
+"page": 28,
+"top": 193.2,
+"bottom": 207.5
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C 1c iv",
+"key": null,
+"page": 28,
+"top": 206.5,
+"bottom": 220.9
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 3c",
+"key": "8C.3",
+"page": 28,
+"top": 219.9,
+"bottom": 234.2
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 4a",
+"key": "8C.4",
+"page": 28,
+"top": 233.2,
+"bottom": 256.9
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 4b",
+"key": "8C.4",
+"page": 28,
+"top": 255.9,
+"bottom": 279.5
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 4e",
+"key": "8C.4",
+"page": 28,
+"top": 278.5,
+"bottom": 324.9
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 5a",
+"key": "8C.5",
+"page": 28,
+"top": 323.9,
+"bottom": 338.2
+},
+{
+"chapter": 8,
+"printed": 802,
+"ref": "8C, 5b",
+"key": "8C.5",
+"page": 28,
+"top": 337.2,
+"bottom": 351.5
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 6a",
+"key": "8C.6",
+"page": 28,
+"top": 350.5,
+"bottom": 364.9
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 6b",
+"key": "8C.6",
+"page": 28,
+"top": 363.9,
+"bottom": 387.5
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 6ci",
+"key": "8C.6",
+"page": 28,
+"top": 386.5,
+"bottom": 400.9
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 6d",
+"key": "8C.6",
+"page": 28,
+"top": 399.9,
+"bottom": 414.2
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 7b",
+"key": "8C.7",
+"page": 28,
+"top": 413.2,
+"bottom": 427.5
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 7c",
+"key": "8C.7",
+"page": 28,
+"top": 426.5,
+"bottom": 461.5
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8C, 7e",
+"key": "8C.7",
+"page": 28,
+"top": 460.5,
+"bottom": 474.8
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8D, 1b",
+"key": "8D.1",
+"page": 28,
+"top": 473.8,
+"bottom": 488.1
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 1a",
+"key": "8E.1",
+"page": 28,
+"top": 487.1,
+"bottom": 501.4
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 1b",
+"key": "8E.1",
+"page": 28,
+"top": 500.4,
+"bottom": 514.7
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 1c",
+"key": "8E.1",
+"page": 28,
+"top": 513.7,
+"bottom": 528.1
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 1d",
+"key": "8E.1",
+"page": 28,
+"top": 527.1,
+"bottom": 541.4
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 2b",
+"key": "8E.2",
+"page": 28,
+"top": 540.4,
+"bottom": 554.7
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 2d",
+"key": "8E.2",
+"page": 28,
+"top": 553.7,
+"bottom": 568.0
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 2e",
+"key": "8E.2",
+"page": 28,
+"top": 567.0,
+"bottom": 581.3
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 3d",
+"key": "8E.3",
+"page": 28,
+"top": 580.3,
+"bottom": 594.7
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 4a",
+"key": "8E.4",
+"page": 28,
+"top": 593.7,
+"bottom": 608.0
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 4c",
+"key": "8E.4",
+"page": 28,
+"top": 607.0,
+"bottom": 621.3
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8E, 4f",
+"key": "8E.4",
+"page": 28,
+"top": 620.3,
+"bottom": 634.6
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 1a",
+"key": "8F.1",
+"page": 28,
+"top": 633.6,
+"bottom": 648.1
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 2",
+"key": "8F.2",
+"page": 28,
+"top": 647.1,
+"bottom": 661.3
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F 3a and 3b",
+"key": null,
+"page": 28,
+"top": 660.3,
+"bottom": 674.6
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 3c",
+"key": "8F.3",
+"page": 28,
+"top": 673.6,
+"bottom": 697.3
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 4",
+"key": "8F.4",
+"page": 28,
+"top": 696.3,
+"bottom": 752.0
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 6c",
+"key": "8F.6",
+"page": 29,
+"top": 54.6,
+"bottom": 78.3
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 6d",
+"key": "8F.6",
+"page": 29,
+"top": 77.3,
+"bottom": 91.6
+},
+{
+"chapter": 8,
+"printed": 803,
+"ref": "8F, 6e",
+"key": "8F.6",
+"page": 29,
+"top": 90.6,
+"bottom": 114.3
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "8G, 1",
+"key": "8G.1",
+"page": 29,
+"top": 113.3,
+"bottom": 128.9
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "8G, 2c",
+"key": "8G.2",
+"page": 29,
+"top": 127.9,
+"bottom": 142.3
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "8G, 3",
+"key": "8G.3",
+"page": 29,
+"top": 141.3,
+"bottom": 155.6
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "8G, 4",
+"key": "8G.4",
+"page": 29,
+"top": 154.6,
+"bottom": 168.9
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "8G, 5a",
+"key": "8G.5",
+"page": 29,
+"top": 167.9,
+"bottom": 191.6
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 2a",
+"key": null,
+"page": 29,
+"top": 190.6,
+"bottom": 204.9
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 2b",
+"key": null,
+"page": 29,
+"top": 203.9,
+"bottom": 218.2
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 4",
+"key": null,
+"page": 29,
+"top": 217.2,
+"bottom": 231.5
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 5b",
+"key": null,
+"page": 29,
+"top": 230.5,
+"bottom": 244.9
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 8",
+"key": null,
+"page": 29,
+"top": 243.9,
+"bottom": 278.8
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 29,
+"top": 277.8,
+"bottom": 292.1
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Exam-style questions, 13",
+"key": null,
+"page": 29,
+"top": 291.1,
+"bottom": 305.5
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Exam-style questions, 15a",
+"key": null,
+"page": 29,
+"top": 304.5,
+"bottom": 328.1
+},
+{
+"chapter": 8,
+"printed": 804,
+"ref": "Exam-style questions, 15b",
+"key": null,
+"page": 29,
+"top": 327.1,
+"bottom": 377.6
+},
+{
+"chapter": 9,
+"printed": 9,
+"ref": "Exercise / question",
+"key": null,
+"page": 29,
+"top": 376.6,
+"bottom": 404.2
+},
+{
+"chapter": 9,
+"printed": 373,
+"ref": "Skills check, 2",
+"key": null,
+"page": 29,
+"top": 403.2,
+"bottom": 417.6
+},
+{
+"chapter": 9,
+"printed": 383,
+"ref": "9C, 3",
+"key": "9C.3",
+"page": 29,
+"top": 416.6,
+"bottom": 430.9
+},
+{
+"chapter": 9,
+"printed": 383,
+"ref": "9C, 4",
+"key": "9C.4",
+"page": 29,
+"top": 429.9,
+"bottom": 453.6
+},
+{
+"chapter": 9,
+"printed": 386,
+"ref": "Exam Hint box",
+"key": null,
+"page": 29,
+"top": 452.6,
+"bottom": 466.9
+},
+{
+"chapter": 9,
+"printed": 390,
+"ref": "9D, 7",
+"key": "9D.7",
+"page": 29,
+"top": 465.9,
+"bottom": 480.2
+},
+{
+"chapter": 9,
+"printed": 396,
+"ref": "9E, 3b",
+"key": "9E.3",
+"page": 29,
+"top": 479.2,
+"bottom": 502.9
+},
+{
+"chapter": 9,
+"printed": 396,
+"ref": "9E, 3d",
+"key": "9E.3",
+"page": 29,
+"top": 501.9,
+"bottom": 516.2
+},
+{
+"chapter": 9,
+"printed": 397,
+"ref": "9E, 9",
+"key": "9E.9",
+"page": 29,
+"top": 515.2,
+"bottom": 529.5
+},
+{
+"chapter": 9,
+"printed": 397,
+"ref": "9E, 10",
+"key": "9E.10",
+"page": 29,
+"top": 528.5,
+"bottom": 552.2
+},
+{
+"chapter": 9,
+"printed": 400,
+"ref": "9F, 1",
+"key": "9F.1",
+"page": 29,
+"top": 551.2,
+"bottom": 565.5
+},
+{
+"chapter": 9,
+"printed": 400,
+"ref": "9F, 3a",
+"key": "9F.3",
+"page": 29,
+"top": 564.5,
+"bottom": 588.2
+},
+{
+"chapter": 9,
+"printed": 400,
+"ref": "9F, 4b",
+"key": "9F.4",
+"page": 29,
+"top": 587.2,
+"bottom": 601.5
+},
+{
+"chapter": 9,
+"printed": 401,
+"ref": "9F, 5ciii",
+"key": "9F.5",
+"page": 29,
+"top": 600.5,
+"bottom": 614.8
+},
+{
+"chapter": 9,
+"printed": 405,
+"ref": "Example 10, c answer",
+"key": "9.Example10",
+"page": 29,
+"top": 613.8,
+"bottom": 628.2
+},
+{
+"chapter": 9,
+"printed": 406,
+"ref": "9G, 4",
+"key": "9G.4",
+"page": 29,
+"top": 627.2,
+"bottom": 752.0
+},
+{
+"chapter": 9,
+"printed": 406,
+"ref": "9G, 4b",
+"key": "9G.4",
+"page": 30,
+"top": 54.8,
+"bottom": 101.1
+},
+{
+"chapter": 9,
+"printed": 408,
+"ref": "Top matrix",
+"key": null,
+"page": 30,
+"top": 100.1,
+"bottom": 114.4
+},
+{
+"chapter": 9,
+"printed": 412,
+"ref": "9H, 4",
+"key": "9H.4",
+"page": 30,
+"top": 113.4,
+"bottom": 159.8
+},
+{
+"chapter": 9,
+"printed": 412,
+"ref": "9H, 4b",
+"key": "9H.4",
+"page": 30,
+"top": 158.8,
+"bottom": 173.1
+},
+{
+"chapter": 9,
+"printed": 420,
+"ref": "9J, 3c",
+"key": "9J.3",
+"page": 30,
+"top": 172.1,
+"bottom": 186.4
+},
+{
+"chapter": 9,
+"printed": 420,
+"ref": "9J, 4d",
+"key": "9J.4",
+"page": 30,
+"top": 185.4,
+"bottom": 209.1
+},
+{
+"chapter": 9,
+"printed": 422,
+"ref": "Chapter review, 5",
+"key": null,
+"page": 30,
+"top": 208.1,
+"bottom": 222.4
+},
+{
+"chapter": 9,
+"printed": 422,
+"ref": "Chapter review, 6b",
+"key": null,
+"page": 30,
+"top": 221.4,
+"bottom": 235.8
+},
+{
+"chapter": 9,
+"printed": 422,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 30,
+"top": 234.8,
+"bottom": 258.4
+},
+{
+"chapter": 9,
+"printed": 422,
+"ref": "Chapter review, 7ii",
+"key": null,
+"page": 30,
+"top": 257.4,
+"bottom": 271.8
+},
+{
+"chapter": 9,
+"printed": 804,
+"ref": "Skills check, 1",
+"key": null,
+"page": 30,
+"top": 270.8,
+"bottom": 285.1
+},
+{
+"chapter": 9,
+"printed": 804,
+"ref": "9A, 2c",
+"key": "9A.2",
+"page": 30,
+"top": 284.1,
+"bottom": 298.4
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 3a",
+"key": "9A.3",
+"page": 30,
+"top": 297.4,
+"bottom": 311.7
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 3b",
+"key": "9A.3",
+"page": 30,
+"top": 310.7,
+"bottom": 325.0
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 4c",
+"key": "9A.4",
+"page": 30,
+"top": 324.0,
+"bottom": 338.4
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 4a",
+"key": "9A.4",
+"page": 30,
+"top": 337.4,
+"bottom": 361.0
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 5ai",
+"key": "9A.5",
+"page": 30,
+"top": 360.0,
+"bottom": 374.4
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9A, 6",
+"key": "9A.6",
+"page": 30,
+"top": 373.4,
+"bottom": 387.7
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9C, 1d",
+"key": "9C.1",
+"page": 30,
+"top": 386.7,
+"bottom": 401.0
+},
+{
+"chapter": 9,
+"printed": 805,
+"ref": "9C, 3",
+"key": "9C.3",
+"page": 30,
+"top": 400.0,
+"bottom": 414.3
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9C, 4",
+"key": "9C.4",
+"page": 30,
+"top": 413.3,
+"bottom": 471.1
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9C, 8a",
+"key": "9C.8",
+"page": 30,
+"top": 470.1,
+"bottom": 493.8
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9D, 3a",
+"key": "9D.3",
+"page": 30,
+"top": 492.8,
+"bottom": 507.1
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9D, 3b",
+"key": "9D.3",
+"page": 30,
+"top": 506.1,
+"bottom": 529.8
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9D, 3c",
+"key": "9D.3",
+"page": 30,
+"top": 528.8,
+"bottom": 543.1
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9D, 4",
+"key": "9D.4",
+"page": 30,
+"top": 542.1,
+"bottom": 577.0
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9D, 5",
+"key": "9D.5",
+"page": 30,
+"top": 576.0,
+"bottom": 599.7
+},
+{
+"chapter": 9,
+"printed": 806,
+"ref": "9E, 3b",
+"key": "9E.3",
+"page": 30,
+"top": 598.7,
+"bottom": 613.0
+},
+{
+"chapter": 9,
+"printed": 807,
+"ref": "9E, 5b",
+"key": "9E.5",
+"page": 30,
+"top": 612.0,
+"bottom": 647.0
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9E, 9a",
+"key": "9E.9",
+"page": 30,
+"top": 646.0,
+"bottom": 660.3
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9E, 9b",
+"key": "9E.9",
+"page": 30,
+"top": 659.3,
+"bottom": 673.6
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9E, 9e",
+"key": "9E.9",
+"page": 30,
+"top": 672.6,
+"bottom": 707.6
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 2a",
+"key": "9F.2",
+"page": 30,
+"top": 706.6,
+"bottom": 752.0
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 3a",
+"key": "9F.3",
+"page": 31,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 4b",
+"key": "9F.4",
+"page": 31,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 4c",
+"key": "9F.4",
+"page": 31,
+"top": 81.4,
+"bottom": 105.1
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 5b",
+"key": "9F.5",
+"page": 31,
+"top": 104.1,
+"bottom": 127.8
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 5ciii",
+"key": "9F.5",
+"page": 31,
+"top": 126.8,
+"bottom": 141.1
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 5d",
+"key": "9F.5",
+"page": 31,
+"top": 140.1,
+"bottom": 163.8
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 5e",
+"key": "9F.5",
+"page": 31,
+"top": 162.8,
+"bottom": 186.4
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9F, 5f",
+"key": "9F.5",
+"page": 31,
+"top": 185.4,
+"bottom": 220.4
+},
+{
+"chapter": 9,
+"printed": 808,
+"ref": "9G, 2b",
+"key": "9G.2",
+"page": 31,
+"top": 219.4,
+"bottom": 254.4
+},
+{
+"chapter": 9,
+"printed": 809,
+"ref": "9G, 4c",
+"key": "9G.4",
+"page": 31,
+"top": 253.4,
+"bottom": 288.3
+},
+{
+"chapter": 9,
+"printed": 809,
+"ref": "9G, 5c",
+"key": "9G.5",
+"page": 31,
+"top": 287.3,
+"bottom": 301.6
+},
+{
+"chapter": 9,
+"printed": 809,
+"ref": "9H, 3b",
+"key": "9H.3",
+"page": 31,
+"top": 300.6,
+"bottom": 315.0
+},
+{
+"chapter": 9,
+"printed": 809,
+"ref": "9H, 3c",
+"key": "9H.3",
+"page": 31,
+"top": 314.0,
+"bottom": 328.3
+},
+{
+"chapter": 9,
+"printed": 809,
+"ref": "9H, 4a",
+"key": "9H.4",
+"page": 31,
+"top": 327.3,
+"bottom": 341.6
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "9I, 4b",
+"key": "9I.4",
+"page": 31,
+"top": 340.6,
+"bottom": 354.9
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "9J, 4b",
+"key": "9J.4",
+"page": 31,
+"top": 353.9,
+"bottom": 368.2
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "9J, 4e",
+"key": "9J.4",
+"page": 31,
+"top": 367.2,
+"bottom": 381.6
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "9J, 4f",
+"key": "9J.4",
+"page": 31,
+"top": 380.6,
+"bottom": 394.9
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "Chapter review, 1b",
+"key": null,
+"page": 31,
+"top": 393.9,
+"bottom": 408.2
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "Chapter review, 1f",
+"key": null,
+"page": 31,
+"top": 407.2,
+"bottom": 421.5
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "Chapter review, 4a",
+"key": null,
+"page": 31,
+"top": 420.5,
+"bottom": 434.8
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "Chapter review, 4b",
+"key": null,
+"page": 31,
+"top": 433.8,
+"bottom": 448.2
+},
+{
+"chapter": 9,
+"printed": 810,
+"ref": "Chapter review, 4c",
+"key": null,
+"page": 31,
+"top": 447.2,
+"bottom": 470.8
+},
+{
+"chapter": 9,
+"printed": 811,
+"ref": "Chapter review, 5",
+"key": null,
+"page": 31,
+"top": 469.8,
+"bottom": 484.2
+},
+{
+"chapter": 9,
+"printed": 811,
+"ref": "Chapter review, 6c",
+"key": null,
+"page": 31,
+"top": 483.2,
+"bottom": 529.5
+},
+{
+"chapter": 9,
+"printed": 811,
+"ref": "Chapter review, 7bii",
+"key": null,
+"page": 31,
+"top": 528.5,
+"bottom": 542.8
+},
+{
+"chapter": 9,
+"printed": 811,
+"ref": "Chapter review, 7biii",
+"key": null,
+"page": 31,
+"top": 541.8,
+"bottom": 556.2
+},
+{
+"chapter": 9,
+"printed": 811,
+"ref": "Chapter review, 11c",
+"key": null,
+"page": 31,
+"top": 555.2,
+"bottom": 596.1
+},
+{
+"chapter": 10,
+"printed": 10,
+"ref": "Exercise / question",
+"key": null,
+"page": 31,
+"top": 595.1,
+"bottom": 622.8
+},
+{
+"chapter": 10,
+"printed": 439,
+"ref": "10D, 4",
+"key": "10D.4",
+"page": 31,
+"top": 621.8,
+"bottom": 645.4
+},
+{
+"chapter": 10,
+"printed": 441,
+"ref": "10E, 2",
+"key": "10E.2",
+"page": 31,
+"top": 644.4,
+"bottom": 668.0
+},
+{
+"chapter": 10,
+"printed": 441,
+"ref": "10E, 7",
+"key": "10E.7",
+"page": 31,
+"top": 667.0,
+"bottom": 690.8
+},
+{
+"chapter": 10,
+"printed": 444,
+"ref": "10F, 1ii",
+"key": "10F.1",
+"page": 31,
+"top": 689.8,
+"bottom": 704.0
+},
+{
+"chapter": 10,
+"printed": 453,
+"ref": "Example 17, part b",
+"key": "10.Example17",
+"page": 31,
+"top": 703.0,
+"bottom": 752.0
+},
+{
+"chapter": 10,
+"printed": 461,
+"ref": "10K, 5",
+"key": "10K.5",
+"page": 32,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 10,
+"printed": 462,
+"ref": "10K, 6",
+"key": "10K.6",
+"page": 32,
+"top": 77.4,
+"bottom": 112.4
+},
+{
+"chapter": 10,
+"printed": 465,
+"ref": "Chapter summary",
+"key": null,
+"page": 32,
+"top": 111.4,
+"bottom": 125.7
+},
+{
+"chapter": 10,
+"printed": 467,
+"ref": "Chapter review, 4",
+"key": null,
+"page": 32,
+"top": 124.7,
+"bottom": 139.0
+},
+{
+"chapter": 10,
+"printed": 467,
+"ref": "Chapter review, 5",
+"key": null,
+"page": 32,
+"top": 138.0,
+"bottom": 152.4
+},
+{
+"chapter": 10,
+"printed": 467,
+"ref": "Chapter review, 7d",
+"key": null,
+"page": 32,
+"top": 151.4,
+"bottom": 220.5
+},
+{
+"chapter": 10,
+"printed": 468,
+"ref": "Exam-style questions, 11a",
+"key": null,
+"page": 32,
+"top": 219.5,
+"bottom": 243.2
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "Skills check, 1",
+"key": null,
+"page": 32,
+"top": 242.2,
+"bottom": 256.5
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "Skills check, 3",
+"key": null,
+"page": 32,
+"top": 255.5,
+"bottom": 269.8
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1a",
+"key": "10B.1",
+"page": 32,
+"top": 268.8,
+"bottom": 283.2
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1b",
+"key": "10B.1",
+"page": 32,
+"top": 282.2,
+"bottom": 296.5
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1c",
+"key": "10B.1",
+"page": 32,
+"top": 295.5,
+"bottom": 309.8
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1d",
+"key": "10B.1",
+"page": 32,
+"top": 308.8,
+"bottom": 323.1
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1e",
+"key": "10B.1",
+"page": 32,
+"top": 322.1,
+"bottom": 336.4
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 1f",
+"key": "10B.1",
+"page": 32,
+"top": 335.4,
+"bottom": 349.8
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 2a",
+"key": "10B.2",
+"page": 32,
+"top": 348.8,
+"bottom": 363.1
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 2b",
+"key": "10B.2",
+"page": 32,
+"top": 362.1,
+"bottom": 376.4
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 2c",
+"key": "10B.2",
+"page": 32,
+"top": 375.4,
+"bottom": 389.7
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 2d",
+"key": "10B.2",
+"page": 32,
+"top": 388.7,
+"bottom": 403.0
+},
+{
+"chapter": 10,
+"printed": 811,
+"ref": "10B, 2e",
+"key": "10B.2",
+"page": 32,
+"top": 402.0,
+"bottom": 416.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10B, 6a",
+"key": "10B.6",
+"page": 32,
+"top": 415.4,
+"bottom": 429.7
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10B, 6b",
+"key": "10B.6",
+"page": 32,
+"top": 428.7,
+"bottom": 443.0
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10B, 7c",
+"key": "10B.7",
+"page": 32,
+"top": 442.0,
+"bottom": 456.3
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10B, 7d",
+"key": "10B.7",
+"page": 32,
+"top": 455.3,
+"bottom": 513.1
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10B, 8",
+"key": "10B.8",
+"page": 32,
+"top": 512.1,
+"bottom": 526.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10C, 4a",
+"key": "10C.4",
+"page": 32,
+"top": 525.4,
+"bottom": 549.1
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10C, 4b",
+"key": "10C.4",
+"page": 32,
+"top": 548.1,
+"bottom": 571.8
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10C, 5",
+"key": "10C.5",
+"page": 32,
+"top": 570.8,
+"bottom": 594.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 2a",
+"key": "10D.2",
+"page": 32,
+"top": 593.4,
+"bottom": 617.1
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 2b",
+"key": "10D.2",
+"page": 32,
+"top": 616.1,
+"bottom": 630.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 3a",
+"key": "10D.3",
+"page": 32,
+"top": 629.4,
+"bottom": 643.8
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 4ai",
+"key": "10D.4",
+"page": 32,
+"top": 642.8,
+"bottom": 657.1
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 4aii",
+"key": "10D.4",
+"page": 32,
+"top": 656.1,
+"bottom": 670.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 4aiii",
+"key": "10D.4",
+"page": 32,
+"top": 669.4,
+"bottom": 683.7
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 4b",
+"key": "10D.4",
+"page": 32,
+"top": 682.7,
+"bottom": 697.0
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10D, 5",
+"key": "10D.5",
+"page": 32,
+"top": 696.0,
+"bottom": 710.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10E. 1b",
+"key": null,
+"page": 32,
+"top": 709.4,
+"bottom": 752.0
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10E, 3",
+"key": "10E.3",
+"page": 33,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10E, 4b",
+"key": "10E.4",
+"page": 33,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 10,
+"printed": 812,
+"ref": "10E, 5c",
+"key": "10E.5",
+"page": 33,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10E, 7b",
+"key": "10E.7",
+"page": 33,
+"top": 94.7,
+"bottom": 129.7
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10E, 8b",
+"key": "10E.8",
+"page": 33,
+"top": 128.7,
+"bottom": 152.4
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F, 1ai",
+"key": "10F.1",
+"page": 33,
+"top": 151.4,
+"bottom": 165.7
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1aii",
+"key": null,
+"page": 33,
+"top": 164.7,
+"bottom": 179.0
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1bii",
+"key": null,
+"page": 33,
+"top": 178.0,
+"bottom": 192.3
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1cii",
+"key": null,
+"page": 33,
+"top": 191.3,
+"bottom": 205.6
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1dii",
+"key": null,
+"page": 33,
+"top": 204.6,
+"bottom": 219.0
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1eii",
+"key": null,
+"page": 33,
+"top": 218.0,
+"bottom": 232.3
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F 1fii",
+"key": null,
+"page": 33,
+"top": 231.3,
+"bottom": 255.0
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F, 2c",
+"key": "10F.2",
+"page": 33,
+"top": 254.0,
+"bottom": 277.6
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10F, 3a",
+"key": "10F.3",
+"page": 33,
+"top": 276.6,
+"bottom": 291.0
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 1b",
+"key": "10G.1",
+"page": 33,
+"top": 290.0,
+"bottom": 304.3
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 1e",
+"key": "10G.1",
+"page": 33,
+"top": 303.3,
+"bottom": 317.6
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 1f",
+"key": "10G.1",
+"page": 33,
+"top": 316.6,
+"bottom": 330.9
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 2a",
+"key": "10G.2",
+"page": 33,
+"top": 329.9,
+"bottom": 344.2
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 2b",
+"key": "10G.2",
+"page": 33,
+"top": 343.2,
+"bottom": 357.6
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 2c",
+"key": "10G.2",
+"page": 33,
+"top": 356.6,
+"bottom": 370.9
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10G, 3f",
+"key": "10G.3",
+"page": 33,
+"top": 369.9,
+"bottom": 384.2
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 2b",
+"key": "10H.2",
+"page": 33,
+"top": 383.2,
+"bottom": 397.5
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 2f",
+"key": "10H.2",
+"page": 33,
+"top": 396.5,
+"bottom": 410.8
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 3b",
+"key": "10H.3",
+"page": 33,
+"top": 409.8,
+"bottom": 424.2
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 3f",
+"key": "10H.3",
+"page": 33,
+"top": 423.2,
+"bottom": 437.5
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 3g",
+"key": "10H.3",
+"page": 33,
+"top": 436.5,
+"bottom": 460.2
+},
+{
+"chapter": 10,
+"printed": 813,
+"ref": "10H, 3h",
+"key": "10H.3",
+"page": 33,
+"top": 459.2,
+"bottom": 473.5
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 1e",
+"key": "10I.1",
+"page": 33,
+"top": 472.5,
+"bottom": 486.8
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 1g",
+"key": "10I.1",
+"page": 33,
+"top": 485.8,
+"bottom": 500.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 4a",
+"key": "10I.4",
+"page": 33,
+"top": 499.0,
+"bottom": 513.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 4bii",
+"key": "10I.4",
+"page": 33,
+"top": 512.4,
+"bottom": 526.8
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 4cii",
+"key": "10I.4",
+"page": 33,
+"top": 525.8,
+"bottom": 540.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10I, 5b",
+"key": "10I.5",
+"page": 33,
+"top": 539.0,
+"bottom": 553.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 2a",
+"key": "10J.2",
+"page": 33,
+"top": 552.4,
+"bottom": 587.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 2b",
+"key": "10J.2",
+"page": 33,
+"top": 586.4,
+"bottom": 600.7
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 2c",
+"key": "10J.2",
+"page": 33,
+"top": 599.7,
+"bottom": 634.6
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 3a",
+"key": "10J.3",
+"page": 33,
+"top": 633.6,
+"bottom": 680.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 3c",
+"key": "10J.3",
+"page": 33,
+"top": 679.0,
+"bottom": 752.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 4b",
+"key": "10J.4",
+"page": 34,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5ai",
+"key": "10J.5",
+"page": 34,
+"top": 77.4,
+"bottom": 91.8
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5aii",
+"key": "10J.5",
+"page": 34,
+"top": 90.8,
+"bottom": 105.1
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5aiii",
+"key": "10J.5",
+"page": 34,
+"top": 104.1,
+"bottom": 139.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5aiv",
+"key": "10J.5",
+"page": 34,
+"top": 138.0,
+"bottom": 184.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5bi",
+"key": "10J.5",
+"page": 34,
+"top": 183.4,
+"bottom": 229.8
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5bii",
+"key": "10J.5",
+"page": 34,
+"top": 228.8,
+"bottom": 243.1
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5biii",
+"key": "10J.5",
+"page": 34,
+"top": 242.1,
+"bottom": 277.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5biv",
+"key": "10J.5",
+"page": 34,
+"top": 276.0,
+"bottom": 299.7
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5ci",
+"key": "10J.5",
+"page": 34,
+"top": 298.7,
+"bottom": 313.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5cii",
+"key": "10J.5",
+"page": 34,
+"top": 312.0,
+"bottom": 326.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5ciii",
+"key": "10J.5",
+"page": 34,
+"top": 325.4,
+"bottom": 339.7
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J, 5civ",
+"key": "10J.5",
+"page": 34,
+"top": 338.7,
+"bottom": 362.4
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10J6bii",
+"key": null,
+"page": 34,
+"top": 361.4,
+"bottom": 375.7
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10K, 1a",
+"key": "10K.1",
+"page": 34,
+"top": 374.7,
+"bottom": 389.0
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10K, 1b",
+"key": "10K.1",
+"page": 34,
+"top": 388.0,
+"bottom": 402.3
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10K, 2a",
+"key": "10K.2",
+"page": 34,
+"top": 401.3,
+"bottom": 415.6
+},
+{
+"chapter": 10,
+"printed": 814,
+"ref": "10K, 2b",
+"key": "10K.2",
+"page": 34,
+"top": 414.6,
+"bottom": 438.3
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 2d",
+"key": "10K.2",
+"page": 34,
+"top": 437.3,
+"bottom": 451.6
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 2e",
+"key": "10K.2",
+"page": 34,
+"top": 450.6,
+"bottom": 465.0
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 3",
+"key": "10K.3",
+"page": 34,
+"top": 464.0,
+"bottom": 478.3
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 4bi",
+"key": "10K.4",
+"page": 34,
+"top": 477.3,
+"bottom": 491.6
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 4bii",
+"key": "10K.4",
+"page": 34,
+"top": 490.6,
+"bottom": 504.9
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 4biii",
+"key": "10K.4",
+"page": 34,
+"top": 503.9,
+"bottom": 518.2
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5ai",
+"key": "10K.5",
+"page": 34,
+"top": 517.2,
+"bottom": 531.6
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5aii",
+"key": "10K.5",
+"page": 34,
+"top": 530.6,
+"bottom": 544.9
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5b",
+"key": "10K.5",
+"page": 34,
+"top": 543.9,
+"bottom": 558.2
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5c",
+"key": "10K.5",
+"page": 34,
+"top": 557.2,
+"bottom": 571.5
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5d",
+"key": "10K.5",
+"page": 34,
+"top": 570.5,
+"bottom": 584.8
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 5e",
+"key": "10K.5",
+"page": 34,
+"top": 583.8,
+"bottom": 598.2
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 6a",
+"key": "10K.6",
+"page": 34,
+"top": 597.2,
+"bottom": 611.5
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 6d",
+"key": "10K.6",
+"page": 34,
+"top": 610.5,
+"bottom": 634.2
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 7b",
+"key": "10K.7",
+"page": 34,
+"top": 633.2,
+"bottom": 647.5
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 7di",
+"key": "10K.7",
+"page": 34,
+"top": 646.5,
+"bottom": 660.8
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 7dii",
+"key": "10K.7",
+"page": 34,
+"top": 659.8,
+"bottom": 674.1
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10K, 8",
+"key": "10K.8",
+"page": 34,
+"top": 673.1,
+"bottom": 687.4
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "10L, 4",
+"key": "10L.4",
+"page": 34,
+"top": 686.4,
+"bottom": 752.0
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 4",
+"key": null,
+"page": 35,
+"top": 54.8,
+"bottom": 89.7
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 5",
+"key": null,
+"page": 35,
+"top": 88.7,
+"bottom": 103.0
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 6a",
+"key": null,
+"page": 35,
+"top": 102.0,
+"bottom": 116.4
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 6b",
+"key": null,
+"page": 35,
+"top": 115.4,
+"bottom": 129.7
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 6c",
+"key": null,
+"page": 35,
+"top": 128.7,
+"bottom": 143.0
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 7bi",
+"key": null,
+"page": 35,
+"top": 142.0,
+"bottom": 156.3
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 7bii",
+"key": null,
+"page": 35,
+"top": 155.3,
+"bottom": 190.3
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 7d",
+"key": null,
+"page": 35,
+"top": 189.3,
+"bottom": 203.6
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 35,
+"top": 202.6,
+"bottom": 216.9
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Exam-style questions, 11a",
+"key": null,
+"page": 35,
+"top": 215.9,
+"bottom": 239.6
+},
+{
+"chapter": 10,
+"printed": 815,
+"ref": "Exam-style questions, 11b",
+"key": null,
+"page": 35,
+"top": 238.6,
+"bottom": 273.6
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 12d",
+"key": null,
+"page": 35,
+"top": 272.6,
+"bottom": 296.2
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 13a",
+"key": null,
+"page": 35,
+"top": 295.2,
+"bottom": 318.9
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 13d",
+"key": null,
+"page": 35,
+"top": 317.9,
+"bottom": 341.6
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 14",
+"key": null,
+"page": 35,
+"top": 340.6,
+"bottom": 354.9
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 15a",
+"key": null,
+"page": 35,
+"top": 353.9,
+"bottom": 377.6
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 15b",
+"key": null,
+"page": 35,
+"top": 376.6,
+"bottom": 400.3
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 16c",
+"key": null,
+"page": 35,
+"top": 399.3,
+"bottom": 423.0
+},
+{
+"chapter": 10,
+"printed": 816,
+"ref": "Exam-style questions, 16d",
+"key": null,
+"page": 35,
+"top": 422.0,
+"bottom": 472.3
+},
+{
+"chapter": 11,
+"printed": 11,
+"ref": "Exercise / question",
+"key": null,
+"page": 35,
+"top": 471.3,
+"bottom": 498.9
+},
+{
+"chapter": 11,
+"printed": 486,
+"ref": "11D, 9",
+"key": "11D.9",
+"page": 35,
+"top": 497.9,
+"bottom": 512.2
+},
+{
+"chapter": 11,
+"printed": 494,
+"ref": "11F, 2c",
+"key": "11F.2",
+"page": 35,
+"top": 511.2,
+"bottom": 525.6
+},
+{
+"chapter": 11,
+"printed": 500,
+"ref": "Example 16",
+"key": "11.Example16",
+"page": 35,
+"top": 524.6,
+"bottom": 538.9
+},
+{
+"chapter": 11,
+"printed": 501,
+"ref": "11H, 1a",
+"key": "11H.1",
+"page": 35,
+"top": 537.9,
+"bottom": 552.2
+},
+{
+"chapter": 11,
+"printed": 501,
+"ref": "11H, 1d",
+"key": "11H.1",
+"page": 35,
+"top": 551.2,
+"bottom": 565.5
+},
+{
+"chapter": 11,
+"printed": 502,
+"ref": "11H, 4",
+"key": "11H.4",
+"page": 35,
+"top": 564.5,
+"bottom": 588.2
+},
+{
+"chapter": 11,
+"printed": 502,
+"ref": "11H, 5",
+"key": "11H.5",
+"page": 35,
+"top": 587.2,
+"bottom": 610.9
+},
+{
+"chapter": 11,
+"printed": 502,
+"ref": "11H, 5b",
+"key": "11H.5",
+"page": 35,
+"top": 609.9,
+"bottom": 656.2
+},
+{
+"chapter": 11,
+"printed": 507,
+"ref": "11I , 5a",
+"key": "11I.5",
+"page": 35,
+"top": 655.2,
+"bottom": 690.2
+},
+{
+"chapter": 11,
+"printed": 508,
+"ref": "11I, 8",
+"key": "11I.8",
+"page": 35,
+"top": 689.2,
+"bottom": 703.5
+},
+{
+"chapter": 11,
+"printed": 510,
+"ref": "11J, 1",
+"key": "11J.1",
+"page": 35,
+"top": 702.5,
+"bottom": 752.0
+},
+{
+"chapter": 11,
+"printed": 514,
+"ref": "11K, 6",
+"key": "11K.6",
+"page": 36,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 11,
+"printed": 515,
+"ref": "11K, 9b",
+"key": "11K.9",
+"page": 36,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 11,
+"printed": 515,
+"ref": "11K, 9c",
+"key": "11K.9",
+"page": 36,
+"top": 81.4,
+"bottom": 105.1
+},
+{
+"chapter": 11,
+"printed": 516,
+"ref": "Chapter 11, Example 23",
+"key": "11.Example23",
+"page": 36,
+"top": 104.1,
+"bottom": 118.4
+},
+{
+"chapter": 11,
+"printed": 521,
+"ref": "11M, 1",
+"key": "11M.1",
+"page": 36,
+"top": 117.4,
+"bottom": 141.1
+},
+{
+"chapter": 11,
+"printed": 521,
+"ref": "11M, 4",
+"key": "11M.4",
+"page": 36,
+"top": 140.1,
+"bottom": 163.8
+},
+{
+"chapter": 11,
+"printed": 521,
+"ref": "11M, 4a",
+"key": "11M.4",
+"page": 36,
+"top": 162.8,
+"bottom": 177.1
+},
+{
+"chapter": 11,
+"printed": 526,
+"ref": "Chapter review, 2c",
+"key": null,
+"page": 36,
+"top": 176.1,
+"bottom": 199.8
+},
+{
+"chapter": 11,
+"printed": 527,
+"ref": "Chapter review, 8a",
+"key": null,
+"page": 36,
+"top": 198.8,
+"bottom": 222.4
+},
+{
+"chapter": 11,
+"printed": 527,
+"ref": "Chapter review, 9",
+"key": null,
+"page": 36,
+"top": 221.4,
+"bottom": 235.8
+},
+{
+"chapter": 11,
+"printed": 527,
+"ref": "Chapter review, 10",
+"key": null,
+"page": 36,
+"top": 234.8,
+"bottom": 249.1
+},
+{
+"chapter": 11,
+"printed": 816,
+"ref": "11A, 2d",
+"key": "11A.2",
+"page": 36,
+"top": 248.1,
+"bottom": 262.4
+},
+{
+"chapter": 11,
+"printed": 816,
+"ref": "11B, 1bii",
+"key": "11B.1",
+"page": 36,
+"top": 261.4,
+"bottom": 275.7
+},
+{
+"chapter": 11,
+"printed": 816,
+"ref": "11B, 1fii",
+"key": "11B.1",
+"page": 36,
+"top": 274.7,
+"bottom": 289.0
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11B, 1i i",
+"key": "11B.1",
+"page": 36,
+"top": 288.0,
+"bottom": 323.0
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11B, 1i ii",
+"key": "11B.1",
+"page": 36,
+"top": 322.0,
+"bottom": 336.3
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11B, 2e",
+"key": "11B.2",
+"page": 36,
+"top": 335.3,
+"bottom": 349.6
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11B, 4",
+"key": "11B.4",
+"page": 36,
+"top": 348.6,
+"bottom": 363.0
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11C, 2cii",
+"key": "11C.2",
+"page": 36,
+"top": 362.0,
+"bottom": 376.3
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11D, 4",
+"key": "11D.4",
+"page": 36,
+"top": 375.3,
+"bottom": 389.6
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11D, 5a",
+"key": "11D.5",
+"page": 36,
+"top": 388.6,
+"bottom": 402.9
+},
+{
+"chapter": 11,
+"printed": 817,
+"ref": "11E, 1g",
+"key": "11E.1",
+"page": 36,
+"top": 401.9,
+"bottom": 416.2
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11E, 8e",
+"key": "11E.8",
+"page": 36,
+"top": 415.2,
+"bottom": 429.6
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11E, 10",
+"key": "11E.10",
+"page": 36,
+"top": 428.6,
+"bottom": 442.9
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11E, 11",
+"key": "11E.11",
+"page": 36,
+"top": 441.9,
+"bottom": 456.2
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 1b",
+"key": "11F.1",
+"page": 36,
+"top": 455.2,
+"bottom": 469.5
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 3",
+"key": "11F.3",
+"page": 36,
+"top": 468.5,
+"bottom": 492.2
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 7b",
+"key": "11F.7",
+"page": 36,
+"top": 491.2,
+"bottom": 505.5
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 7c",
+"key": "11F.7",
+"page": 36,
+"top": 504.5,
+"bottom": 539.5
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 8a",
+"key": "11F.8",
+"page": 36,
+"top": 538.5,
+"bottom": 552.8
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 9a",
+"key": "11F.9",
+"page": 36,
+"top": 551.8,
+"bottom": 566.1
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11F, 9c",
+"key": "11F.9",
+"page": 36,
+"top": 565.1,
+"bottom": 579.4
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11G, 4",
+"key": "11G.4",
+"page": 36,
+"top": 578.4,
+"bottom": 602.1
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11G, 5",
+"key": "11G.5",
+"page": 36,
+"top": 601.1,
+"bottom": 615.4
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11H, 1a",
+"key": "11H.1",
+"page": 36,
+"top": 614.4,
+"bottom": 628.8
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11H, 2",
+"key": "11H.2",
+"page": 36,
+"top": 627.8,
+"bottom": 642.1
+},
+{
+"chapter": 11,
+"printed": 818,
+"ref": "11H, 4c",
+"key": "11H.4",
+"page": 36,
+"top": 641.1,
+"bottom": 655.4
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11H, 5ai",
+"key": "11H.5",
+"page": 36,
+"top": 654.4,
+"bottom": 668.7
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11H, 5aii",
+"key": "11H.5",
+"page": 36,
+"top": 667.7,
+"bottom": 691.4
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11H, 5b",
+"key": "11H.5",
+"page": 36,
+"top": 690.4,
+"bottom": 704.7
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 5a",
+"key": "11I.5",
+"page": 36,
+"top": 703.7,
+"bottom": 752.0
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 5bi",
+"key": "11I.5",
+"page": 37,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 5bii",
+"key": "11I.5",
+"page": 37,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 6aiii",
+"key": "11I.6",
+"page": 37,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 6biii",
+"key": "11I.6",
+"page": 37,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11I, 8a",
+"key": "11I.8",
+"page": 37,
+"top": 108.0,
+"bottom": 122.4
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11J, 2aii",
+"key": "11J.2",
+"page": 37,
+"top": 121.4,
+"bottom": 135.7
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11J, 3a",
+"key": "11J.3",
+"page": 37,
+"top": 134.7,
+"bottom": 149.0
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11J, 3b",
+"key": "11J.3",
+"page": 37,
+"top": 148.0,
+"bottom": 162.3
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11J, 4b",
+"key": "11J.4",
+"page": 37,
+"top": 161.3,
+"bottom": 185.0
+},
+{
+"chapter": 11,
+"printed": 819,
+"ref": "11K, 2b",
+"key": "11K.2",
+"page": 37,
+"top": 184.0,
+"bottom": 198.3
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 3c",
+"key": "11K.3",
+"page": 37,
+"top": 197.3,
+"bottom": 211.6
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 4b",
+"key": "11K.4",
+"page": 37,
+"top": 210.6,
+"bottom": 225.0
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 5a",
+"key": "11K.5",
+"page": 37,
+"top": 224.0,
+"bottom": 238.3
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 8",
+"key": "11K.8",
+"page": 37,
+"top": 237.3,
+"bottom": 251.6
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 9a",
+"key": "11K.9",
+"page": 37,
+"top": 250.6,
+"bottom": 264.9
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 9bi",
+"key": "11K.9",
+"page": 37,
+"top": 263.9,
+"bottom": 278.2
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 9bii",
+"key": "11K.9",
+"page": 37,
+"top": 277.2,
+"bottom": 291.6
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11K, 9c",
+"key": "11K.9",
+"page": 37,
+"top": 290.6,
+"bottom": 304.9
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 1",
+"key": "11L.1",
+"page": 37,
+"top": 303.9,
+"bottom": 338.8
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 4b",
+"key": "11L.4",
+"page": 37,
+"top": 337.8,
+"bottom": 352.2
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 6a",
+"key": "11L.6",
+"page": 37,
+"top": 351.2,
+"bottom": 365.5
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 6c",
+"key": "11L.6",
+"page": 37,
+"top": 364.5,
+"bottom": 378.8
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 7b",
+"key": "11L.7",
+"page": 37,
+"top": 377.8,
+"bottom": 392.0
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 8a",
+"key": "11L.8",
+"page": 37,
+"top": 391.0,
+"bottom": 405.4
+},
+{
+"chapter": 11,
+"printed": 820,
+"ref": "11L, 9a",
+"key": "11L.9",
+"page": 37,
+"top": 404.4,
+"bottom": 418.8
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11M, 1",
+"key": "11M.1",
+"page": 37,
+"top": 417.8,
+"bottom": 498.2
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11M, 3bi",
+"key": "11M.3",
+"page": 37,
+"top": 497.2,
+"bottom": 511.5
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11M, 4d",
+"key": "11M.4",
+"page": 37,
+"top": 510.5,
+"bottom": 534.2
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 4a",
+"key": "11N.4",
+"page": 37,
+"top": 533.2,
+"bottom": 547.5
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 4b",
+"key": "11N.4",
+"page": 37,
+"top": 546.5,
+"bottom": 560.8
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 6c",
+"key": "11N.6",
+"page": 37,
+"top": 559.8,
+"bottom": 574.2
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 6d",
+"key": "11N.6",
+"page": 37,
+"top": 573.2,
+"bottom": 587.5
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 6e",
+"key": "11N.6",
+"page": 37,
+"top": 586.5,
+"bottom": 600.8
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "11N, 6f",
+"key": "11N.6",
+"page": 37,
+"top": 599.8,
+"bottom": 614.1
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review 1a",
+"key": null,
+"page": 37,
+"top": 613.1,
+"bottom": 682.3
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review 1e",
+"key": null,
+"page": 37,
+"top": 681.3,
+"bottom": 695.6
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 3",
+"key": null,
+"page": 37,
+"top": 694.6,
+"bottom": 708.9
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 5b",
+"key": null,
+"page": 37,
+"top": 707.9,
+"bottom": 752.0
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 6b",
+"key": null,
+"page": 38,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 7a",
+"key": null,
+"page": 38,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 7b",
+"key": null,
+"page": 38,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 8b",
+"key": null,
+"page": 38,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 9a",
+"key": null,
+"page": 38,
+"top": 108.0,
+"bottom": 122.4
+},
+{
+"chapter": 11,
+"printed": 821,
+"ref": "Chapter review, 9b",
+"key": null,
+"page": 38,
+"top": 121.4,
+"bottom": 135.7
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 13d",
+"key": null,
+"page": 38,
+"top": 134.7,
+"bottom": 185.7
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 14",
+"key": null,
+"page": 38,
+"top": 184.7,
+"bottom": 199.0
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 15b",
+"key": null,
+"page": 38,
+"top": 198.0,
+"bottom": 212.4
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 15c",
+"key": null,
+"page": 38,
+"top": 211.4,
+"bottom": 225.7
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 15d",
+"key": null,
+"page": 38,
+"top": 224.7,
+"bottom": 239.0
+},
+{
+"chapter": 11,
+"printed": 822,
+"ref": "Chapter review, 16b",
+"key": null,
+"page": 38,
+"top": 238.0,
+"bottom": 279.0
+},
+{
+"chapter": 12,
+"printed": 12,
+"ref": "Exercise / question",
+"key": null,
+"page": 38,
+"top": 278.0,
+"bottom": 305.6
+},
+{
+"chapter": 12,
+"printed": 541,
+"ref": "Example 3, d",
+"key": "12.Example3",
+"page": 38,
+"top": 304.6,
+"bottom": 318.9
+},
+{
+"chapter": 12,
+"printed": 541,
+"ref": "12C, 2b",
+"key": "12C.2",
+"page": 38,
+"top": 317.9,
+"bottom": 332.2
+},
+{
+"chapter": 12,
+"printed": 544,
+"ref": "12D, 6c",
+"key": "12D.6",
+"page": 38,
+"top": 331.2,
+"bottom": 345.6
+},
+{
+"chapter": 12,
+"printed": 551,
+"ref": "Penultimate paragraph",
+"key": null,
+"page": 38,
+"top": 344.6,
+"bottom": 413.7
+},
+{
+"chapter": 12,
+"printed": 552,
+"ref": "12F, 2A",
+"key": "12F.2",
+"page": 38,
+"top": 412.7,
+"bottom": 436.4
+},
+{
+"chapter": 12,
+"printed": 553,
+"ref": "12F, 5b",
+"key": "12F.5",
+"page": 38,
+"top": 435.4,
+"bottom": 449.7
+},
+{
+"chapter": 12,
+"printed": 561,
+"ref": "12J, 1c",
+"key": "12J.1",
+"page": 38,
+"top": 448.7,
+"bottom": 472.4
+},
+{
+"chapter": 12,
+"printed": 561,
+"ref": "12J, 2",
+"key": "12J.2",
+"page": 38,
+"top": 471.4,
+"bottom": 485.7
+},
+{
+"chapter": 12,
+"printed": 563,
+"ref": "Chapter review, 2",
+"key": null,
+"page": 38,
+"top": 484.7,
+"bottom": 499.0
+},
+{
+"chapter": 12,
+"printed": 564,
+"ref": "Chapter review, 6cii",
+"key": null,
+"page": 38,
+"top": 498.0,
+"bottom": 512.4
+},
+{
+"chapter": 12,
+"printed": 564,
+"ref": "Chapter review, 7a",
+"key": null,
+"page": 38,
+"top": 511.4,
+"bottom": 525.7
+},
+{
+"chapter": 12,
+"printed": 564,
+"ref": "Chapter review, 7b",
+"key": null,
+"page": 38,
+"top": 524.7,
+"bottom": 539.0
+},
+{
+"chapter": 12,
+"printed": 566,
+"ref": "Chapter review, 14",
+"key": null,
+"page": 38,
+"top": 538.0,
+"bottom": 561.7
+},
+{
+"chapter": 12,
+"printed": 822,
+"ref": "12A, 2b",
+"key": "12A.2",
+"page": 38,
+"top": 560.7,
+"bottom": 575.0
+},
+{
+"chapter": 12,
+"printed": 822,
+"ref": "12A, 3",
+"key": "12A.3",
+"page": 38,
+"top": 574.0,
+"bottom": 588.3
+},
+{
+"chapter": 12,
+"printed": 822,
+"ref": "12A, 5d",
+"key": "12A.5",
+"page": 38,
+"top": 587.3,
+"bottom": 601.6
+},
+{
+"chapter": 12,
+"printed": 822,
+"ref": "12B, 1b",
+"key": "12B.1",
+"page": 38,
+"top": 600.6,
+"bottom": 615.0
+},
+{
+"chapter": 12,
+"printed": 822,
+"ref": "12C, 1c",
+"key": "12C.1",
+"page": 38,
+"top": 614.0,
+"bottom": 628.3
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12C, 4b",
+"key": "12C.4",
+"page": 38,
+"top": 627.3,
+"bottom": 641.6
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12C, 6b",
+"key": "12C.6",
+"page": 38,
+"top": 640.6,
+"bottom": 654.9
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 1a",
+"key": "12D.1",
+"page": 38,
+"top": 653.9,
+"bottom": 668.2
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 1b",
+"key": "12D.1",
+"page": 38,
+"top": 667.2,
+"bottom": 681.6
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 1bii",
+"key": "12D.1",
+"page": 38,
+"top": 680.6,
+"bottom": 694.9
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 3b",
+"key": "12D.3",
+"page": 38,
+"top": 693.9,
+"bottom": 708.2
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 3c",
+"key": "12D.3",
+"page": 38,
+"top": 707.2,
+"bottom": 752.0
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 3d",
+"key": "12D.3",
+"page": 39,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 5a",
+"key": "12D.5",
+"page": 39,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 6a",
+"key": "12D.6",
+"page": 39,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 6b",
+"key": "12D.6",
+"page": 39,
+"top": 94.7,
+"bottom": 118.4
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12D, 6c",
+"key": "12D.6",
+"page": 39,
+"top": 117.4,
+"bottom": 131.7
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12F, 1",
+"key": "12F.1",
+"page": 39,
+"top": 130.7,
+"bottom": 145.0
+},
+{
+"chapter": 12,
+"printed": 823,
+"ref": "12F, 1aii",
+"key": "12F.1",
+"page": 39,
+"top": 144.0,
+"bottom": 224.5
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 1b, 3b, 4b, 6a",
+"key": "12F.1",
+"page": 39,
+"top": 223.5,
+"bottom": 237.8
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 3a",
+"key": "12F.3",
+"page": 39,
+"top": 236.8,
+"bottom": 251.1
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 3b",
+"key": "12F.3",
+"page": 39,
+"top": 250.1,
+"bottom": 296.5
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 4a",
+"key": "12F.4",
+"page": 39,
+"top": 295.5,
+"bottom": 309.8
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 4c",
+"key": "12F.4",
+"page": 39,
+"top": 308.8,
+"bottom": 332.5
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 5b",
+"key": "12F.5",
+"page": 39,
+"top": 331.5,
+"bottom": 345.8
+},
+{
+"chapter": 12,
+"printed": 824,
+"ref": "12F, 6bi",
+"key": "12F.6",
+"page": 39,
+"top": 344.8,
+"bottom": 359.1
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1aiii, 1biii, 1bciii, 1diii, 1eiii",
+"key": "12G.1",
+"page": 39,
+"top": 358.1,
+"bottom": 381.8
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1aii",
+"key": "12G.1",
+"page": 39,
+"top": 380.8,
+"bottom": 404.5
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1bii",
+"key": "12G.1",
+"page": 39,
+"top": 403.5,
+"bottom": 417.8
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1ci",
+"key": "12G.1",
+"page": 39,
+"top": 416.8,
+"bottom": 431.1
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1cii",
+"key": "12G.1",
+"page": 39,
+"top": 430.1,
+"bottom": 444.4
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1dii",
+"key": "12G.1",
+"page": 39,
+"top": 443.4,
+"bottom": 457.8
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1ei",
+"key": "12G.1",
+"page": 39,
+"top": 456.8,
+"bottom": 471.1
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12G, 1eii",
+"key": "12G.1",
+"page": 39,
+"top": 470.1,
+"bottom": 484.4
+},
+{
+"chapter": 12,
+"printed": 825,
+"ref": "12H, 1",
+"key": "12H.1",
+"page": 39,
+"top": 483.4,
+"bottom": 497.7
+},
+{
+"chapter": 12,
+"printed": 826,
+"ref": "12H, 1iv",
+"key": "12H.1",
+"page": 39,
+"top": 496.7,
+"bottom": 511.0
+},
+{
+"chapter": 12,
+"printed": 826,
+"ref": "12H, 2",
+"key": "12H.2",
+"page": 39,
+"top": 510.0,
+"bottom": 524.4
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12H, 3",
+"key": "12H.3",
+"page": 39,
+"top": 523.4,
+"bottom": 537.7
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 2d, 3f, 1c",
+"key": "12I.2",
+"page": 39,
+"top": 536.7,
+"bottom": 560.4
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 1b",
+"key": "12I.1",
+"page": 39,
+"top": 559.4,
+"bottom": 583.0
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 1c",
+"key": "12I.1",
+"page": 39,
+"top": 582.0,
+"bottom": 605.7
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 3a",
+"key": "12I.3",
+"page": 39,
+"top": 604.7,
+"bottom": 628.4
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 3c",
+"key": "12I.3",
+"page": 39,
+"top": 627.4,
+"bottom": 700.5
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 3di",
+"key": "12I.3",
+"page": 39,
+"top": 699.5,
+"bottom": 752.0
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 3dii",
+"key": "12I.3",
+"page": 40,
+"top": 54.8,
+"bottom": 78.4
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12I, 3f",
+"key": "12I.3",
+"page": 40,
+"top": 77.4,
+"bottom": 91.8
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12J, 1ci",
+"key": "12J.1",
+"page": 40,
+"top": 90.8,
+"bottom": 105.1
+},
+{
+"chapter": 12,
+"printed": 827,
+"ref": "12J, 1cii",
+"key": "12J.1",
+"page": 40,
+"top": 104.1,
+"bottom": 118.4
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "12J, 2b",
+"key": "12J.2",
+"page": 40,
+"top": 117.4,
+"bottom": 131.7
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "12J, 2c",
+"key": "12J.2",
+"page": 40,
+"top": 130.7,
+"bottom": 145.0
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "12J, 2d",
+"key": "12J.2",
+"page": 40,
+"top": 144.0,
+"bottom": 158.4
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review 1b",
+"key": null,
+"page": 40,
+"top": 157.4,
+"bottom": 171.7
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review 2b",
+"key": null,
+"page": 40,
+"top": 170.7,
+"bottom": 185.0
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review 2c",
+"key": null,
+"page": 40,
+"top": 184.0,
+"bottom": 198.3
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review 4c",
+"key": null,
+"page": 40,
+"top": 197.3,
+"bottom": 243.7
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 6ci",
+"key": null,
+"page": 40,
+"top": 242.7,
+"bottom": 266.4
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 7b",
+"key": null,
+"page": 40,
+"top": 265.4,
+"bottom": 279.7
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 7b",
+"key": null,
+"page": 40,
+"top": 278.7,
+"bottom": 293.0
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 12ai",
+"key": null,
+"page": 40,
+"top": 292.0,
+"bottom": 306.3
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 12bi",
+"key": null,
+"page": 40,
+"top": 305.3,
+"bottom": 319.6
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 13ci",
+"key": null,
+"page": 40,
+"top": 318.6,
+"bottom": 333.0
+},
+{
+"chapter": 12,
+"printed": 828,
+"ref": "Chapter review, 14c",
+"key": null,
+"page": 40,
+"top": 332.0,
+"bottom": 346.3
+},
+{
+"chapter": 12,
+"printed": 829,
+"ref": "Chapter review, 16b",
+"key": null,
+"page": 40,
+"top": 345.3,
+"bottom": 386.2
+},
+{
+"chapter": 13,
+"printed": 13,
+"ref": "Exercise / question",
+"key": null,
+"page": 40,
+"top": 385.2,
+"bottom": 412.9
+},
+{
+"chapter": 13,
+"printed": 587,
+"ref": "13B, 8",
+"key": "13B.8",
+"page": 40,
+"top": 411.9,
+"bottom": 496.4
+},
+{
+"chapter": 13,
+"printed": 592,
+"ref": "13C, 4",
+"key": "13C.4",
+"page": 40,
+"top": 495.4,
+"bottom": 509.7
+},
+{
+"chapter": 13,
+"printed": 592,
+"ref": "13C, 6",
+"key": "13C.6",
+"page": 40,
+"top": 508.7,
+"bottom": 557.7
+},
+{
+"chapter": 13,
+"printed": 592,
+"ref": "13C, 6",
+"key": "13C.6",
+"page": 40,
+"top": 556.7,
+"bottom": 603.1
+},
+{
+"chapter": 13,
+"printed": 592,
+"ref": "13C, 7",
+"key": "13C.7",
+"page": 40,
+"top": 602.1,
+"bottom": 627.7
+},
+{
+"chapter": 13,
+"printed": 596,
+"ref": "Investigation 9",
+"key": "13.Investigation9",
+"page": 40,
+"top": 626.7,
+"bottom": 673.0
+},
+{
+"chapter": 13,
+"printed": 600,
+"ref": "13D, 7c",
+"key": "13D.7",
+"page": 40,
+"top": 672.0,
+"bottom": 686.4
+},
+{
+"chapter": 13,
+"printed": 600,
+"ref": "13D, 9ciii",
+"key": "13D.9",
+"page": 40,
+"top": 685.4,
+"bottom": 752.0
+},
+{
+"chapter": 13,
+"printed": 604,
+"ref": "13E, 8",
+"key": "13E.8",
+"page": 41,
+"top": 54.8,
+"bottom": 81.8
+},
+{
+"chapter": 13,
+"printed": 605,
+"ref": "Chapter 13, Investigation 11",
+"key": "13.Investigation11",
+"page": 41,
+"top": 80.8,
+"bottom": 107.8
+},
+{
+"chapter": 13,
+"printed": 613,
+"ref": "13F, 1",
+"key": "13F.1",
+"page": 41,
+"top": 106.8,
+"bottom": 121.2
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 1",
+"key": null,
+"page": 41,
+"top": 120.2,
+"bottom": 134.5
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 3b",
+"key": null,
+"page": 41,
+"top": 133.5,
+"bottom": 168.4
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 3bi",
+"key": null,
+"page": 41,
+"top": 167.4,
+"bottom": 181.8
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 3bii",
+"key": null,
+"page": 41,
+"top": 180.8,
+"bottom": 195.1
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 3biii",
+"key": null,
+"page": 41,
+"top": 194.1,
+"bottom": 208.4
+},
+{
+"chapter": 13,
+"printed": 616,
+"ref": "Chapter review, 3biv",
+"key": null,
+"page": 41,
+"top": 207.4,
+"bottom": 244.4
+},
+{
+"chapter": 13,
+"printed": 617,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 41,
+"top": 243.4,
+"bottom": 269.0
+},
+{
+"chapter": 13,
+"printed": 618,
+"ref": "Exam-style questions, 12b",
+"key": null,
+"page": 41,
+"top": 268.0,
+"bottom": 291.7
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 15",
+"key": null,
+"page": 41,
+"top": 290.7,
+"bottom": 305.0
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 16b",
+"key": null,
+"page": 41,
+"top": 304.0,
+"bottom": 327.7
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 17a",
+"key": null,
+"page": 41,
+"top": 326.7,
+"bottom": 350.4
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 17b",
+"key": null,
+"page": 41,
+"top": 349.4,
+"bottom": 373.0
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 17",
+"key": null,
+"page": 41,
+"top": 372.0,
+"bottom": 386.4
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 18",
+"key": null,
+"page": 41,
+"top": 385.4,
+"bottom": 399.7
+},
+{
+"chapter": 13,
+"printed": 619,
+"ref": "Exam-style questions, 18b",
+"key": null,
+"page": 41,
+"top": 398.7,
+"bottom": 422.4
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "Skills check, 2",
+"key": null,
+"page": 41,
+"top": 421.4,
+"bottom": 435.7
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "13A, 1",
+"key": "13A.1",
+"page": 41,
+"top": 434.7,
+"bottom": 460.3
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "13A, 1a",
+"key": "13A.1",
+"page": 41,
+"top": 459.3,
+"bottom": 487.0
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "13A, 1b",
+"key": "13A.1",
+"page": 41,
+"top": 486.0,
+"bottom": 511.6
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "13A, 2e",
+"key": "13A.2",
+"page": 41,
+"top": 510.6,
+"bottom": 525.0
+},
+{
+"chapter": 13,
+"printed": 829,
+"ref": "13A, 3a",
+"key": "13A.3",
+"page": 41,
+"top": 524.0,
+"bottom": 538.3
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13A, 8bi",
+"key": "13A.8",
+"page": 41,
+"top": 537.3,
+"bottom": 551.6
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13A, 8bii",
+"key": "13A.8",
+"page": 41,
+"top": 550.6,
+"bottom": 564.9
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13A, 8c",
+"key": "13A.8",
+"page": 41,
+"top": 563.9,
+"bottom": 578.2
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13A, 9a",
+"key": "13A.9",
+"page": 41,
+"top": 577.2,
+"bottom": 591.6
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13A, 9b",
+"key": "13A.9",
+"page": 41,
+"top": 590.6,
+"bottom": 604.9
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13B, 4a",
+"key": "13B.4",
+"page": 41,
+"top": 603.9,
+"bottom": 618.2
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13C, 3",
+"key": "13C.3",
+"page": 41,
+"top": 617.2,
+"bottom": 640.9
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13C, 4",
+"key": "13C.4",
+"page": 41,
+"top": 639.9,
+"bottom": 676.9
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13C, 8a",
+"key": "13C.8",
+"page": 41,
+"top": 675.9,
+"bottom": 690.2
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13C, 9a",
+"key": "13C.9",
+"page": 41,
+"top": 689.2,
+"bottom": 703.5
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13D, 1d",
+"key": "13D.1",
+"page": 41,
+"top": 702.5,
+"bottom": 752.0
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13D, 1e",
+"key": "13D.1",
+"page": 42,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13D, 1f",
+"key": "13D.1",
+"page": 42,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 13,
+"printed": 830,
+"ref": "13D, 3",
+"key": "13D.3",
+"page": 42,
+"top": 81.4,
+"bottom": 95.7
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13D, 7c",
+"key": "13D.7",
+"page": 42,
+"top": 94.7,
+"bottom": 109.0
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13D, 9a",
+"key": "13D.9",
+"page": 42,
+"top": 108.0,
+"bottom": 179.8
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 3e",
+"key": "13E.3",
+"page": 42,
+"top": 178.8,
+"bottom": 193.2
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 3f",
+"key": "13E.3",
+"page": 42,
+"top": 192.2,
+"bottom": 206.5
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 4a",
+"key": "13E.4",
+"page": 42,
+"top": 205.5,
+"bottom": 219.8
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 6",
+"key": "13E.6",
+"page": 42,
+"top": 218.8,
+"bottom": 233.1
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 7a",
+"key": "13E.7",
+"page": 42,
+"top": 232.1,
+"bottom": 278.5
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13E, 8",
+"key": "13E.8",
+"page": 42,
+"top": 277.5,
+"bottom": 346.6
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13F, 1",
+"key": "13F.1",
+"page": 42,
+"top": 345.6,
+"bottom": 360.0
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13F, 2",
+"key": "13F.2",
+"page": 42,
+"top": 359.0,
+"bottom": 373.3
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13F, 3",
+"key": "13F.3",
+"page": 42,
+"top": 372.3,
+"bottom": 386.6
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "13F, 6c",
+"key": "13F.6",
+"page": 42,
+"top": 385.6,
+"bottom": 399.9
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 1a",
+"key": null,
+"page": 42,
+"top": 398.9,
+"bottom": 413.2
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 3a",
+"key": null,
+"page": 42,
+"top": 412.2,
+"bottom": 435.9
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 3bii",
+"key": null,
+"page": 42,
+"top": 434.9,
+"bottom": 449.2
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 5d",
+"key": null,
+"page": 42,
+"top": 448.2,
+"bottom": 462.6
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 42,
+"top": 461.6,
+"bottom": 475.9
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Chapter review, 9b",
+"key": null,
+"page": 42,
+"top": 474.9,
+"bottom": 489.2
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Exam-style questions, 10a",
+"key": null,
+"page": 42,
+"top": 488.2,
+"bottom": 511.9
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Exam-style questions, 10b",
+"key": null,
+"page": 42,
+"top": 510.9,
+"bottom": 534.6
+},
+{
+"chapter": 13,
+"printed": 831,
+"ref": "Exam-style questions, 11f",
+"key": null,
+"page": 42,
+"top": 533.6,
+"bottom": 547.9
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 12c",
+"key": null,
+"page": 42,
+"top": 546.9,
+"bottom": 570.6
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 13a",
+"key": null,
+"page": 42,
+"top": 569.6,
+"bottom": 593.2
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 13b",
+"key": null,
+"page": 42,
+"top": 592.2,
+"bottom": 615.9
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 14a",
+"key": null,
+"page": 42,
+"top": 614.9,
+"bottom": 638.6
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 14b",
+"key": null,
+"page": 42,
+"top": 637.6,
+"bottom": 661.3
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 15a",
+"key": null,
+"page": 42,
+"top": 660.3,
+"bottom": 684.0
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 15b",
+"key": null,
+"page": 42,
+"top": 683.0,
+"bottom": 706.6
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 16a",
+"key": null,
+"page": 42,
+"top": 705.6,
+"bottom": 752.0
+},
+{
+"chapter": 13,
+"printed": 832,
+"ref": "Exam-style questions, 16b",
+"key": null,
+"page": 43,
+"top": 54.8,
+"bottom": 105.1
+},
+{
+"chapter": 14,
+"printed": 14,
+"ref": "Exercise / question",
+"key": null,
+"page": 43,
+"top": 104.1,
+"bottom": 131.7
+},
+{
+"chapter": 14,
+"printed": 633,
+"ref": "14B, 4",
+"key": "14B.4",
+"page": 43,
+"top": 130.7,
+"bottom": 145.0
+},
+{
+"chapter": 14,
+"printed": 635,
+"ref": "14C, 4a",
+"key": "14C.4",
+"page": 43,
+"top": 144.0,
+"bottom": 158.4
+},
+{
+"chapter": 14,
+"printed": 638,
+"ref": "14D, 3",
+"key": "14D.3",
+"page": 43,
+"top": 157.4,
+"bottom": 183.0
+},
+{
+"chapter": 14,
+"printed": 646,
+"ref": "14G, 2",
+"key": "14G.2",
+"page": 43,
+"top": 182.0,
+"bottom": 208.4
+},
+{
+"chapter": 14,
+"printed": 661,
+"ref": "14K, 5f",
+"key": "14K.5",
+"page": 43,
+"top": 207.4,
+"bottom": 221.7
+},
+{
+"chapter": 14,
+"printed": 664,
+"ref": "14L, 4",
+"key": "14L.4",
+"page": 43,
+"top": 220.7,
+"bottom": 271.0
+},
+{
+"chapter": 14,
+"printed": 665,
+"ref": "14L, 4bii",
+"key": "14L.4",
+"page": 43,
+"top": 270.0,
+"bottom": 293.7
+},
+{
+"chapter": 14,
+"printed": 666,
+"ref": "Example 15",
+"key": "14.Example15",
+"page": 43,
+"top": 292.7,
+"bottom": 316.4
+},
+{
+"chapter": 14,
+"printed": 666,
+"ref": "Example 15",
+"key": "14.Example15",
+"page": 43,
+"top": 315.4,
+"bottom": 339.1
+},
+{
+"chapter": 14,
+"printed": 666,
+"ref": "Example 15",
+"key": "14.Example15",
+"page": 43,
+"top": 338.1,
+"bottom": 361.8
+},
+{
+"chapter": 14,
+"printed": 668,
+"ref": "14M, 1b",
+"key": "14M.1",
+"page": 43,
+"top": 360.8,
+"bottom": 375.1
+},
+{
+"chapter": 14,
+"printed": 668,
+"ref": "14M, 4a",
+"key": "14M.4",
+"page": 43,
+"top": 374.1,
+"bottom": 412.4
+},
+{
+"chapter": 14,
+"printed": 668,
+"ref": "14M, 4b",
+"key": "14M.4",
+"page": 43,
+"top": 411.4,
+"bottom": 437.0
+},
+{
+"chapter": 14,
+"printed": 669,
+"ref": "14M, 6",
+"key": "14M.6",
+"page": 43,
+"top": 436.0,
+"bottom": 450.3
+},
+{
+"chapter": 14,
+"printed": 672,
+"ref": "14N, 2",
+"key": "14N.2",
+"page": 43,
+"top": 449.3,
+"bottom": 484.3
+},
+{
+"chapter": 14,
+"printed": 673,
+"ref": "14N, 4B b",
+"key": "14N.4",
+"page": 43,
+"top": 483.3,
+"bottom": 522.2
+},
+{
+"chapter": 14,
+"printed": 674,
+"ref": "14O, 2",
+"key": "14O.2",
+"page": 43,
+"top": 521.2,
+"bottom": 695.2
+},
+{
+"chapter": 14,
+"printed": 675,
+"ref": "14O, 2a",
+"key": "14O.2",
+"page": 43,
+"top": 694.2,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 675,
+"ref": "14O, 5",
+"key": "14O.5",
+"page": 44,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 14,
+"printed": 675,
+"ref": "14P, 7",
+"key": "14P.7",
+"page": 44,
+"top": 68.1,
+"bottom": 91.8
+},
+{
+"chapter": 14,
+"printed": 676,
+"ref": "Investigation 7",
+"key": "14.Investigation7",
+"page": 44,
+"top": 90.8,
+"bottom": 148.5
+},
+{
+"chapter": 14,
+"printed": 677,
+"ref": "Investigation 7, 8",
+"key": "14.Investigation7",
+"page": 44,
+"top": 147.5,
+"bottom": 161.8
+},
+{
+"chapter": 14,
+"printed": 685,
+"ref": "Chapter review, 6",
+"key": null,
+"page": 44,
+"top": 160.8,
+"bottom": 175.2
+},
+{
+"chapter": 14,
+"printed": 685,
+"ref": "Chapter review, 7",
+"key": null,
+"page": 44,
+"top": 174.2,
+"bottom": 197.8
+},
+{
+"chapter": 14,
+"printed": 685,
+"ref": "Chapter review, 7c",
+"key": null,
+"page": 44,
+"top": 196.8,
+"bottom": 211.2
+},
+{
+"chapter": 14,
+"printed": 686,
+"ref": "Exam-style questions, 10",
+"key": null,
+"page": 44,
+"top": 210.2,
+"bottom": 233.8
+},
+{
+"chapter": 14,
+"printed": 687,
+"ref": "Exam-style questions, 13",
+"key": null,
+"page": 44,
+"top": 232.8,
+"bottom": 247.2
+},
+{
+"chapter": 14,
+"printed": 687,
+"ref": "Exam-style questions, 16",
+"key": null,
+"page": 44,
+"top": 246.2,
+"bottom": 269.8
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 1a",
+"key": "14A.1",
+"page": 44,
+"top": 268.8,
+"bottom": 292.5
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 1b",
+"key": "14A.1",
+"page": 44,
+"top": 291.5,
+"bottom": 326.5
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 1c",
+"key": "14A.1",
+"page": 44,
+"top": 325.5,
+"bottom": 349.2
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 1d",
+"key": "14A.1",
+"page": 44,
+"top": 348.2,
+"bottom": 385.8
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 3c",
+"key": "14A.3",
+"page": 44,
+"top": 384.8,
+"bottom": 399.1
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 4b",
+"key": "14A.4",
+"page": 44,
+"top": 398.1,
+"bottom": 538.6
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 4c",
+"key": "14A.4",
+"page": 44,
+"top": 537.6,
+"bottom": 598.6
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 4d",
+"key": "14A.4",
+"page": 44,
+"top": 597.6,
+"bottom": 632.6
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 6ai",
+"key": "14A.6",
+"page": 44,
+"top": 631.6,
+"bottom": 645.9
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 6aii",
+"key": "14A.6",
+"page": 44,
+"top": 644.9,
+"bottom": 659.2
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 6bi",
+"key": "14A.6",
+"page": 44,
+"top": 658.2,
+"bottom": 672.6
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14A, 6bii",
+"key": "14A.6",
+"page": 44,
+"top": 671.6,
+"bottom": 685.9
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14B, 1",
+"key": "14B.1",
+"page": 44,
+"top": 684.9,
+"bottom": 699.2
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14B, 2",
+"key": "14B.2",
+"page": 44,
+"top": 698.2,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14B, 4",
+"key": "14B.4",
+"page": 45,
+"top": 54.8,
+"bottom": 79.8
+},
+{
+"chapter": 14,
+"printed": 832,
+"ref": "14B, 5",
+"key": "14B.5",
+"page": 45,
+"top": 78.8,
+"bottom": 115.8
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 1ai",
+"key": "14D.1",
+"page": 45,
+"top": 114.8,
+"bottom": 129.1
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 1aii",
+"key": "14D.1",
+"page": 45,
+"top": 128.1,
+"bottom": 142.4
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 1cii",
+"key": "14D.1",
+"page": 45,
+"top": 141.4,
+"bottom": 155.7
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 2biii",
+"key": "14D.2",
+"page": 45,
+"top": 154.7,
+"bottom": 169.0
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 3a",
+"key": "14D.3",
+"page": 45,
+"top": 168.0,
+"bottom": 205.6
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 3b",
+"key": "14D.3",
+"page": 45,
+"top": 204.6,
+"bottom": 219.0
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14D, 3c",
+"key": "14D.3",
+"page": 45,
+"top": 218.0,
+"bottom": 232.3
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14E, 1a",
+"key": "14E.1",
+"page": 45,
+"top": 231.3,
+"bottom": 245.6
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14E, 1b",
+"key": "14E.1",
+"page": 45,
+"top": 244.6,
+"bottom": 258.9
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14E, 1c",
+"key": "14E.1",
+"page": 45,
+"top": 257.9,
+"bottom": 272.2
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14E, 2d",
+"key": "14E.2",
+"page": 45,
+"top": 271.2,
+"bottom": 285.6
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14E, 3g",
+"key": "14E.3",
+"page": 45,
+"top": 284.6,
+"bottom": 308.2
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14F, 1b",
+"key": "14F.1",
+"page": 45,
+"top": 307.2,
+"bottom": 321.6
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14F, 2a",
+"key": "14F.2",
+"page": 45,
+"top": 320.6,
+"bottom": 334.9
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14F, 2b",
+"key": "14F.2",
+"page": 45,
+"top": 333.9,
+"bottom": 348.2
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14F, 2c",
+"key": "14F.2",
+"page": 45,
+"top": 347.2,
+"bottom": 361.5
+},
+{
+"chapter": 14,
+"printed": 833,
+"ref": "14C, 3c",
+"key": "14C.3",
+"page": 45,
+"top": 360.5,
+"bottom": 421.5
+},
+{
+"chapter": 14,
+"printed": 834,
+"ref": "14I, 1",
+"key": "14I.1",
+"page": 45,
+"top": 420.5,
+"bottom": 456.8
+},
+{
+"chapter": 14,
+"printed": 834,
+"ref": "14I, 2a",
+"key": "14I.2",
+"page": 45,
+"top": 455.8,
+"bottom": 470.1
+},
+{
+"chapter": 14,
+"printed": 834,
+"ref": "14I, 2b",
+"key": "14I.2",
+"page": 45,
+"top": 469.1,
+"bottom": 517.5
+},
+{
+"chapter": 14,
+"printed": 834,
+"ref": "14K, 1c",
+"key": "14K.1",
+"page": 45,
+"top": 516.5,
+"bottom": 542.1
+},
+{
+"chapter": 14,
+"printed": 834,
+"ref": "14K, 2b",
+"key": "14K.2",
+"page": 45,
+"top": 541.1,
+"bottom": 600.2
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 3a",
+"key": "14K.3",
+"page": 45,
+"top": 599.2,
+"bottom": 624.8
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 3b",
+"key": "14K.3",
+"page": 45,
+"top": 623.8,
+"bottom": 638.1
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5b",
+"key": "14K.5",
+"page": 45,
+"top": 637.1,
+"bottom": 651.4
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5c",
+"key": "14K.5",
+"page": 45,
+"top": 650.4,
+"bottom": 664.8
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5d",
+"key": "14K.5",
+"page": 45,
+"top": 663.8,
+"bottom": 678.1
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5f",
+"key": "14K.5",
+"page": 45,
+"top": 677.1,
+"bottom": 700.8
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5gi",
+"key": "14K.5",
+"page": 45,
+"top": 699.8,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14K, 5gii",
+"key": "14K.5",
+"page": 46,
+"top": 54.8,
+"bottom": 80.4
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14L, 1",
+"key": "14L.1",
+"page": 46,
+"top": 79.4,
+"bottom": 103.0
+},
+{
+"chapter": 14,
+"printed": 835,
+"ref": "14L, 2b",
+"key": "14L.2",
+"page": 46,
+"top": 102.0,
+"bottom": 125.7
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 3a",
+"key": "14L.3",
+"page": 46,
+"top": 124.7,
+"bottom": 139.0
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 3d",
+"key": "14L.3",
+"page": 46,
+"top": 138.0,
+"bottom": 152.4
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 3e",
+"key": "14L.3",
+"page": 46,
+"top": 151.4,
+"bottom": 165.7
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 4a",
+"key": "14L.4",
+"page": 46,
+"top": 164.7,
+"bottom": 202.3
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 4bii",
+"key": "14L.4",
+"page": 46,
+"top": 201.3,
+"bottom": 294.4
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 5b",
+"key": "14L.5",
+"page": 46,
+"top": 293.4,
+"bottom": 317.1
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14L, 5c",
+"key": "14L.5",
+"page": 46,
+"top": 316.1,
+"bottom": 339.8
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 1d",
+"key": "14M.1",
+"page": 46,
+"top": 338.8,
+"bottom": 362.5
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 1d",
+"key": "14M.1",
+"page": 46,
+"top": 361.5,
+"bottom": 396.4
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 2b",
+"key": "14M.2",
+"page": 46,
+"top": 395.4,
+"bottom": 430.4
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 2b",
+"key": "14M.2",
+"page": 46,
+"top": 429.4,
+"bottom": 464.4
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 2b",
+"key": "14M.2",
+"page": 46,
+"top": 463.4,
+"bottom": 487.0
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 3b",
+"key": "14M.3",
+"page": 46,
+"top": 486.0,
+"bottom": 509.7
+},
+{
+"chapter": 14,
+"printed": 836,
+"ref": "14M, 3b",
+"key": "14M.3",
+"page": 46,
+"top": 508.7,
+"bottom": 543.7
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 3b",
+"key": "14M.3",
+"page": 46,
+"top": 542.7,
+"bottom": 557.0
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 3b",
+"key": "14M.3",
+"page": 46,
+"top": 556.0,
+"bottom": 579.7
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 4b",
+"key": "14M.4",
+"page": 46,
+"top": 578.7,
+"bottom": 602.4
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 4b",
+"key": "14M.4",
+"page": 46,
+"top": 601.4,
+"bottom": 636.3
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 4b",
+"key": "14M.4",
+"page": 46,
+"top": 635.3,
+"bottom": 659.0
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 5b",
+"key": "14M.5",
+"page": 46,
+"top": 658.0,
+"bottom": 672.3
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 5c",
+"key": "14M.5",
+"page": 46,
+"top": 671.3,
+"bottom": 695.0
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 5c",
+"key": "14M.5",
+"page": 46,
+"top": 694.0,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 5c",
+"key": "14M.5",
+"page": 47,
+"top": 54.8,
+"bottom": 112.5
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 6a",
+"key": "14M.6",
+"page": 47,
+"top": 111.5,
+"bottom": 135.2
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 6b",
+"key": "14M.6",
+"page": 47,
+"top": 134.2,
+"bottom": 157.9
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 6b",
+"key": "14M.6",
+"page": 47,
+"top": 156.9,
+"bottom": 180.6
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14M, 6b",
+"key": "14M.6",
+"page": 47,
+"top": 179.6,
+"bottom": 205.2
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14N, 2b",
+"key": "14N.2",
+"page": 47,
+"top": 204.2,
+"bottom": 218.5
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14N, 3ai",
+"key": "14N.3",
+"page": 47,
+"top": 217.5,
+"bottom": 312.0
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14N, 3aii",
+"key": "14N.3",
+"page": 47,
+"top": 311.0,
+"bottom": 370.6
+},
+{
+"chapter": 14,
+"printed": 837,
+"ref": "14N, 3aiii",
+"key": "14N.3",
+"page": 47,
+"top": 369.6,
+"bottom": 452.7
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14N, 4bii",
+"key": "14N.4",
+"page": 47,
+"top": 451.7,
+"bottom": 522.8
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14N, 5a",
+"key": "14N.5",
+"page": 47,
+"top": 521.8,
+"bottom": 602.2
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14N, 5b",
+"key": "14N.5",
+"page": 47,
+"top": 601.2,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14O, 2a",
+"key": "14O.2",
+"page": 48,
+"top": 54.8,
+"bottom": 237.3
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14O, 2b",
+"key": "14O.2",
+"page": 48,
+"top": 236.3,
+"bottom": 298.0
+},
+{
+"chapter": 14,
+"printed": 838,
+"ref": "14O, 3c",
+"key": "14O.3",
+"page": 48,
+"top": 297.0,
+"bottom": 311.4
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14O, 4d",
+"key": "14O.4",
+"page": 48,
+"top": 310.4,
+"bottom": 368.0
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14O, 4e",
+"key": "14O.4",
+"page": 48,
+"top": 367.0,
+"bottom": 381.4
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14O, 5a",
+"key": "14O.5",
+"page": 48,
+"top": 380.4,
+"bottom": 394.8
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14O, 5b",
+"key": "14O.5",
+"page": 48,
+"top": 393.8,
+"bottom": 508.3
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "14P, 1b",
+"key": "14P.1",
+"page": 48,
+"top": 507.3,
+"bottom": 521.6
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 2bii",
+"key": "14P.2",
+"page": 48,
+"top": 520.6,
+"bottom": 534.9
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 3aii",
+"key": "14P.3",
+"page": 48,
+"top": 533.9,
+"bottom": 548.2
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 3bi",
+"key": "14P.3",
+"page": 48,
+"top": 547.2,
+"bottom": 561.6
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 4a",
+"key": "14P.4",
+"page": 48,
+"top": 560.6,
+"bottom": 609.6
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 4b",
+"key": "14P.4",
+"page": 48,
+"top": 608.6,
+"bottom": 658.9
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 7a",
+"key": "14P.7",
+"page": 48,
+"top": 657.9,
+"bottom": 752.0
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 7c",
+"key": "14P.7",
+"page": 49,
+"top": 54.8,
+"bottom": 101.1
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14P, 7d",
+"key": "14P.7",
+"page": 49,
+"top": 100.1,
+"bottom": 146.5
+},
+{
+"chapter": 14,
+"printed": 839,
+"ref": "14Q, 1c",
+"key": "14Q.1",
+"page": 49,
+"top": 145.5,
+"bottom": 225.9
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "14Q, 1f",
+"key": "14Q.1",
+"page": 49,
+"top": 224.9,
+"bottom": 239.2
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "14Q, 2ai",
+"key": "14Q.2",
+"page": 49,
+"top": 238.2,
+"bottom": 252.6
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "14Q, 3a",
+"key": "14Q.3",
+"page": 49,
+"top": 251.6,
+"bottom": 265.9
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "14Q, 3c",
+"key": "14Q.3",
+"page": 49,
+"top": 264.9,
+"bottom": 279.2
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "Chapter review, 1b",
+"key": null,
+"page": 49,
+"top": 278.2,
+"bottom": 358.6
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "Chapter review, 3e",
+"key": null,
+"page": 49,
+"top": 357.6,
+"bottom": 372.0
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "Chapter review, 4c",
+"key": null,
+"page": 49,
+"top": 371.0,
+"bottom": 385.3
+},
+{
+"chapter": 14,
+"printed": 840,
+"ref": "Chapter review, 8bi",
+"key": null,
+"page": 49,
+"top": 384.3,
+"bottom": 398.6
+},
+{
+"chapter": 14,
+"printed": 841,
+"ref": "Exam-style questions, 11b",
+"key": null,
+"page": 49,
+"top": 397.6,
+"bottom": 421.3
+},
+{
+"chapter": 14,
+"printed": 841,
+"ref": "Exam-style questions, 13",
+"key": null,
+"page": 49,
+"top": 420.3,
+"bottom": 444.0
+},
+{
+"chapter": 14,
+"printed": 841,
+"ref": "Exam-style questions, 14a",
+"key": null,
+"page": 49,
+"top": 443.0,
+"bottom": 466.6
+},
+{
+"chapter": 14,
+"printed": 841,
+"ref": "Exam-style questions, 15",
+"key": null,
+"page": 49,
+"top": 465.6,
+"bottom": 489.3
+},
+{
+"chapter": 14,
+"printed": 841,
+"ref": "Exam-style questions, 16",
+"key": null,
+"page": 49,
+"top": 488.3,
+"bottom": 502.6
+},
+{
+"chapter": 14,
+"printed": 842,
+"ref": "Exam-style questions, 17",
+"key": null,
+"page": 49,
+"top": 501.6,
+"bottom": 586.0
+},
+{
+"chapter": 15,
+"printed": 15,
+"ref": "Exercise / question",
+"key": null,
+"page": 49,
+"top": 585.0,
+"bottom": 612.7
+},
+{
+"chapter": 15,
+"printed": 698,
+"ref": "15B, 5",
+"key": "15B.5",
+"page": 49,
+"top": 611.7,
+"bottom": 626.0
+},
+{
+"chapter": 15,
+"printed": 698,
+"ref": "15B, 5a",
+"key": "15B.5",
+"page": 49,
+"top": 625.0,
+"bottom": 660.0
+},
+{
+"chapter": 15,
+"printed": 702,
+"ref": "15D, 2",
+"key": "15D.2",
+"page": 49,
+"top": 659.0,
+"bottom": 752.0
+},
+{
+"chapter": 15,
+"printed": 703,
+"ref": "15D, 3biii",
+"key": "15D.3",
+"page": 50,
+"top": 54.8,
+"bottom": 135.2
+},
+{
+"chapter": 15,
+"printed": 703,
+"ref": "15D, 4",
+"key": "15D.4",
+"page": 50,
+"top": 134.2,
+"bottom": 160.6
+},
+{
+"chapter": 15,
+"printed": 706,
+"ref": "15E, 2di",
+"key": "15E.2",
+"page": 50,
+"top": 159.6,
+"bottom": 174.0
+},
+{
+"chapter": 15,
+"printed": 707,
+"ref": "15E, 5a",
+"key": "15E.5",
+"page": 50,
+"top": 173.0,
+"bottom": 196.6
+},
+{
+"chapter": 15,
+"printed": 712,
+"ref": "15F, 1",
+"key": "15F.1",
+"page": 50,
+"top": 195.6,
+"bottom": 219.3
+},
+{
+"chapter": 15,
+"printed": 713,
+"ref": "15F, 6",
+"key": "15F.6",
+"page": 50,
+"top": 218.3,
+"bottom": 232.6
+},
+{
+"chapter": 15,
+"printed": 717,
+"ref": "15G, 2bii",
+"key": "15G.2",
+"page": 50,
+"top": 231.6,
+"bottom": 255.3
+},
+{
+"chapter": 15,
+"printed": 717,
+"ref": "15G, 3b",
+"key": "15G.3",
+"page": 50,
+"top": 254.3,
+"bottom": 268.6
+},
+{
+"chapter": 15,
+"printed": 719,
+"ref": "15H, 3",
+"key": "15H.3",
+"page": 50,
+"top": 267.6,
+"bottom": 282.0
+},
+{
+"chapter": 15,
+"printed": 725,
+"ref": "15I, 1",
+"key": "15I.1",
+"page": 50,
+"top": 281.0,
+"bottom": 306.6
+},
+{
+"chapter": 15,
+"printed": 727,
+"ref": "15J, 1ii",
+"key": "15J.1",
+"page": 50,
+"top": 305.6,
+"bottom": 353.2
+},
+{
+"chapter": 15,
+"printed": 729,
+"ref": "Chapter review, 4d",
+"key": null,
+"page": 50,
+"top": 352.2,
+"bottom": 375.9
+},
+{
+"chapter": 15,
+"printed": 731,
+"ref": "Exam-style questions, 13c",
+"key": null,
+"page": 50,
+"top": 374.9,
+"bottom": 421.3
+},
+{
+"chapter": 15,
+"printed": 731,
+"ref": "Exam-style questions, 14a",
+"key": null,
+"page": 50,
+"top": 420.3,
+"bottom": 444.0
+},
+{
+"chapter": 15,
+"printed": 733,
+"ref": "Exam-style questions, 21",
+"key": null,
+"page": 50,
+"top": 443.0,
+"bottom": 468.6
+},
+{
+"chapter": 15,
+"printed": 842,
+"ref": "Skills check, 2a",
+"key": null,
+"page": 50,
+"top": 467.6,
+"bottom": 481.9
+},
+{
+"chapter": 15,
+"printed": 842,
+"ref": "Skills check, 2c",
+"key": null,
+"page": 50,
+"top": 480.9,
+"bottom": 504.6
+},
+{
+"chapter": 15,
+"printed": 842,
+"ref": "15A, 6a",
+"key": "15A.6",
+"page": 50,
+"top": 503.6,
+"bottom": 517.9
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 3aii",
+"key": "15B.3",
+"page": 50,
+"top": 516.9,
+"bottom": 563.2
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 3bii",
+"key": "15B.3",
+"page": 50,
+"top": 562.2,
+"bottom": 610.6
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 5a",
+"key": "15B.5",
+"page": 50,
+"top": 609.6,
+"bottom": 624.0
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 5b",
+"key": "15B.5",
+"page": 50,
+"top": 623.0,
+"bottom": 669.3
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 5c",
+"key": "15B.5",
+"page": 50,
+"top": 668.3,
+"bottom": 692.0
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 5d",
+"key": "15B.5",
+"page": 50,
+"top": 691.0,
+"bottom": 705.3
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15B, 5e",
+"key": "15B.5",
+"page": 50,
+"top": 704.3,
+"bottom": 752.0
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15C, 4c",
+"key": "15C.4",
+"page": 51,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15D, 1bi",
+"key": "15D.1",
+"page": 51,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15D, 2",
+"key": "15D.2",
+"page": 51,
+"top": 81.4,
+"bottom": 108.4
+},
+{
+"chapter": 15,
+"printed": 843,
+"ref": "15D, 3aiii",
+"key": "15D.3",
+"page": 51,
+"top": 107.4,
+"bottom": 121.8
+},
+{
+"chapter": 15,
+"printed": 844,
+"ref": "15D, 4c",
+"key": "15D.4",
+"page": 51,
+"top": 120.8,
+"bottom": 201.2
+},
+{
+"chapter": 15,
+"printed": 844,
+"ref": "15E, 1",
+"key": "15E.1",
+"page": 51,
+"top": 200.2,
+"bottom": 214.5
+},
+{
+"chapter": 15,
+"printed": 844,
+"ref": "15E, 2di",
+"key": "15E.2",
+"page": 51,
+"top": 213.5,
+"bottom": 227.8
+},
+{
+"chapter": 15,
+"printed": 844,
+"ref": "15E, 2dii",
+"key": "15E.2",
+"page": 51,
+"top": 226.8,
+"bottom": 241.2
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15E, 4c",
+"key": "15E.4",
+"page": 51,
+"top": 240.2,
+"bottom": 254.5
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15E, 5a",
+"key": "15E.5",
+"page": 51,
+"top": 253.5,
+"bottom": 277.2
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15F, 2d",
+"key": "15F.2",
+"page": 51,
+"top": 276.2,
+"bottom": 299.8
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15F, 4a",
+"key": "15F.4",
+"page": 51,
+"top": 298.8,
+"bottom": 313.2
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15F, 4bii",
+"key": "15F.4",
+"page": 51,
+"top": 312.2,
+"bottom": 395.2
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15G, 1c",
+"key": "15G.1",
+"page": 51,
+"top": 394.2,
+"bottom": 417.9
+},
+{
+"chapter": 15,
+"printed": 845,
+"ref": "15G, 2bii",
+"key": "15G.2",
+"page": 51,
+"top": 416.9,
+"bottom": 497.4
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15H, 1b",
+"key": "15H.1",
+"page": 51,
+"top": 496.4,
+"bottom": 510.7
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15H, 3a",
+"key": "15H.3",
+"page": 51,
+"top": 509.7,
+"bottom": 544.6
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15H, 3b",
+"key": "15H.3",
+"page": 51,
+"top": 543.6,
+"bottom": 558.0
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15I, 1cii",
+"key": "15I.1",
+"page": 51,
+"top": 557.0,
+"bottom": 571.3
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15J, 1aii",
+"key": "15J.1",
+"page": 51,
+"top": 570.3,
+"bottom": 594.0
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15J, 1aiii",
+"key": "15J.1",
+"page": 51,
+"top": 593.0,
+"bottom": 616.6
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15J, 1bii",
+"key": "15J.1",
+"page": 51,
+"top": 615.6,
+"bottom": 662.0
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15J, 1cii",
+"key": "15J.1",
+"page": 51,
+"top": 661.0,
+"bottom": 675.3
+},
+{
+"chapter": 15,
+"printed": 846,
+"ref": "15J, 1dii",
+"key": "15J.1",
+"page": 51,
+"top": 674.3,
+"bottom": 688.6
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Chapter review, 1a",
+"key": null,
+"page": 51,
+"top": 687.6,
+"bottom": 711.3
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Chapter review, 4ai",
+"key": null,
+"page": 51,
+"top": 710.3,
+"bottom": 752.0
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Chapter review, 8b",
+"key": null,
+"page": 52,
+"top": 54.8,
+"bottom": 82.5
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Chapter review, 9c",
+"key": null,
+"page": 52,
+"top": 81.5,
+"bottom": 95.8
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Chapter review, 9d",
+"key": null,
+"page": 52,
+"top": 94.8,
+"bottom": 118.5
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Exam-style questions, 10a",
+"key": null,
+"page": 52,
+"top": 117.5,
+"bottom": 141.2
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Exam-style questions, 11a",
+"key": null,
+"page": 52,
+"top": 140.2,
+"bottom": 163.9
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Exam-style questions, 11b",
+"key": null,
+"page": 52,
+"top": 162.9,
+"bottom": 186.6
+},
+{
+"chapter": 15,
+"printed": 847,
+"ref": "Exam-style questions, 12",
+"key": null,
+"page": 52,
+"top": 185.6,
+"bottom": 199.9
+},
+{
+"chapter": 15,
+"printed": 848,
+"ref": "Exam-style questions, 13a",
+"key": null,
+"page": 52,
+"top": 198.9,
+"bottom": 222.6
+},
+{
+"chapter": 15,
+"printed": 848,
+"ref": "Exam-style questions, 18a Exercise / question All throughout",
+"key": null,
+"page": 52,
+"top": 221.6,
+"bottom": 310.3
+},
+{
+"chapter": 15,
+"printed": 764,
+"ref": "",
+"key": null,
+"page": 52,
+"top": 309.3,
+"bottom": 321.2
+},
+{
+"chapter": 15,
+"printed": 750,
+"ref": "Paper 1, 1",
+"key": null,
+"page": 52,
+"top": 320.2,
+"bottom": 334.5
+},
+{
+"chapter": 15,
+"printed": 750,
+"ref": "Paper 1, 1b",
+"key": null,
+"page": 52,
+"top": 333.5,
+"bottom": 382.5
+},
+{
+"chapter": 15,
+"printed": 750,
+"ref": "Paper 1, 3c",
+"key": null,
+"page": 52,
+"top": 381.5,
+"bottom": 405.2
+},
+{
+"chapter": 15,
+"printed": 753,
+"ref": "Paper 1, 10d",
+"key": null,
+"page": 52,
+"top": 404.2,
+"bottom": 450.6
+},
+{
+"chapter": 15,
+"printed": 758,
+"ref": "Paper 2, 4b",
+"key": null,
+"page": 52,
+"top": 449.6,
+"bottom": 486.6
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 5",
+"key": null,
+"page": 52,
+"top": 485.6,
+"bottom": 512.6
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 5",
+"key": null,
+"page": 52,
+"top": 511.6,
+"bottom": 572.0
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 5cii",
+"key": null,
+"page": 52,
+"top": 571.0,
+"bottom": 597.4
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 5ciii",
+"key": null,
+"page": 52,
+"top": 596.4,
+"bottom": 623.5
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 6c",
+"key": null,
+"page": 52,
+"top": 622.5,
+"bottom": 646.2
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 6d",
+"key": null,
+"page": 52,
+"top": 645.2,
+"bottom": 668.8
+},
+{
+"chapter": 15,
+"printed": 759,
+"ref": "Paper 2, 6dii",
+"key": null,
+"page": 52,
+"top": 667.8,
+"bottom": 682.2
+},
+{
+"chapter": 15,
+"printed": 760,
+"ref": "Paper 2, 7",
+"key": null,
+"page": 52,
+"top": 681.2,
+"bottom": 752.0
+},
+{
+"chapter": 15,
+"printed": 760,
+"ref": "Paper 2, 7a",
+"key": null,
+"page": 53,
+"top": 54.8,
+"bottom": 192.0
+},
+{
+"chapter": 15,
+"printed": 760,
+"ref": "Paper 2, 7b",
+"key": null,
+"page": 53,
+"top": 191.0,
+"bottom": 237.3
+},
+{
+"chapter": 15,
+"printed": 760,
+"ref": "Paper 2, 7bii",
+"key": null,
+"page": 53,
+"top": 236.3,
+"bottom": 271.3
+},
+{
+"chapter": 15,
+"printed": 761,
+"ref": "Paper 3, 1a",
+"key": null,
+"page": 53,
+"top": 270.3,
+"bottom": 305.2
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 1a",
+"key": null,
+"page": 53,
+"top": 304.2,
+"bottom": 318.6
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 1b",
+"key": null,
+"page": 53,
+"top": 317.6,
+"bottom": 331.9
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 2a",
+"key": null,
+"page": 53,
+"top": 330.9,
+"bottom": 345.2
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 2b",
+"key": null,
+"page": 53,
+"top": 344.2,
+"bottom": 358.5
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 3aii",
+"key": null,
+"page": 53,
+"top": 357.5,
+"bottom": 371.8
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 3b",
+"key": null,
+"page": 53,
+"top": 370.8,
+"bottom": 385.2
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 3c",
+"key": null,
+"page": 53,
+"top": 384.2,
+"bottom": 398.5
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 5bii",
+"key": null,
+"page": 53,
+"top": 397.5,
+"bottom": 411.8
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 7a",
+"key": null,
+"page": 53,
+"top": 410.8,
+"bottom": 425.1
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 8b",
+"key": null,
+"page": 53,
+"top": 424.1,
+"bottom": 438.4
+},
+{
+"chapter": 15,
+"printed": 849,
+"ref": "Paper 1, 9b&c",
+"key": null,
+"page": 53,
+"top": 437.4,
+"bottom": 451.8
+},
+{
+"chapter": 15,
+"printed": 850,
+"ref": "Paper 1, 13c",
+"key": null,
+"page": 53,
+"top": 450.8,
+"bottom": 465.1
+},
+{
+"chapter": 15,
+"printed": 850,
+"ref": "Paper 1, 13e",
+"key": null,
+"page": 53,
+"top": 464.1,
+"bottom": 478.4
+},
+{
+"chapter": 15,
+"printed": 850,
+"ref": "Paper 1, 14a",
+"key": null,
+"page": 53,
+"top": 477.4,
+"bottom": 491.7
+},
+{
+"chapter": 15,
+"printed": 850,
+"ref": "Paper 1, 15b",
+"key": null,
+"page": 53,
+"top": 490.7,
+"bottom": 505.0
+},
+{
+"chapter": 15,
+"printed": 850,
+"ref": "Paper 1, 17a",
+"key": null,
+"page": 53,
+"top": 504.0,
+"bottom": 518.4
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 1ai",
+"key": null,
+"page": 53,
+"top": 517.4,
+"bottom": 531.7
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 1aii",
+"key": null,
+"page": 53,
+"top": 530.7,
+"bottom": 545.0
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 1d",
+"key": null,
+"page": 53,
+"top": 544.0,
+"bottom": 558.3
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 1e",
+"key": null,
+"page": 53,
+"top": 557.3,
+"bottom": 571.6
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 1f",
+"key": null,
+"page": 53,
+"top": 570.6,
+"bottom": 585.0
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 2e",
+"key": null,
+"page": 53,
+"top": 584.0,
+"bottom": 598.3
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 2f",
+"key": null,
+"page": 53,
+"top": 597.3,
+"bottom": 611.6
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 3a",
+"key": null,
+"page": 53,
+"top": 610.6,
+"bottom": 624.9
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 3d",
+"key": null,
+"page": 53,
+"top": 623.9,
+"bottom": 638.2
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 4a",
+"key": null,
+"page": 53,
+"top": 637.2,
+"bottom": 660.9
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 4bii",
+"key": null,
+"page": 53,
+"top": 659.9,
+"bottom": 683.6
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 4bii",
+"key": null,
+"page": 53,
+"top": 682.6,
+"bottom": 696.9
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 5a",
+"key": null,
+"page": 53,
+"top": 695.9,
+"bottom": 710.2
+},
+{
+"chapter": 15,
+"printed": 851,
+"ref": "Paper 2, 5b",
+"key": null,
+"page": 53,
+"top": 709.2,
+"bottom": 752.0
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 5ci",
+"key": null,
+"page": 54,
+"top": 54.8,
+"bottom": 69.1
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 5ci",
+"key": null,
+"page": 54,
+"top": 68.1,
+"bottom": 82.4
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 5ciii",
+"key": null,
+"page": 54,
+"top": 81.4,
+"bottom": 105.1
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 6bii",
+"key": null,
+"page": 54,
+"top": 104.1,
+"bottom": 118.4
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 6c",
+"key": null,
+"page": 54,
+"top": 117.4,
+"bottom": 131.7
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 6d",
+"key": null,
+"page": 54,
+"top": 130.7,
+"bottom": 145.0
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 6f",
+"key": null,
+"page": 54,
+"top": 144.0,
+"bottom": 158.4
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 7a",
+"key": null,
+"page": 54,
+"top": 157.4,
+"bottom": 171.7
+},
+{
+"chapter": 15,
+"printed": 852,
+"ref": "Paper 2, 7bii",
+"key": null,
+"page": 54,
+"top": 170.7,
+"bottom": 752.0
+}
+]
+}

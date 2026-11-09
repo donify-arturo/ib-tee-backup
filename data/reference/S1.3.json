@@ -1,0 +1,191 @@
+{
+ "notes": [
+  {
+   "heading": "Emission spectra and the EM spectrum",
+   "understanding": "S1.3.1",
+   "points": [
+    "Excited atoms emit photons when electrons fall from higher to lower energy levels; the photon carries the energy difference between the two levels.",
+    "A continuous spectrum has all wavelengths merged. A line spectrum has only certain separate lines, characteristic of each element.",
+    "Energy and frequency increase as wavelength decreases: gamma rays are short wavelength, high frequency, high energy; radio and microwaves are the opposite.",
+    "Flame tests work by atomic emission: the flame promotes electrons, and falling back gives visible photons of certain wavelengths."
+   ]
+  },
+  {
+   "heading": "Hydrogen line spectrum and energy levels",
+   "understanding": "S1.3.2",
+   "points": [
+    "Each line has one wavelength, so one exact energy. This shows electron energies are discrete (quantized), not continuous.",
+    "Lines get closer together at higher energy: the energy levels converge as n increases.",
+    "Falling to n = 1 gives UV, to n = 2 gives visible light, to n = 3 gives infrared.",
+    "A bigger drop releases a higher-energy photon: n = 6 to 2 gives violet (short wavelength), n = 3 to 2 gives red.",
+    "Electrons absorb or release only the exact energy gap between levels; too little energy and they do not move."
+   ]
+  },
+  {
+   "heading": "Main energy levels and electron capacity",
+   "understanding": "S1.3.3",
+   "points": [
+    "The main energy level is numbered by the integer n = 1, 2, 3 and so on; higher n means higher energy, further from the nucleus.",
+    "Maximum electrons in level n = 2n².",
+    "So n = 1 holds 2, n = 2 holds 8, n = 3 holds 18, n = 4 holds 32.",
+    "The ground state is n = 1, the lowest energy; higher levels are excited states."
+   ]
+  },
+  {
+   "heading": "Sublevels s, p, d, f",
+   "understanding": "S1.3.4",
+   "points": [
+    "Each main level splits into sublevels of increasing energy: s < p < d < f.",
+    "Level n has n types of sublevel: n = 1 has s only, n = 2 has s and p, n = 3 adds d, n = 4 adds f.",
+    "Orbitals per sublevel: s = 1, p = 3, d = 5, f = 7. Each level has n² orbitals in total.",
+    "The s orbital is spherical; a p orbital is dumbbell-shaped, with three p orbitals along x, y and z."
+   ]
+  },
+  {
+   "heading": "Orbitals and filling electron configurations",
+   "understanding": "S1.3.5",
+   "points": [
+    "An orbital is a region where an electron is likely to be found and holds at most two electrons of opposite spin (Pauli).",
+    "Aufbau: lowest-energy orbitals fill first. Order: 1s 2s 2p 3s 3p 4s 3d 4p. Ions up to Z = 36 are assessed.",
+    "Hund: degenerate orbitals each get one electron, all with the same spin, before any pairs up.",
+    "Condensed form = previous noble gas in brackets plus valence electrons, e.g. Mn is [Ar] 4s² 3d⁵.",
+    "Cr is [Ar] 4s¹ 3d⁵ and Cu is [Ar] 4s¹ 3d¹⁰: half-full or full d sublevel is more stable.",
+    "Atoms lose 4s electrons before 3d when forming ions, e.g. Mn²⁺ is [Ar] 3d⁵."
+   ]
+  },
+  {
+   "heading": "Convergence limit and ionization",
+   "understanding": "S1.3.6",
+   "points": [
+    "At high frequency the spectral lines converge; the convergence limit is the point where the electron is removed, i.e. ionization.",
+    "First IE of one atom: find f from c = fλ, then E = hf (or E = hc/λ). c ≈ 3.00×10⁸ m s⁻¹, h = 6.63×10⁻³⁴ J s.",
+    "Convert to kJ mol⁻¹: multiply the energy per atom by 6.02×10²³ mol⁻¹, then divide by 1000.",
+    "Worked result: hydrogen converges at 9.12×10⁻⁸ m, giving 2.18×10⁻¹⁸ J, or about 1.31×10³ kJ mol⁻¹.",
+    "Reverse: from IE per mole, divide by Avogadro's constant and 1000 conversion to joules, then use λ = hc/E."
+   ]
+  },
+  {
+   "heading": "Ionization energy trends and successive IEs",
+   "understanding": "S1.3.7",
+   "points": [
+    "First IE generally decreases down a group (more shielding) and increases across a period (more nuclear charge, similar shielding).",
+    "Dip from group 2 to 3 (Be to B, Mg to Al): the single p electron is higher in energy and shielded by the s² pair.",
+    "Dip from group 15 to 16 (N to O): paired electrons in oxygen's p orbital repel, so one is easier to remove.",
+    "Successive IEs always rise, because fewer electrons remain for the same protons and repulsion falls.",
+    "A big jump shows removal from a new inner main level; the number of electrons before the jump equals the group's valence electrons.",
+    "Worked example: 403 then 2633 kJ mol⁻¹ shows one valence electron, so group 1."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Emission spectrum",
+   "definition": "Pattern of wavelengths of light given out when excited atoms release photons as electrons fall to lower energy levels.",
+   "must_say": [
+    "excited electrons",
+    "fall to lower energy levels",
+    "photons emitted"
+   ],
+   "trap": "Do not confuse with absorption spectrum, where dark lines appear against a continuous background."
+  },
+  {
+   "term": "Continuous spectrum",
+   "definition": "A spectrum containing all wavelengths of light in a range, with no gaps or separate lines.",
+   "must_say": [
+    "all wavelengths",
+    "no gaps"
+   ],
+   "trap": "Gas discharge tubes give line spectra, not continuous ones."
+  },
+  {
+   "term": "Line spectrum",
+   "definition": "A spectrum of separate lines, each at one specific wavelength, characteristic of an element and showing discrete energy levels.",
+   "must_say": [
+    "specific wavelengths",
+    "discrete lines"
+   ],
+   "trap": "Saying lines are colours of the whole atom rather than individual electron transitions."
+  },
+  {
+   "term": "Photon",
+   "definition": "A quantum (discrete packet) of electromagnetic energy, with energy proportional to its frequency, E = hf.",
+   "must_say": [
+    "quantum of energy",
+    "E = hf"
+   ],
+   "trap": "Energy is proportional to frequency but inversely proportional to wavelength."
+  },
+  {
+   "term": "Ground state",
+   "definition": "The lowest energy state of an atom, in which electrons occupy the lowest available energy levels (n = 1 for hydrogen).",
+   "must_say": [
+    "lowest energy",
+    "most stable"
+   ],
+   "trap": "Excited states are n = 2 and above; they are not the ground state."
+  },
+  {
+   "term": "Atomic orbital",
+   "definition": "A region of space around the nucleus where there is a high probability of finding an electron; holds at most two electrons.",
+   "must_say": [
+    "region of space",
+    "high probability",
+    "two electrons"
+   ],
+   "trap": "An orbital is not a fixed orbit or path of the electron."
+  },
+  {
+   "term": "Degenerate orbitals",
+   "definition": "Orbitals within the same sublevel that have the same energy.",
+   "must_say": [
+    "same energy",
+    "same sublevel"
+   ],
+   "trap": "2p and 3p orbitals are not degenerate; they differ in energy."
+  },
+  {
+   "term": "Pauli exclusion principle",
+   "definition": "An atomic orbital can hold a maximum of two electrons, and they must have opposite spins.",
+   "must_say": [
+    "maximum two electrons",
+    "opposite spins"
+   ],
+   "trap": "Do not mix up with Hund's rule, which concerns singly filling degenerate orbitals."
+  },
+  {
+   "term": "Hund's rule",
+   "definition": "Degenerate orbitals in a sublevel are each singly occupied before any is doubly occupied, and single electrons have the same spin.",
+   "must_say": [
+    "singly occupied first",
+    "same spin"
+   ],
+   "trap": "Pairing electrons in one p orbital while others are empty breaks this rule."
+  },
+  {
+   "term": "Aufbau principle",
+   "definition": "Electrons fill the lowest available energy orbitals first, before higher-energy orbitals are occupied.",
+   "must_say": [
+    "lowest energy first"
+   ],
+   "trap": "4s fills before 3d, but Cr and Cu are exceptions."
+  },
+  {
+   "term": "Ionization energy",
+   "definition": "The minimum energy required to remove one electron from a neutral gaseous atom in its ground state: X(g) → X⁺(g) + e⁻.",
+   "must_say": [
+    "minimum energy",
+    "remove one electron",
+    "gaseous atom",
+    "ground state"
+   ],
+   "trap": "Omitting state symbols or 'gaseous'; first IE is per atom (or per mole in kJ mol⁻¹)."
+  }
+ ],
+ "sub_topic": "S1.3",
+ "title": "Electron configurations",
+ "generated_by": "sonnet",
+ "issues": [
+  "point too long: Level n has n types of sublevel: n = 1 has s only,",
+  "point too long: First IE of one atom: find f from c = fλ, then E ="
+ ]
+}

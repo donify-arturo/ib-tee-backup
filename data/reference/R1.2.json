@@ -1,0 +1,181 @@
+{
+ "notes": [
+  {
+   "heading": "Bond enthalpy and why it is average",
+   "understanding": "R1.2.1",
+   "points": [
+    "Breaking bonds absorbs energy (endothermic, ΔH positive); forming bonds releases energy (exothermic, ΔH negative).",
+    "Bond enthalpy: energy to break one mole of a bond in gaseous molecules, standard conditions, giving radicals (homolytic fission). Example: H2(g) → 2H•(g), +436 kJ mol⁻¹.",
+    "Values are averages over many compounds, since the same bond sits in different chemical environments, e.g. successive C–H breaks in CH4 differ (439, 462, 424, 338).",
+    "Bond enthalpy values are in section 12 of the data booklet.",
+    "Calculated ΔH differs from experiment: averages are used, and intermolecular forces are ignored, which matters for solids and liquids."
+   ]
+  },
+  {
+   "heading": "Calculating ΔH from bond enthalpies",
+   "understanding": "R1.2.1",
+   "points": [
+    "ΔH = Σ(BE bonds broken) − Σ(BE bonds formed), in kJ mol⁻¹.",
+    "Draw full structural formulas first so you count the type and number of every bond.",
+    "Example C2H4 + HBr → C2H5Br: 2636 − 2701 = −65 kJ mol⁻¹.",
+    "Negative result means exothermic: the products have stronger total bonding than the reactants."
+   ]
+  },
+  {
+   "heading": "Hess's law",
+   "understanding": "R1.2.2",
+   "points": [
+    "Enthalpy change is the same whatever route is taken, provided initial and final states are the same.",
+    "It applies conservation of energy; enthalpy is a state function.",
+    "Summation method: reverse an equation and its ΔH sign changes; multiply the equation and ΔH is multiplied too; add equations and cancel common species.",
+    "Cycle method: follow the alternative route; if you go against an arrow, reverse that ΔH's sign.",
+    "Show full working so partial marks can be awarded."
+   ]
+  },
+  {
+   "heading": "Standard enthalpy of combustion and formation",
+   "understanding": "R1.2.3",
+   "points": [
+    "ΔHc°: enthalpy change when one mole of a substance is burned completely in oxygen, standard states.",
+    "ΔHf°: enthalpy change when one mole of a substance forms from its elements in their standard states.",
+    "Standard conditions here: 298.15 K (25 °C) and 1.00×10⁵ Pa. Write balanced equations with state symbols; fractional coefficients are allowed.",
+    "ΔHf° of any element in its standard state is 0; for carbon the most stable allotrope, graphite, is the standard.",
+    "Combustion values are in section 14 of the data booklet and formation values in section 13."
+   ]
+  },
+  {
+   "heading": "Calculating ΔH with formation or combustion data",
+   "understanding": "R1.2.4",
+   "points": [
+    "Using formation data: ΔHr° = Σ ΔHf°(products) − Σ ΔHf°(reactants).",
+    "Using combustion data: ΔHr° = Σ ΔHc°(reactants) − Σ ΔHc°(products). Note the order is reversed.",
+    "Multiply each ΔH by its mole coefficient in the balanced equation before summing.",
+    "Example: ΔHf° of pentane from combustion data = 5(−394) + 6(−286) + 3509 = −177 kJ mol⁻¹.",
+    "Results from combustion data can differ slightly from booklet values (−177 vs −173), as in the pentane example."
+   ]
+  },
+  {
+   "heading": "Born–Haber cycles",
+   "understanding": "R1.2.5",
+   "points": [
+    "A Born–Haber cycle applies Hess's law to the formation of an ionic compound from its elements.",
+    "Steps: atomization, ionization energy, electron affinity, lattice enthalpy, and enthalpy of formation.",
+    "Atomization of a solid metal equals its sublimation enthalpy; for a gaseous diatomic it is half the bond enthalpy.",
+    "Ionization energy is endothermic (positive); first electron affinity of non-metals is usually negative.",
+    "Lattice enthalpy in the IB is endothermic (positive): solid lattice → gaseous ions.",
+    "Find an unknown step by the alternative route, reversing the sign for any step taken against its arrow. KBr lattice enthalpy: +687 kJ mol⁻¹."
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Bond enthalpy (average)",
+   "definition": "Average energy needed to break one mole of a particular bond in gaseous molecules, averaged over many compounds, under standard conditions.",
+   "must_say": [
+    "one mole of bonds",
+    "gaseous",
+    "average",
+    "standard conditions"
+   ],
+   "trap": "Omitting 'average' or the gaseous state; the definition is often incomplete."
+  },
+  {
+   "term": "Hess's law",
+   "definition": "The enthalpy change of a reaction is independent of the route taken, provided the initial and final states are the same.",
+   "must_say": [
+    "independent of route",
+    "same initial and final states"
+   ],
+   "trap": "Forgetting to flip the ΔH sign when reversing an equation, or to multiply it."
+  },
+  {
+   "term": "Standard enthalpy change of combustion",
+   "definition": "The enthalpy change when one mole of a substance in its standard state is burned completely in oxygen under standard conditions.",
+   "must_say": [
+    "one mole",
+    "burned completely in oxygen",
+    "standard state"
+   ],
+   "trap": "Saying 'energy released' rather than enthalpy change, or leaving out one mole."
+  },
+  {
+   "term": "Standard enthalpy change of formation",
+   "definition": "The enthalpy change when one mole of a substance is formed from its constituent elements in their standard states.",
+   "must_say": [
+    "one mole",
+    "from its elements",
+    "standard states"
+   ],
+   "trap": "Saying 'energy required' instead of enthalpy change, or omitting one mole and standard conditions."
+  },
+  {
+   "term": "Standard state",
+   "definition": "The form a pure substance takes under standard conditions of 298.15 K and 1.00×10⁵ Pa; for carbon, graphite.",
+   "must_say": [
+    "standard conditions",
+    "298.15 K",
+    "1.00×10⁵ Pa"
+   ],
+   "trap": "Quoting STP instead of the standard conditions used here."
+  },
+  {
+   "term": "Ionization energy",
+   "definition": "The standard enthalpy change when one mole of electrons is removed from one mole of gaseous atoms or positive ions.",
+   "must_say": [
+    "one mole of electrons",
+    "gaseous atoms",
+    "removed"
+   ],
+   "trap": "Leaving out gaseous state or saying 'atoms' only, when later ionizations involve ions."
+  },
+  {
+   "term": "Enthalpy of atomization",
+   "definition": "The standard enthalpy change when one mole of gaseous atoms of an element is formed.",
+   "must_say": [
+    "one mole",
+    "gaseous atoms",
+    "element"
+   ],
+   "trap": "For a diatomic gas, forgetting it is half the bond enthalpy."
+  },
+  {
+   "term": "Electron affinity",
+   "definition": "The standard enthalpy change when one mole of electrons is added to one mole of gaseous atoms.",
+   "must_say": [
+    "one mole of electrons",
+    "added",
+    "gaseous atoms"
+   ],
+   "trap": "Giving it a positive sign; first electron affinity of non-metals is usually negative."
+  },
+  {
+   "term": "Lattice enthalpy",
+   "definition": "The standard enthalpy change when gaseous ions are formed from one mole of a solid ionic lattice (endothermic).",
+   "must_say": [
+    "gaseous ions",
+    "one mole",
+    "solid lattice"
+   ],
+   "trap": "Using the exothermic form (ions to lattice) or giving a negative value; IB uses endothermic."
+  },
+  {
+   "term": "Born–Haber cycle",
+   "definition": "An application of Hess's law that combines enthalpy changes for the steps in forming an ionic compound from its elements.",
+   "must_say": [
+    "Hess's law",
+    "ionic compound",
+    "formation steps"
+   ],
+   "trap": "Not reversing the sign of a step when going against its arrow."
+  }
+ ],
+ "sub_topic": "R1.2",
+ "title": "Energy cycles in reactions",
+ "generated_by": "sonnet",
+ "issues": [
+  "definition copies the book: Standard enthalpy change of combustion",
+  "definition copies the book: Standard enthalpy change of formation",
+  "definition copies the book: Enthalpy of atomization",
+  "definition copies the book: Lattice enthalpy"
+ ]
+}

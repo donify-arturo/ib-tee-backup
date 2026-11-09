@@ -1,0 +1,204 @@
+{
+ "overview": "Energy is conserved, so the enthalpy change of a reaction depends only on the initial and final states, not on the route taken. Bond enthalpies give a quick estimate of ΔH from bonds broken minus bonds formed. Hess's law lets you combine known enthalpy changes (combustion, formation, or the steps of a Born–Haber cycle) to find ones that cannot be measured directly. In this way conservation of energy lets us predict the energy change of a reaction before carrying it out.",
+ "sections": [
+  {
+   "understanding": "R1.2.1",
+   "title": "Bond enthalpy: breaking and forming bonds",
+   "explanation": "**Bond-breaking absorbs energy** (endothermic, ΔH positive) and **bond-forming releases energy** (exothermic, ΔH negative). The difference between the total energy of bonds in the reactants and in the products decides whether a reaction is exothermic (ΔH < 0) or endothermic (ΔH > 0).\n\nThe **bond enthalpy (BE)** is the energy required to break one mole of a particular covalent bond, by homolytic fission, in gaseous molecules under standard conditions. In homolytic fission the bonding electrons are shared equally between the two new species, giving radicals (shown with •). For example BE(H–H) is the ΔH of H₂(g) → 2H•(g) = +436 kJ mol⁻¹.\n\n**Why bond enthalpies are average values.** The same bond (e.g. C–H) occurs in many different molecules and its strength depends on its chemical environment. The tabulated value is the average of experimental values for that bond in a wide variety of compounds. The books illustrate this:\n\n- Removing hydrogens from methane one at a time gives different values: CH₄ → •CH₃ + •H, +439; •CH₃ → •CH₂ + •H, +462; •CH₂ → •CH + •H, +424; •CH → •C + •H, +338 kJ mol⁻¹. The species being broken changes each step, so the environment changes.\n- Actual C–H bond enthalpies in organic compounds range from about 370 to 440 kJ mol⁻¹; the average is +414 kJ mol⁻¹. C–H bonds in different positions of a molecule such as hexane are in different environments.\n\n**Calculating ΔH from bond enthalpies.** Draw the full structural formulae of reactants and products, count each type of bond, then use the equation below. Example from the book: C₂H₄ + HBr → C₂H₅Br. Bonds broken: 4 C–H, 1 C=C, 1 H–Br. Bonds formed: 5 C–H, 1 C–C, 1 C–Br. ΔH = [(4×414)+614+366] − [(5×414)+346+285] = 2636 − 2701 = −65 kJ mol⁻¹.\n\nIB Prepared's example: complete combustion of ethane, C₂H₆(g) + 3.5O₂(g) → 2CO₂(g) + 3H₂O(l). Broken: 1 C–C, 6 C–H, 3.5 O=O = 346 + 6×414 + 3.5×498 = 4573 kJ. Formed: 4 C=O, 6 O–H = 4×804 + 6×463 = 5994 kJ. ΔH = 4573 − 5994 = −1421 kJ mol⁻¹, compared with −1561 kJ mol⁻¹ in the data booklet (section 14).\n\n**Why the calculated value differs from the experimental one:**\n\n- Bond enthalpies are averages, so they are only an approximation for the specific bonds in a particular molecule.\n- All BE values refer to gaseous species and ignore intermolecular forces, so the difference is greater when reactants or products are solids or liquids (e.g. H₂O(l) in the ethane example).\n\n**Bond strength and length.** The higher the BE, the stronger the bond. Bond strength is inversely related to bond length, and multiple bonds are shorter and stronger than single bonds: C–C 346 kJ mol⁻¹ (154 pm), C=C 614 (134 pm), C≡C 839 (120 pm). Carbon–halogen BEs decrease down the group (492 for C–F to 228 for C–I), so halogenoalkane reactivity in nucleophilic substitution increases RF < RCl < RBr < RI (Reactivity 3.4).\n\nAverage bond enthalpies are in section 12 of the data booklet.",
+   "key_points": [
+    "Bond breaking is endothermic (+); bond forming is exothermic (−).",
+    "BE: energy to break one mole of a bond by homolytic fission in gaseous molecules.",
+    "BE values are averages over many compounds, so calculated ΔH is only approximate.",
+    "Calculations ignore intermolecular forces; worse for solids and liquids.",
+    "Higher bond order means shorter, stronger bond with larger BE."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔH = Σ(BE of bonds broken) − Σ(BE of bonds formed)",
+     "meaning": "Estimated enthalpy change of reaction, kJ mol⁻¹ (BE values in the data booklet, section 12)"
+    }
+   ],
+   "exam_tips": [
+    "Draw out full structural formulae so you count every bond correctly.",
+    "Remember the order: broken minus formed. Reversing it gives the wrong sign (IB Prepared's marked example loses marks for this).",
+    "Show full working so examiners can award partial marks for arithmetic slips.",
+    "When asked why a calculated value differs from the data booklet value, give both reasons: averaged BE values, and gaseous-state data ignoring intermolecular forces in liquids and solids."
+   ],
+   "mistakes": [
+    "Subtracting in the wrong order (formed minus broken), which gives the wrong sign.",
+    "Forgetting to multiply BE by the number of bonds or moles, e.g. 3.5 O=O.",
+    "Forgetting that BE data apply to gases, so liquid water in a product causes a discrepancy."
+   ],
+   "companion_pages": [
+    "405",
+    "406",
+    "407"
+   ],
+   "prepared_pages": [
+    "99",
+    "100"
+   ]
+  },
+  {
+   "understanding": "R1.2.2",
+   "title": "Hess's law",
+   "explanation": "A chemical equation usually gives the net reaction, which can be a summary of several steps. For example S(s) + 3/2 O₂(g) → SO₃(l) is hard to do in one step, but can go via Step 1: S(s) + O₂(g) → SO₂(g) and Step 2: SO₂(g) + 1/2 O₂(g) → SO₃(l). The enthalpy changes of the steps add up to the enthalpy change of the overall reaction.\n\n**Hess's law:** the enthalpy change for a reaction is independent of the pathway between the initial and final states. Regardless of the route, ΔH is the same as long as the initial and final states are the same. It is an application of the law of conservation of energy, and relies on enthalpy being a state function.\n\nFor a reaction A → B that can go directly (ΔHx) or via C (A → C is ΔHy, C → B is ΔHz): ΔHx = ΔHy + ΔHz.\n\nHess's law is particularly useful for finding enthalpy changes that cannot be measured directly, by combining other reactions with known enthalpy changes.\n\n**Method 1: summation of equations.** Combine the given equations like algebraic equations:\n\n- Use an equation as written if the species is on the correct side.\n- If you need a different number of moles, multiply the equation and its ΔH by the same factor.\n- If you need the reverse of an equation, reverse it and change the sign of ΔH.\n- Add the equations, cancel species common to both sides, and add the ΔH values. Check the result matches the target equation.\n\nBook example: formation of methanol, C(s) + 2H₂(g) + 1/2 O₂(g) → CH₃OH(l), from (1) CH₃OH(l) + 3/2 O₂ → CO₂ + 2H₂O, ΔH = −726; (2) C + O₂ → CO₂, −394; (3) H₂ + 1/2 O₂ → H₂O(l), −286 kJ mol⁻¹. Use (2) as written (−394), (3) doubled (−572), and (1) reversed (+726). Total = −240 kJ mol⁻¹.\n\n**Method 2: enthalpy cycle diagram.** Write the target equation at the top, put the other species from the given equations (except O₂, usually left out) below, draw arrows for each given equation and label them with ΔH (multiplied if necessary). Then follow the alternative route from reactants to products; if you travel against an arrow, reverse the sign. For methanol: (−394) + (−286 × 2) + (+726) = −240 kJ mol⁻¹.\n\nIB Prepared's example: from 2NO + O₂ → 2NO₂ (−116) and 2CO + O₂ → 2CO₂ (−566), the equation CO + NO₂ → CO₂ + NO is obtained by subtracting the first from the second and halving: ΔH = 0.5 × [−566 − (−116)] = −225 kJ mol⁻¹. Equations can be combined like mathematical equations, and the enthalpy changes must be combined in exactly the same way.\n\nThe companion also describes a practical (Tool 1 calorimetry): finding the enthalpy change of decomposition of potassium hydrogencarbonate by measuring the reactions of K₂CO₃ and KHCO₃ with hydrochloric acid and applying Hess's law.",
+   "key_points": [
+    "Hess's law: ΔH is independent of route; initial and final states are the same.",
+    "It follows from conservation of energy (enthalpy is a state function).",
+    "Reverse an equation: change the sign of ΔH. Multiply an equation: multiply ΔH.",
+    "Two methods: summation of equations, or enthalpy cycle diagram.",
+    "Used to find enthalpy changes that cannot be measured directly."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔH(direct) = ΔH(step 1) + ΔH(step 2) + …",
+     "meaning": "Overall enthalpy change as the sum of the steps, kJ mol⁻¹"
+    }
+   ],
+   "exam_tips": [
+    "Whichever method you use, show your reasoning and full working; examiners can then give partial marks for arithmetic errors.",
+    "In a cycle, if you go against an arrow reverse the sign of that ΔH."
+   ],
+   "mistakes": [
+    "Forgetting to change the sign when reversing an equation.",
+    "Forgetting to multiply ΔH when you multiply the equation.",
+    "Candidates often make arithmetic errors in the final addition."
+   ],
+   "companion_pages": [
+    "408",
+    "409",
+    "410",
+    "411"
+   ],
+   "prepared_pages": [
+    "100",
+    "101"
+   ]
+  },
+  {
+   "understanding": "R1.2.3",
+   "title": "Standard enthalpies of combustion and formation",
+   "explanation": "**Standard state and conditions.** The standard state of a pure substance is the form it takes under standard conditions: 25.00 °C (298.15 K) and 1.00 × 10⁵ Pa (100 kPa). When describing a standard enthalpy change: determine the type of reaction, write the equation, and include state symbols.\n\n**Standard enthalpy change of combustion, ΔH꜀⦵:** the enthalpy change when one mole of a substance in its standard state is burned completely in oxygen (with all species in their standard states). For butane: C₄H₁₀(g) + 13/2 O₂(g) → 4CO₂(g) + 5H₂O(l), ΔH꜀⦵ = −2878 kJ mol⁻¹. Hydrocarbons give CO₂ and H₂O. Complete combustion of nitrogen-containing organic compounds usually gives N₂ rather than nitrogen oxides, e.g. CH₃NH₂(g) + 2.25O₂(g) → CO₂(g) + 2.5H₂O(l) + 0.5N₂(g). Most combustions are exothermic (negative ΔH); one of the few exceptions is the combustion of N₂, because of the very strong N≡N bond (BE = 945 kJ mol⁻¹), so ΔHf⦵ of all nitrogen oxides is positive. Values are in section 14 of the data booklet.\n\n**Standard enthalpy change of formation, ΔHf⦵:** the enthalpy change when one mole of a substance is formed from its constituent elements in their standard states. For butane: 4C(s) + 5H₂(g) → C₄H₁₀(g), ΔHf⦵ = −126 kJ mol⁻¹. Values are in section 13 of the data booklet. Most elements are solids in their standard state, 11 are gases (e.g. Ar, F₂), and two are liquids (Hg and Br₂).\n\n**Elements have ΔHf⦵ = 0** in their standard states, since they cannot be formed from simpler species. If an element has several allotropes, the most stable is the standard state, so graphite (not diamond) is the standard for carbon and has ΔHf⦵ = 0. Other allotropes have non-zero values (IB Prepared gives diamond as +1.8 kJ mol⁻¹).\n\n**Writing the equations.** Equations must be balanced for one mole of the substance formed (formation) or burned (combustion), with state symbols. Fractional coefficients are acceptable here, one of the few cases where this is correct. Exothermic ΔH can be written as energy released on the product side, e.g. ... + 2878 kJ mol⁻¹.\n\nThe combustion of graphite and the formation of CO₂ are the same equation, so ΔH꜀⦵(C, graphite) = ΔHf⦵(CO₂, g).\n\nIB Prepared notes that all standard enthalpy values in the course refer to SATP (100 kPa, 298.15 K); strictly the temperature should be stated, but is omitted here.",
+   "key_points": [
+    "Standard conditions: 298.15 K (25 °C) and 100 kPa (1.00 × 10⁵ Pa).",
+    "ΔH꜀⦵: one mole of substance burned completely in oxygen; usually negative.",
+    "ΔHf⦵: one mole formed from its elements in their standard states.",
+    "ΔHf⦵ of an element in its standard state is 0 (graphite for carbon).",
+    "Fractional coefficients are allowed in these equations; always include state symbols."
+   ],
+   "formulas": [],
+   "exam_tips": [
+    "Equations for ΔHf⦵ must be balanced for one mole of product, and for ΔH꜀⦵ for one mole of substance burned, with all state symbols shown (IB Prepared Assessment tips).",
+    "If you obtain a positive combustion value, double-check your working for errors, because nearly all combustions are exothermic."
+   ],
+   "mistakes": [
+    "Forgetting state symbols or using the wrong standard state (e.g. C as diamond, Br₂ as gas).",
+    "Balancing a formation equation for more than one mole of the product.",
+    "Assuming all combustion enthalpies are negative; nitrogen oxide formation is an exception."
+   ],
+   "companion_pages": [
+    "412",
+    "413",
+    "414"
+   ],
+   "prepared_pages": [
+    "101",
+    "102"
+   ]
+  },
+  {
+   "understanding": "R1.2.4",
+   "title": "Calculating ΔH from formation or combustion data",
+   "explanation": "Enthalpy is a state function, so the pathway does not affect the overall change. The standard enthalpy change of a reaction can therefore be found from ΔHf⦵ or ΔH꜀⦵ data using Hess's law. Both books point out that the order of subtraction is opposite for the two.\n\n**Using formation data:** products minus reactants. ΔHr⦵ = Σ(ΔHf⦵ products) − Σ(ΔHf⦵ reactants). The route goes reactants → elements → products.\n\n**Using combustion data:** reactants minus products. ΔHr⦵ = Σ(ΔH꜀⦵ reactants) − Σ(ΔH꜀⦵ products). The route goes reactants → combustion products ← products.\n\nMultiply each value by its stoichiometric coefficient. Elements in their standard states (e.g. O₂(g)) have ΔHf⦵ = 0.\n\n**Book example 1: ΔHf⦵ of pentane from combustion data.** Target: 5C(s) + 6H₂(g) → C₅H₁₂(l). Combustion data: C(s) −394, H₂(g) −286, C₅H₁₂(l) −3509 kJ mol⁻¹. Use carbon ×5 (−1970), hydrogen ×6 (−1716) and the pentane combustion reversed (+3509). ΔHf⦵ = 5 × (−394) + 6 × (−286) + 3509 = −177 kJ mol⁻¹. In the cycle diagram the elements are at the top, the combustion products 5CO₂ + 6H₂O at the bottom, and O₂ is left out. The data booklet gives −173; the difference (−177 vs −173) arises because values from calculations are approximate, e.g. from experimental error or rounding in the data used (the companion asks the student to suggest a reason).\n\n**Book example 2: ΔH꜀⦵ of pentane from formation data.** C₅H₁₂(l) + 8O₂(g) → 5CO₂(g) + 6H₂O(l). Formation data: C₅H₁₂ −173, CO₂ −394, H₂O −286. The pentane formation is reversed (+173), CO₂ ×5 and H₂O ×6. ΔH = (+173) + 5 × (−394) + 6 × (−286) = −3513 kJ mol⁻¹. Equivalent: 5(−394) + 6(−286) − (−173) = −3513.\n\n**IB Prepared example:** combustion of propanoic acid, CH₃CH₂COOH(l) + 3.5O₂(g) → 3CO₂(g) + 3H₂O(l). ΔH = 3 × (−394) + 3 × (−286) − (−511) = −1529 kJ mol⁻¹, with ΔHf⦵(O₂) = 0.\n\nThe companion notes a reaction ΔH calculated from formation data is more accurate than one from bond enthalpies, since it uses data for the actual species and states rather than averaged gaseous bond values. Also, a value from Hess's law calculations is only as accurate as the data used (data booklet values are themselves experimental).\n\nThe equations are in section 1 of the data booklet; ΔHf⦵ values are in section 13 and ΔH꜀⦵ values in section 14.",
+   "key_points": [
+    "Formation data: ΔH = Σ products − Σ reactants.",
+    "Combustion data: ΔH = Σ reactants − Σ products (opposite order).",
+    "Multiply each value by its coefficient in the balanced equation.",
+    "Elements in their standard states have ΔHf⦵ = 0 and are left out of the sum.",
+    "Use a cycle or summation of equations to check the result."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔHr⦵ = Σ(ΔHf⦵ products) − Σ(ΔHf⦵ reactants)",
+     "meaning": "Standard enthalpy change of reaction from formation data, kJ mol⁻¹ (in the data booklet)"
+    },
+    {
+     "formula": "ΔHr⦵ = Σ(ΔH꜀⦵ reactants) − Σ(ΔH꜀⦵ products)",
+     "meaning": "Standard enthalpy change of reaction from combustion data, kJ mol⁻¹ (in the data booklet)"
+    }
+   ],
+   "exam_tips": [
+    "The two expressions are in the order opposite to each other; learn which is which, or draw the cycle.",
+    "Write a balanced equation and list the ΔH values beneath each species before substituting.",
+    "Show full working for partial marks."
+   ],
+   "mistakes": [
+    "Using the combustion expression in the formation order (products − reactants) or vice versa.",
+    "Forgetting to multiply by stoichiometric coefficients.",
+    "Forgetting that ΔHf⦵ of an element is zero, or giving it a nonzero value for a non-standard allotrope."
+   ],
+   "companion_pages": [
+    "414",
+    "415",
+    "416",
+    "417"
+   ],
+   "prepared_pages": [
+    "102",
+    "103"
+   ]
+  },
+  {
+   "understanding": "R1.2.5",
+   "title": "Born–Haber cycles",
+   "explanation": "A **Born–Haber cycle** is an application of Hess's law that combines the enthalpy changes of the hypothetical steps in the formation of an ionic compound from its elements. Constructing a complete cycle is not assessed, but students should be able to annotate cycles (with singly and doubly charged ions), interpret the steps and calculate unknown values.\n\n**The steps and their definitions:**\n\n- **Ionization energy (IE):** the standard enthalpy change on removing one mole of electrons from one mole of gaseous atoms or positive ions. IE1: M(g) → M⁺(g) + e⁻; IE2: M⁺(g) → M²⁺(g) + e⁻. Always endothermic (> 0). Values (first) in section 9 of the data booklet.\n- **Enthalpy of atomization (ΔHat⦵):** the standard enthalpy change when one mole of gaseous atoms is formed from an element. Endothermic. For a solid monatomic element it equals the enthalpy of sublimation, M(s) → M(g). For a gaseous diatomic element it is half the bond enthalpy: 1/2 X₂(g) → X(g), ΔHat = 1/2 BE (section 12).\n- **Electron affinity (EA):** the standard enthalpy change on adding one mole of electrons to one mole of gaseous atoms: X(g) + e⁻ → X⁻(g). First EA is typically negative (< 0) for non-metals, with exceptions such as helium and nitrogen. The second EA (e.g. O⁻ → O²⁻) is positive. First and second EA are in section 9.\n- **Lattice enthalpy (ΔHlattice⦵):** the standard enthalpy change when gaseous ions are formed from one mole of structural units of a solid ionic lattice: MX(s) → M⁺(g) + X⁻(g). It is always endothermic (> 0), and values are in section 16. Both books stress: lattice enthalpy is sometimes quoted as a negative value for the exothermic formation of the lattice from gaseous ions, but in DP Chemistry it always refers to the endothermic formation of gaseous ions from the solid.\n- **Enthalpy of formation (ΔHf⦵):** formation of the compound from its elements in standard states, e.g. Na(s) + 1/2 Cl₂(g) → NaCl(s), ΔHf⦵ = −411 kJ mol⁻¹.\n\n**Using the cycle.** By Hess's law the direct route MX(s) → M⁺(g) + X⁻(g) has the same enthalpy change as the alternative route through all the other steps:\n\nΔHlattice = −ΔHf + ΔHat(M) + IE(M) + ΔHat(X) + EA(X)\n\nThe sign of ΔHf is reversed because you travel against the formation arrow. Any unknown step can be found if all the others are known, and this matters especially for lattice enthalpies, which cannot be measured directly (IB Prepared). Reverse the sign of any step whose arrow you go against. If the lattice enthalpy is known, ΔHf equals the sum of all the other steps.\n\n**Book examples:**\n\n- KBr: ΔHlattice = −(−392) + 89 + 419 + 112 + (−325) = +687 kJ mol⁻¹.\n- NaCl (IB Prepared): ΔHlattice = −(−411) + 108 + 496 + 1/2(242) + (−349) = +787 kJ mol⁻¹, very close to the +790 kJ mol⁻¹ in section 16. ΔHat(Na) = ΔHsub = +108, and ΔHat(Cl) = 1/2 BE(Cl–Cl).\n- For compounds with doubly charged ions such as MgO or CaO, include IE1 and IE2 for the metal and EA1 and EA2 for oxygen (Companion figure 8), and ΔHat(O) = 1/2 BE(O=O) (+249 kJ mol⁻¹ in the book's figure). Lattice enthalpy factors are discussed in Structure 2.1.",
+   "key_points": [
+    "Born–Haber cycle: Hess's law applied to forming an ionic solid from its elements.",
+    "Steps: atomization (sublimation / half BE), ionization energies, electron affinity, lattice enthalpy, formation.",
+    "In DP Chemistry lattice enthalpy is always positive (endothermic): solid → gaseous ions.",
+    "IE and atomization are endothermic; first EA is usually negative; second EA is positive.",
+    "Unknown step = sum of the other steps, reversing signs where you go against an arrow.",
+    "Constructing a full cycle is not assessed; interpreting and calculating from one is."
+   ],
+   "formulas": [
+    {
+     "formula": "ΔHlattice = −ΔHf + ΔHat(M) + IE(M) + ΔHat(X) + EA(X)",
+     "meaning": "Lattice enthalpy of MX from the cycle for singly charged ions, kJ mol⁻¹"
+    },
+    {
+     "formula": "ΔHat(X) = 1/2 BE(X–X)",
+     "meaning": "Atomization of a gaseous diatomic element, kJ mol⁻¹ (BE in section 12 of the data booklet)"
+    }
+   ],
+   "exam_tips": [
+    "You will not have to construct a complete cycle but you should annotate one, interpret the enthalpy changes and calculate an unknown value (IB Prepared's Assessment tip).",
+    "Check the arrow direction of every step: reverse the sign when you go against an arrow.",
+    "Give lattice enthalpy as a positive value.",
+    "For doubly charged ions, include both ionization energies and both electron affinities and multiply atomization values correctly."
+   ],
+   "mistakes": [
+    "Forgetting to reverse the sign of ΔHf when calculating lattice enthalpy.",
+    "Quoting lattice enthalpy as negative, which is not the DP Chemistry definition.",
+    "Using the bond enthalpy instead of half the bond enthalpy for atomization of a diatomic element.",
+    "Omitting the second ionization energy or second electron affinity for 2+ or 2− ions."
+   ],
+   "companion_pages": [
+    "418",
+    "419",
+    "420",
+    "421"
+   ],
+   "prepared_pages": [
+    "103",
+    "104",
+    "105"
+   ]
+  }
+ ],
+ "sub_topic": "R1.2",
+ "title": "Energy cycles in reactions",
+ "guiding_question": "How does application of the law of conservation of energy help us to predict energy changes during reactions?",
+ "generated_by": "sonnet",
+ "issues": []
+}

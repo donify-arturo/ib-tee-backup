@@ -1,0 +1,50 @@
+{
+  "items": {
+    "R1.1-02": {
+      "card_id": "R1.1-02",
+      "sub_topic": "R1.1",
+      "question_type": "Calorimetry: find temperature change",
+      "steps": [
+        "ΔT = Q ÷ mc",
+        "Leave the difference alone"
+      ],
+      "careful": "Never add 273 to a temperature difference.",
+      "ref": "14M.1.HL.TZ2.19",
+      "hard": false,
+      "note": "",
+      "added": "2026-11-04 07:26"
+    },
+    "R1.1-09": {
+      "card_id": "R1.1-09",
+      "sub_topic": "R1.1",
+      "question_type": "Energy profile: stability and temperature change",
+      "steps": [
+        "Which level is lower?",
+        "Uphill means surroundings cool",
+        "Match both columns"
+      ],
+      "careful": "Answer two independent questions: lower level, then direction of heat.",
+      "ref": "25M.1A.HL.6213.18",
+      "hard": false,
+      "note": "",
+      "added": "2026-11-04 07:26"
+    },
+    "R1.2-04": {
+      "card_id": "R1.2-04",
+      "sub_topic": "R1.2",
+      "question_type": "Bond enthalpy: calculate ΔH",
+      "steps": [
+        "Sum bonds broken",
+        "Sum bonds formed",
+        "Broken minus formed",
+        "Sanity-check the sign"
+      ],
+      "tricks": [],
+      "careful": "Subtract in the order broken minus formed, never the reverse.",
+      "ref": "14N.1.HL.TZ0.15",
+      "hard": false,
+      "note": "",
+      "added": "2026-11-04 16:10"
+    }
+  }
+}

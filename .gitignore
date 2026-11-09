@@ -1,0 +1,21 @@
+# Python environments: reinstall from requirements.txt
+.venv/
+.venv-marker/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Rebuilt automatically from the PDFs
+data/maths/cache/
+data/books/page_images/
+
+# Older local copies
+backups/
+
+# Source PDFs and images: too big for normal Git (three are over GitHub's 100 MB limit)
+documents to process/
+
+# Private to this computer
+data/trusted_wifi.txt
+.env
+.env.*

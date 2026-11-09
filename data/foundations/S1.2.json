@@ -1,0 +1,555 @@
+{
+ "practice": [
+  {
+   "source": "companion",
+   "page": "29",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "Write the nuclear symbol for potassium-39 and state how many protons and neutrons its nucleus contains.",
+   "options": [],
+   "answer": "³⁹₁₉K: 19 protons, 20 neutrons",
+   "steps": [
+    "Potassium has atomic number 19, so 19 protons.",
+    "Mass number is 39, so neutrons = 39 − 19 = 20."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "29",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "Write the nuclear symbol for copper-65 and state how many protons and neutrons its nucleus contains.",
+   "options": [],
+   "answer": "⁶⁵₂₉Cu: 29 protons, 36 neutrons",
+   "steps": [
+    "Copper has atomic number 29, so 29 protons.",
+    "Mass number is 65, so neutrons = 65 − 29 = 36."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "29",
+   "understanding": "S1.2.3",
+   "kind": "calculation",
+   "question": "Natural sulfur has four isotopes: ³²S (95.02%), ³³S (0.75%), ³⁴S (4.21%) and ³⁶S (0.02%). Calculate the average relative atomic mass, Ar, of sulfur.",
+   "options": [],
+   "answer": "32.09",
+   "steps": [
+    "Multiply each mass number by its abundance fraction.",
+    "32×0.9502 = 30.406; 33×0.0075 = 0.248; 34×0.0421 = 1.431; 36×0.0002 = 0.007.",
+    "Add: Ar = 32.09."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "29",
+   "understanding": "S1.2.3",
+   "kind": "short_answer",
+   "question": "The accepted Ar of sulfur is 32.07, but the calculation using the abundances 95.02%, 0.75%, 4.21% and 0.02% gives 32.09. Suggest why the values differ.",
+   "options": [],
+   "answer": "The isotope abundances in a particular sample can differ from the standard natural abundances used in the calculation.",
+   "steps": [
+    "The accepted Ar is an average over many natural samples.",
+    "A given sample can have slightly different isotope proportions."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "In your own words, explain how the nuclei of atoms differ from one another.",
+   "options": [],
+   "answer": "Nuclei contain positive protons and neutral neutrons (nucleons). Isotopes of one element differ only in neutron number; nuclei of different elements always differ in proton number and may also differ in neutrons.",
+   "steps": [],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "multiple_choice",
+   "question": "Which row correctly gives the protons, neutrons and electrons in ⁶³₂₉Cu²⁺?",
+   "options": [
+    "A. 29 protons, 34 neutrons, 27 electrons",
+    "B. 29 protons, 34 neutrons, 31 electrons",
+    "C. 34 protons, 63 neutrons, 31 electrons",
+    "D. 34 protons, 29 neutrons, 27 electrons"
+   ],
+   "answer": "A. 29 protons, 34 neutrons, 27 electrons",
+   "steps": [
+    "Protons = Z = 29.",
+    "Neutrons = 63 − 29 = 34.",
+    "A 2+ ion has lost two electrons: 29 − 2 = 27."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.2",
+   "kind": "multiple_choice",
+   "question": "Which properties are the same for ¹H₂ and ²H₂? I. boiling point; II. ΔH of combustion; III. number of protons; IV. density.",
+   "options": [
+    "A. I and III only",
+    "B. I and IV only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "C. II and III only",
+   "steps": [
+    "Isotopes have the same electrons and protons, so the same chemistry: ΔH of combustion and proton number match.",
+    "Boiling point and density depend on mass, which differs between the isotopes."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.3",
+   "kind": "multiple_choice",
+   "question": "Lithium has isotopes ⁶Li and ⁷Li. Which pair of percentage abundances (⁶Li, ⁷Li) is approximately right?",
+   "options": [
+    "A. 75 and 25",
+    "B. 50 and 50",
+    "C. 35 and 65",
+    "D. 10 and 90"
+   ],
+   "answer": "D. 10 and 90",
+   "steps": [
+    "Lithium's Ar is about 6.94, very close to 7.",
+    "So ⁷Li must dominate; ⁶Li is roughly 6–10%."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "multiple_choice",
+   "question": "Which statements are correct? I. Almost all of an atom's mass is in its nucleus. II. The mass number is the number of protons in a nucleus. III. Isotopes of one element have equal numbers of protons.",
+   "options": [
+    "A. I and II only",
+    "B. I and III only",
+    "C. II and III only",
+    "D. I, II and III"
+   ],
+   "answer": "B. I and III only",
+   "steps": [
+    "I is true: electrons have negligible mass.",
+    "II is false: mass number counts protons plus neutrons.",
+    "III is true: same element means same atomic number."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.2",
+   "kind": "multiple_choice",
+   "question": "Which pair of species has equal numbers of neutrons?",
+   "options": [
+    "A. cobalt-58 and nickel-58",
+    "B. cobalt-58 and nickel-59",
+    "C. cobalt-59 and nickel-58",
+    "D. cobalt-58 and cobalt-59"
+   ],
+   "answer": "B. cobalt-58 and nickel-59",
+   "steps": [
+    "Co has Z = 27, Ni has Z = 28.",
+    "Co-58: 58 − 27 = 31 neutrons; Ni-59: 59 − 28 = 31 neutrons."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "An alpha particle is a helium nucleus. Give its nuclear symbol.",
+   "options": [],
+   "answer": "⁴₂He (charge 2+, often omitted)",
+   "steps": [
+    "Helium has Z = 2 and the common isotope has A = 4."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "In the gold foil experiment, what would have been observed if atoms were instead hard, dense, solid balls of positive charge?",
+   "options": [],
+   "answer": "All the alpha particles would have been deflected significantly (repelled).",
+   "steps": [
+    "No empty space would exist, so no alpha particle could pass straight through."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "In the gold foil experiment, what would have been observed if the atomic nuclei were instead negatively charged?",
+   "options": [],
+   "answer": "The alpha particles would be attracted to the nuclei, so they would be absorbed, deflected, or emerge as neutral atoms.",
+   "steps": [
+    "Positive alpha particles are attracted, not repelled, by a negative nucleus."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.3",
+   "kind": "calculation",
+   "question": "Potassium has two stable isotopes, ³⁹K and ⁴¹K, and Ar of potassium is 39.10. Find the percentage abundance of each isotope and describe the mass spectrum of potassium.",
+   "options": [],
+   "answer": "³⁹K 95%, ⁴¹K 5%. Spectrum: a tall peak at m/z 39 (~95) and a small peak at m/z 41 (~5).",
+   "steps": [
+    "Let x = fraction of ³⁹K, so ⁴¹K = 1 − x.",
+    "39x + 41(1 − x) = 39.10.",
+    "41 − 2x = 39.10, so x = 0.95.",
+    "Sketch two lines at m/z 39 and 41 with heights in ratio 95:5."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "33",
+   "understanding": "S1.2.3",
+   "kind": "short_answer",
+   "question": "Dutch metal is an alloy of 86% copper and 14% zinc and looks like gold. Explain how mass spectrometry could tell it apart from gold.",
+   "options": [],
+   "answer": "Dutch metal gives several peaks at m/z between 60 and 70 (copper and zinc isotopes); gold gives a single peak at m/z 197 because it has only one stable isotope, Au-197.",
+   "steps": [
+    "Dissolve a sample in acid and inject the solution.",
+    "Compare the pattern: many peaks around 60–70 versus one peak at 197."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "7",
+   "understanding": "S1.2.1",
+   "kind": "multiple_choice",
+   "question": "How many protons, electrons and neutrons are in ⁴²₂₀Ca²⁺?",
+   "options": [
+    "A. 42 protons, 40 electrons, 22 neutrons",
+    "B. 20 protons, 20 electrons, 42 neutrons",
+    "C. 20 protons, 18 electrons, 22 neutrons",
+    "D. 20 protons, 20 electrons, 22 neutrons"
+   ],
+   "answer": "C. 20 protons, 18 electrons, 22 neutrons",
+   "steps": [
+    "Protons = 20.",
+    "Neutrons = 42 − 20 = 22.",
+    "2+ charge means two fewer electrons: 18."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "7",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "Using nuclear symbol notation, describe the nucleus of carbon-13.",
+   "options": [],
+   "answer": "¹³₆C: 6 protons and 7 neutrons",
+   "steps": [
+    "The publisher's answer is only the letter 'C', so this was worked out independently.",
+    "Z = 6 protons; neutrons = 13 − 6 = 7."
+   ],
+   "answer_from": "claude",
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "8",
+   "understanding": "S1.2.1",
+   "kind": "short_answer",
+   "question": "Atoms are often drawn as spheres. Why might this representation be used in models?",
+   "options": [],
+   "answer": "Many atomic properties (such as electron-cloud density and interactions) are spherically symmetrical and change sharply at a certain distance, so a ball with that radius is logical; atoms are quantum objects with no definite shape, and a sphere is simple to draw.",
+   "steps": [
+    "Properties are spherically symmetrical with a sharp fall-off.",
+    "Atoms have no definite boundary, so the simplest shape is justified.",
+    "Spheres are easy to display."
+   ],
+   "answer_from": "book",
+   "past_paper_ref": ""
+  }
+ ],
+ "worked": [
+  {
+   "source": "companion",
+   "page": "27",
+   "understanding": "S1.2.3",
+   "title": "Ar of iron from isotope abundances",
+   "problem": "Calculate Ar for iron from these isotopes: ⁵⁴Fe 5.845%, ⁵⁶Fe 91.754%, ⁵⁷Fe 2.119%, ⁵⁸Fe 0.282%.",
+   "steps": [
+    {
+     "hint": "Set up the weighted average of mass numbers.",
+     "work": "Ar = (54×5.845 + 56×91.754 + 57×2.119 + 58×0.282)/100"
+    },
+    {
+     "hint": "Evaluate each product.",
+     "work": "315.63 + 5138.22 + 120.78 + 16.36 = 5590.99"
+    },
+    {
+     "hint": "Divide by 100 since abundances are percentages.",
+     "work": "Ar = 55.91"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "27",
+   "understanding": "S1.2.3",
+   "title": "Abundances of Cl isotopes from Ar",
+   "problem": "Chlorine has stable isotopes Cl-35 and Cl-37 and Ar = 35.45. Calculate the percentage abundance of each.",
+   "steps": [
+    {
+     "hint": "Define a variable for one isotope.",
+     "work": "Let x = % Cl-35, so Cl-37 = 100 − x."
+    },
+    {
+     "hint": "Write the weighted-average equation.",
+     "work": "(35x + 37(100 − x))/100 = 35.45"
+    },
+    {
+     "hint": "Expand and simplify.",
+     "work": "(3700 − 2x)/100 = 35.45, so 3700 − 2x = 3545"
+    },
+    {
+     "hint": "Solve for x and the other isotope.",
+     "work": "x = 77.5% Cl-35; Cl-37 = 22.5%"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "companion",
+   "page": "30",
+   "understanding": "S1.2.3",
+   "title": "Ar of boron from a mass spectrum",
+   "problem": "A boron mass spectrum shows a peak at m/z = 10 with relative abundance 19.9% and a peak at m/z = 11 with 80.1%. Calculate Ar of boron.",
+   "steps": [
+    {
+     "hint": "Read mass number and abundance of each peak.",
+     "work": "m/z 10: 19.9%; m/z 11: 80.1%"
+    },
+    {
+     "hint": "Form the weighted sum.",
+     "work": "11×80.1 + 10×19.9 = 881.1 + 199 = 1080.1"
+    },
+    {
+     "hint": "Divide by 100 because abundances sum to 100%.",
+     "work": "Ar = 10.8"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "6",
+   "understanding": "S1.2.1",
+   "title": "Particles in sulfur-32 anion",
+   "problem": "Deduce the numbers of protons, electrons and neutrons in ³²₁₆X²⁻ and identify element X.",
+   "steps": [
+    {
+     "hint": "Read protons from the atomic number.",
+     "work": "Z = 16, so 16 protons."
+    },
+    {
+     "hint": "Use the charge to find electrons.",
+     "work": "2− means two extra electrons: 16 + 2 = 18 electrons."
+    },
+    {
+     "hint": "Subtract Z from the mass number.",
+     "work": "32 − 16 = 16 neutrons."
+    },
+    {
+     "hint": "Identify the element from Z.",
+     "work": "Z = 16 is sulfur, S."
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "7",
+   "understanding": "S1.2.3",
+   "title": "Ar of bromine from abundances",
+   "problem": "Bromine has ⁷⁹Br at 50.69% and ⁸¹Br at 49.31%. Calculate its relative atomic mass to two decimal places.",
+   "steps": [
+    {
+     "hint": "Write the weighted average.",
+     "work": "Ar = (79×50.69 + 81×49.31)/100"
+    },
+    {
+     "hint": "Evaluate the products.",
+     "work": "4004.51 + 3994.11 = 7998.62"
+    },
+    {
+     "hint": "Divide by 100.",
+     "work": "Ar = 79.99"
+    }
+   ],
+   "past_paper_ref": ""
+  },
+  {
+   "source": "prepared",
+   "page": "7",
+   "understanding": "S1.2.3",
+   "title": "Antimony isotope percentages from Ar",
+   "problem": "Antimony has Ar = 121.76 and two isotopes: Sb-121 (exact mass 120.90 u) and Sb-123 (exact mass 122.90 u). Find the percentage of each.",
+   "steps": [
+    {
+     "hint": "Imagine 100 atoms and define a variable.",
+     "work": "x = number of ¹²¹Sb atoms; 100 − x = ¹²³Sb atoms."
+    },
+    {
+     "hint": "Write the average-mass equation.",
+     "work": "120.90x + 122.90(100 − x) = 121.76×100 = 12176"
+    },
+    {
+     "hint": "Simplify the left side.",
+     "work": "12290 − 2x = 12176"
+    },
+    {
+     "hint": "Solve for x and the other isotope.",
+     "work": "x = 57.00; so 57.00% Sb-121 and 43.00% Sb-123"
+    }
+   ],
+   "past_paper_ref": ""
+  }
+ ],
+ "investigations": [
+  {
+   "source": "companion",
+   "page": "21",
+   "understanding": "S1.2.1",
+   "tag": "Activity",
+   "prompt": "Match each gold foil observation (most alpha particles pass straight through; a few bounce straight back; alpha particles are repelled as they approach closely) with the nuclear property that explains it.",
+   "model_answer": [
+    "Nearly all alpha particles pass through: the nucleus is tiny compared with the whole atom, so most of the atom is empty space.",
+    "A few bounce straight back: the nucleus is very dense and holds nearly all the atom's mass.",
+    "Alpha particles repelled near the nucleus: the nucleus is positively charged, repelling the positive alpha particles."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "24",
+   "understanding": "S1.2.1",
+   "tag": "Skills question",
+   "prompt": "Convert the lengths in the table (proton radius 0.84 fm, paper 0.10 mm, onion cell 250 µm, I–I bond 267 pm, full stop 0.30 mm, carbon atom 150 pm, C₆₀ 0.71 nm) to metres in standard form to 2 s.f., then rank them from smallest to largest.",
+   "model_answer": [
+    "Metres: proton 8.4×10⁻¹⁶; paper 1.0×10⁻⁴; onion cell 2.5×10⁻⁴; I–I bond 2.67×10⁻¹⁰ (2.7×10⁻¹⁰ to 2 s.f.); full stop 3.0×10⁻⁴; carbon atom 1.5×10⁻¹⁰; C₆₀ 7.1×10⁻¹⁰.",
+    "Order, smallest to largest: proton, carbon atom, I–I bond, C₆₀, paper, onion cell, full stop.",
+    "Comparing exponents is the quickest way to rank values in standard form.",
+    "Compare your first guess with this order; mistakes usually arise from mixing up prefixes (f, p, n, µ, m)."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "25",
+   "understanding": "S1.2.1",
+   "tag": "Activity",
+   "prompt": "Complete the table of protons, neutrons and electrons for neutral atoms O (Z=8, A=16), Al (Z=13, A=27), Rb (Z=37, A=85), Br (Z=35, A=80), Co (Z=27, A=59), Hg (Z=80, A=200), Pb (Z=82, A=207), Tm (Z=69, A=169).",
+   "model_answer": [
+    "Protons = Z, and electrons = Z for a neutral atom; neutrons = A − Z.",
+    "O: 8 p, 8 n, 8 e. Al: 13 p, 14 n, 13 e. Rb: 37 p, 48 n, 37 e. Br: 35 p, 45 n, 35 e.",
+    "Co: 27 p, 32 n, 27 e. Hg: 80 p, 120 n, 80 e. Pb: 82 p, 125 n, 82 e. Tm: 69 p, 100 n, 69 e."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "26",
+   "understanding": "S1.2.2",
+   "tag": "Activity",
+   "prompt": "Complete the table for the hydrogen isotopes protium, deuterium and tritium: nuclear symbol, atomic number Z, neutron number N and mass number A.",
+   "model_answer": [
+    "All three have Z = 1, since they are hydrogen.",
+    "Hydrogen-1 (protium): N = 0, A = 1, symbol ¹₁H.",
+    "Hydrogen-2 (deuterium): N = 1, A = 2, symbol ²₁H.",
+    "Hydrogen-3 (tritium): N = 2, A = 3, symbol ³₁H."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "31",
+   "understanding": "S1.2.3",
+   "tag": "Data-based question 1",
+   "prompt": "A mass spectrum of an unknown element shows peaks at m/z 204, 206, 207 and 208. Estimate each isotope's relative abundance, calculate Ar and identify the element.",
+   "model_answer": [
+    "Readings: m/z 204 about 2%; 206 about 24%; 207 about 22%; 208 about 52%.",
+    "Ar = (204×2 + 206×24 + 207×22 + 208×52)/100 ≈ 207.2.",
+    "The closest element in the periodic table is lead, Pb."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "31",
+   "understanding": "S1.2.3",
+   "tag": "Data-based question 2",
+   "prompt": "From the nickel mass spectrum, estimate each isotope's relative abundance, calculate Ar of nickel, and decide whether cobalt or nickel has the larger Ar.",
+   "model_answer": [
+    "Nickel readings: m/z 58 relative intensity 1.00 (69%); 60 at 0.37 (26%); 61 at 0.03 (2%); 62 at 0.05 (3%).",
+    "Ar(Ni) = (58×69 + 60×26 + 61×2 + 62×3)/100 ≈ 58.7.",
+    "Cobalt has a single isotope at 59, giving Ar ≈ 59.0, so cobalt's Ar is larger.",
+    "The 0.3 difference is near the error of values read from the graphs."
+   ],
+   "answer_from": "book"
+  },
+  {
+   "source": "companion",
+   "page": "31",
+   "understanding": "S1.2.3",
+   "tag": "Data-based question 3",
+   "prompt": "The accepted Ar of nickel is 58.69. Suggest why your graph-based result is different.",
+   "model_answer": [
+    "Mass numbers are rounded values of the true isotope masses.",
+    "The isotopic composition of an element varies slightly between samples, especially extraterrestrial ones such as meteorites.",
+    "Estimating peak heights from a graph has limited accuracy and precision."
+   ],
+   "answer_from": "book"
+  }
+ ],
+ "sub_topic": "S1.2",
+ "title": "The nuclear atom",
+ "generated_by": "sonnet",
+ "books": [
+  "Oxford IB Chemistry Course Companion 2023",
+  "Oxford IB Prepared Chemistry 2024"
+ ],
+ "issues": []
+}
