@@ -9,6 +9,7 @@ cookie (only its hash is stored: ibtee/users.py). Streamlit can read cookies but
 from __future__ import annotations
 
 import importlib.util
+from collections.abc import Mapping
 
 import streamlit as st
 
@@ -95,6 +96,44 @@ def _open_workspace(user: dict) -> None:
         st.stop()
 
 
+def setup_problems(secrets) -> list[str]:
+    """What is wrong with the Streamlit Secrets, by setting name only: this shows on a public page, so never a value."""
+    def filled(s, key: str) -> bool:
+        v = str(s.get(key) or "")
+        return bool(v) and "CHANGE_ME" not in v
+
+    out = []
+    fs = secrets.get("firestore")
+    if not isinstance(fs, Mapping):
+        out.append("[firestore] section is missing")
+    else:
+        for key in ("type", "project_id", "private_key_id", "client_email", "client_id", "token_uri"):
+            if not filled(fs, key):
+                out.append(f"[firestore] {key} is empty")
+        if "BEGIN PRIVATE KEY" not in str(fs.get("private_key") or ""):
+            out.append("[firestore] private_key is empty or doesn't include the -----BEGIN PRIVATE KEY----- part")
+    auth = secrets.get("auth")
+    if not isinstance(auth, Mapping):
+        return out + ["[auth] section is missing"]
+    out += [f"[auth] {key} is empty" for key in ("redirect_uri", "cookie_secret") if not filled(auth, key)]
+    google = auth.get("google")
+    if not isinstance(google, Mapping):
+        return out + ["[auth.google] section is missing"]
+    if not filled(google, "client_id") or not str(google.get("client_id")).endswith(".apps.googleusercontent.com"):
+        out.append("[auth.google] client_id is empty or doesn't end in .apps.googleusercontent.com")
+    out += [f"[auth.google] {key} is empty" for key in ("client_secret", "server_metadata_url") if not filled(google, key)]
+    return out
+
+
+def _show_setup_problems() -> None:
+    try:
+        problems = setup_problems(st.secrets)
+    except Exception:                    # the box isn't valid TOML, or is empty; its error text could quote a value, so it isn't shown
+        problems = ["The Secrets box is empty or isn't valid TOML"]
+    if problems:
+        st.warning("Settings this site can't use yet:\n\n" + "\n".join(f"- {T.esc(p)}" for p in problems))
+
+
 def _first_profile(user: dict) -> None:
     if not user["owner"]:
         store.save_profile({"name": user["name"], "email": "", "my_subjects": [], "theme": "light"})
@@ -169,6 +208,7 @@ def _screen() -> None:
             st.markdown('<div class="ptitle">Set up IB TEE</div>', unsafe_allow_html=True)
             if not _on_host():
                 st.info("The first account has to be created on the computer running IB TEE.")
+                _show_setup_problems()
                 return
             st.caption("This first account is yours: it keeps the calendar, progress and notes already on this computer. Anyone who signs up "
                        "afterwards starts with their own empty calendar.")
